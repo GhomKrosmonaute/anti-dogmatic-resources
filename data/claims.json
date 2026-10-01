@@ -1,8 +1,438 @@
 {
-  "generatedAt": "2026-10-01T17:31:10.044Z",
+  "generatedAt": "2026-10-01T18:16:07.597Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "comment-l-homeopathie-est-censee-agir-6e3b",
+      "youtubeId": "lBDAu7W8rgs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
+      "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
+      "publishedAt": "2026-10-01T18:15:07.563Z",
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
+      "technique": null,
+      "examinedClaim": null,
+      "facts": [
+        {
+          "text": "En 1790, alors qu'il traduisait en allemand le traité de matière médicale de William Cullen, Samuel Hahnemann, qui avait pris ses distances avec la pratique médicale, a pris de l'écorce de quinquina en bonne santé et a décrit des symptômes évoquant la fièvre intermittente (extrémités froides, palpitations, abattement).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Samuel Hahnemann",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Samuel_Hahnemann"
+            },
+            {
+              "title": "The prime assumption of homeopathy is based on… a misunderstanding",
+              "publisher": "Edzard Ernst",
+              "url": "https://edzardernst.com/2015/12/the-prime-assumption-of-homeopathy-is-based-on-a-misunderstanding/"
+            }
+          ]
+        },
+        {
+          "text": "William Cullen attribuait l'efficacité du quinquina contre les fièvres intermittentes à ses propriétés amères et toniques, explication que Hahnemann contestait.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The prime assumption of homeopathy is based on… a misunderstanding",
+              "publisher": "Edzard Ernst",
+              "url": "https://edzardernst.com/2015/12/the-prime-assumption-of-homeopathy-is-based-on-a-misunderstanding/"
+            },
+            {
+              "title": "Samuel Hahnemann",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Samuel_Hahnemann"
+            }
+          ]
+        },
+        {
+          "text": "Le principe de similitude de l'homéopathie s'exprime par la formule latine « similia similibus curentur ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Similia Similibus Curentur: Theory, History, and Status of the Constitutive Principle of Homeopathy",
+              "publisher": "PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11111286/"
+            }
+          ]
+        },
+        {
+          "text": "Le mot homéopathie vient du grec homoios (semblable) et pathos (souffrance).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homeopathy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Homeopathy"
+            }
+          ]
+        },
+        {
+          "text": "Hahnemann et ses élèves ont testé des substances sur des volontaires sains en consignant les symptômes ; on appelle ces essais des pathogénésies (provings).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homeopathy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Homeopathy"
+            },
+            {
+              "title": "La base conceptuelle et pratique de l'homéopathie : la pathogénésie",
+              "publisher": "Homéo Lille",
+              "url": "http://www.homeolille.fr/2017/06/23/la-base-conceptuelle-et-pratique-de-lhomeopathie-la-pathogenesie/"
+            }
+          ]
+        },
+        {
+          "text": "Dans la matière médicale homéopathique, Allium cepa est indiqué contre le coryza avec écoulement nasal et larmoiement, et Coffea contre certaines insomnies.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'homéopathie, quelques précisions...",
+              "publisher": "Giphar",
+              "url": "https://www.giphar.fr/nos-conseils/medecines-naturelles/lhomeopathie-quelques-precisions"
+            },
+            {
+              "title": "Tout savoir sur la coffea cruda",
+              "publisher": "Olikana",
+              "url": "https://www.olikana.com/guide-sommeil/coffea-cruda/"
+            }
+          ]
+        },
+        {
+          "text": "Hahnemann a publié la première édition de l'Organon en 1810.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Organon of the Healing Art",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Organon_of_the_Healing_Art"
+            }
+          ]
+        },
+        {
+          "text": "Hahnemann affirmait que la dynamisation (dilution avec secousses) développe la puissance médicinale du remède, et il concevait la maladie comme un dérèglement de la force vitale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Organon of the Healing Art",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Organon_of_the_Healing_Art"
+            },
+            {
+              "title": "Homeopathy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Homeopathy"
+            }
+          ]
+        },
+        {
+          "text": "Une dilution CH (centésimale hahnemannienne) consiste à diluer une part dans 99 parts de solvant eau-alcool, puis à secouer, et à répéter l'opération ; la solution finale imprègne des granules de saccharose et de lactose.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dilution homéopathique",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Dilution_hom%C3%A9opathique"
+            },
+            {
+              "title": "Bien utiliser les médicaments d'homéopathie",
+              "publisher": "VIDAL",
+              "url": "https://www.vidal.fr/medicaments/utilisation/homeopathie/medicaments-homeopathie.html"
+            }
+          ]
+        },
+        {
+          "text": "Dans la pratique homéopathique française, on associe couramment les basses dilutions (5 CH) aux symptômes locaux, 9 CH aux symptômes généraux et les hautes dilutions (15 à 30 CH) aux symptômes psychiques ou au terrain.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homéopathie : définition, usage, bienfaits",
+              "publisher": "Boiron Belgique",
+              "url": "https://www.boiron.be/fr/nos-conseils-sante/quest-ce-que-lhomeopathie"
+            },
+            {
+              "title": "L'homéopathie, quelques précisions...",
+              "publisher": "Giphar",
+              "url": "https://www.giphar.fr/nos-conseils/medecines-naturelles/lhomeopathie-quelques-precisions"
+            }
+          ]
+        },
+        {
+          "text": "Jacques Benveniste, qui dirigeait une unité de l'Inserm, a cosigné avec des chercheurs de plusieurs pays l'article de Davenas et al., « Human basophil degranulation triggered by very dilute antiserum against IgE », publié dans Nature (vol. 333) le 30 juin 1988.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Human basophil degranulation triggered by very dilute antiserum against IgE",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/333816a0"
+            },
+            {
+              "title": "Jacques Benveniste",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jacques_Benveniste"
+            }
+          ]
+        },
+        {
+          "text": "Le laboratoire Boiron se présente comme le leader mondial du médicament homéopathique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Qui sommes-nous ?",
+              "publisher": "Boiron",
+              "url": "https://www.boiron.fr/qui-sommes-nous"
+            },
+            {
+              "title": "Boiron USA - World Leader in Homeopathic Medicines",
+              "publisher": "Boiron USA",
+              "url": "https://www.boironusa.com/"
+            }
+          ]
+        },
+        {
+          "text": "5 CH correspond à une dilution de 10^-10, 9 CH à 10^-18, 12 CH à 10^-24 et 30 CH à 10^-60.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dilution homéopathique",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Dilution_hom%C3%A9opathique"
+            }
+          ]
+        },
+        {
+          "text": "Le nombre d'Avogadro vaut environ 6,022 × 10^23 entités par mole : à partir d'une mole de substance, une dilution à 12 CH laisse en moyenne environ 0,6 molécule.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homeopathic dilutions",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Homeopathic_dilutions"
+            }
+          ]
+        },
+        {
+          "text": "Même en partant de la substance pure, une dilution à 30 CH demanderait environ 10^60 molécules d'eau, soit de l'ordre de 3 × 10^34 kg de solution (plusieurs milliards de fois la masse de la Terre), pour contenir en moyenne une seule molécule de départ.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homeopathy's \"Law of Infinitesimals\"",
+              "publisher": "Quackwatch",
+              "url": "https://quackwatch.org/homeopathy/basic/infinitesimals/"
+            },
+            {
+              "title": "Homeopathic dilutions",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Homeopathic_dilutions"
+            }
+          ]
+        },
+        {
+          "text": "Hahnemann est mort en 1843 ; la première estimation du nombre de molécules dans un volume donné de matière a été faite par Josef Loschmidt en 1865.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Hahnemann est bien mort le 2 juillet 1843 ; en 1865, Loschmidt a estimé la taille des molécules d'air mais, selon la référence, il « n'a pas calculé lui-même » la constante qui porte son nom, simple déduction de ses résultats. Correction proposée : Hahnemann est mort en 1843 ; c'est en 1865 que Josef Loschmidt a publié la première estimation de la taille des molécules, d'où l'on peut déduire le nombre de molécules contenues dans un volume donné de gaz.",
+          "sources": [
+            {
+              "title": "Loschmidt constant",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Loschmidt_constant"
+            },
+            {
+              "title": "Samuel Hahnemann",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Samuel_Hahnemann"
+            }
+          ]
+        },
+        {
+          "text": "Nature a assorti l'article de Benveniste d'une réserve éditoriale et a exigé que des enquêteurs puissent assister à la reproduction des expériences ; en juillet 1988, John Maddox, Walter Stewart (NIH) et James Randi ont observé des essais en aveugle dont le code avait été scellé dans une enveloppe fixée au plafond, et l'effet n'a pas été reproduit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Benveniste affair",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Benveniste_affair"
+            },
+            {
+              "title": "Jacques Benveniste",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jacques_Benveniste"
+            }
+          ]
+        },
+        {
+          "text": "Le 28 juillet 1988, Nature (vol. 334, p. 287-290) a publié le rapport de Maddox, Randi et Stewart intitulé « 'High-dilution' experiments a delusion ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"High-dilution\" experiments a delusion",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/334287a0"
+            },
+            {
+              "title": "\"High-dilution\" experiments a delusion - PubMed",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2455869/"
+            }
+          ]
+        },
+        {
+          "text": "Jacques Benveniste a reçu le prix Ig Nobel de chimie en 1991 pour la mémoire de l'eau, puis en 1998 pour avoir affirmé que l'information homéopathique pouvait se transmettre par ligne téléphonique et par internet.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Remembering Jacques (2 Igs) Benveniste",
+              "publisher": "Improbable Research",
+              "url": "https://improbable.com/2011/05/04/remembering-jacques-2-igs-benveniste/"
+            },
+            {
+              "title": "Jacques Benveniste",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jacques_Benveniste"
+            }
+          ]
+        },
+        {
+          "text": "Cowan et al., « Ultrafast memory loss and energy redistribution in the hydrogen bond network of liquid H2O », Nature 434, 199-202 (2005), étude menée par des équipes de Toronto et de Berlin, montre que le réseau de liaisons hydrogène de l'eau liquide perd la mémoire de sa structure en quelques dizaines de femtosecondes, soit moins d'une picoseconde.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ultrafast memory loss and energy redistribution in the hydrogen bond network of liquid H2O",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/nature/journal/v434/n7030/full/nature03383.html"
+            },
+            {
+              "title": "Ultrafast memory loss and energy redistribution in the hydrogen bond network of liquid H2O",
+              "publisher": "Semantic Scholar",
+              "url": "https://www.semanticscholar.org/paper/Ultrafast-memory-loss-and-energy-redistribution-in-Cowan-Bruner/52f4efdf3714ca5695ea8fc3a2fcd6d248754d06"
+            }
+          ]
+        },
+        {
+          "text": "Shang, Egger et al., The Lancet 2005;366:726-732, ont comparé 110 essais d'homéopathie à 110 essais de médecine conventionnelle : dans les essais les plus grands et de meilleure qualité, l'effet de l'homéopathie est compatible avec un effet placebo, alors que celui de la médecine conventionnelle persiste. L'éditorial du même numéro s'intitule « The end of homoeopathy ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Are the clinical effects of homoeopathy placebo effects? Comparative study of placebo-controlled trials of homoeopathy and allopathy",
+              "publisher": "The Lancet",
+              "url": "https://storagehub.homnya.net/cmsimage/allegati/allegato4781265.pdf"
+            },
+            {
+              "title": "The Lancet paper by Shang et al.",
+              "publisher": "Homeopathy Research Institute",
+              "url": "https://www.hri-research.org/resources/homeopathy-the-debate/the-lancet-paper-by-shang-et-al/"
+            }
+          ]
+        },
+        {
+          "text": "En 2015, le National Health and Medical Research Council (NHMRC) australien a examiné les données portant sur 61 problèmes de santé et conclu qu'aucune affection ne bénéficie de preuves fiables de l'efficacité de l'homéopathie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "NHMRC Information Paper: Evidence on the effectiveness of homeopathy for treating health conditions",
+              "publisher": "National Health and Medical Research Council",
+              "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/33/2021/04/22174009/nhmrc_2015.pdf"
+            },
+            {
+              "title": "An Analysis of Four Government-Funded Reviews of Research on Homeopathic Medicine",
+              "publisher": "PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8312774/"
+            }
+          ]
+        },
+        {
+          "text": "En juin 2019, la Haute Autorité de santé a estimé que les médicaments homéopathiques n'avaient pas démontré une efficacité suffisante pour justifier leur remboursement et a rendu un avis défavorable à leur prise en charge.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Médicaments homéopathiques : une efficacité insuffisante pour être proposés au remboursement",
+              "publisher": "Haute Autorité de santé",
+              "url": "https://www.has-sante.fr/jcms/p_3066934/fr/medicaments-homeopathiques-une-efficacite-insuffisante-pour-etre-proposes-au-remboursement"
+            },
+            {
+              "title": "Homéopathie : la HAS justifie son « avis défavorable » au maintien du remboursement",
+              "publisher": "Le Quotidien du Médecin",
+              "url": "https://www.lequotidiendumedecin.fr/actu-medicale/homeopathie-la-has-justifie-son-avis-defavorable-au-maintien-du-remboursement"
+            }
+          ]
+        },
+        {
+          "text": "Le taux de remboursement de l'homéopathie est passé à 15 % au 1er janvier 2020, et son remboursement a pris fin au 1er janvier 2021.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homéopathie : la date du déremboursement total et la liste des produits concernés sont désormais officielles",
+              "publisher": "VIDAL",
+              "url": "https://www.vidal.fr/actualites/23909-homeopathie-la-date-du-deremboursement-total-et-la-liste-des-produits-concernes-sont-desormais-officielles.html"
+            }
+          ]
+        },
+        {
+          "text": "L'évolution naturelle des maladies bénignes, la régression vers la moyenne et l'effet placebo peuvent produire une amélioration perçue sans principe actif.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "When the placebo effect is not an effect",
+              "publisher": "PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8519555/"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "human",
+        "domain": "pharmacologie et toxicologie, épidémiologie et biostatistique (lecture des essais cliniques et méta-analyses), avec un volet de physique de l'eau liquide",
+        "approximations": [
+          {
+            "excerpt": "Le chiffre clé, c'est le nombre d'Avogadro : environ six cent mille milliards de milliards de molécules dans une mole de substance.",
+            "note": "Arrondi de 6,022 × 10 puissance 23. Le raisonnement repose sur des ordres de grandeur, donc l'arrondi ne change rien."
+          },
+          {
+            "excerpt": "Pour espérer croiser une seule molécule du produit de départ, toujours en partant de la substance pure, il faudrait avaler une masse de solution plusieurs milliards de fois plus lourde que la Terre.",
+            "note": "Ordre de grandeur qui dépend de la masse molaire de la substance : de quelques milliards à une centaine de milliards de masses terrestres. Quel que soit le chiffre exact, la conclusion est la même : aucune molécule dans une prise."
+          },
+          {
+            "excerpt": "Avec ses élèves, il teste ensuite des dizaines de substances sur des volontaires en bonne santé et note chaque symptôme : ce sont les pathogénésies.",
+            "note": "Nombre historique approximatif. Il ne dit rien de la santé et l'argument ne dépend pas du compte exact."
+          },
+          {
+            "excerpt": "Des millions de personnes en prennent contre le rhume, le stress ou les troubles du sommeil, et disent aller mieux.",
+            "note": "Estimation du nombre d'utilisateurs, qui sert seulement à exposer l'argument des défenseurs."
+          },
+          {
+            "excerpt": "Avec deux siècles d'usage, difficile de croire que tout cela ne repose sur rien.",
+            "note": "Durée arrondie (un peu plus de deux siècles depuis Hahnemann). Sa précision ne change rien à l'argument."
+          }
+        ]
+      },
+      "corrections": []
+    },
     {
       "slug": "la-hijama-guerit-elle-vraiment-d33e",
       "youtubeId": "aIAywoU0Png",
@@ -454,6 +884,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "médecine clinique et évaluation des traitements (physiologie du sang, essais cliniques, biostatistique, effet placebo)",
@@ -872,6 +1303,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -1313,6 +1745,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -1734,6 +2167,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -2150,6 +2584,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -2566,6 +3001,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -2997,6 +3433,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -3345,6 +3782,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -3676,6 +4114,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -3871,6 +4310,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -4132,6 +4572,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
@@ -4444,6 +4885,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
