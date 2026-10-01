@@ -1,0 +1,4097 @@
+{
+  "generatedAt": "2026-10-01T16:05:58.266Z",
+  "license": "CC BY 4.0",
+  "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
+  "videos": [
+    {
+      "slug": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
+      "youtubeId": "w2FtBMp_kSg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w2FtBMp_kSg",
+      "title": "Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l'homme aux deux cornes d'Al-Kahf",
+      "publishedAt": "2026-10-01T12:30:09.440Z",
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Dhul-Qarnayn, l'homme aux deux cornes de la sourate Al-Kahf, est un personnage historique identifiable (Alexandre le Grand ou Cyrus le Grand) dont le Coran rapporte les voyages, la rencontre avec Gog et Magog et la construction d'une muraille de fer et de cuivre, qui existerait encore quelque part.",
+        "verdict": "faux",
+        "summary": "La vidéo montre qu'Alexandre comme Cyrus ne correspondent pas au portrait coranique : le premier honorait les dieux grecs, le second invoquait Marduk et son empire est écrasé par Alexandre dans Daniel 8. Sa raison la plus forte est que le récit coranique reprend presque point par point la légende syriaque d'Alexandre, rédigée vers 630, avec les mêmes étapes, les mêmes métaux et la même prophétie. Le soleil qui se couche dans une source est contredit par l'astronomie, et aucune muraille de fer et de cuivre n'apparaît sur les images satellites.",
+        "techniques": [
+          "argument-autorite",
+          "relecture-a-posteriori",
+          "chaine-de-transmission"
+        ]
+      },
+      "facts": [
+        {
+          "text": "La sourate 18 (Al-Kahf), versets 83 à 98, raconte que Dieu donne la puissance à Dhul-Qarnayn, qui voyage jusqu'au couchant puis jusqu'au levant du soleil, puis bâtit entre deux montagnes une barrière de blocs de fer recouverts de cuivre fondu contre Gog et Magog.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surat Al-Kahf 83-98",
+              "publisher": "Quran.com",
+              "url": "https://legacy.quran.com/18/83-98"
+            }
+          ]
+        },
+        {
+          "text": "Le verset 18:83 commence par « Ils t'interrogent sur Dhul-Qarnayn » et le verset 18:84 dit que Dieu a affermi sa puissance sur terre et lui a donné un moyen d'atteindre toute chose.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surat Al-Kahf 83-98",
+              "publisher": "Quran.com",
+              "url": "https://legacy.quran.com/18/83-98"
+            }
+          ]
+        },
+        {
+          "text": "Le verset 18:86 dit que Dhul-Qarnayn trouva le soleil se couchant dans une source boueuse (ʿayn ḥamiʾa ; variante de lecture ḥāmiya, « chaude ») et, près d'elle, un peuple ; Dieu lui laisse le choix entre le châtier et le traiter avec bonté (18:86-88).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surat Al-Kahf 83-98",
+              "publisher": "Quran.com",
+              "url": "https://legacy.quran.com/18/83-98"
+            },
+            {
+              "title": "تفسير البغوي - سورة الكهف - الآية 86",
+              "publisher": "King Saud University",
+              "url": "http://quran.ksu.edu.sa/tafseer/baghawy/sura18-aya86.html"
+            }
+          ]
+        },
+        {
+          "text": "Le verset 18:90 décrit un peuple sur lequel le soleil se lève et à qui Dieu n'a donné aucun abri contre lui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surat Al-Kahf 83-98",
+              "publisher": "Quran.com",
+              "url": "https://legacy.quran.com/18/83-98"
+            }
+          ]
+        },
+        {
+          "text": "Versets 18:93-97 : un peuple qui comprend à peine sa langue propose un tribut ; Dhul-Qarnayn le refuse, demande de l'aide, empile des blocs de fer entre deux flancs de montagne, fait souffler le feu, verse du cuivre fondu ; Gog et Magog ne peuvent ni l'escalader ni le percer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surat Al-Kahf 83-98",
+              "publisher": "Quran.com",
+              "url": "https://legacy.quran.com/18/83-98"
+            }
+          ]
+        },
+        {
+          "text": "Verset 18:98 : Dhul-Qarnayn dit que c'est une miséricorde de son Seigneur et que, quand viendra la promesse de son Seigneur, Il la nivellera.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surat Al-Kahf 83-98",
+              "publisher": "Quran.com",
+              "url": "https://legacy.quran.com/18/83-98"
+            }
+          ]
+        },
+        {
+          "text": "La sourate 21, verset 96, annonce que Gog et Magog seront relâchés et se précipiteront de chaque hauteur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-Anbya 96",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/21/96"
+            }
+          ]
+        },
+        {
+          "text": "Dans le Sahih de Muslim (hadith d'al-Nawwas ibn Sam'an, n° 2937), la sortie de Gog et Magog fait partie des grands signes de l'Heure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih Muslim, Hadith 2937 Part A - Chapter: Ad-Dajjal",
+              "publisher": "Sounah.com",
+              "url": "https://sounah.com/en/hadith/15649/"
+            },
+            {
+              "title": "Muslim 2901a",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/muslim:2901a"
+            }
+          ]
+        },
+        {
+          "text": "Une tradition musulmane recommande de réciter la sourate Al-Kahf le vendredi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mishkat al-Masabih 2175",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/mishkat:2175"
+            },
+            {
+              "title": "Light for reciting Surat al-Kahf on Friday",
+              "publisher": "Abu Amina Elias",
+              "url": "https://www.abuaminaelias.com/light-surah-al-kahf-jumuah/"
+            }
+          ]
+        },
+        {
+          "text": "Les savants musulmans débattent de l'identité de Dhul-Qarnayn depuis plus de mille ans (au moins depuis al-Tabari, mort en 923).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dhu al-Qarnayn",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dhu_al-Qarnayn"
+            },
+            {
+              "title": "تفسير الطبري - سورة الكهف - ويسألونك عن ذي القرنين",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/content/50/3135/%D8%A7%D9%84%D9%82%D9%88%D9%84-%D9%81%D9%8A-%D8%AA%D8%A3%D9%88%D9%8A%D9%84-%D9%82%D9%88%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D9%88%D9%8A%D8%B3%D8%A3%D9%84%D9%88%D9%86%D9%83-%D8%B9%D9%86-%D8%B0%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A%D9%86-%D9%82%D9%84-%D8%B3%D8%A3%D8%AA%D9%84%D9%88-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%85%D9%86%D9%87-%D8%B0%D9%83%D8%B1%D8%A7-"
+            }
+          ]
+        },
+        {
+          "text": "Selon la Sira d'Ibn Ishaq (recension d'Ibn Hisham), des rabbins de Médine suggérèrent aux envoyés de Quraysh des questions pour tester Muhammad, dont une sur l'homme qui voyagea jusqu'aux extrémités de l'Orient et de l'Occident.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "السيرة النبوية (ابن هشام) - حديث رؤساء قريش مع الرسول",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/content/58/330/%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D9%82%D8%B1%D9%8A%D8%B4-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85"
+            },
+            {
+              "title": "Dhu al-Qarnayn",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dhu_al-Qarnayn"
+            }
+          ]
+        },
+        {
+          "text": "Des exégètes expliquent le surnom « aux deux cornes » par les deux extrémités du monde, le levant et le couchant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير ابن كثير - سورة الكهف - الآية 83",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura18-aya83.html"
+            }
+          ]
+        },
+        {
+          "text": "Al-Tabari (mort en 923), dans son commentaire Jami' al-bayan, rapporte un récit attribué à Ali selon lequel Dhul-Qarnayn, ayant appelé son peuple à Dieu, fut frappé sur un côté de la tête, puis sur l'autre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير الطبري - سورة الكهف - ويسألونك عن ذي القرنين",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/content/50/3135/%D8%A7%D9%84%D9%82%D9%88%D9%84-%D9%81%D9%8A-%D8%AA%D8%A3%D9%88%D9%8A%D9%84-%D9%82%D9%88%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D9%88%D9%8A%D8%B3%D8%A3%D9%84%D9%88%D9%86%D9%83-%D8%B9%D9%86-%D8%B0%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A%D9%86-%D9%82%D9%84-%D8%B3%D8%A3%D8%AA%D9%84%D9%88-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%85%D9%86%D9%87-%D8%B0%D9%83%D8%B1%D8%A7-"
+            },
+            {
+              "title": "Tafsir of Surah al-Kahf, Verses 83-101: The Story of Dhu'l Qarnayn",
+              "publisher": "Imam Ghazali Institute",
+              "url": "https://www.imamghazali.org/blog/tafsir-surah-al-kahf-verses-83-101-dhul-qarnayn"
+            }
+          ]
+        },
+        {
+          "text": "Al-Tabari rapporte une tradition faisant de Dhul-Qarnayn un jeune homme de Rum (le monde gréco-romain) qui bâtit Alexandrie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير الطبري - سورة الكهف - ويسألونك عن ذي القرنين",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/content/50/3135/%D8%A7%D9%84%D9%82%D9%88%D9%84-%D9%81%D9%8A-%D8%AA%D8%A3%D9%88%D9%8A%D9%84-%D9%82%D9%88%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D9%88%D9%8A%D8%B3%D8%A3%D9%84%D9%88%D9%86%D9%83-%D8%B9%D9%86-%D8%B0%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A%D9%86-%D9%82%D9%84-%D8%B3%D8%A3%D8%AA%D9%84%D9%88-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%85%D9%86%D9%87-%D8%B0%D9%83%D8%B1%D8%A7-"
+            },
+            {
+              "title": "تفسير الطبري - سورة الكهف 18:83",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/ar/18:83/tafsirs/ar-tafsir-al-tabari"
+            }
+          ]
+        },
+        {
+          "text": "Fakhr al-Din al-Razi (mort en 1210), dans Mafatih al-Ghayb, identifie Dhul-Qarnayn à Alexandre fils de Philippe, en arguant notamment qu'il régna de l'Occident à l'Orient.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "مفاتيح الغيب للرازي - سورة الكهف - الآية 83",
+              "publisher": "quran-tafsir.net",
+              "url": "https://quran-tafsir.net/alrazy/sura18-aya83.html"
+            },
+            {
+              "title": "Is Dhul Qarnayn, Alexander the Great? Reflecting on Muhammad Rāghib al-Ṭabbākh's contribution",
+              "publisher": "Verbum et Ecclesia",
+              "url": "https://verbumetecclesia.org.za/index.php/ve/article/view/1696/3173"
+            }
+          ]
+        },
+        {
+          "text": "Ibn Kathir (XIVe siècle) rejette l'identification avec Alexandre de Macédoine, qu'il décrit comme un mécréant dont le ministre était Aristote, et situe le Dhul-Qarnayn coranique au temps d'Abraham.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير ابن كثير - سورة الكهف - الآية 83",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura18-aya83.html"
+            },
+            {
+              "title": "البداية والنهاية - خبر ذي القرنين",
+              "publisher": "Wikisource",
+              "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_(%D8%B7._%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9)/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A%D9%86/%D8%AE%D8%A8%D8%B1_%D8%B0%D9%8A_%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A%D9%86"
+            }
+          ]
+        },
+        {
+          "text": "Abul Kalam Azad, dans Tarjuman al-Quran (XXe siècle), a défendu l'identification de Dhul-Qarnayn avec Cyrus le Grand.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cyrus the Great",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+            }
+          ]
+        },
+        {
+          "text": "Daniel 8:20 identifie le bélier à deux cornes aux rois des Mèdes et des Perses ; Daniel 8:7 montre un bouc brisant ses deux cornes ; Daniel 8:21 identifie le bouc au roi de Javan (la Grèce).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Daniel 8:7, 20-21 ; Ésaïe 45:1, 13 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Daniel+8%3A7%2C+Daniel+8%3A20-21%2C+Isaiah+45%3A1%2C+Isaiah+45%3A13&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Isaïe 45:1 appelle Cyrus l'oint du Seigneur et Isaïe 45:13 lui attribue la libération des exilés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Daniel 8:7, 20-21 ; Ésaïe 45:1, 13 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Daniel+8%3A7%2C+Daniel+8%3A20-21%2C+Isaiah+45%3A1%2C+Isaiah+45%3A13&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "À Pasargades, un relief représente une figure ailée coiffée d'une couronne posée sur des cornes de bélier, parfois identifiée à Cyrus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Winged genius relief (Pasargadae)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Winged_genius_relief_(Pasargadae)"
+            },
+            {
+              "title": "Pasargadae: Gate R",
+              "publisher": "Livius",
+              "url": "https://www.livius.org/articles/place/pasargadae/pasargadae-photos/pasargadae-gate-r/"
+            }
+          ]
+        },
+        {
+          "text": "En 331 avant notre ère, Alexandre visita l'oracle d'Ammon à l'oasis de Siwa, où il fut salué comme fils du dieu (Arrien, Anabase, livre III ; Plutarque, Vie d'Alexandre, 27).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Plutarch, Life of Alexander (ch. 27)",
+              "publisher": "LacusCurtius, University of Chicago",
+              "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/4.html"
+            },
+            {
+              "title": "Alexander 2.8",
+              "publisher": "Livius",
+              "url": "https://www.livius.org/articles/person/alexander-the-great/alexander-2.8/"
+            }
+          ]
+        },
+        {
+          "text": "Lysimaque, ancien général d'Alexandre, frappa des monnaies (vers 297-281 av. J.-C.) représentant Alexandre avec les cornes de bélier de Zeus-Ammon.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Kings of Thrace. Lysimachos AR Tetradrachm, struck 297/6-282/1 BC",
+              "publisher": "Classical Numismatic Group",
+              "url": "https://www.cngcoins.com/Coin.aspx?CoinID=169143"
+            },
+            {
+              "title": "Tetradrachmon Lysimachos",
+              "publisher": "ANU Classics Museum",
+              "url": "https://slll.cass.anu.edu.au/classics-museum/catalogue/objects/tetradrachmon-lysimachos-201801"
+            }
+          ]
+        },
+        {
+          "text": "Alexandre pratiquait le culte des dieux grecs et accepta d'être honoré comme fils d'un dieu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Alexander the Great as a God",
+              "publisher": "World History Encyclopedia",
+              "url": "https://www.worldhistory.org/article/925/alexander-the-great-as-a-god/"
+            },
+            {
+              "title": "Plutarch, Life of Alexander (ch. 27)",
+              "publisher": "LacusCurtius, University of Chicago",
+              "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/4.html"
+            }
+          ]
+        },
+        {
+          "text": "Les conquêtes d'Alexandre s'étendirent de la Grèce au Pendjab.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Battle of the Hydaspes",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/event/Battle-of-the-Hydaspes"
+            }
+          ]
+        },
+        {
+          "text": "Le cylindre de Cyrus, découvert à Babylone en 1879 et conservé au British Museum, dit que Marduk choisit Cyrus et le prit par la main, et exprime le souhait que les dieux réinstallés dans leurs temples prient chaque jour Bel et Nabu pour lui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "CYRUS iv. The Cyrus cylinder",
+              "publisher": "Encyclopaedia Iranica",
+              "url": "https://www.iranicaonline.org/articles/cyrus-iv/"
+            },
+            {
+              "title": "Cyrus Cylinder Translation",
+              "publisher": "Livius",
+              "url": "https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "youtubeId": "oeFiHgkt4wU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
+      "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
+      "publishedAt": "2026-10-01T08:00:11.446Z",
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
+        "verdict": "faux",
+        "summary": "La vidéo conclut que les pierres n'agissent par aucun mécanisme démontré : améthyste, citrine et quartz rose sont un même minéral dont seule l'impureté change la couleur, et la piézoélectricité du quartz ne s'exerce pas sur une pierre posée. Le test en aveugle de Christopher French montre que le verre produit les mêmes sensations que le cristal, ce qui renvoie l'effet à la suggestion et non à la pierre.",
+        "techniques": [
+          "caution-scientifique",
+          "appel-a-l-anciennete",
+          "placebo"
+        ]
+      },
+      "facts": [
+        {
+          "text": "En lithothérapie, l'améthyste est associée au calme, au sommeil et à la spiritualité, la citrine à la confiance et à l'abondance, le quartz rose à l'amour ; les pierres seraient purifiées (eau, fumée de sauge) et rechargées (lumière de la lune).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Everything You Need To Know About Healing Crystals and Their Benefits",
+              "publisher": "Healthline",
+              "url": "https://www.healthline.com/health/mental-health/guide-to-healing-crystals"
+            },
+            {
+              "title": "Amethyst Stone: Meaning, Healing Properties, and Powers",
+              "publisher": "HowStuffWorks",
+              "url": "https://science.howstuffworks.com/environmental/earth/geology/amethyst-meaning.htm"
+            }
+          ]
+        },
+        {
+          "text": "Le mot chakra vient du sanskrit et signifie roue ; la version moderne compte sept chakras alignés le long de la colonne, associés aux couleurs de l'arc-en-ciel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Chakra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chakra"
+            },
+            {
+              "title": "The Rainbow Body: How the Western Chakra System Came to Be",
+              "publisher": "Theosophical Society in America (Quest, Kurt Leland)",
+              "url": "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
+            }
+          ]
+        },
+        {
+          "text": "Le nom améthyste vient du grec amethystos, non ivre, et la pierre passait dans l'Antiquité pour protéger de l'ivresse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Amethyst Definition & Meaning",
+              "publisher": "Merriam-Webster",
+              "url": "https://www.merriam-webster.com/dictionary/amethyst"
+            },
+            {
+              "title": "Amethyst History and Lore",
+              "publisher": "GIA",
+              "url": "https://www.gia.edu/amethyst-history-lore"
+            }
+          ]
+        },
+        {
+          "text": "Le livre 37, dernier livre de l'Histoire naturelle de Pline l'Ancien (Ier siècle), est consacré aux pierres précieuses.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pliny the Elder's Natural History — Book 37",
+              "publisher": "LacusCurtius, University of Chicago",
+              "url": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/37*.html"
+            }
+          ]
+        },
+        {
+          "text": "Hildegarde de Bingen, abbesse bénédictine du XIIe siècle, décrit dans sa Physica les vertus médicinales de nombreuses pierres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "St. Hildegard",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Saint-Hildegard"
+            },
+            {
+              "title": "Physica (Hildegard)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Physica_(Hildegard)"
+            }
+          ]
+        },
+        {
+          "text": "Pierre et Jacques Curie ont découvert la piézoélectricité du quartz en 1880 ; l'effet inverse fait vibrer le quartz soumis à une tension électrique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Piezoelectricity",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Piezoelectricity"
+            },
+            {
+              "title": "Paul-Jacques Curie",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Paul-Jacques-Curie"
+            }
+          ]
+        },
+        {
+          "text": "Le cristal d'une montre à quartz oscille à 32 768 Hz ; des oscillateurs à quartz équipent radios, ordinateurs et téléphones.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Stopwatch and Timer Calibrations (NIST SP 960-12)",
+              "publisher": "NIST",
+              "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=50659"
+            },
+            {
+              "title": "Crystal oscillator",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Crystal_oscillator"
+            }
+          ]
+        },
+        {
+          "text": "L'améthyste, la citrine et le quartz rose sont tous du quartz (SiO2), avec la même structure cristalline.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quartz: Mineral information, data and localities",
+              "publisher": "Mindat",
+              "url": "https://www.mindat.org/min-3337.html"
+            },
+            {
+              "title": "Rose Quartz: Mineral information, data and localities",
+              "publisher": "Mindat",
+              "url": "https://www.mindat.org/min-3456.html"
+            }
+          ]
+        },
+        {
+          "text": "La couleur de l'améthyste vient de traces de fer transformées par l'irradiation naturelle des roches encaissantes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Study on the effect of heat treatment on amethyst color and the cause of coloration",
+              "publisher": "Scientific Reports (Nature)",
+              "url": "https://www.nature.com/articles/s41598-020-71786-1"
+            },
+            {
+              "title": "Amethyst",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Amethyst"
+            }
+          ]
+        },
+        {
+          "text": "La couleur du quartz rose massif vient de nano-inclusions fibreuses d'un minéral proche de la dumortiérite (Goreva, Ma et Rossman, American Mineralogist, 2001, Caltech).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Fibrous nanoinclusions in massive rose quartz: The origin of rose coloration",
+              "publisher": "American Mineralogist (De Gruyter)",
+              "url": "https://www.degruyterbrill.com/document/doi/10.2138/am-2001-0410/html?lang=en"
+            },
+            {
+              "title": "Fibrous nanoinclusions in massive rose quartz",
+              "publisher": "Caltech",
+              "url": "https://www.its.caltech.edu/~chima/publications/2001_AM_rose_quartz.pdf"
+            }
+          ]
+        },
+        {
+          "text": "La citrine naturelle est rare et une bonne partie de la citrine du commerce est de l'améthyste chauffée à quelques centaines de degrés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is citrine treated?",
+              "publisher": "GIA",
+              "url": "https://www.gia.edu/gia-faq-treated-citrine"
+            },
+            {
+              "title": "Citrine Description",
+              "publisher": "GIA",
+              "url": "https://www.gia.edu/citrine-description"
+            }
+          ]
+        },
+        {
+          "text": "La piézoélectricité exige une déformation mécanique du cristal ; la tension apparaît quand la contrainte varie, puis se dissipe, et rien ne se passe dans une pierre au repos.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Signal Conditioning Piezoelectric Sensors",
+              "publisher": "Texas Instruments",
+              "url": "https://www.ti.com/lit/an/sloa033a/sloa033a.pdf"
+            },
+            {
+              "title": "Piezoelectric Generators",
+              "publisher": "Piezo.com (Mide Technology)",
+              "url": "https://piezo.com/pages/piezoelectric-generators"
+            }
+          ]
+        },
+        {
+          "text": "Dans une montre à quartz, c'est la pile qui alimente le circuit et fait vibrer le quartz ; le cristal ne fournit pas d'énergie, il sert de référence de fréquence.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quartz clock",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quartz_clock"
+            },
+            {
+              "title": "Crystal oscillator",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Crystal_oscillator"
+            }
+          ]
+        },
+        {
+          "text": "L'obsidienne est un verre volcanique amorphe, sans réseau cristallin, donc non piézoélectrique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Obsidian",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/science/obsidian?oasmId=127929"
+            },
+            {
+              "title": "Piezoelectricity",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Piezoelectricity"
+            }
+          ]
+        },
+        {
+          "text": "Tout solide possède des modes de vibration propres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Vibration, Normal Modes, Natural Frequencies, Instability",
+              "publisher": "MIT OpenCourseWare",
+              "url": "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/7648a5c6cdbda42f39b05dae04ce2aa9_MIT16_07F09_Lec19.pdf"
+            },
+            {
+              "title": "Natural frequency",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Natural_frequency"
+            }
+          ]
+        },
+        {
+          "text": "Aucune fréquence de vibration énergétique propre à une pierre et agissant sur un chakra n'a été mesurée ni publiée, et aucun appareil ne la mesure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Chakra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chakra"
+            },
+            {
+              "title": "Crystal Healing",
+              "publisher": "Science-Based Medicine (Steven Novella)",
+              "url": "https://sciencebasedmedicine.org/crystal-healing/"
+            }
+          ]
+        },
+        {
+          "text": "Pline l'Ancien (Histoire naturelle, XXXVII, 124) écrit « magorum vanitas ebrietati eas resistere promittit » : c'est la vanité des mages qui promet que les améthystes résistent à l'ivresse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pliny the Elder's Natural History — Book 37",
+              "publisher": "LacusCurtius, University of Chicago",
+              "url": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/37*.html"
+            },
+            {
+              "title": "Pliny, Natural History, 37 (b)",
+              "publisher": "Attalus",
+              "url": "http://www.attalus.org/pliny/hn37b.html"
+            }
+          ]
+        },
+        {
+          "text": "Les vertus que Hildegarde de Bingen prête aux pierres s'inscrivent dans la théologie chrétienne et la médecine des humeurs, sans aucun lien avec les chakras.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "To make whole",
+              "publisher": "Christian History Institute (Glenn Myers)",
+              "url": "https://christianhistoryinstitute.org/magazine/article/to-make-whole"
+            },
+            {
+              "title": "Physica (Hildegard)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Physica_(Hildegard)"
+            }
+          ]
+        },
+        {
+          "text": "Les textes tantriques donnent un nombre variable de chakras, avec des couleurs différentes de la gamme arc-en-ciel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Rainbow Body: How the Western Chakra System Came to Be",
+              "publisher": "Theosophical Society in America (Quest, Kurt Leland)",
+              "url": "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
+            },
+            {
+              "title": "Chakra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chakra"
+            }
+          ]
+        },
+        {
+          "text": "Le système à sept chakras s'est répandu en Occident à partir de The Serpent Power (1919), de John Woodroffe sous le pseudonyme d'Arthur Avalon.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. The Serpent Power (1919) est bien la référence du système à sept chakras, mais les théosophes, de Blavatsky dans les années 1880 à Leadbeater, avaient déjà diffusé les chakras en Occident et y ont contribué en parallèle. Correction proposée : Le système à sept chakras s'est répandu en Occident au début du XXe siècle, notamment grâce à The Serpent Power (1919) de John Woodroffe, publié sous le pseudonyme d'Arthur Avalon, et aux écrits théosophiques de Charles W. Leadbeater.",
+          "sources": [
+            {
+              "title": "Chakra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chakra"
+            },
+            {
+              "title": "John Woodroffe",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/John_Woodroffe"
+            }
+          ]
+        },
+        {
+          "text": "L'association des chakras aux couleurs de l'arc-en-ciel est une construction occidentale du XXe siècle, popularisée par le New Age.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Rainbow Body: How the Western Chakra System Came to Be",
+              "publisher": "Theosophical Society in America (Quest, Kurt Leland)",
+              "url": "https://www.theosophical.org/publications/quest-magazine/the-rainbow-body-how-the-western-chakra-system-came-to-be"
+            },
+            {
+              "title": "Chakra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chakra"
+            }
+          ]
+        },
+        {
+          "text": "En 2001, Christopher French (Goldsmiths, université de Londres) a présenté au congrès de la British Psychological Society une étude où 80 volontaires méditaient avec un vrai quartz ou une imitation en verre : les sensations rapportées étaient les mêmes, ce qui s'explique par la suggestion.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Crystal Healing",
+              "publisher": "Science-Based Medicine (Steven Novella)",
+              "url": "https://sciencebasedmedicine.org/crystal-healing/"
+            },
+            {
+              "title": "Chris French",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chris_French"
+            }
+          ]
+        },
+        {
+          "text": "La régression vers la moyenne et le biais de confirmation peuvent créer l'impression qu'un remède inefficace marche.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Why Bogus Therapies Seem to Work",
+              "publisher": "Skeptical Inquirer",
+              "url": "https://skepticalinquirer.org/1997/09/why-bogus-therapies-seem-to-work/"
+            },
+            {
+              "title": "Why Ineffective Psychotherapies Appear to Work",
+              "publisher": "Perspectives on Psychological Science",
+              "url": "https://doi.org/10.1177/1745691614535216"
+            }
+          ]
+        },
+        {
+          "text": "Les rituels de relaxation et la respiration calme réduisent le stress, avec ou sans cristal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+              "publisher": "Frontiers in Human Neuroscience",
+              "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2018.00353/pdf"
+            }
+          ]
+        },
+        {
+          "text": "Aucun essai contrôlé publié ne montre un effet propre des pierres au-delà du placebo.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Crystal healing: I was perhaps not entirely correct about this therapy",
+              "publisher": "Edzard Ernst",
+              "url": "https://edzardernst.com/2022/07/crystal-healing-i-was-perhaps-not-entirely-correct-about-this-therapy/"
+            },
+            {
+              "title": "Crystal healing",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Crystal_healing"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47",
+      "youtubeId": "-POyAhjxO2E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-POyAhjxO2E",
+      "title": "Le prophète Muhammad est-il annoncé dans la Bible ? Les 3 versets que tout le monde cite",
+      "publishedAt": "2026-10-01T07:15:08.668Z",
+      "pillar": "Prosélytisme religieux et apologétique : techniques de conversion et de recrutement décryptées",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Le prophète Muhammad est annoncé dans la Bible : Deutéronome 18,18, l'Évangile de Jean (le « consolateur ») et le Cantique des cantiques 5,16 (« vekoullo mahamaddim », « il est tout entier Muhammad ») prédisent sa venue, et la Bible aurait été falsifiée là où elle le contredit.",
+        "verdict": "faux",
+        "summary": "La vidéo conclut que ces trois textes ne parlent pas de Muhammad. Le Deutéronome désigne un prophète israélite, Jean parle de l'Esprit-Saint invisible, déjà présent chez les disciples, et « mahamaddim » est un nom commun pluriel (« les délices ») dans un poème d'amour. Sa raison la plus forte est que l'accusation de falsification est contredite par les manuscrits grecs antérieurs à Muhammad, qui lisent tous « paraklêtos », et par Ibn Ishaq lui-même, qui connaît ce mot grec.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
+      },
+      "facts": [
+        {
+          "text": "La sourate 7, verset 157, évoque le Messager, le Prophète illettré, que les gens du Livre trouvent écrit chez eux dans la Thora et l'Évangile.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-A'raf 7:157",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/7/157"
+            }
+          ]
+        },
+        {
+          "text": "Dans la sourate 61, verset 6, Jésus se dit annonciateur d'un Messager à venir après lui, dont le nom sera Ahmad. Ahmad partage la racine arabe h-m-d avec Muhammad et signifie le très loué.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah As-Saff 61:6",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/61/6"
+            },
+            {
+              "title": "Muḥammad, Menaḥem, and the Paraclete: new light on Ibn Isḥāq's (d. 150/767) Arabic version of John 15:23–16:1",
+              "publisher": "Bulletin of SOAS (Cambridge University Press)",
+              "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/muhammad-menahem-and-the-paraclete-new-light-on-ibn-ishaqs-d-150767-arabic-version-of-john-15-2316-11/6B718C0D75F1D4054A928DDC3395C101"
+            }
+          ]
+        },
+        {
+          "text": "Ibn Ishaq, auteur au VIIIe siècle de la plus ancienne biographie connue de Muhammad, transmise par la recension d'Ibn Hicham, applique au Prophète un passage de l'Évangile de Jean (15:23-16:1).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Muḥammad, Menaḥem, and the Paraclete: new light on Ibn Isḥāq's (d. 150/767) Arabic version of John 15:23–16:1",
+              "publisher": "Bulletin of SOAS (Cambridge University Press)",
+              "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/muhammad-menahem-and-the-paraclete-new-light-on-ibn-ishaqs-d-150767-arabic-version-of-john-15-2316-11/6B718C0D75F1D4054A928DDC3395C101"
+            },
+            {
+              "title": "Muhammad and the Bible",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Muhammad_and_the_Bible"
+            }
+          ]
+        },
+        {
+          "text": "Dans ce passage, Ibn Ishaq cite une version araméenne où le consolateur s'appelle Munhamanna. Il écrit qu'en syriaque c'est Muhammad et qu'en grec c'est le paraclet.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Muḥammad, Menaḥem, and the Paraclete (Sean W. Anthony, BSOAS 2016)",
+              "publisher": "Bulletin of SOAS",
+              "url": "https://almuslih.org/wp-content/uploads/Library/Anthony,%20S%20-%20Mu%E1%B8%A5ammad,%20Mena%E1%B8%A5em.pdf"
+            },
+            {
+              "title": "The History of the Idea of a Literal Connection between the Words 'Ahmad' and 'Paraclete'",
+              "publisher": "Religious Inquiries, vol. 7, n° 13 (2018)",
+              "url": "https://ri.urd.ac.ir/article_63739_f25a690eb8fbdfe42650ba4ae8e7a0ef.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Ahmed Deedat, prédicateur sud-africain mort en 2005, est l'auteur de la brochure What the Bible Says About Muhammad et a débattu avec des évangélistes américains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ahmed Deedat",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ahmed_Deedat"
+            },
+            {
+              "title": "Remembering the life of Sheikh Ahmed Deedat",
+              "publisher": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2015/8/8/remembering-the-life-of-sheikh-ahmed-deedat"
+            }
+          ]
+        },
+        {
+          "text": "Zakir Naik est un prédicateur indien, fondateur de la chaîne Peace TV.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Zakir Naik",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Zakir_Naik"
+            },
+            {
+              "title": "Peace TV",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Peace_TV"
+            }
+          ]
+        },
+        {
+          "text": "Deedat compare Moïse et Muhammad (père et mère, mariage, enfants, reconnaissance par leur peuple, gouvernement, loi, mort naturelle) en les opposant à Jésus. Il identifie les « frères » de Deutéronome 18:18 aux Arabes descendants d'Ismaël.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "What the Bible Says About Muhammad (Ahmed Deedat)",
+              "publisher": "Internet Archive",
+              "url": "https://archive.org/download/The_Ahmed_Deedat_Collection/What_The_Bible_Says_About_Muhammad.pdf"
+            },
+            {
+              "title": "Is Muhammad Foretold in the Bible?",
+              "publisher": "Answering Islam",
+              "url": "https://www.answering-islam.org/Gilchrist/muhammad.html"
+            }
+          ]
+        },
+        {
+          "text": "Deutéronome 18:18 (Segond) : « Je leur susciterai du milieu de leurs frères un prophète comme toi, je mettrai mes paroles dans sa bouche, et il leur dira tout ce que je lui commanderai. » Le verset 19 parle des paroles que ce prophète dira « en mon nom ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Deutéronome 17:15; 18:2; 18:9-22; 2:4; 34:10-11 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Deut%C3%A9ronome%2017%3A15%3B%20Deut%C3%A9ronome%2018%3A2%3B%20Deut%C3%A9ronome%2018%3A9-22%3B%20Deut%C3%A9ronome%202%3A4%3B%20Deut%C3%A9ronome%2034%3A10-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Toutes les sourates du Coran sauf une (la sourate 9) commencent par la basmala.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Basmala",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Basmala"
+            }
+          ]
+        },
+        {
+          "text": "Jean 14:16 promet « un autre consolateur ». Jean 16:13-14 dit qu'il ne parlera pas de lui-même et qu'il glorifiera Jésus. Le mot grec est paraklêtos.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean 14:16-17; 14:26; 16:7; 16:13-14 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Jean%2014%3A16-17%3B%20Jean%2014%3A26%3B%20Jean%2016%3A7%3B%20Jean%2016%3A13-14%3B%201%20Jean%202%3A1%3B%20Actes%203%3A21-22%3B%20J%C3%A9r%C3%A9mie%201%3A9&version=LSG"
+            },
+            {
+              "title": "Strong's Greek 3875: παράκλητος",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/greek/3875.htm"
+            }
+          ]
+        },
+        {
+          "text": "Certains apologètes musulmans soutiennent que le mot original de Jean était periklytos (illustre, renommé), équivalent d'Ahmad.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Muhammad and the Bible",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Muhammad_and_the_Bible"
+            },
+            {
+              "title": "The Call of the Minaret",
+              "publisher": "Catholic Answers Magazine",
+              "url": "https://www.catholic.com/magazine/print-edition/the-call-of-the-minaret"
+            }
+          ]
+        },
+        {
+          "text": "Zakir Naik lit dans le Cantique des cantiques 5:16 (« vekhullo mahamaddim ») le nom de Muhammad, et présente le suffixe -im comme un pluriel de respect.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Prophet Muhammad In The Bible By Dr. Zakir Naik",
+              "publisher": "Institute Al Islam",
+              "url": "https://www.institutealislam.com/prophet-muhammad-in-the-bible-by-dr-zakir-naik/"
+            },
+            {
+              "title": "Does Song of Solomon Mention Muhammad?",
+              "publisher": "Apologetics Press",
+              "url": "https://apologeticspress.org/does-song-of-solomon-mention-muhammad-4749/"
+            }
+          ]
+        },
+        {
+          "text": "Le Deutéronome emploie « du milieu de tes frères » pour le roi israélite, opposé à l'étranger (17:15). Il emploie « au milieu de leurs frères » pour les Lévites parmi les autres tribus (18:2). Le verset 18:15 dit « du milieu de toi, d'entre tes frères ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Deutéronome 17:15; 18:2; 18:9-22; 2:4; 34:10-11 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Deut%C3%A9ronome%2017%3A15%3B%20Deut%C3%A9ronome%2018%3A2%3B%20Deut%C3%A9ronome%2018%3A9-22%3B%20Deut%C3%A9ronome%202%3A4%3B%20Deut%C3%A9ronome%2034%3A10-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Deutéronome 2:4 appelle « vos frères » les descendants d'Ésaü. Ismaël n'est jamais mentionné dans le Deutéronome.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Deutéronome 17:15; 18:2; 18:9-22; 2:4; 34:10-11 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Deut%C3%A9ronome%2017%3A15%3B%20Deut%C3%A9ronome%2018%3A2%3B%20Deut%C3%A9ronome%2018%3A9-22%3B%20Deut%C3%A9ronome%202%3A4%3B%20Deut%C3%A9ronome%2034%3A10-11&version=LSG"
+            },
+            {
+              "title": "Recherche « Ishmael » (KJV)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/quicksearch/?quicksearch=Ishmael&version=KJV&searchtype=all&limit=none"
+            }
+          ]
+        },
+        {
+          "text": "Jérémie 1:9 contient la formule « je mets mes paroles dans ta bouche ». Deutéronome 18:9-22 oppose les devins des nations aux prophètes que Dieu suscitera en Israël.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean 14:16-17; 14:26; 16:7; 16:13-14 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Jean%2014%3A16-17%3B%20Jean%2014%3A26%3B%20Jean%2016%3A7%3B%20Jean%2016%3A13-14%3B%201%20Jean%202%3A1%3B%20Actes%203%3A21-22%3B%20J%C3%A9r%C3%A9mie%201%3A9&version=LSG"
+            },
+            {
+              "title": "Deutéronome 17:15; 18:2; 18:9-22; 2:4; 34:10-11 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Deut%C3%A9ronome%2017%3A15%3B%20Deut%C3%A9ronome%2018%3A2%3B%20Deut%C3%A9ronome%2018%3A9-22%3B%20Deut%C3%A9ronome%202%3A4%3B%20Deut%C3%A9ronome%2034%3A10-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Le manuscrit de Qumrân 4Q175 (Testimonia), copié vers le Ier siècle avant notre ère, cite Deutéronome 18:18-19 parmi des textes d'attente messianique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "4Q175",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/4Q175"
+            },
+            {
+              "title": "4Q175 Testimonia (Stephen D. Ricks)",
+              "publisher": "BYU ScholarsArchive",
+              "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?filename=6&article=1008&context=mi&type=additional"
+            }
+          ]
+        },
+        {
+          "text": "Actes 3:22 attribue à Pierre l'application de la prophétie de Deutéronome 18 à Jésus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean 14:16-17; 14:26; 16:7; 16:13-14 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Jean%2014%3A16-17%3B%20Jean%2014%3A26%3B%20Jean%2016%3A7%3B%20Jean%2016%3A13-14%3B%201%20Jean%202%3A1%3B%20Actes%203%3A21-22%3B%20J%C3%A9r%C3%A9mie%201%3A9&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Deutéronome 34:10-11 dit qu'aucun prophète semblable à Moïse, connu de l'Éternel face à face, n'a paru en Israël, et que nul ne l'égale pour les signes et les miracles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Deutéronome 17:15; 18:2; 18:9-22; 2:4; 34:10-11 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Deut%C3%A9ronome%2017%3A15%3B%20Deut%C3%A9ronome%2018%3A2%3B%20Deut%C3%A9ronome%2018%3A9-22%3B%20Deut%C3%A9ronome%202%3A4%3B%20Deut%C3%A9ronome%2034%3A10-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "La sourate 29, versets 50-51, répond à ceux qui réclament des prodiges que ceux-ci sont auprès de Dieu, et que le Livre descendu doit leur suffire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-'Ankabut 29:50-51",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/29/50-51"
+            },
+            {
+              "title": "Quran 29:50 (Sahih International, Pickthall)",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=29&verse=50"
+            }
+          ]
+        },
+        {
+          "text": "Jean 14:17 décrit l'Esprit de vérité comme invisible au monde et demeurant avec les disciples. Jean 14:26 identifie le consolateur à l'Esprit-Saint. En Jean 16:7, c'est Jésus qui l'envoie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean 14:16-17; 14:26; 16:7; 16:13-14 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Jean%2014%3A16-17%3B%20Jean%2014%3A26%3B%20Jean%2016%3A7%3B%20Jean%2016%3A13-14%3B%201%20Jean%202%3A1%3B%20Actes%203%3A21-22%3B%20J%C3%A9r%C3%A9mie%201%3A9&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Selon 1 Jean 2:1, Jésus est appelé paraklêtos, traduit « avocat ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean 14:16-17; 14:26; 16:7; 16:13-14 (LSG)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Jean%2014%3A16-17%3B%20Jean%2014%3A26%3B%20Jean%2016%3A7%3B%20Jean%2016%3A13-14%3B%201%20Jean%202%3A1%3B%20Actes%203%3A21-22%3B%20J%C3%A9r%C3%A9mie%201%3A9&version=LSG"
+            },
+            {
+              "title": "Greek Concordance: παράκλητος",
+              "publisher": "Bible Hub",
+              "url": "https://www.biblehub.com/greek/parakle_tos_3875.htm"
+            }
+          ]
+        },
+        {
+          "text": "Muhammad est né vers 570.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Muhammad",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Muhammad"
+            }
+          ]
+        },
+        {
+          "text": "Le grec écrit les voyelles : passer de paraklêtos à periklytos impose de changer trois lettres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Strong's Greek 3875: παράκλητος",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/greek/3875.htm"
+            },
+            {
+              "title": "περικλυτός",
+              "publisher": "Wiktionary",
+              "url": "https://en.wiktionary.org/wiki/%CF%80%CE%B5%CF%81%CE%B9%CE%BA%CE%BB%CF%85%CF%84%CF%8C%CF%82"
+            }
+          ]
+        },
+        {
+          "text": "Aucun manuscrit grec connu de Jean ne porte periklytos. Les papyrus P66 (Fondation Bodmer, près de Genève) et P75 (Bibliothèque vaticane), ainsi que les codex Sinaiticus et Vaticanus du IVe siècle, lisent paraklêtos et sont antérieurs à Muhammad de plus d'un siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Papyrus 66",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Papyrus_66"
+            },
+            {
+              "title": "Papyrus 75",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+            },
+            {
+              "title": "Codex Sinaiticus – Date",
+              "publisher": "Codex Sinaiticus Project",
+              "url": "https://codexsinaiticus.org/en/codex/date.aspx"
+            },
+            {
+              "title": "The Call of the Minaret",
+              "publisher": "Catholic Answers Magazine",
+              "url": "https://www.catholic.com/magazine/print-edition/the-call-of-the-minaret"
+            }
+          ]
+        },
+        {
+          "text": "Periklytos est un adjectif attesté chez Homère et absent du Nouveau Testament.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Homer, Odyssey, Book 8",
+              "publisher": "Perseus Digital Library (Tufts)",
+              "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D8"
+            },
+            {
+              "title": "The Call of the Minaret",
+              "publisher": "Catholic Answers Magazine",
+              "url": "https://www.catholic.com/magazine/print-edition/the-call-of-the-minaret"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "youtubeId": "hGHuqnHvlmg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+      "publishedAt": "2026-10-01T02:45:08.004Z",
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
+        "verdict": "faux",
+        "summary": "La vidéo conclut que l'« observation » en physique quantique désigne une interaction physique, pas un regard ni une intention : la décohérence a été mesurée sans aucun cerveau dans la boucle (Rempe, Haroche, Zeilinger). Même dans l'interprétation la plus favorable à la conscience, le résultat d'une mesure reste aléatoire, et la loi de l'attraction date de 1906, près de vingt ans avant la mécanique quantique.",
+        "techniques": [
+          "caution-scientifique",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Au début du XIXe siècle (communications de 1801 à 1804), Thomas Young a mis en évidence l'interférence de la lumière, signature d'un comportement ondulatoire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Bakerian Lecture. Experiments and calculations relative to physical optics",
+              "publisher": "Zenodo (Philosophical Transactions of the Royal Society, 1804)",
+              "url": "https://zenodo.org/records/15335370"
+            }
+          ]
+        },
+        {
+          "text": "Au XXe siècle, il a été établi que la lumière est aussi constituée de quanta (photons) et que les électrons présentent un comportement ondulatoire (de Broglie 1924, Davisson et Germer 1927).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quantum Milestones, 1927: Electrons Act Like Waves",
+              "publisher": "APS Physics",
+              "url": "https://physics.aps.org/articles/v18/23"
+            },
+            {
+              "title": "1.7: de Broglie Waves can be Experimentally Observed",
+              "publisher": "Chemistry LibreTexts",
+              "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/01:_The_Dawn_of_the_Quantum_Theory/1.07:_de_Broglie_Waves_can_be_Experimentally_Observed"
+            }
+          ]
+        },
+        {
+          "text": "En 1989, une équipe de Hitachi dirigée par Akira Tonomura a montré l'apparition progressive d'une figure d'interférence avec des électrons envoyés un par un dans un biprisme électronique équivalent à deux fentes (Tonomura et al., American Journal of Physics 57, 117, 1989).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Demonstration of single-electron buildup of an interference pattern",
+              "publisher": "American Journal of Physics (copie PDF)",
+              "url": "https://www.famaf.unc.edu.ar/~gcas/cuantica1/tonomura89-young_e-.pdf"
+            },
+            {
+              "title": "Demonstration of single-electron buildup of an interference pattern",
+              "publisher": "Semantic Scholar",
+              "url": "https://www.semanticscholar.org/paper/Demonstration-of-single%E2%80%90electron-buildup-of-an-Tonomura-Matsuda/fc2afdc4a027fce366ffa105bd88439760d22546"
+            }
+          ]
+        },
+        {
+          "text": "Les expériences d'interférence de particules uniques ont été reproduites dans de nombreux laboratoires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Merli–Missiroli–Pozzi experiment",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Merli%E2%80%93Missiroli%E2%80%93Pozzi_experiment"
+            },
+            {
+              "title": "Wave-particle duality seen in carbon-60 molecules",
+              "publisher": "Physics World",
+              "url": "https://physicsworld.com/a/wave-particle-duality-seen-in-carbon-60-molecules/"
+            }
+          ]
+        },
+        {
+          "text": "Dans ses cours (The Feynman Lectures on Physics, vol. III, chap. 1), Richard Feynman présentait comme une expérience de pensée la version des fentes de Young où l'on détecte le passage de l'électron.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Feynman Lectures on Physics Vol. III Ch. 1: Quantum Behavior",
+              "publisher": "Caltech",
+              "url": "https://www.feynmanlectures.caltech.edu/III_01.html"
+            },
+            {
+              "title": "Feynman Double-Slit Experiment Confirmed",
+              "publisher": "Live Science",
+              "url": "https://www.livescience.com/27881-feynman-double-slit-experiment-performed.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1998, Dürr, Nonn et Rempe ont réalisé une expérience « which-way » dans un interféromètre atomique : le chemin était marqué dans l'état interne des atomes à l'aide de micro-ondes, et l'interférence disparaissait (Nature 395, 33, 1998).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Origin of quantum-mechanical complementarity probed by a 'which-way' experiment in an atom interferometer",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/25653"
+            },
+            {
+              "title": "Beugung von Atomstrahlen am Lichtgitter: Versuch von Dürr, Nonn und Rempe",
+              "publisher": "forphys.de",
+              "url": "https://www.forphys.de/Website/qm/exp/v10a.html"
+            }
+          ]
+        },
+        {
+          "text": "Quand l'information sur le chemin emprunté devient disponible, la figure d'interférence disparaît, qu'un humain lise ou non cette information.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Origin of quantum-mechanical complementarity probed by a 'which-way' experiment in an atom interferometer (résumé)",
+              "publisher": "RePEc / Nature",
+              "url": "https://ideas.repec.org/a/nat/nature/v395y1998i6697d10.1038_25653.html"
+            },
+            {
+              "title": "The Role of Decoherence in Quantum Mechanics",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qm-decoherence/"
+            }
+          ]
+        },
+        {
+          "text": "Dans Mathematische Grundlagen der Quantenmechanik (1932), John von Neumann montre que la coupure entre système observé et observateur peut être placée de manière largement arbitraire dans la chaîne de mesure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Role of Decoherence in Quantum Mechanics",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qm-decoherence/"
+            },
+            {
+              "title": "Quantum Approaches to Consciousness",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qt-consciousness/"
+            }
+          ]
+        },
+        {
+          "text": "En 1939, Fritz London et Edmond Bauer, dans La théorie de l'observation en mécanique quantique, évoquent le rôle de la conscience de l'observateur dans la mesure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quantum Approaches to Consciousness",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qt-consciousness/"
+            }
+          ]
+        },
+        {
+          "text": "Eugene Wigner (prix Nobel de physique en 1963) a suggéré dans Remarks on the Mind-Body Question (1961, recueil The Scientist Speculates) que la conscience joue un rôle dans l'achèvement de la mesure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Eugene P. Wigner, Remarks on the mind-body question",
+              "publisher": "PhilPapers",
+              "url": "https://philpapers.org/rec/WIGROT"
+            },
+            {
+              "title": "Prof. Dr. Eugene Paul Wigner",
+              "publisher": "Lindau Nobel Laureate Meetings",
+              "url": "https://mediatheque.lindau-nobel.org/laureates/wigner"
+            }
+          ]
+        },
+        {
+          "text": "Richard Feynman a déclaré qu'on pouvait affirmer sans risque que personne ne comprend la mécanique quantique (The Character of Physical Law, 1965).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Character of Physical Law Quotes",
+              "publisher": "Goodreads",
+              "url": "https://www.goodreads.com/work/quotes/1223311-the-character-of-physical-law"
+            }
+          ]
+        },
+        {
+          "text": "Le film What the Bleep Do We Know!? est sorti en 2004 et a été un succès notable du cinéma indépendant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "What the Bleep Do We Know!?",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/What_the_Bleep_Do_We_Know!%3F"
+            },
+            {
+              "title": "What the #$'! Do We Know (2004) - Box Office and Financial Information",
+              "publisher": "The Numbers",
+              "url": "https://www.the-numbers.com/movie/What-the-Bleep-Do-We-Know"
+            }
+          ]
+        },
+        {
+          "text": "Fred Alan Wolf et Amit Goswami interviennent dans What the Bleep Do We Know!? et y défendent la primauté de la conscience sur la matière.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "What the bleep are they on about?",
+              "publisher": "ABC Science",
+              "url": "https://www.abc.net.au/science/archive/articles/2005/06/30/2839498.htm"
+            },
+            {
+              "title": "What the Bleep Do We Know?",
+              "publisher": "amitgoswami.org",
+              "url": "https://amitgoswami.org/2016/06/21/what-the-bleep-do-we-know/"
+            }
+          ]
+        },
+        {
+          "text": "The Secret de Rhonda Byrne est sorti en 2006, d'abord en film puis en livre, et s'est vendu à des millions d'exemplaires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Secret (Byrne book)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)"
+            }
+          ]
+        },
+        {
+          "text": "The Secret affirme que les pensées ont une fréquence et attirent ce qui vibre sur la même fréquence, et présente un processus en trois étapes : demander, croire, recevoir.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Secret (Byrne book)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)"
+            },
+            {
+              "title": "Quote by Rhonda Byrne: \"Thoughts are magnetic, and thoughts have a frequency...\"",
+              "publisher": "Goodreads",
+              "url": "https://www.goodreads.com/quotes/585745-thoughts-are-magnetic-and-thoughts-have-a-frequency-as-you"
+            }
+          ]
+        },
+        {
+          "text": "John Hagelin et Fred Alan Wolf apparaissent dans le film The Secret et y sont présentés comme physiciens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Secret (Video 2006) - John Hagelin as Self - Quantum Physicist",
+              "publisher": "IMDb",
+              "url": "https://www.imdb.com/title/tt0846789/characters/nm1591996"
+            },
+            {
+              "title": "Fred Alan Wolf",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fred_Alan_Wolf"
+            }
+          ]
+        },
+        {
+          "text": "En physique quantique, une mesure est une interaction physique entre le système et un appareil ou l'environnement ; les données sont enregistrées par des détecteurs, et la perte d'interférence ne dépend pas du fait qu'un humain les consulte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Role of Decoherence in Quantum Mechanics",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qm-decoherence/"
+            },
+            {
+              "title": "Origin of quantum-mechanical complementarity probed by a 'which-way' experiment in an atom interferometer (résumé)",
+              "publisher": "RePEc / Nature",
+              "url": "https://ideas.repec.org/a/nat/nature/v395y1998i6697d10.1038_25653.html"
+            }
+          ]
+        },
+        {
+          "text": "Abraham Pais rapporte qu'Einstein lui a demandé s'il croyait vraiment que la Lune n'existe que lorsqu'on la regarde (Pais, « Einstein and the quantum theory », Reviews of Modern Physics 51, 863, 1979).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Einstein and the quantum theory",
+              "publisher": "Reviews of Modern Physics (APS)",
+              "url": "https://link.aps.org/doi/10.1103/RevModPhys.51.863"
+            }
+          ]
+        },
+        {
+          "text": "Les objets macroscopiques comme la Lune interagissent en permanence avec leur environnement (lumière solaire, poussières, rayonnement fossile), ce qui provoque leur décohérence.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Decoherence: From Interpretation to Experiment",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/pdf/2204.09755"
+            }
+          ]
+        },
+        {
+          "text": "En 1970, Dieter Zeh a publié « On the interpretation of measurement in quantum theory » (Foundations of Physics 1, 69), article fondateur sur le fait que les systèmes macroscopiques ne sont jamais isolés de leur environnement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "H. D. Zeh, On the interpretation of measurement in quantum theory",
+              "publisher": "PhilPapers",
+              "url": "https://philpapers.org/rec/ZEHOTI"
+            },
+            {
+              "title": "The Role of Decoherence in Quantum Mechanics",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qm-decoherence/"
+            }
+          ]
+        },
+        {
+          "text": "Dans les années 1980, Wojciech Zurek a développé la théorie de la décohérence induite par l'environnement (Physical Review D 24, 1516, 1981 ; 26, 1862, 1982).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Role of Decoherence in Quantum Mechanics",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qm-decoherence/"
+            },
+            {
+              "title": "Einselection",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Einselection"
+            }
+          ]
+        },
+        {
+          "text": "La décohérence est d'autant plus rapide qu'un objet est grand et qu'il interagit avec son environnement, notamment par agitation thermique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Decoherence and the Transition from Quantum to Classical",
+              "publisher": "Physics Today",
+              "url": "https://physicstoday.aip.org/features/decoherence-and-the-transition-from-quantum-to-classical"
+            }
+          ]
+        },
+        {
+          "text": "En 1996, l'équipe de Serge Haroche et Jean-Michel Raimond à l'École normale supérieure a observé la décohérence progressive d'une superposition dans une cavité micro-ondes (Brune et al., Physical Review Letters 77, 4887, 1996) ; Haroche a reçu le prix Nobel de physique en 2012.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Observing the Progressive Decoherence of the \"Meter\" in a Quantum Measurement",
+              "publisher": "Physical Review Letters (APS)",
+              "url": "https://doi.org/10.1103/physrevlett.77.4887"
+            },
+            {
+              "title": "The Nobel Prize in Physics 2012",
+              "publisher": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/physics/2012/summary/"
+            }
+          ]
+        },
+        {
+          "text": "En 2004, à Vienne, l'équipe de Zeilinger et Arndt a montré que des fullerènes chauffés au laser émettent un rayonnement thermique qui réduit l'interférence de façon croissante avec la température (Hackermüller et al., Nature 427, 711, 2004).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Decoherence of matter waves by thermal emission of radiation",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/nature02276"
+            },
+            {
+              "title": "Thermal Decoherence",
+              "publisher": "Arndt Group, Université de Vienne",
+              "url": "https://www.quantumnano.at/research/quantum-classical/thermal-decoherence/"
+            }
+          ]
+        },
+        {
+          "text": "L'interprétation de von Neumann-Wigner, selon laquelle la conscience provoque la réduction de la fonction d'onde, est très minoritaire chez les physiciens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Snapshot of Foundational Attitudes Toward Quantum Mechanics",
+              "publisher": "arXiv (Studies in History and Philosophy of Modern Physics, 2013)",
+              "url": "https://arxiv.org/pdf/1301.1069"
+            },
+            {
+              "title": "Quantum Approaches to Consciousness",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qt-consciousness/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
+      "youtubeId": "I1oCBdRo6js",
+      "youtubeUrl": "https://www.youtube.com/watch?v=I1oCBdRo6js",
+      "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
+      "publishedAt": "2026-10-01T02:00:10.451Z",
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
+        "verdict": "trompeur",
+        "summary": "La vidéo conclut que le miracle numérique ne résiste pas au recomptage : le total de 365 n'est obtenu qu'en choisissant des règles de tri (formes, suffixes, sens du mot « jour ») dont la seule justification est le résultat, comme dans le sophisme du tireur texan. Sa raison la plus forte est que ces comptages dépendent de l'édition et de la lecture retenues, et que Khalifa a lui-même retiré deux versets pour sauver son code 19.",
+        "techniques": [
+          "numerologie",
+          "selection-des-cas",
+          "caution-scientifique"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Sourate 2, verset 23 : le Coran met au défi ceux qui doutent de produire une sourate semblable.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-Baqarah 2:23",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/2/23"
+            }
+          ]
+        },
+        {
+          "text": "La doctrine classique de l'i'jaz (inimitabilité du Coran) plaçait principalement le miracle dans l'éloquence et la composition du texte ; al-Baqillani (mort en 1013) en est un théoricien majeur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Al-Baqillani",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Al-Baqillani"
+            }
+          ]
+        },
+        {
+          "text": "Le « miracle numérique » du Coran est une approche apparue et diffusée au XXe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran code",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran_code"
+            }
+          ]
+        },
+        {
+          "text": "Les promoteurs du miracle numérique affirment que yawm (jour) apparaît 365 fois au singulier, que ses formes au pluriel et au duel totalisent 30 occurrences et que shahr (mois) apparaît 12 fois.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Day Mentioned 365 Times in Quran",
+              "publisher": "Quran Talk Blog",
+              "url": "https://qurantalkblog.com/2023/02/28/day-mentioned-365-times-in-quran/"
+            },
+            {
+              "title": "Gambling with Numbers",
+              "publisher": "Answering Islam",
+              "url": "https://www.answering-islam.org/authors/masihiyyen/numerical_miracles_309.html"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 10, verset 5 : Dieu a fait du soleil une clarté et de la lune une lumière, et en a déterminé les phases pour qu'on connaisse le nombre des années et le comput.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Yunus 10:5",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/10/5"
+            }
+          ]
+        },
+        {
+          "text": "Les promoteurs affirment que bahr (mer) apparaît 32 fois et barr (terre ferme) 13 fois, soit environ 71 % et 29 % d'un total de 45.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Land-Sea Ratio",
+              "publisher": "QuranFaith",
+              "url": "https://quranfaith.com/pages/the-land-sea-ratio"
+            },
+            {
+              "title": "Numerical Congruity in the Quran - The words land and sea",
+              "publisher": "Nabulsi Encyclopedia",
+              "url": "https://nabulsi.com/en/story/Numerical-Congruity-in-the-Quran--The-words-%22land%22-and-%22sea%229426"
+            }
+          ]
+        },
+        {
+          "text": "Les océans couvrent environ 71 % de la surface de la Terre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Ocean - Global Ocean Monitoring and Observing",
+              "publisher": "NOAA",
+              "url": "https://globalocean.noaa.gov/the-ocean/"
+            }
+          ]
+        },
+        {
+          "text": "L'auteur égyptien Abd al-Razzaq Nawfal a popularisé dans les années 1970 des « équilibres » de mots dans le Coran, dont dunya/akhira (115 fois chacun) et anges/démons (88 fois chacun).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Numerical Miracles in Holy Quran and their Impact on Guiding Human Behavior",
+              "publisher": "Taiz University Journal",
+              "url": "https://journal.tu.edu.ye/index.php/artsmain/article/view/2448"
+            },
+            {
+              "title": "التوازن الرقمي واللفظي المترابط في القرآن العظيم",
+              "publisher": "Balagh",
+              "url": "https://www.balagh.com/mosoa/article/%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B2%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D9%84%D9%81%D8%B8%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%A7%D8%A8%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 74, verset 30 : « sur lui, dix-neuf », à propos de Saqar (le feu de l'enfer) ; le verset 31 dit que ce nombre est une épreuve pour les incrédules et un affermissement de la foi des croyants.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-Muddaththir 74:30-31",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/74/30-31"
+            },
+            {
+              "title": "Surah Al-Muddaththir 74:31",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/74/31"
+            }
+          ]
+        },
+        {
+          "text": "Rashad Khalifa, biochimiste égyptien installé aux États-Unis, a analysé le Coran par ordinateur dans les années 1970 et affirmé y découvrir une structure fondée sur le nombre 19.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rashad Khalifa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Rashad_Khalifa"
+            },
+            {
+              "title": "Quran code",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran_code"
+            }
+          ]
+        },
+        {
+          "text": "La basmala (bismillah ar-rahman ar-rahim) compte 19 lettres dans la graphie arabe du Coran.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Basmala",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Basmala"
+            },
+            {
+              "title": "The Islamic Basmala",
+              "publisher": "Stephen Lambden, UC Merced",
+              "url": "https://faculty.ucmerced.edu/slambden/03-THE%20BAB/THE%20BAB%20-%20TAFSIR%20WORKS/islamic_basmala.htm"
+            }
+          ]
+        },
+        {
+          "text": "Le Coran compte 114 sourates (6 × 19) ; la sourate 9 ne commence pas par la basmala, et la sourate 27 la contient deux fois (ouverture et verset 30).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Basmala",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Basmala"
+            },
+            {
+              "title": "Surah An-Naml 27:30",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/27/30"
+            }
+          ]
+        },
+        {
+          "text": "Selon Khalifa, la première révélation (sourate 96, versets 1 à 5) compte 19 mots, la sourate 96 compte 19 versets et chaque mot de la basmala apparaît dans le Coran un nombre de fois multiple de 19.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Appendix 1: One of the Great Miracles",
+              "publisher": "Masjid Tucson (texte de Rashad Khalifa)",
+              "url": "https://www.masjidtucson.org/quran/appendices/appendix1.html"
+            },
+            {
+              "title": "Quran code",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran_code"
+            }
+          ]
+        },
+        {
+          "text": "Le Quranic Arabic Corpus est un corpus coranique annoté mot par mot (racine, lemme), développé à l'université de Leeds et consultable gratuitement en ligne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quranic Arabic Corpus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quranic_Arabic_Corpus"
+            },
+            {
+              "title": "Morphological Annotation of Quranic Arabic",
+              "publisher": "LREC 2010 / ACL Anthology",
+              "url": "https://aclanthology.org/www.mt-archive.info/LREC-2010-Dukes.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Selon le Quranic Arabic Corpus, la racine y-w-m apparaît 475 fois : 405 fois comme nom yawm (singulier, duel et pluriel confondus) et 70 fois comme yawma-idhin (« ce jour-là »).",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Le QAC indique que la racine y-w-m « occurs 405 times » comme nom yawm ; il compte yawma-idhin séparément comme lemme adverbial (70 résultats) sans le rattacher à cette racine : le total de 475 est donc une somme, pas le chiffre du corpus pour la racine. Correction proposée : Selon le Quranic Arabic Corpus, la racine y-w-m apparaît 405 fois sous la forme nominale yawm (singulier, duel et pluriel confondus), et le corpus recense à part 70 occurrences de yawma-idhin (« ce jour-là »), soit 475 formes en tout.",
+          "sources": [
+            {
+              "title": "Quran Dictionary - root ywm",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=ywm"
+            },
+            {
+              "title": "Search lem:yawma-idhin",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/search.jsp?q=lem:yawoma%7Di%2A"
+            }
+          ]
+        },
+        {
+          "text": "Yawma-idhin signifie « ce jour-là » et s'écrit d'un seul tenant dans le texte coranique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Word by Word 99:4",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=4"
+            }
+          ]
+        },
+        {
+          "text": "Une fois retirés yawma-idhin ainsi que le pluriel et le duel (30 occurrences selon les promoteurs), il reste environ 375 occurrences de yawm ; on n'atteint 365 qu'en ajoutant un critère d'exclusion supplémentaire, par exemple sur les formes à pronom suffixé.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "365 Day in the Quran",
+              "publisher": "19.org",
+              "url": "https://19.org/blog/365days/"
+            },
+            {
+              "title": "Day Mentioned 365 Times in Quran",
+              "publisher": "Quran Talk Blog",
+              "url": "https://qurantalkblog.com/2023/02/28/day-mentioned-365-times-in-quran/"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 22, verset 47 : un jour auprès du Seigneur équivaut à mille ans de votre comput ; sourate 70, verset 4 : un jour dont la durée est de cinquante mille ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-Hajj 22:47",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/22/47"
+            },
+            {
+              "title": "Surah Al-Ma'arij 70:4",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/70/4"
+            }
+          ]
+        },
+        {
+          "text": "Une grande partie des occurrences de yawm dans le Coran désigne le Jour du Jugement, de la Résurrection ou le Jour dernier.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Judgement Day in Islam",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Judgement_Day_in_Islam"
+            },
+            {
+              "title": "Quran Dictionary - root ywm",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=ywm"
+            }
+          ]
+        },
+        {
+          "text": "L'année solaire compte environ 365,24 jours ; le calendrier julien romain retenait 365 jours avec une année bissextile tous les quatre ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Leap Years",
+              "publisher": "U.S. Naval Observatory",
+              "url": "https://aa.usno.navy.mil/faq/leap_years"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 9, verset 36 : le nombre des mois auprès de Dieu est de douze ; verset 37 : le nasi' (report des mois) est condamné.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah At-Tawbah 9:36-37",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/9/36-37"
+            },
+            {
+              "title": "Surah At-Tawbah 9:37",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/9/37"
+            }
+          ]
+        },
+        {
+          "text": "Le calendrier hégirien est lunaire, compte environ 354 jours, et le ramadan avance d'environ onze jours chaque année par rapport au calendrier solaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tabular Islamic calendar",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tabular_Islamic_calendar"
+            },
+            {
+              "title": "Ramadan and the Lunar Calendar",
+              "publisher": "IslamOnline",
+              "url": "https://islamonline.net/en/ramadan-and-the-lunar-calendar/"
+            }
+          ]
+        },
+        {
+          "text": "En arabe, barr (terre ferme), birr (piété) et al-barr (le Bienfaisant, nom divin en sourate 52, verset 28) s'écrivent avec les mêmes lettres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran Dictionary - root brr",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=brr"
+            },
+            {
+              "title": "Word by Word 52:28",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=28"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 20, verset 77 : le mot yabas (sec) désigne le chemin ouvert à travers la mer ; le Coran emploie aussi la mer au duel (al-bahrayn) et au pluriel (bihar, abhur).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Word by Word 20:77",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=77"
+            },
+            {
+              "title": "Quran Dictionary - root bHr",
+              "publisher": "Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=bHr"
+            }
+          ]
+        },
+        {
+          "text": "Lors du dernier maximum glaciaire, il y a environ 20 000 ans, le niveau des mers était environ 120 mètres plus bas qu'aujourd'hui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Fact Sheet fs002-00: Sea Level and Climate",
+              "publisher": "USGS",
+              "url": "https://pubs.usgs.gov/fs/fs2-00/"
+            },
+            {
+              "title": "Professional Paper 1815",
+              "publisher": "USGS",
+              "url": "https://pubs.usgs.gov/pp/1815/pp1815.pdf"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28",
+      "youtubeId": "zoeVEThgAmc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zoeVEThgAmc",
+      "title": "Comment le Coran a-t-il été préservé depuis le Prophète ? De la révélation au mushaf d'Uthman",
+      "publishedAt": "2026-10-01T00:27:21.037Z",
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Le Coran récité aujourd'hui est exactement celui que récitait le Prophète : il a été préservé sans la moindre altération, lettre pour lettre, depuis quatorze siècles, par la mémoire et l'écriture, sous la protection de Dieu (sourate 15, verset 9).",
+        "verdict": "faux",
+        "summary": "La vidéo conclut que la préservation parfaite du Coran est un dogme et non une conclusion historique. Les sources musulmanes elles-mêmes (Bukhari, Muslim, Tirmidhi, al-Suyuti) décrivent un texte issu d'un choix fait par un comité sous l'autorité d'un calife, avec des exemplaires concurrents brûlés, des versets récités devenus introuvables et plusieurs lectures encore en usage. Elle reconnaît toutefois qu'un texte proche du nôtre existait très tôt, et que l'argument est circulaire puisqu'il cite le texte lui-même pour prouver sa protection.",
+        "techniques": [
+          "argument-autorite",
+          "chaine-de-transmission",
+          "selection-des-cas"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Selon la tradition musulmane, la révélation commence vers 610 dans la grotte du mont Hira, avec les premiers versets de la sourate 96, et le Prophète meurt à Médine en 632.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Al-Alaq",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Al-Alaq"
+            },
+            {
+              "title": "Quran",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran"
+            }
+          ]
+        },
+        {
+          "text": "Le mot arabe qur'an signifie « récitation ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran"
+            }
+          ]
+        },
+        {
+          "text": "Zayd ibn Thabit était l'un des scribes de la révélation ; selon les rapports traditionnels, les versets étaient notés sur des tiges de palmier, des pierres plates et des omoplates.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Zayd ibn Thabit",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Zayd_ibn_Thabit"
+            },
+            {
+              "title": "Sahih al Bukhari 4986",
+              "publisher": "fawazahmed0 Hadith API",
+              "url": "https://fawazahmed0.github.io/hadiths//books/bukhari/4986"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4986 : après la bataille de Yamama, où de nombreux récitateurs sont tués, Umar presse Abu Bakr de rassembler le Coran ; Abu Bakr hésite, puis charge Zayd ibn Thabit de la tâche. Zayd dit que déplacer une montagne lui aurait paru moins lourd. Les feuillets sont conservés par Abu Bakr, Umar, puis Hafsa.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al Bukhari 4986",
+              "publisher": "fawazahmed0 Hadith API",
+              "url": "https://fawazahmed0.github.io/hadiths//books/bukhari/4986"
+            },
+            {
+              "title": "Hadith 4986 of the book of the virtues of the quran by sahih al bukhari",
+              "publisher": "IslamicFinder",
+              "url": "https://www.islamicfinder.org/hadith/bukhari/virtues-of-the-quran/4986/"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4986 : Zayd ne trouve la fin de la sourate 9 que chez un seul compagnon, Abu Khuzayma al-Ansari.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al Bukhari 4986",
+              "publisher": "fawazahmed0 Hadith API",
+              "url": "https://fawazahmed0.github.io/hadiths//books/bukhari/4986"
+            },
+            {
+              "title": "Hadith 4986 of the book of the virtues of the quran by sahih al bukhari",
+              "publisher": "IslamicFinder",
+              "url": "https://www.islamicfinder.org/hadith/bukhari/virtues-of-the-quran/4986/"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4987 : Hudhayfa ibn al-Yaman, de retour de la campagne d'Arménie et d'Azerbaïdjan, s'inquiète des différences de récitation entre les gens de Syrie et d'Irak et demande à Uthman d'agir avant que la communauté ne se divise « comme les juifs et les chrétiens ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al Bukhari 4987",
+              "publisher": "fawazahmed0 Hadith API",
+              "url": "https://fawazahmed0.github.io/hadiths//books/bukhari/4987"
+            },
+            {
+              "title": "Sahih al-Bukhari 4987 - Virtues of the Qur'an",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/bukhari/66/9"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4987 : Uthman fait copier les feuillets de Hafsa par Zayd ibn Thabit et trois Qurayshites, envoie une copie dans chaque province, puis ordonne de brûler tous les autres manuscrits coraniques, fragmentaires ou complets.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al Bukhari 4987",
+              "publisher": "fawazahmed0 Hadith API",
+              "url": "https://fawazahmed0.github.io/hadiths//books/bukhari/4987"
+            },
+            {
+              "title": "Sahih al-Bukhari 4987 - Virtues of the Qur'an",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/bukhari/66/9"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4987 : Uthman demande aux trois Qurayshites d'écrire dans le dialecte de Quraysh tout passage sur lequel ils sont en désaccord avec Zayd.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al Bukhari 4987",
+              "publisher": "fawazahmed0 Hadith API",
+              "url": "https://fawazahmed0.github.io/hadiths//books/bukhari/4987"
+            },
+            {
+              "title": "Sahih al-Bukhari 4987 - Virtues of the Qur'an",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/bukhari/66/9"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadiths 4987 et 2807 : Zayd raconte qu'un verset de la sourate 33 lui manquait et qu'il ne l'a retrouvé que chez Khuzayma ibn Thabit al-Ansari.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al-Bukhari 4987",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:4987"
+            },
+            {
+              "title": "Sahih al-Bukhari 2807",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:2807"
+            },
+            {
+              "title": "Sahih al-Bukhari 2807 - Fighting for the Cause of Allah (Jihaad)",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/bukhari:2807"
+            }
+          ]
+        },
+        {
+          "text": "La recension d'Uthman est généralement datée d'environ 650 ; à cette époque, l'empire musulman s'étend de l'Égypte à la Perse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Uthman",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Uthman"
+            },
+            {
+              "title": "Quran",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran"
+            }
+          ]
+        },
+        {
+          "text": "Coran, sourate 15, verset 9 : « C'est Nous qui avons fait descendre le Rappel, et c'est Nous qui en sommes les gardiens. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sourate Al-Hijr verset 9 en français",
+              "publisher": "SurahQuran",
+              "url": "https://surahquran.com/french-aya-9-sora-15.html"
+            },
+            {
+              "title": "Réciter Coran - Al-Hijr [15:9]",
+              "publisher": "ReciteQuran",
+              "url": "https://recitequran.com/fr/15:9"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4999 : le Prophète recommande d'apprendre le Coran auprès de quatre hommes, dont Abdullah ibn Mas'ud (nommé en premier) et Ubayy ibn Ka'b.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al-Bukhari 4999",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:4999"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 5000 : Ibn Mas'ud affirme avoir appris plus de soixante-dix sourates directement du Prophète.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al-Bukhari 5000",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:5000"
+            }
+          ]
+        },
+        {
+          "text": "Ibn Mas'ud ne faisait pas partie de la commission d'Uthman ; Jami' at-Tirmidhi, hadith 3104, rapporte sa protestation contre le choix de Zayd, qui était selon lui « dans les reins d'un mécréant » quand lui-même embrassait l'islam.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jami' at-Tirmidhi 3104",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/tirmidhi:3104"
+            },
+            {
+              "title": "Jami` at-Tirmidhi 3104",
+              "publisher": "HadithWeb",
+              "url": "https://hadithweb.com/tirmidhi:3104"
+            }
+          ]
+        },
+        {
+          "text": "Selon un rapport du Musnad d'Ahmad ibn Hanbal (voir aussi Sahih al-Bukhari 4977), Ibn Mas'ud effaçait les sourates 113 et 114 de ses exemplaires en disant qu'elles ne faisaient pas partie du Livre de Dieu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "'Abdullah ibn Mas'ud would scratch out al Mu'awwadhatayn from the mushaf",
+              "publisher": "Mahajjah",
+              "url": "https://mahajjah.com/abdullah-ibn-masud-would-scratch-out-al-muawwadhatayn-from-the-mushaf/"
+            },
+            {
+              "title": "Sahih al-Bukhari 4977",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:4977"
+            },
+            {
+              "title": "Did Ibn Mas'ud View Surat al-Falaq and al-Nas as Non-Quranic?",
+              "publisher": "SeekersGuidance",
+              "url": "https://seekersguidance.org/answers/quran/did-ibn-masud-view-surat-al-falaq-and-al-nas-as-non-quranic/"
+            }
+          ]
+        },
+        {
+          "text": "Dans al-Itqan fi ulum al-Qur'an, al-Suyuti (XVe siècle) mentionne que le codex d'Ubayy ibn Ka'b contenait deux sourates supplémentaires, al-Khal' et al-Hafd.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Number of Surahs in Ubayy's Mushaf: 116 or 114 Explained",
+              "publisher": "ICRAA",
+              "url": "https://icraa.org/no-of-surahs-in-ubayys-mushaf/"
+            },
+            {
+              "title": "Codex of Ubayy ibn Ka'b",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Codex_of_Ubayy_ibn_Ka%27b"
+            }
+          ]
+        },
+        {
+          "text": "Selon le Kitab al-Masahif d'Ibn Abi Dawud, Marwan ibn al-Hakam, gouverneur de Médine, fit détruire les feuillets de Hafsa après la mort de celle-ci.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hafsa's Qur'an Folios",
+              "publisher": "Living Islam",
+              "url": "https://livingislam.org/fiqhi/fiqha_e27.html"
+            },
+            {
+              "title": "The Compilation of the Text of the Qur'an",
+              "publisher": "Answering Islam (J. Gilchrist)",
+              "url": "https://www.answering-islam.org/authors/gilchrist/quran/chapter5.html"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 6829 : Umar craint qu'avec le temps, des gens disent ne pas trouver le verset de la lapidation dans le Livre de Dieu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al-Bukhari 6829",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:6829"
+            }
+          ]
+        },
+        {
+          "text": "Sahih Muslim, hadith 1691 : Umar déclare que le verset de la lapidation faisait partie de ce qui a été révélé, qu'il était récité et que la peine a été appliquée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih Muslim 1691",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/muslim:1691"
+            }
+          ]
+        },
+        {
+          "text": "Sahih Muslim, hadith 1452 : Aïcha rapporte qu'un verset sur les dix tétées fut remplacé par cinq, et que ce texte était encore récité comme Coran à la mort du Prophète.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih Muslim 1452",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/muslim:1452"
+            }
+          ]
+        },
+        {
+          "text": "La doctrine classique de l'abrogation (naskh) admet l'abrogation de la récitation d'un verset avec maintien de sa règle légale, notamment pour la lapidation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Examples of abrogation in the Qur'an and Sunnah and further reading",
+              "publisher": "Islam21c",
+              "url": "https://www.islam21c.com/scripture/abrogation-quran-sunnah-examples-further-reading/"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Itqan, al-Suyuti cite une parole attribuée à Abdullah ibn Umar : que personne ne dise avoir appris tout le Coran, car beaucoup de Coran s'en est allé.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Was the Originally Compiled Qur'an During the Era of Abu Bakr Incomplete?",
+              "publisher": "SeekersGuidance",
+              "url": "https://seekersguidance.org/answers/hadith/originally-compiled-quran-era-abu-bakr-incomplete/"
+            },
+            {
+              "title": "Jam' Al-Qur'an - The Missing Passages of the Qur'an",
+              "publisher": "Answering Islam (J. Gilchrist)",
+              "url": "https://www.answering-islam.org/Gilchrist/Jam/chap4.html"
+            }
+          ]
+        },
+        {
+          "text": "Les premiers manuscrits coraniques notent un squelette consonantique (rasm) sans voyelles et avec très peu de points diacritiques ; leur ajout systématique commence à l'époque omeyyade.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Qur'anic Manuscripts",
+              "publisher": "Islamic Awareness",
+              "url": "https://www.islamic-awareness.org/quran/text/mss/"
+            },
+            {
+              "title": "Coloured dots and the question of regional origins in early Qur'ans: Part I",
+              "publisher": "Oxford University Research Archive",
+              "url": "https://ora.ox.ac.uk/objects/uuid:509ded8b-d160-491a-b053-7248f37b7ca9/files/m8fd5f8b6f7249ac24a64d3184bc0385f"
+            },
+            {
+              "title": "Rasm",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Rasm"
+            }
+          ]
+        },
+        {
+          "text": "Sahih al-Bukhari, hadith 4992 : Umar entend Hisham ibn Hakim réciter la sourate 25 autrement que lui ; le Prophète approuve les deux récitations et dit que le Coran a été révélé selon sept ahruf.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al-Bukhari 4992",
+              "publisher": "Hadith Unlocked",
+              "url": "https://hadithunlocked.com/bukhari:4992"
+            },
+            {
+              "title": "Ahruf",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ahruf"
+            }
+          ]
+        },
+        {
+          "text": "Al-Suyuti, dans l'Itqan, signale qu'il existe une quarantaine d'opinions sur le sens des « sept ahruf ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ahruf",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ahruf"
+            },
+            {
+              "title": "The Seven Ahruf Explained",
+              "publisher": "Studio Arabiya",
+              "url": "https://studioarabiya.com/the-seven-ahruf/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "le-pari-de-pascal-55c1",
+      "youtubeId": "IMmyIhAADD4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IMmyIhAADD4",
+      "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
+      "publishedAt": "2026-09-25T08:30:12.640Z",
+      "pillar": "Critique des dogmes : textes sacrés et théologie passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
+        "verdict": "non_demontre",
+        "summary": "La vidéo conclut que le pari ne prouve pas l'existence de Dieu : Pascal lui-même admet que la raison ne peut rien déterminer, et l'avantage qu'on a à croire n'est pas un indice de vérité (Voltaire). Son argument principal est que le calcul ne tient pas : il vaut pour n'importe quelle religion (Diderot), croire n'est pas un acte volontaire, et une foi adoptée par intérêt n'aurait pas la valeur qu'il prétend récompenser.",
+        "techniques": [
+          "faux-dilemme",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Blaise Pascal est mort à Paris en 1662, à trente-neuf ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Blaise Pascal (1623 - 1662) - Biography",
+              "publisher": "MacTutor History of Mathematics, University of St Andrews",
+              "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/"
+            }
+          ]
+        },
+        {
+          "text": "Pascal a inventé une machine à calculer (la Pascaline).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Blaise Pascal | Biography, Facts, & Inventions",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Blaise-Pascal"
+            }
+          ]
+        },
+        {
+          "text": "Le Mémorial de Pascal consigne une expérience religieuse survenue dans la nuit du 23 novembre 1654.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Blaise Pascal (1623 - 1662) - Biography",
+              "publisher": "MacTutor History of Mathematics, University of St Andrews",
+              "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/"
+            }
+          ]
+        },
+        {
+          "text": "Pascal était proche de l'abbaye de Port-Royal et du jansénisme.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pascal, Blaise",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/pascal-b/"
+            }
+          ]
+        },
+        {
+          "text": "Les Pensées sont des notes pour une apologie inachevée de la religion chrétienne, publiées à titre posthume en 1670 par ses proches (édition de Port-Royal).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pensées",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pens%C3%A9es"
+            }
+          ]
+        },
+        {
+          "text": "Le fragment du pari commence par les mots « Infini rien » (Lafuma 418, Brunschvicg 233).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "2. Infini rien. [...]",
+              "publisher": "penseesdepascal.fr (Université Clermont Auvergne, CIBP)",
+              "url": "https://www.penseesdepascal.fr/II/II1-appro2.php"
+            }
+          ]
+        },
+        {
+          "text": "En 1654, Pascal et Pierre de Fermat ont échangé une correspondance qui pose les bases du calcul des probabilités.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Blaise Pascal (1623 - 1662) - Biography",
+              "publisher": "MacTutor History of Mathematics, University of St Andrews",
+              "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/"
+            }
+          ]
+        },
+        {
+          "text": "Pascal écrit dans le fragment : « S'il y a un Dieu, il est infiniment incompréhensible » et affirme que la raison n'y peut rien déterminer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Œuvres complètes de Blaise Pascal, Hachette 1871, Pensées, Article 10",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Blaise_Pascal_Hachette_1871,_vol1/Pens%C3%A9es/Article_10"
+            },
+            {
+              "title": "Examinons donc ce point, et disons : « Dieu est, ou il n'est pas »",
+              "publisher": "Le Livre Clé",
+              "url": "https://www.le-livre-cle.fr/fr/bibliotheque-cle/blaise--pascal-1623-1662/pensees-1669/1006-examinons-donc-ce-point-et-disons-dieu-est-ou-il-nest-pas-fragment-397/"
+            }
+          ]
+        },
+        {
+          "text": "Citations du fragment : « Dieu est, ou il n'est pas » ; « de quel côté pencherons-nous ? » ; « il faut parier. Cela n'est pas volontaire, vous êtes embarqué ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Examinons donc ce point, et disons : « Dieu est, ou il n'est pas »",
+              "publisher": "Le Livre Clé",
+              "url": "https://www.le-livre-cle.fr/fr/bibliotheque-cle/blaise--pascal-1623-1662/pensees-1669/1006-examinons-donc-ce-point-et-disons-dieu-est-ou-il-nest-pas-fragment-397/"
+            },
+            {
+              "title": "Œuvres complètes de Blaise Pascal, Hachette 1871, Pensées, Article 10",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Blaise_Pascal_Hachette_1871,_vol1/Pens%C3%A9es/Article_10"
+            }
+          ]
+        },
+        {
+          "text": "Citation du fragment : « si vous gagnez, vous gagnez tout ; si vous perdez, vous ne perdez rien. Gagez donc qu'il est, sans hésiter », avec l'expression « une infinité de vie infiniment heureuse ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Œuvres complètes de Blaise Pascal, Hachette 1871, Pensées, Article 10",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Blaise_Pascal_Hachette_1871,_vol1/Pens%C3%A9es/Article_10"
+            },
+            {
+              "title": "Examinons donc ce point, et disons : « Dieu est, ou il n'est pas »",
+              "publisher": "Le Livre Clé",
+              "url": "https://www.le-livre-cle.fr/fr/bibliotheque-cle/blaise--pascal-1623-1662/pensees-1669/1006-examinons-donc-ce-point-et-disons-dieu-est-ou-il-nest-pas-fragment-397/"
+            }
+          ]
+        },
+        {
+          "text": "Pascal écrit que celui qui fait ce choix sera « fidèle, honnête, humble, reconnaissant, bienfaisant ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Œuvres complètes de Blaise Pascal, Hachette 1871, Pensées, Article 10",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Blaise_Pascal_Hachette_1871,_vol1/Pens%C3%A9es/Article_10"
+            },
+            {
+              "title": "La foi peut-elle se passer d'un rituel ? Pascal et Isaac Bashevis Singer",
+              "publisher": "PhiloLog",
+              "url": "https://www.philolog.fr/la-foi-peut-elle-se-passer-dun-rituel-pascal-et-isaac-bashevis-singer/"
+            }
+          ]
+        },
+        {
+          "text": "Pascal recommande à l'incroyant de faire « tout comme s'ils croyaient, en prenant de l'eau bénite, en faisant dire des messes » et écrit « naturellement même cela vous fera croire et vous abêtira ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "La foi peut-elle se passer d'un rituel ? Pascal et Isaac Bashevis Singer",
+              "publisher": "PhiloLog",
+              "url": "https://www.philolog.fr/la-foi-peut-elle-se-passer-dun-rituel-pascal-et-isaac-bashevis-singer/"
+            },
+            {
+              "title": "Œuvres complètes de Blaise Pascal, Hachette 1871, Pensées, Article 10",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Blaise_Pascal_Hachette_1871,_vol1/Pens%C3%A9es/Article_10"
+            }
+          ]
+        },
+        {
+          "text": "Diderot, dans ses Pensées philosophiques (1746), répond au pari de Pascal : « Un iman en peut dire tout autant que Pascal. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pensées philosophiques/Addition aux Pensées philosophiques",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Pens%C3%A9es_philosophiques/Addition_aux_Pens%C3%A9es_philosophiques"
+            },
+            {
+              "title": "Pensées de Blaise Pascal – approfondissement",
+              "publisher": "penseesdepascal.fr (CIBP)",
+              "url": "https://www.penseesdepascal.fr/II/II1-appro1.php"
+            }
+          ]
+        },
+        {
+          "text": "Le Parlement de Paris a condamné les Pensées philosophiques de Diderot à être brûlées en 1746.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les Pensées philosophiques de Denis Diderot",
+              "publisher": "Gallica, Bibliothèque nationale de France",
+              "url": "https://gallica.bnf.fr/accueil/fr/html/les-pensees-philosophiques-de-denis-diderot"
+            },
+            {
+              "title": "Pensées philosophiques",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Pens%C3%A9es_philosophiques"
+            }
+          ]
+        },
+        {
+          "text": "D'autres fragments des Pensées de Pascal sont consacrés à attaquer l'islam (fragments « Contre Mahomet »).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pensées de Blaise Pascal – Ordre 1",
+              "publisher": "penseesdepascal.fr (CIBP)",
+              "url": "https://www.penseesdepascal.fr/Ordre/Ordre1-moderne.php"
+            },
+            {
+              "title": "Pascal, Pensées, S 115–182",
+              "publisher": "Polytropy",
+              "url": "https://polytropy.com/2021/02/23/pascal-pensees-s-115-182/"
+            }
+          ]
+        },
+        {
+          "text": "Bernard Williams a soutenu dans l'essai « Deciding to Believe » (début des années 1970) qu'on ne peut pas croire à volonté en sachant qu'on le fait.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Doxastic Voluntarism",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/doxastic-voluntarism/"
+            },
+            {
+              "title": "Deciding to believe (Chapter 9) - Problems of the Self",
+              "publisher": "Cambridge University Press",
+              "url": "https://www.cambridge.org/core/books/abs/problems-of-the-self/deciding-to-believe/49CC82B20E24A5F8021ACCF8E2BB03F7"
+            }
+          ]
+        },
+        {
+          "text": "William James, dans The Will to Believe (1896), écrit qu'une foi adoptée par calcul à la manière du pari manquerait de réalité intérieure, et que s'il était la divinité il prendrait plaisir à priver ces croyants de leur récompense infinie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Will to Believe, by William James",
+              "publisher": "Project Gutenberg",
+              "url": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm"
+            },
+            {
+              "title": "The Will to Believe",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/The_Will_to_Believe"
+            }
+          ]
+        },
+        {
+          "text": "Voltaire publie les Lettres philosophiques en 1734 ; le Parlement de Paris les condamne à être brûlées ; la 25e lettre porte sur les Pensées de Pascal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Letters on the English",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Letters_on_the_English"
+            },
+            {
+              "title": "Remarques sur les Pensées de Pascal (Édition Garnier)",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Remarques_sur_les_Pens%C3%A9es_de_Pascal/%C3%89dition_Garnier"
+            }
+          ]
+        },
+        {
+          "text": "Voltaire juge l'article du pari « un peu indécent et puéril » car « cette idée de jeu, de perte et de gain, ne convient point à la gravité du sujet », et écrit que « l'intérêt que j'ai à croire une chose n'est pas une preuve de l'existence de cette chose ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Remarques sur les Pensées de Pascal (Édition Garnier)",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Remarques_sur_les_Pens%C3%A9es_de_Pascal/%C3%89dition_Garnier"
+            },
+            {
+              "title": "Notes de Voltaire et de Condorcet sur les Pensées de Pascal",
+              "publisher": "Project Gutenberg",
+              "url": "https://www.gutenberg.org/files/29772/29772-h/29772-h.htm"
+            }
+          ]
+        },
+        {
+          "text": "Alan Hájek (notamment dans « Waging War on Pascal's Wager », 2003) montre qu'avec une récompense infinie, toute stratégie offrant une probabilité non nulle de croire, y compris une stratégie mixte comme tirer à pile ou face, donne une espérance infinie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pascal's Wager",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pascal-wager/"
+            },
+            {
+              "title": "Pascal's Wager (Fall 2003 Edition)",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/archives/fall2003/entries/pascal-wager/"
+            }
+          ]
+        },
+        {
+          "text": "Dans le fragment, le pari n'est pas présenté comme une preuve de l'existence de Dieu mais comme un argument de persuasion adressé à un incroyant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pascal's Wager",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pascal-wager/"
+            },
+            {
+              "title": "Pascal, Blaise",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/pascal-b/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "la-donation-de-constantin-83d1",
+      "youtubeId": "YnNocnkAkvM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YnNocnkAkvM",
+      "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",
+      "publishedAt": "2026-09-25T08:00:12.889Z",
+      "pillar": "Anticléricalisme : histoire, pouvoir et argent des clergés",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "La Donation de Constantin est un acte authentique : l'empereur Constantin, guéri de la lèpre et baptisé par le pape Sylvestre, aurait cédé à l'Église de Rome le palais du Latran, la ville de Rome et les provinces d'Occident, faisant du pape le maître de l'Occident.",
+        "verdict": "faux",
+        "summary": "La Donation de Constantin est un faux, rédigé entre le milieu du VIIIe et le IXe siècle, et non sous Constantin au IVe siècle. Lorenzo Valla l'a démontré en 1440 en attaquant le texte par le texte : latin tardif et anachronique, incohérences historiques (Constantin baptisé à Nicomédie en 337 et non par Sylvestre), silence des sources contemporaines. Ses motivations politiques n'invalident pas ses preuves.",
+        "techniques": [
+          "argument-autorite",
+          "chaine-de-transmission",
+          "appel-a-l-anciennete"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Le Constitutum Constantini se présente comme un acte de l'empereur Constantin qui accorde au pape Sylvestre le palais du Latran, les insignes impériaux, Rome et les provinces d'Italie et d'Occident, en remerciement d'une guérison de la lèpre et d'un baptême.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            }
+          ]
+        },
+        {
+          "text": "Le texte présente le transfert de la capitale impériale en Orient comme un moyen de ne pas faire d'ombre au pouvoir du pape.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            }
+          ]
+        },
+        {
+          "text": "Constantin est le premier empereur romain à s'être converti au christianisme.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Constantine I | Biography, Accomplishments, Death, & Facts",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor"
+            }
+          ]
+        },
+        {
+          "text": "Les historiens datent généralement la rédaction du faux entre le milieu du VIIIe et le IXe siècle ; le lieu et la date exacts restent discutés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            },
+            {
+              "title": "The \"Donation of Constantine\": a centuries-old historiographical debate",
+              "publisher": "SciELO Chile",
+              "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-88322023000100301&lng=en&nrm=iso"
+            }
+          ]
+        },
+        {
+          "text": "L'historien Johannes Fried défend une origine franque du faux au IXe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "“Donation of Constantine” and “Constitutum Constantini”",
+              "publisher": "Bryn Mawr Classical Review",
+              "url": "https://bmcr.brynmawr.edu/2008/2008.02.21"
+            },
+            {
+              "title": "Donation of Constantine and Constitutum Constantini (Fried, 2007)",
+              "publisher": "De Gruyter / OAPEN",
+              "url": "https://library.oapen.org/bitstream/id/426ce6b2-8202-4823-920b-1f05f7d7b47f/9783110902235.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Au milieu du VIIIe siècle, la papauté menacée par les Lombards s'allie aux Francs, et en 756 Pépin le Bref remet au pape des territoires d'Italie centrale, à l'origine des États pontificaux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Pippin",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/event/Donation-of-Pippin"
+            },
+            {
+              "title": "States of the Church",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/14257a.htm"
+            }
+          ]
+        },
+        {
+          "text": "La Donation de Constantin figure dans les Fausses Décrétales du Pseudo-Isidore au IXe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            },
+            {
+              "title": "1911 Encyclopædia Britannica/Donation of Constantine",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Donation_of_Constantine"
+            }
+          ]
+        },
+        {
+          "text": "Le pape Léon IX invoque la Donation dans une lettre au patriarche Michel Cérulaire, dans le contexte des tensions menant au schisme de 1054.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            },
+            {
+              "title": "Michael I Cerularius",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Michael_I_Cerularius"
+            }
+          ]
+        },
+        {
+          "text": "La Donation a été ajoutée au Décret de Gratien au XIIe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            }
+          ]
+        },
+        {
+          "text": "Un diplôme de l'empereur Otton III de 1001 qualifie déjà la Donation de mensonge.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine and Constitutum Constantini (Fried, 2007)",
+              "publisher": "De Gruyter / OAPEN",
+              "url": "https://library.oapen.org/bitstream/id/426ce6b2-8202-4823-920b-1f05f7d7b47f/9783110902235.pdf"
+            },
+            {
+              "title": "Donation of Constantine Is Exposed",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/history/donation-constantine-exposed"
+            }
+          ]
+        },
+        {
+          "text": "Dante, dans l'Enfer de la Divine Comédie, déplore les maux causés par la Donation de Constantin sans en contester l'authenticité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Divina Commedia/Inferno/Canto XIX",
+              "publisher": "Wikisource",
+              "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XIX"
+            }
+          ]
+        },
+        {
+          "text": "Lorenzo Valla est l'auteur des Elegantiae linguae latinae et a rédigé en 1440 le De falso credita et ementita Constantini donatione alors qu'il servait Alphonse d'Aragon, en conflit avec le pape Eugène IV.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lorenzo Valla, Discourse on the Forgery of the Alleged Donation of Constantine (introduction)",
+              "publisher": "Hanover College",
+              "url": "https://history.hanover.edu/texts/vallaintro.html"
+            },
+            {
+              "title": "Lorenzo Valla",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/lorenzo-valla/"
+            }
+          ]
+        },
+        {
+          "text": "Valla relève dans la Donation un latin tardif incompatible avec une chancellerie du IVe siècle et se moque notamment de l'emploi du mot « satrapes » pour des dignitaires romains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lorenzo Valla Proves that the Donation of Constantine is a Forgery",
+              "publisher": "HistoryofInformation.com",
+              "url": "https://www.historyofinformation.com/detail.php?id=1817"
+            },
+            {
+              "title": "Lorenzo Valla, On the Donation of Constantine (I Tatti Renaissance Library)",
+              "publisher": "Bryn Mawr Classical Review",
+              "url": "https://bmcr.brynmawr.edu/2008/2008.01.31"
+            }
+          ]
+        },
+        {
+          "text": "Le document mentionne Constantinople parmi les grands sièges ecclésiastiques, alors que la ville n'a été inaugurée sous ce nom qu'en 330.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            },
+            {
+              "title": "Constantine I | Biography, Accomplishments, Death, & Facts",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor"
+            }
+          ]
+        },
+        {
+          "text": "Aucune source contemporaine de Constantin ne mentionne une telle donation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine Is Exposed",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/history/donation-constantine-exposed"
+            },
+            {
+              "title": "Lorenzo Valla, Discourse on the Forgery of the Alleged Donation of Constantine (introduction)",
+              "publisher": "Hanover College",
+              "url": "https://history.hanover.edu/texts/vallaintro.html"
+            }
+          ]
+        },
+        {
+          "text": "Constantin a été baptisé sur son lit de mort en 337 par Eusèbe de Nicomédie ; le récit de la guérison de sa lèpre par Sylvestre vient d'une légende.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Eusebius of Nicomedia",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05623b.htm"
+            },
+            {
+              "title": "Donation of Constantine",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05118a.htm"
+            }
+          ]
+        },
+        {
+          "text": "Nicolas de Cues a exprimé des doutes sur la Donation dans le De concordantia catholica, vers 1433, et Reginald Pecock l'a aussi contestée peu après Valla.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Donation of Constantine Is Exposed",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/history/donation-constantine-exposed"
+            },
+            {
+              "title": "Reginald Pecock and Lorenzo Valla on the Donation of Constantine",
+              "publisher": "Studies in the Renaissance",
+              "url": "https://www.journals.uchicago.edu/doi/10.2307/2857015"
+            }
+          ]
+        },
+        {
+          "text": "Lorenzo Valla est ensuite entré au service de la curie romaine sous le pape Nicolas V.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lorenzo Valla",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/lorenzo-valla/"
+            }
+          ]
+        },
+        {
+          "text": "Ulrich von Hutten a publié le traité de Valla en 1517, et Martin Luther, qui l'a lu peu après, s'en est indigné dans sa correspondance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lorenzo Valla, Discourse on the Forgery of the Alleged Donation of Constantine (introduction)",
+              "publisher": "Hanover College",
+              "url": "https://history.hanover.edu/texts/vallaintro.html"
+            },
+            {
+              "title": "The Papal Antichrist: Martin Luther and the Underappreciated Influence of Lorenzo Valla",
+              "publisher": "Renaissance Quarterly",
+              "url": "https://www.academia.edu/22653029/_The_Papal_Antichrist_Martin_Luther_and_the_Underappreciated_Influence_of_Lorenzo_Valla_Renaissance_Quarterly_61_1_2008_26_52"
+            }
+          ]
+        },
+        {
+          "text": "Les États pontificaux ont survécu jusqu'à la prise de Rome en 1870, et les accords du Latran de 1929 ont créé l'État de la Cité du Vatican.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Roman question",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/Roman-question"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "le-fardeau-de-la-preuve-19ef",
+      "youtubeId": "1DqgdLPjCi4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+      "publishedAt": "2026-09-25T07:02:41.865Z",
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
+        "verdict": "trompeur",
+        "summary": "La vidéo conclut que cette phrase renverse la charge de la preuve : c'est à celui qui affirme l'existence de Dieu d'apporter des raisons, et l'absence de réfutation n'est pas une preuve (appel à l'ignorance, théière de Russell, dragon de Sagan). Elle reconnaît toutefois que l'on peut prouver certaines négations dans un domaine fini, et que l'athée qui affirme savoir qu'aucun dieu n'existe porte lui aussi une charge de la preuve.",
+        "techniques": [
+          "charge-de-la-preuve",
+          "infalsifiabilite",
+          "faux-dilemme"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Le Digeste de Justinien, promulgué en 533, contient la maxime « Ei incumbit probatio qui dicit, non qui negat » (la preuve incombe à celui qui affirme, non à celui qui nie), attribuée au juriste romain Paul.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Digest of Justinian: Liber XXII",
+              "publisher": "The Latin Library",
+              "url": "https://www.thelatinlibrary.com/justinian/digest22.shtml"
+            },
+            {
+              "title": "Digest XXII, 3, 2 (Paulus)",
+              "publisher": "Trans-Lex.org",
+              "url": "https://www.trans-lex.org/800200/"
+            }
+          ]
+        },
+        {
+          "text": "La présomption d'innocence est inscrite à l'article 9 de la Déclaration des droits de l'homme et du citoyen de 1789.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Article 9 - Déclaration du 26 août 1789 des droits de l'homme et du citoyen",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527435/"
+            }
+          ]
+        },
+        {
+          "text": "Bertrand Russell a rédigé en 1952 un texte intitulé « Is There a God? », commandé par le magazine Illustrated, qui n'a pas été publié de son vivant, et dans lequel il propose l'analogie d'une théière de porcelaine en orbite entre la Terre et Mars, trop petite pour être détectée par les télescopes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Russell's teapot",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Russell%27s_teapot"
+            }
+          ]
+        },
+        {
+          "text": "Dans ce texte, Russell soutient que si l'existence de cette théière était affirmée par des livres anciens et enseignée aux enfants, le doute à son égard serait considéré comme une excentricité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Russell's teapot",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Russell%27s_teapot"
+            }
+          ]
+        },
+        {
+          "text": "John Locke identifie et nomme l'argumentum ad ignorantiam dans son Essai sur l'entendement humain, publié en 1690.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "An Essay Concerning Human Understanding Book IV",
+              "publisher": "Early Modern Texts",
+              "url": "https://www.earlymoderntexts.com/assets/pdfs/locke1690book4_3.pdf"
+            },
+            {
+              "title": "Argument from ignorance",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Argument_from_ignorance"
+            }
+          ]
+        },
+        {
+          "text": "Carl Sagan expose l'analogie du dragon invisible dans son garage dans l'ouvrage The Demon-Haunted World, publié en 1995.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Demon-Haunted World",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Demon-Haunted_World"
+            },
+            {
+              "title": "Il n'existe pas de traduction française du dernier livre de Carl Sagan",
+              "publisher": "X (Acermendax)",
+              "url": "https://twitter.com/Acermendax/status/1273910586280161295"
+            }
+          ]
+        },
+        {
+          "text": "Guillaume d'Ockham était un théologien et philosophe franciscain mort vers 1347, associé au principe de parcimonie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "William of Ockham",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/ockham/"
+            }
+          ]
+        },
+        {
+          "text": "La formule latine « entia non sunt multiplicanda praeter necessitatem » n'apparaît pas telle quelle dans les écrits conservés de Guillaume d'Ockham ; les historiens l'attribuent à des auteurs postérieurs, notamment le scolastique irlandais John Punch au XVIIe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Occam's razor",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+            },
+            {
+              "title": "Who sharpened Occam's Razor?",
+              "publisher": "Irish Philosophy",
+              "url": "https://irishphilosophy.com/2014/05/27/who-sharpened-occams-razor/"
+            }
+          ]
+        },
+        {
+          "text": "Christopher Hitchens formule dans God Is Not Great, publié en 2007, le principe selon lequel ce qui peut être affirmé sans preuve peut être rejeté sans preuve.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hitchens's razor",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hitchens%27s_razor"
+            }
+          ]
+        },
+        {
+          "text": "Karl Popper expose le critère de falsifiabilité dans Logik der Forschung, publié en allemand en 1934.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Karl Popper",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/popper/"
+            }
+          ]
+        },
+        {
+          "text": "Il est logiquement démontrable qu'il n'existe aucun nombre premier pair supérieur à deux, ce qui constitue un exemple de proposition négative prouvable.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is 2 prime?",
+              "publisher": "Brilliant",
+              "url": "https://brilliant.org/wiki/is-2-prime/"
+            }
+          ]
+        },
+        {
+          "text": "L'athéisme dit faible, ou agnosticisme athée, se définit comme l'absence de croyance en une divinité faute de raisons suffisantes, et se distingue de l'affirmation positive qu'aucune divinité n'existe.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Atheism and Agnosticism",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/atheism-agnosticism/"
+            },
+            {
+              "title": "Agnostic atheism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Agnostic_atheism"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "sans-dieu-tout-est-permis-9230",
+      "youtubeId": "xr-j1jeo9YU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
+      "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+      "publishedAt": "2026-09-25T05:40:52.683Z",
+      "pillar": "Nihilisme et philosophie : Nietzsche, Camus, Cioran, l'absurde",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
+        "verdict": "faux",
+        "summary": "La vidéo conclut que ce chantage moral ne tient pas : la formule est une citation approximative popularisée par Sartre, Nietzsche et Camus décrivent le nihilisme comme un danger à surmonter et non comme un programme, et l'argument repose sur des sophismes (faux dilemme, appel aux conséquences, homme de paille). Sa raison la plus forte est le dilemme d'Euthyphron : si le bien dépend du commandement divin, la morale est arbitraire, et s'il en est indépendant, Dieu ne la fonde plus.",
+        "techniques": [
+          "faux-dilemme",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Le groupe Rammstein a été formé à Berlin en 1994.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rammstein",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Rammstein"
+            }
+          ]
+        },
+        {
+          "text": "Les Frères Karamazov de Dostoïevski a été publié en feuilleton entre 1879 et 1880, et Dostoïevski est mort en 1881.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Brothers Karamazov",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+            }
+          ]
+        },
+        {
+          "text": "La formule exacte « Si Dieu n'existe pas, tout est permis » n'apparaît pas telle quelle dans Les Frères Karamazov ; le roman contient des formulations voisines attribuées à la thèse d'Ivan et reprises par Smerdiakov.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"If there is a God, then anything is permitted\": On Dostoevsky, freedom, and religious violence",
+              "publisher": "ABC Religion & Ethics",
+              "url": "https://www.abc.net.au/religion/slavoj-zizek-if-there-is-a-god-then-anything-is-permitted/10100616"
+            },
+            {
+              "title": "The Brothers Karamazov, Book XI, Chapter 8",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/The_Brothers_Karamazov/Book_XI/Chapter_8"
+            }
+          ]
+        },
+        {
+          "text": "Jean-Paul Sartre cite la formule « Si Dieu n'existait pas, tout serait permis » en l'attribuant à Dostoïevski dans L'existentialisme est un humanisme, publié en 1946.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Existentialism is a Humanism, Jean-Paul Sartre 1946",
+              "publisher": "Marxists Internet Archive",
+              "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm"
+            },
+            {
+              "title": "Existentialism Is a Humanism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism"
+            }
+          ]
+        },
+        {
+          "text": "Dans Les Frères Karamazov, la thèse d'Ivan est rapportée dès le livre deux : sans immortalité de l'âme, il n'y aurait plus de vertu, et l'égoïsme voire le crime deviendraient permis et même nécessaires ; Smerdiakov commet ensuite le meurtre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Brothers Karamazov, Book II, Chapter 6",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/The_Brothers_Karamazov/Book_II/Chapter_6"
+            },
+            {
+              "title": "The Brothers Karamazov, Book XI, Chapter 8",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/The_Brothers_Karamazov/Book_XI/Chapter_8"
+            }
+          ]
+        },
+        {
+          "text": "Le Gai Savoir de Nietzsche a été publié en 1882 et son aphorisme 125 met en scène un insensé portant une lanterne en plein midi qui déclare « Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué. »",
+          "status": "waived",
+          "note": "Nuance de traduction levée par le relecteur : La date (1882), l'aphorisme 125 et la citation sont exacts, mais le texte allemand dit « am hellen Vormittage » (en pleine matinée), rendu en français par « en plein jour », et non « en plein midi ». Correction proposée : Le Gai Savoir de Nietzsche a été publié en 1882 et son aphorisme 125 met en scène un insensé qui allume une lanterne en plein jour, au clair matin (« am hellen Vormittage »), et déclare « Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué. »",
+          "sources": [
+            {
+              "title": "L'homme fou (1) — texte allemand de l'aphorisme 125",
+              "publisher": "Phusis",
+              "url": "https://phusis.ch/philosophie/2015/06/18/lhomme-fou-1"
+            },
+            {
+              "title": "Le Gai Savoir, § 125 (trad. Henri Albert, 1901)",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Page:Nietzsche_-_Le_Gai_Savoir,_1901.djvu/181"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'aphorisme 125 du Gai Savoir, l'insensé demande qui a donné l'éponge pour effacer l'horizon et conclut qu'il est venu trop tôt, sans être compris de la foule.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Friedrich Nietzsche Pronounces \"God is Dead\": The Gay Science (1882)",
+              "publisher": "German History in Documents and Images",
+              "url": "https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/friedrich-nietzsche-pronounces-god-is-dead-the-gay-science-1882"
+            },
+            {
+              "title": "La mort de Dieu — Le Gai Savoir § 125 (texte français)",
+              "publisher": "L'Encyclopédie de L'Agora",
+              "url": "http://agora.qc.ca/documents/nihilisme--la_mort_de_dieu_par_friedrich_nietzsche"
+            }
+          ]
+        },
+        {
+          "text": "Ainsi parlait Zarathoustra a été publié entre 1883 et 1885 et présente la figure critique du « dernier homme ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Thus Spoke Zarathustra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra"
+            },
+            {
+              "title": "Last man",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Last_man"
+            }
+          ]
+        },
+        {
+          "text": "Dans La Généalogie de la morale, publiée en 1887, Nietzsche écrit que l'homme préfère encore vouloir le néant plutôt que ne pas vouloir.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The third essay — Nietzsche's 'On the Genealogy of Morality'",
+              "publisher": "Cambridge University Press",
+              "url": "https://www.cambridge.org/core/books/abs/nietzsches-on-the-genealogy-of-morality/third-essay/C626448F085B0224FA9F9C983BE10CE7"
+            }
+          ]
+        },
+        {
+          "text": "Le Mythe de Sisyphe d'Albert Camus, publié en 1942, s'ouvre sur l'affirmation qu'il n'y a qu'un problème philosophique vraiment sérieux, le suicide, et se termine par la phrase « Il faut imaginer Sisyphe heureux ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Camus, Albert",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/albert-camus/"
+            },
+            {
+              "title": "Albert Camus",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/camus/"
+            }
+          ]
+        },
+        {
+          "text": "L'Homme révolté d'Albert Camus a été publié en 1951 et contient la formule « Je me révolte, donc nous sommes ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Rebel (book)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Rebel_(book)"
+            },
+            {
+              "title": "The Rebel, by Albert Camus",
+              "publisher": "Commentary Magazine",
+              "url": "https://www.commentary.org/articles/h-hughes-2/the-rebel-by-albert-camus/"
+            }
+          ]
+        },
+        {
+          "text": "Le Précis de décomposition de Cioran, son premier livre écrit en français, a paru en 1949 et a reçu le prix Rivarol en 1950.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Précis de décomposition de Cioran",
+              "publisher": "Éditions Gallimard",
+              "url": "https://www.gallimard.fr/Catalogue/GALLIMARD/Idees/Precis-de-decomposition"
+            },
+            {
+              "title": "A Short History of Decay (book)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/A_Short_History_of_Decay_(book)"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Euthyphron de Platon, Socrate demande si le pieux est pieux parce que les dieux l'aiment ou si les dieux l'aiment parce qu'il est pieux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Euthyphro Dilemma (International Encyclopedia of Ethics)",
+              "publisher": "Wiley Online Library",
+              "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444367072.wbiee065"
+            }
+          ]
+        },
+        {
+          "text": "David Hume, dans le Traité de la nature humaine publié à partir de 1739, relève le passage injustifié des énoncés en « est » aux énoncés en « doit » chez les auteurs de morale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dissolving the Is-Ought Problem: An Essay on Moral Reasoning",
+              "publisher": "PhilArchive",
+              "url": "https://philarchive.org/archive/JOADTI"
+            },
+            {
+              "title": "David Hume",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/archives/win2021/entries/hume/"
+            }
+          ]
+        },
+        {
+          "text": "La Déclaration universelle des droits de l'homme a été adoptée par l'Assemblée générale des Nations unies le 10 décembre 1948 et ne mentionne aucune divinité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "History of the Declaration",
+              "publisher": "Nations unies",
+              "url": "https://www.un.org/en/about-us/udhr/history-of-the-declaration"
+            },
+            {
+              "title": "UDHR — Preamble, drafting history",
+              "publisher": "Columbia University (CCNMTL)",
+              "url": "https://ccnmtl.columbia.edu/projects/mmt/udhr/preamble_section_1/drafting_history.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
+    {
+      "slug": "omniscience-divine-contre-libre-arbitre-9957",
+      "youtubeId": "SZCHk7cjrec",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SZCHk7cjrec",
+      "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",
+      "publishedAt": "2026-09-25T05:01:32.451Z",
+      "pillar": "Critique des dogmes : textes sacrés et théologie passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "L'omniscience divine, c'est-à-dire la connaissance infaillible de tous les actes futurs, est compatible avec la liberté humaine et la responsabilité morale.",
+        "verdict": "non_demontre",
+        "summary": "La vidéo conclut que les trois grandes tentatives de conciliation (Boèce, Molina, théisme ouvert), auxquelles s'ajoute l'option calviniste, imposent toutes de sacrifier soit un attribut divin, soit la liberté humaine. Sa raison la plus forte est l'argument de Nelson Pike : si la croyance infaillible de Dieu est dans le passé et que le passé est irrévocable, personne n'a le pouvoir d'agir autrement. Le narrateur présente sa conclusion sur l'incohérence du concept comme une opinion assumée.",
+        "techniques": [
+          "argument-autorite",
+          "faux-dilemme",
+          "infalsifiabilite"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Un titre d'œuvre audiovisuelle intitulé « You Can See Everything » circule actuellement en bande-annonce.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Must Watch Full Trailer for Nathan Fielder's 'You Can See Everything'",
+              "publisher": "FirstShowing.net",
+              "url": "https://www.firstshowing.net/2026/must-watch-full-trailer-for-nathan-fielders-you-can-see-everything/"
+            },
+            {
+              "title": "You Can See Everything | Official Trailer",
+              "publisher": "YouTube (A24)",
+              "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
+            },
+            {
+              "title": "You Can See Everything Trailer: Nathan Fielder's Elizabeth Holmes Doc",
+              "publisher": "Variety",
+              "url": "https://variety.com/2026/film/news/you-can-see-everything-trailer-nathan-fielder-elizabeth-holmes-1236856369/"
+            }
+          ]
+        },
+        {
+          "text": "Augustin traite du rapport entre prescience divine et libre arbitre dans La Cité de Dieu, livre V, ouvrage rédigé entre 413 et 426.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The City of God, Book V (chap. 9: Concerning the Foreknowledge of God and the Free Will of Man)",
+              "publisher": "New Advent (trad. Marcus Dods)",
+              "url": "https://www.newadvent.org/fathers/120105.htm"
+            },
+            {
+              "title": "Augustine, City of God (introduction)",
+              "publisher": "James J. O'Donnell, Georgetown University",
+              "url": "https://faculty.georgetown.edu/jod/augustine/civ.html"
+            }
+          ]
+        },
+        {
+          "text": "Dans La Cité de Dieu, livre V, Augustin reproche à Cicéron d'avoir nié la prescience divine afin de préserver le libre arbitre humain.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The City of God, Book V (chap. 9: Concerning the Foreknowledge of God and the Free Will of Man)",
+              "publisher": "New Advent (trad. Marcus Dods)",
+              "url": "https://www.newadvent.org/fathers/120105.htm"
+            }
+          ]
+        },
+        {
+          "text": "Boèce, sénateur romain emprisonné puis exécuté vers 524, consacre le livre V de la Consolation de la philosophie au problème de la prescience divine et de la liberté humaine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Boethius",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/boethius/"
+            },
+            {
+              "title": "Anicius Manlius Severinus Boethius",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/boethius/"
+            }
+          ]
+        },
+        {
+          "text": "Boèce définit l'éternité, au livre V de la Consolation de la philosophie, comme la possession totale, simultanée et parfaite d'une vie sans limites.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Boethius, De consolatione philosophiae, book 5, section P6",
+              "publisher": "Perseus Digital Library",
+              "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0678%3Abook%3D5%3Asection%3DP6"
+            }
+          ]
+        },
+        {
+          "text": "Thomas d'Aquin reprend la solution boécienne de l'éternité divine dans la Somme théologique pour expliquer la connaissance divine des futurs contingents.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Summa Theologiae I, q.14, a.13: Whether the knowledge of God is of future contingent things?",
+              "publisher": "New Advent",
+              "url": "https://www.newadvent.org/summa/1014.htm"
+            },
+            {
+              "title": "Summa Theologiae I, q.10, a.1: The eternity of God (definition of Boethius)",
+              "publisher": "New Advent",
+              "url": "https://www.newadvent.org/summa/1010.htm"
+            },
+            {
+              "title": "Medieval Theories of Future Contingents",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/medieval-futcont/"
+            }
+          ]
+        },
+        {
+          "text": "Nelson Pike a publié en 1965 dans la Philosophical Review l'article « Divine Omniscience and Voluntary Action », qui formalise l'incompatibilité entre prescience infaillible et action volontaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nelson Pike, Divine omniscience and voluntary action",
+              "publisher": "PhilPapers",
+              "url": "https://philpapers.org/rec/PIKDOA"
+            },
+            {
+              "title": "Divine Omniscience and Voluntary Action - The Philosophical Review",
+              "publisher": "Philosophy Documentation Center",
+              "url": "https://www.pdcnet.org/phr/content/phr_1965_0074_0001_0027_0046"
+            },
+            {
+              "title": "Foreknowledge and Free Will",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/free-will-foreknowledge/"
+            }
+          ]
+        },
+        {
+          "text": "Le livre d'Isaïe, au chapitre 46, attribue à Dieu l'annonce dès le commencement de ce qui arrivera à la fin.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Isaiah 46:10 (NIV / Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Isaiah%2046%3A10&version=NIV;LSG"
+            }
+          ]
+        },
+        {
+          "text": "Le Psaume 139 affirme que la parole n'est pas encore sur la langue qu'elle est déjà connue de Dieu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Psalm 139:4 (NIV / Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Psalm%20139%3A4&version=NIV;LSG"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Évangile selon Matthieu, chapitre 26, Jésus annonce à Pierre qu'il le reniera trois fois avant que le coq chante, ce qui se produit ensuite dans le récit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Matthew 26:34; 26:69-75 (NIV)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Matthew%2026%3A34%2CMatthew%2026%3A69-75&version=NIV"
+            }
+          ]
+        },
+        {
+          "text": "L'Épître aux Romains, chapitre 8, lie explicitement la connaissance anticipée de Dieu et la prédestination.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Romans 8:29-30 (NIV / Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Romans%208%3A29-30&version=NIV;LSG"
+            }
+          ]
+        },
+        {
+          "text": "Le concile de Trente, lors de sa sixième session en 1547, condamne par canon l'affirmation selon laquelle le libre arbitre humain aurait été détruit après le péché d'Adam.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "General Council of Trent: Sixth Session",
+              "publisher": "Papal Encyclicals Online",
+              "url": "https://www.papalencyclicals.net/councils/trent/sixth-session.htm"
+            },
+            {
+              "title": "Canons and Decrees of the Council of Trent, Session VI, Justification",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/Canons_and_Decrees_of_the_Council_of_Trent/Session_VI/Justification"
+            }
+          ]
+        },
+        {
+          "text": "Le jésuite Luis de Molina publie en 1588 la Concordia liberi arbitrii cum gratiae donis, où il expose la doctrine de la science moyenne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Luis de Molina",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/10436a.htm"
+            },
+            {
+              "title": "Middle Knowledge",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/middlekn/"
+            }
+          ]
+        },
+        {
+          "text": "La Congrégation de Auxiliis, réunie à Rome entre 1598 et 1607, a opposé jésuites molinistes et dominicains thomistes sur la grâce et le libre arbitre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Congregatio de Auxiliis",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/04238a.htm"
+            },
+            {
+              "title": "De Auxiliis Controversy",
+              "publisher": "Conimbricenses.org Encyclopedia",
+              "url": "https://www.conimbricenses.org/encyclopedia/de-auxiliis-controversy/"
+            }
+          ]
+        },
+        {
+          "text": "En 1607, le pape Paul V met fin à la controverse de Auxiliis sans trancher doctrinalement, en interdisant aux deux camps de se qualifier mutuellement d'hérétiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Congregatio de Auxiliis",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/04238a.htm"
+            },
+            {
+              "title": "De Auxiliis Controversy",
+              "publisher": "Conimbricenses.org Encyclopedia",
+              "url": "https://www.conimbricenses.org/encyclopedia/de-auxiliis-controversy/"
+            }
+          ]
+        },
+        {
+          "text": "L'ouvrage collectif The Openness of God, publié en 1994, avec notamment Clark Pinnock, John Sanders et William Hasker, soutient que le futur libre n'est pas connu de Dieu car il n'est pas encore déterminé.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Open Theism",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/o-theism/"
+            },
+            {
+              "title": "The Openness of God",
+              "publisher": "InterVarsity Press",
+              "url": "https://www.ivpress.com/the-openness-of-god"
+            }
+          ]
+        },
+        {
+          "text": "Des théologiens du théisme ouvert, dont Clark Pinnock et John Sanders, ont fait l'objet de procédures visant leur exclusion de sociétés savantes évangéliques américaines au début des années 2000.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Theological society retains open theists Pinnock, Sanders",
+              "publisher": "The Southern Baptist Theological Seminary",
+              "url": "https://www.sbts.edu/news/theological-society-retains-open-theists-pinnock-sanders/"
+            },
+            {
+              "title": "ETS Leadership Issues Recommendations on Kicking Out Open Theists",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2003/10/ets-leadership-issues-recommendations-on-kicking-out-open-t/"
+            }
+          ]
+        },
+        {
+          "text": "Jean Calvin défend la doctrine de la prédestination dans l'Institution de la religion chrétienne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Institutes of the Christian Religion, Book 3, Chapter 21",
+              "publisher": "Christian Classics Ethereal Library",
+              "url": "https://www.ccel.org/ccel/calvin/institutes.v.xxii.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    }
+  ],
+  "techniques": [
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup",
+      "definition": "Un texte vague est relu après une découverte pour y voir une prédiction.",
+      "signs": [
+        "la « prédiction » n'a été remarquée qu'après la découverte",
+        "le texte d'origine admet plusieurs lectures",
+        "personne ne s'en est servi pour découvrir quoi que ce soit"
+      ]
+    },
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée",
+      "definition": "On invoque la NASA, un prix Nobel ou « des scientifiques » pour une affirmation qu'ils n'ont pas faite.",
+      "signs": [
+        "aucune publication n'est citée",
+        "la citation est vague ou sortie de son contexte",
+        "l'institution, quand on lui pose la question, dit autre chose"
+      ]
+    },
+    {
+      "id": "numerologie",
+      "name": "Les coïncidences comptées",
+      "definition": "On compte des mots, des lettres ou des dates jusqu'à trouver un nombre qui « tombe juste ».",
+      "signs": [
+        "les règles de comptage changent selon le résultat voulu",
+        "seuls les comptes qui marchent sont montrés",
+        "n'importe quel long texte produit des coïncidences"
+      ]
+    },
+    {
+      "id": "chaine-de-transmission",
+      "name": "La chaîne de témoins comme preuve",
+      "definition": "La réputation d'une chaîne de narrateurs suffirait à garantir qu'un fait a eu lieu.",
+      "signs": [
+        "on juge les témoins, jamais la plausibilité du fait",
+        "les témoins n'étaient pas présents",
+        "aucune source extérieure indépendante ne confirme"
+      ]
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité",
+      "definition": "C'est vrai parce qu'un savant, un texte ou une institution respectés le disent.",
+      "signs": [
+        "la compétence invoquée n'est pas celle du sujet",
+        "on cite le prestige plutôt que les preuves",
+        "les autres spécialistes ne sont pas d'accord"
+      ]
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable",
+      "definition": "Une guérison, une vision ou une conversion racontée tient lieu de preuve.",
+      "signs": [
+        "rien ne permet de vérifier le récit",
+        "seuls les cas réussis sont racontés",
+        "l'émotion remplace les données"
+      ]
+    },
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède",
+      "definition": "On se sent mieux après le traitement, donc le traitement marche.",
+      "signs": [
+        "aucune comparaison avec un faux traitement",
+        "l'amélioration naturelle (la régression vers la moyenne) est ignorée",
+        "seuls des critères subjectifs sont mesurés"
+      ]
+    },
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve",
+      "definition": "« Prouve-moi que c'est faux » : c'est au sceptique de démontrer, plus à celui qui affirme.",
+      "signs": [
+        "celui qui affirme n'apporte aucune preuve",
+        "l'absence de réfutation est présentée comme une preuve",
+        "l'affirmation est taillée pour ne pas pouvoir être réfutée"
+      ]
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout",
+      "definition": "Aucune observation ne pourrait jamais la contredire : chaque échec reçoit une excuse.",
+      "signs": [
+        "chaque échec a son explication (« c'était la nuit », « tu n'avais pas assez la foi »)",
+        "la thèse s'adapte à tous les résultats",
+        "elle ne prédit rien qu'on pourrait vérifier"
+      ]
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables",
+      "definition": "On retient les réussites et on oublie les échecs.",
+      "signs": [
+        "aucune donnée sur les échecs",
+        "les prophéties ratées sont passées sous silence",
+        "les exemples sont choisis après coup"
+      ]
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté",
+      "definition": "Si c'est pratiqué depuis des siècles ou par des millions de gens, c'est que ça marche.",
+      "signs": [
+        "la durée ou le nombre remplace la preuve",
+        "des pratiques tout aussi anciennes ont été abandonnées (la saignée)",
+        "on cite la tradition plutôt que des résultats"
+      ]
+    },
+    {
+      "id": "faux-dilemme",
+      "name": "Le faux dilemme",
+      "definition": "On réduit les choix à deux options, dont l'une est présentée comme absurde.",
+      "signs": [
+        "d'autres possibilités existent mais ne sont pas évoquées",
+        "« soit c'est un miracle, soit ce sont des menteurs »",
+        "le choix proposé force la conclusion"
+      ]
+    }
+  ]
+}
