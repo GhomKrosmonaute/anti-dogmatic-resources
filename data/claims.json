@@ -1,8 +1,400 @@
 {
-  "generatedAt": "2026-10-02T09:41:25.042Z",
+  "generatedAt": "2026-10-02T16:01:05.774Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "youtubeId": "Bcmlc37zuUc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
+      "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
+      "publishedAt": "2026-10-02T16:00:05.738Z",
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "caution-scientifique",
+      "examinedClaim": null,
+      "facts": [
+        {
+          "text": "Neil Armstrong, ancien pilote d'essai, est devenu le premier être humain à marcher sur la Lune le 21 juillet 1969 (temps universel), lors de la mission Apollo 11.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Apollo 11 Timeline",
+              "publisher": "Smithsonian National Air and Space Museum",
+              "url": "https://airandspace.si.edu/explore/stories/apollo-missions/apollo-11-moon-landing/apollo-11-timeline"
+            },
+            {
+              "title": "Neil Armstrong",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+            }
+          ]
+        },
+        {
+          "text": "La distance moyenne entre la Terre et la Lune est d'environ 384 400 kilomètres, soit près de quatre cent mille kilomètres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "How Far Away Is the Moon?",
+              "publisher": "NASA Space Place",
+              "url": "https://spaceplace.nasa.gov/moon-distance/en/"
+            }
+          ]
+        },
+        {
+          "text": "La rumeur selon laquelle Neil Armstrong aurait entendu l'adhan sur la Lune puis se serait converti à l'islam circule dans le monde musulman depuis le début des années 1980.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "10 Myths About Neil Armstrong",
+              "publisher": "Armstrong Air & Space Museum",
+              "url": "https://www.armstrongmuseum.org/10-myths-about-neil-armstrong"
+            },
+            {
+              "title": "Neil Armstrong",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+            }
+          ]
+        },
+        {
+          "text": "La Lune n'a pratiquement pas d'atmosphère ; le son, qui a besoin d'un milieu matériel pour se propager, ne peut pas traverser le vide.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "LADEE In Depth",
+              "publisher": "NASA Science",
+              "url": "https://science.nasa.gov/mission/ladee/in-depth/"
+            },
+            {
+              "title": "How does sound travel in space?",
+              "publisher": "Smithsonian National Air and Space Museum",
+              "url": "https://howthingsfly.si.edu/ask-an-explainer/how-does-sound-travel-space"
+            }
+          ]
+        },
+        {
+          "text": "Les communications de la sortie lunaire d'Apollo 11 sont transcrites et publiques dans l'Apollo Lunar Surface Journal, hébergé par la NASA, et ne contiennent aucun appel à la prière.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Apollo Lunar Surface Journal and Apollo Flight Journal – Apollo 11",
+              "publisher": "NASA",
+              "url": "https://www.hq.nasa.gov/alsj/a11/a11.html"
+            },
+            {
+              "title": "10 Myths About Neil Armstrong",
+              "publisher": "Armstrong Air & Space Museum",
+              "url": "https://www.armstrongmuseum.org/10-myths-about-neil-armstrong"
+            }
+          ]
+        },
+        {
+          "text": "En 1983, le Département d'État américain a diffusé à ses ambassades un message relayant la mise au point de Neil Armstrong, selon laquelle il ne s'était pas converti à l'islam, la rumeur s'étant répandue dans plusieurs pays musulmans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"How Neil Armstrong became a Muslim\"",
+              "publisher": "Answering Islam",
+              "url": "https://www.answering-islam.org/Hoaxes/neil.html"
+            },
+            {
+              "title": "10 Myths About Neil Armstrong",
+              "publisher": "Armstrong Air & Space Museum",
+              "url": "https://www.armstrongmuseum.org/10-myths-about-neil-armstrong"
+            }
+          ]
+        },
+        {
+          "text": "La biographie autorisée de Neil Armstrong, First Man: The Life of Neil A. Armstrong de James R. Hansen (2005), revient sur la rumeur de sa conversion à l'islam.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "10 Myths About Neil Armstrong",
+              "publisher": "Armstrong Air & Space Museum",
+              "url": "https://www.armstrongmuseum.org/10-myths-about-neil-armstrong"
+            },
+            {
+              "title": "First Man: The Life of Neil A. Armstrong",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/First_Man:_The_Life_of_Neil_A._Armstrong"
+            }
+          ]
+        },
+        {
+          "text": "Josué 10:12-14 rapporte que, pendant la bataille contre les rois amorites, Josué ordonne au Soleil de s'arrêter sur Gabaon et que le Soleil « ne se hâta point de se coucher, presque tout un jour » (traduction Louis Segond).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Josué 10:12-14 (Louis Segond)",
+              "publisher": "Bible Gateway",
+              "url": "https://www.biblegateway.com/passage/?search=Josu%C3%A9+10%3A12-14&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "2 Rois 20:8-11 rapporte qu'à la prière du prophète Ésaïe, l'ombre recule de dix degrés sur le cadran d'Achaz, en signe donné au roi Ézéchias.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "2 Rois 20:8-11 (Louis Segond)",
+              "publisher": "Bible Gateway",
+              "url": "https://www.biblegateway.com/passage/?search=2+Rois+20%3A8-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "En 1890, Charles A. L. Totten, officier de l'armée américaine, publie Joshua's Long Day and the Dial of Ahaz, où il affirme déjà démontrer par le calcul un jour manquant composé de 23 heures 20 minutes (Josué) et de 40 minutes (Ézéchias).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Joshua's long day and the dial of Ahaz, a scientific vindication and \"A midnight cry\"",
+              "publisher": "Internet Archive",
+              "url": "https://archive.org/details/joshuaslongdaydi00tottrich"
+            },
+            {
+              "title": "Joshua's Long Day and the NASA Computers",
+              "publisher": "Interdisciplinary Biblical Research Institute",
+              "url": "https://ibri.org/Tracts/longdtct.htm"
+            }
+          ]
+        },
+        {
+          "text": "La version de la légende du « jour perdu » mettant en scène les ordinateurs de la NASA a été popularisée autour de 1970 par Harold Hill, chef d'entreprise de Baltimore, qui la reprend dans son livre How to Live Like a King's Kid.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Joshua's Long Day and the NASA Computers",
+              "publisher": "Interdisciplinary Biblical Research Institute",
+              "url": "https://ibri.org/Tracts/longdtct.htm"
+            },
+            {
+              "title": "Have NASA Computers Proved Joshua's Long Day?",
+              "publisher": "Answers in Genesis",
+              "url": "https://answersingenesis.org/creationism/arguments-to-avoid/have-nasa-computers-proved-joshuas-long-day/"
+            }
+          ]
+        },
+        {
+          "text": "La NASA a démenti à plusieurs reprises l'anecdote selon laquelle ses ordinateurs auraient découvert un « jour perdu ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The missing day – Dr Karl's Great Moments In Science",
+              "publisher": "ABC Science",
+              "url": "https://www.abc.net.au/science/articles/2007/07/09/1969958.htm"
+            },
+            {
+              "title": "Joshua's Long Day and the NASA Computers",
+              "publisher": "Interdisciplinary Biblical Research Institute",
+              "url": "https://ibri.org/Tracts/longdtct.htm"
+            }
+          ]
+        },
+        {
+          "text": "Les calculs d'éphémérides extrapolent les positions des astres à partir d'observations et des lois de la mécanique céleste ; ils ne comportent pas de compteur de jours depuis une date de création, et aucune observation antique datée indépendamment n'a été produite pour établir un jour manquant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The JPL Planetary and Lunar Ephemerides DE440 and DE441",
+              "publisher": "NASA Jet Propulsion Laboratory, Solar System Dynamics",
+              "url": "https://ssd.jpl.nasa.gov/doc/de440_de441.html"
+            },
+            {
+              "title": "The Missing Day",
+              "publisher": "Steven Dutch (University of Wisconsin–Green Bay)",
+              "url": "https://stevedutch.net/pseudosc/missday.htm"
+            }
+          ]
+        },
+        {
+          "text": "La vitesse de rotation de la surface terrestre à l'équateur est d'environ 465 mètres par seconde, vers l'est.",
+          "status": "supported",
+          "note": "",
+          "sources": []
+        },
+        {
+          "text": "Le récit de l'étudiant qui confond un professeur athée (le mal comme absence de Dieu, le froid comme absence de chaleur) circule par courriels anonymes depuis le tournant des années 2000 ; le nom d'Einstein y a été ajouté après coup et aucune biographie ni archive d'Einstein n'atteste cette scène.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Did Albert Einstein Humiliate an Atheist Professor?",
+              "publisher": "Snopes",
+              "url": "https://www.snopes.com/fact-check/false-einstein-humiliates-professor/"
+            },
+            {
+              "title": "Einstein proves God in an encounter with a professor – Fiction!",
+              "publisher": "TruthOrFiction",
+              "url": "https://www.truthorfiction.com/einstein-god/"
+            }
+          ]
+        },
+        {
+          "text": "Dans une lettre au philosophe Eric Gutkind datée du 3 janvier 1954, Albert Einstein écrit que le mot Dieu n'est pour lui que l'expression et le produit des faiblesses humaines, et la Bible un recueil de légendes vénérables mais primitives.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Einstein's famous 'God' letter sells at auction for record-breaking amount",
+              "publisher": "Fox News",
+              "url": "https://www.foxnews.com/science/einsteins-famous-god-letter-sells-at-auction-for-record-breaking-amount"
+            },
+            {
+              "title": "Einstein's 'God Letter' sells for almost $3 million at Christie's",
+              "publisher": "The Jerusalem Post",
+              "url": "https://www.jpost.com/diaspora/einsteins-god-letter-sells-for-almost-3-million-at-christies-573626"
+            }
+          ]
+        },
+        {
+          "text": "La lettre d'Einstein à Eric Gutkind a été vendue aux enchères chez Christie's en 2018.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Einstein's famous 'God letter' sold for a record-breaking $2.9 million",
+              "publisher": "CNBC",
+              "url": "https://www.cnbc.com/2018/12/05/einsteins-god-letter-sold-at-auction-for-2point9-million--heres-why.html"
+            }
+          ]
+        },
+        {
+          "text": "Einstein rejetait l'idée d'un Dieu personnel sans se présenter comme un athée militant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Einstein & Faith",
+              "publisher": "TIME",
+              "url": "https://time.com/archive/6680629/einstein-faith/"
+            },
+            {
+              "title": "Religious and philosophical views of Albert Einstein",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Religious_and_philosophical_views_of_Albert_Einstein"
+            }
+          ]
+        },
+        {
+          "text": "Luc Montagnier a reçu le prix Nobel de physiologie ou médecine en 2008, avec Françoise Barré-Sinoussi, pour la découverte du virus de l'immunodéficience humaine (VIH).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Nobel Prize in Physiology or Medicine 2008 – Press release",
+              "publisher": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/medicine/2008/press-release/"
+            }
+          ]
+        },
+        {
+          "text": "En 2009, Luc Montagnier a publié des travaux sur de prétendus signaux électromagnétiques émis par des solutions très diluées d'ADN, travaux invoqués par des promoteurs de l'homéopathie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Electromagnetic signals are produced by aqueous nanostructures derived from bacterial DNA sequences",
+              "publisher": "Springer – Interdisciplinary Sciences: Computational Life Sciences",
+              "url": "https://link.springer.com/article/10.1007/s12539-009-0036-7"
+            },
+            {
+              "title": "The Montagnier \"Homeopathy\" Study",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/the-montagnier-homeopathy-study/"
+            }
+          ]
+        },
+        {
+          "text": "Les travaux de Luc Montagnier de 2009 sur les signaux électromagnétiques de l'ADN dilué n'ont pas été confirmés de façon indépendante.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "DNA teleportation",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/DNA_teleportation"
+            },
+            {
+              "title": "The Montagnier \"Homeopathy\" Study",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/the-montagnier-homeopathy-study/"
+            }
+          ]
+        },
+        {
+          "text": "En 1989, B. C. Wolverton et ses collègues ont publié pour la NASA un rapport (Interior Landscape Plants for Indoor Air Pollution Abatement) sur des plantes testées dans de petites chambres hermétiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Study of Interior Landscape Plants for Indoor Air Pollution Abatement",
+              "publisher": "NASA Technical Reports Server",
+              "url": "https://ntrs.nasa.gov/citations/19930072988"
+            }
+          ]
+        },
+        {
+          "text": "En 2019, Bryan Cummings et Michael Waring (université Drexel) ont passé en revue les expériences de ce type et estimé qu'il faudrait entre 10 et 1 000 plantes par mètre carré pour égaler l'effet de la ventilation ordinaire d'un bâtiment.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies",
+              "publisher": "Journal of Exposure Science & Environmental Epidemiology (Nature)",
+              "url": "https://www.nature.com/articles/s41370-019-0175-9"
+            },
+            {
+              "title": "Study: Actually, Potted Plants Don't Improve Air Quality",
+              "publisher": "Drexel University",
+              "url": "https://drexel.edu/news/archive/2019/november/potted-plants-do-not-improve-air-quality"
+            }
+          ]
+        },
+        {
+          "text": "En 2013, le programmeur italien Alberto Brandolini a formulé ce qu'on appelle la loi de Brandolini : réfuter des inepties demande beaucoup plus d'énergie que de les produire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Brandolini's law",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Brandolini%27s_law"
+            }
+          ]
+        },
+        {
+          "text": "Une étude de Soroush Vosoughi, Deb Roy et Sinan Aral publiée dans Science en 2018 a montré que, sur Twitter, les fausses nouvelles se diffusaient plus loin et plus vite que les vraies.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The spread of true and false news online",
+              "publisher": "Science",
+              "url": "https://www.science.org/doi/10.1126/science.aap9559"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
     {
       "slug": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
       "youtubeId": "gj_C6XBZ2W4",
