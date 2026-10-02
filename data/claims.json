@@ -1,8 +1,426 @@
 {
-  "generatedAt": "2026-10-02T08:31:11.919Z",
+  "generatedAt": "2026-10-02T09:16:07.749Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
+      "youtubeId": "gj_C6XBZ2W4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
+      "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+      "publishedAt": "2026-10-02T09:15:07.706Z",
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "relecture-a-posteriori",
+      "examinedClaim": null,
+      "facts": [
+        {
+          "text": "Le verset 21:30 du Coran, dans la traduction de Muhammad Hamidullah, dit : « Ceux qui ont mécru, n'ont-ils pas vu que les cieux et la terre formaient une masse compacte ? Ensuite Nous les avons séparés et fait de l'eau toute chose vivante. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 21:30 in French (Hamidullah)",
+              "publisher": "QuranV",
+              "url": "https://www.quranv.com/fr/21/30/"
+            }
+          ]
+        },
+        {
+          "text": "Dans le verset 21:30, le mot arabe ratq désigne ce qui est soudé ou cousu d'un seul tenant, et fataqa signifie fendre, ouvrir ou séparer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "رتق according to Arabic-English Lexicon by Edward William Lane",
+              "publisher": "QuranX (Lane's Lexicon)",
+              "url": "https://quranx.com/Dictionary/Lane/%D8%B1%D8%AA%D9%82"
+            },
+            {
+              "title": "تفسير الطبري — الأنبياء 30",
+              "publisher": "tafsir.app",
+              "url": "https://tafsir.app/tabari/21/30"
+            }
+          ]
+        },
+        {
+          "text": "La vie est très probablement apparue en milieu aquatique, et les cellules vivantes sont majoritairement composées d'eau.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Origin of Life – The hydrothermal vent hypothesis",
+              "publisher": "University of California Museum of Paleontology, Berkeley",
+              "url": "https://evolution.berkeley.edu/the-origin-of-life/the-hydrothermal-vent-hypothesis/"
+            },
+            {
+              "title": "Water and Life: The Medium is the Message",
+              "publisher": "PMC / NCBI",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7884305/"
+            }
+          ]
+        },
+        {
+          "text": "Le télescope n'existait pas au septième siècle : il apparaît au début du dix-septième siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "This Month in Astronomical History: The Invention of the Telescope",
+              "publisher": "American Astronomical Society",
+              "url": "https://aas.org/posts/story/2017/10/month-astronomical-history-invention-telescope"
+            }
+          ]
+        },
+        {
+          "text": "Le chanoine belge Georges Lemaître a décrit un univers en expansion en 1927 et proposé l'hypothèse de l'atome primitif en 1931, en s'appuyant sur les équations de la relativité générale d'Einstein et sur les vitesses mesurées des galaxies.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Figure and Legacy of Monseigneur Georges Lemaître",
+              "publisher": "Pontifical Academy of Sciences",
+              "url": "https://www.pas.va/en/publications/acta/acta24pas/hertog.html"
+            },
+            {
+              "title": "May 1931: Georges Lemaître proposes that the universe has a beginning",
+              "publisher": "APS News",
+              "url": "https://www.aps.org/apsnews/2026/05/lemaitre-proposes-universe-beginning"
+            }
+          ]
+        },
+        {
+          "text": "Le chirurgien français Maurice Bucaille a publié en 1976 La Bible, le Coran et la science, où il conclut que certains versets ne peuvent pas être l'œuvre d'un homme de l'époque.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Les Wikipédia française et anglaise le présentent comme gastro-entérologue (de 1945 à 1982), pas comme chirurgien ; la publication chez Seghers en 1976 et sa conclusion sur l'origine non humaine du Coran sont en revanche confirmées. Correction proposée : Le médecin français Maurice Bucaille, gastro-entérologue, a publié en 1976 La Bible, le Coran et la science, où il conclut que certains versets ne peuvent pas être l'œuvre d'un homme de l'époque.",
+          "sources": [
+            {
+              "title": "Maurice Bucaille",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Maurice_Bucaille"
+            },
+            {
+              "title": "Maurice Bucaille",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Maurice_Bucaille"
+            }
+          ]
+        },
+        {
+          "text": "Les promoteurs des miracles scientifiques présentent le verset 51:47 comme l'annonce de l'expansion de l'univers et le verset 23:14 comme une description exacte du développement de l'embryon.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"Quran-science\": Scientific miracles from the 7th century?",
+              "publisher": "Taner Edis, Truman State University",
+              "url": "https://edis.sites.truman.edu/quran-science-scientific-miracles-from-the-7th-century/"
+            },
+            {
+              "title": "4.1.5 Quranic Cosmogony",
+              "publisher": "Madrasa Discourses, University of Notre Dame",
+              "url": "https://madrasadiscourses.nd.edu/module_attachments/4-1-5-quranic-cosmogony/"
+            }
+          ]
+        },
+        {
+          "text": "L'embryologiste canadien Keith L. Moore a publiquement salué la précision de la description de l'embryon dans le Coran.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Keith L. Moore",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Keith_L._Moore"
+            },
+            {
+              "title": "Dr. Keith Moore and the \"Islamic Additions\"",
+              "publisher": "WikiIslam",
+              "url": "https://wikiislam.net/wiki/Dr._Keith_Moore"
+            }
+          ]
+        },
+        {
+          "text": "Isaïe 40:22, dans la traduction de Louis Segond, dit que Dieu est « assis au-dessus du cercle de la terre » et qu'il déploie les cieux « comme une tente ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Isaiah 40:22 (LSG) - La Bible Louis Segond 1910",
+              "publisher": "Biblia.com",
+              "url": "https://biblia.com/books/lsg/Is40.22?ssi=0"
+            }
+          ]
+        },
+        {
+          "text": "La « vitesse de la lumière » attribuée aux Védas repose sur une phrase qui salue le Soleil parcourant 2 202 yojanas en un demi-nimesha ; avec certaines valeurs choisies pour ces unités, la conversion donne environ 300 000 km/s.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Speed of Light and Purāṇic Cosmology",
+              "publisher": "arXiv (Subhash Kak)",
+              "url": "https://arxiv.org/pdf/physics/9804020"
+            },
+            {
+              "title": "The Speed of Light and Puranic Cosmology - ADS",
+              "publisher": "NASA ADS",
+              "url": "https://ui.adsabs.harvard.edu/abs/1998physics...4020K/abstract"
+            }
+          ]
+        },
+        {
+          "text": "Cette phrase se trouve dans le commentaire du Rig-Véda (hymne 1.50) écrit par Sayana au quatorzième siècle, dans le royaume de Vijayanagara. Elle ne figure pas dans les hymnes védiques eux-mêmes et s'adresse au Soleil.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Speed of Light and Purāṇic Cosmology",
+              "publisher": "arXiv (Subhash Kak)",
+              "url": "https://arxiv.org/pdf/physics/9804020"
+            },
+            {
+              "title": "The Speed of Light and Puranic Cosmology",
+              "publisher": "Semantic Scholar",
+              "url": "https://www.semanticscholar.org/paper/The-Speed-of-Light-and-Puranic-Cosmology-Kak/dbc1ccfaab0cfd1ed040c50655e160c0bdb32631"
+            }
+          ]
+        },
+        {
+          "text": "La valeur du yojana varie selon les textes indiens anciens, à peu près du simple au double, et celle du nimesha varie aussi.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Les sources textuelles donnent un yojana de 3,5 à 15 km, soit un écart bien plus grand que du simple au double, et le nimesha va d'environ 0,09 s (Surya Siddhanta) à 16/75 s selon les systèmes. Correction proposée : La valeur du yojana varie fortement selon les textes indiens anciens, d'environ 3,5 à 15 km (avec souvent un « petit » yojana d'environ 6,5 km et un « grand » d'environ 13 km), et celle du nimesha varie aussi.",
+          "sources": [
+            {
+              "title": "Yojana",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Yojana"
+            },
+            {
+              "title": "Hindu units of time",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hindu_units_of_time"
+            }
+          ]
+        },
+        {
+          "text": "Le calcul a été popularisé à la fin des années 1990 par l'informaticien Subhash Kak, notamment dans « The Speed of Light and Puranic Cosmology » (1998).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Speed of Light and Purāṇic Cosmology",
+              "publisher": "arXiv (Subhash Kak)",
+              "url": "https://arxiv.org/pdf/physics/9804020"
+            },
+            {
+              "title": "The Speed of Light and Puranic Cosmology - ADS",
+              "publisher": "NASA ADS",
+              "url": "https://ui.adsabs.harvard.edu/abs/1998physics...4020K/abstract"
+            }
+          ]
+        },
+        {
+          "text": "Erwin Schrödinger a cité les Upanishads et s'est intéressé au Vedanta dans ses écrits philosophiques, notamment dans l'épilogue de What Is Life? (1944).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Epilogue. On Determinism and Free Will - What is Life?",
+              "publisher": "Cambridge University Press",
+              "url": "https://www.cambridge.org/core/books/abs/what-is-life/epilogue-on-determinism-and-free-will/AFAC3EB53409C1E6E5ED174E820D6304"
+            },
+            {
+              "title": "Schrödinger's Doctrine of Identity: On the Role of Advaita Vedānta in Erwin Schrödinger's Thought",
+              "publisher": "PMC / NCBI",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12319367/"
+            }
+          ]
+        },
+        {
+          "text": "Nostradamus, médecin et astrologue, a publié la première édition de ses Prophéties à Lyon en 1555. Le quatrain II,24 évoque des bêtes affamées qui traversent des fleuves, un grand traîné dans une cage de fer, un « enfant de Germain » et le nom « Hister ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les Prophéties",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Les_Proph%C3%A9ties"
+            },
+            {
+              "title": "Century II",
+              "publisher": "Internet Sacred Text Archive",
+              "url": "https://sacred-texts.com/nos/mrg/nosmrg02.htm"
+            }
+          ]
+        },
+        {
+          "text": "Le premier chapitre de la Genèse place la création des plantes au troisième jour et celle du Soleil au quatrième jour.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Genèse 1 - Louis Segond 1910",
+              "publisher": "Alliance biblique française",
+              "url": "https://lire.la-bible.net/bible/LSG/GEN.1"
+            }
+          ]
+        },
+        {
+          "text": "Le verset 18:86 du Coran dit que Dhou-l-Qarnayn, parvenu au couchant, trouva le soleil se couchant dans une source boueuse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 18:86 in French (Hamidullah)",
+              "publisher": "QuranV",
+              "url": "https://www.quranv.com/fr/18/86/"
+            },
+            {
+              "title": "Verse (18:86) - English Translation",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=18&verse=86"
+            }
+          ]
+        },
+        {
+          "text": "Tabari, mort en 923, rapporte plusieurs lectures du verset 21:30. Dans l'une, le ciel et la terre étaient collés puis écartés. Dans une autre, le ciel était fermé, sans pluie, et la terre fermée, sans plantes, et Dieu les a ouverts par la pluie et par la végétation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير الطبري — الأنبياء 30",
+              "publisher": "tafsir.app",
+              "url": "https://tafsir.app/tabari/21/30"
+            },
+            {
+              "title": "Interpretation of the verse the heavens and the earth were a joined entity and We separated them",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/en/fatwa/298375/interpretation-of-the-verse-the-heavens-and-the-earth-were-a-joined-entity-and-we-separated-them"
+            }
+          ]
+        },
+        {
+          "text": "L'exégèse classique ne lisait pas d'expansion de l'univers dans le verset 21:30 ; cette lecture vient du concordisme du vingtième siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير الطبري — الأنبياء 30",
+              "publisher": "tafsir.app",
+              "url": "https://tafsir.app/tabari/21/30"
+            },
+            {
+              "title": "Quran and science",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quran_and_science"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Enuma Elish babylonien, Marduk fend en deux le corps de Tiamat et fait le ciel d'une moitié ; dans la mythologie égyptienne, le dieu Shou sépare Nout, le ciel, de Geb, la terre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Enuma Elish - The Babylonian Epic of Creation - Full Text",
+              "publisher": "World History Encyclopedia",
+              "url": "https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/"
+            },
+            {
+              "title": "Shu (god)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shu_(god)"
+            }
+          ]
+        },
+        {
+          "text": "Le Big Bang décrit l'expansion de l'espace lui-même depuis environ 13,8 milliards d'années, et non la séparation de deux objets.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hubble Big Bang",
+              "publisher": "NASA Science",
+              "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/"
+            }
+          ]
+        },
+        {
+          "text": "La Terre s'est formée il y a environ 4,5 milliards d'années, soit plus de neuf milliards d'années après le début de l'expansion de l'univers.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Age of Earth",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Age_of_Earth"
+            },
+            {
+              "title": "Geologic Time",
+              "publisher": "USGS",
+              "url": "https://pubs.usgs.gov/gip/geotime/geotime.html"
+            }
+          ]
+        },
+        {
+          "text": "Selon Aristote (Métaphysique, livre A), Thalès de Milet, au sixième siècle avant notre ère, tenait l'eau pour le principe de toutes choses.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Aristotle, Metaphysics, Book 1, section 983b",
+              "publisher": "Perseus Digital Library, Tufts University",
+              "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D1%3Asection%3D983b"
+            },
+            {
+              "title": "Thales of Miletus",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/thales/"
+            }
+          ]
+        },
+        {
+          "text": "Le mot hébreu ḥûg, utilisé en Isaïe 40:22, désigne un cercle tracé, un horizon ou une voûte, et non une sphère.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Strong's Hebrew 2329: chug",
+              "publisher": "Bible Hub (BDB / Strong's)",
+              "url": "https://biblehub.com/hebrew/2329.htm"
+            },
+            {
+              "title": "What is the circle of the earth (Isaiah 40:22)?",
+              "publisher": "GotQuestions.org",
+              "url": "https://www.gotquestions.org/circle-of-the-earth.html"
+            }
+          ]
+        },
+        {
+          "text": "En Isaïe 22:18, le même livre emploie le mot dûr (kaddûr, « comme une balle ») dans la menace adressée à l'intendant Shebna.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Strong's Hebrew 1754: dur",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/hebrew/1754.htm"
+            },
+            {
+              "title": "Shebna",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shebna"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
     {
       "slug": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
       "youtubeId": "A292EREGGsc",
