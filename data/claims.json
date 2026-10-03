@@ -1,8 +1,468 @@
 {
-  "generatedAt": "2026-10-03T16:46:12.150Z",
+  "generatedAt": "2026-10-03T17:31:09.298Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
+      "youtubeId": "eFne8S6CLsU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eFne8S6CLsU",
+      "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle scientifique du Coran (78:6-7)",
+      "publishedAt": "2026-10-03T17:30:09.246Z",
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Quatorze siècles avant la géologie moderne, le Coran annonçait que les montagnes sont des piquets aux racines profondes qui stabilisent la Terre et l'empêchent de trembler.",
+        "verdict": "faux",
+        "summary": "Les versets ne parlent pas de racines. Ils attribuent aux montagnes une fonction précise, empêcher la terre de tanguer, et Tabari comme Ibn Kathir les lisent ainsi. Or les montagnes naissent des collisions de plaques qui provoquent les séismes, et l'isostasie décrit une croûte qui flotte et bouge : le prétendu miracle relit après coup une cosmologie de tente.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "caution-scientifique",
+          "infalsifiabilite"
+        ]
+      },
+      "facts": [
+        {
+          "text": "An-Naba est la 78e sourate du Coran ; ses versets 6 et 7 disent : « N'avons-Nous pas fait de la terre une couche (mihad), et des montagnes, des piquets (awtad) ? »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah An-Naba 6-7",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/78/6-7"
+            },
+            {
+              "title": "Surah An-Naba 78:7",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/78:7"
+            }
+          ]
+        },
+        {
+          "text": "Awtad est le pluriel de watad, qui désigne en arabe le piquet ou pieu de tente.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran Dictionary - root w-t-d",
+              "publisher": "The Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=wtd"
+            },
+            {
+              "title": "أوتاد",
+              "publisher": "Wiktionary",
+              "url": "https://en.wiktionary.org/wiki/%D8%A3%D9%88%D8%AA%D8%A7%D8%AF"
+            }
+          ]
+        },
+        {
+          "text": "Les versets 16:15, 21:31 et 31:10 disent que des montagnes fermes (rawasi) ont été placées dans la terre pour qu'elle ne branle pas (an tamida) ; aucun autre verset ne formule cette fonction.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran Dictionary - root m-y-d",
+              "publisher": "The Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=myd"
+            },
+            {
+              "title": "Quran Dictionary - root r-s-w",
+              "publisher": "The Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=rsw"
+            }
+          ]
+        },
+        {
+          "text": "Rawasi vient d'une racine arabe qui désigne ce qui est solidement fixé ou ancré, la même que pour le mouillage d'un navire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran Dictionary - root r-s-w",
+              "publisher": "The Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=rsw"
+            }
+          ]
+        },
+        {
+          "text": "Le verbe mada (yamidu) signifie osciller, tanguer, vaciller.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran Dictionary - root m-y-d",
+              "publisher": "The Quranic Arabic Corpus (University of Leeds)",
+              "url": "https://corpus.quran.com/qurandictionary.jsp?q=myd"
+            },
+            {
+              "title": "تفسير الطبري - سورة النحل الآية 15",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura16-aya15.html"
+            }
+          ]
+        },
+        {
+          "text": "Lors du Grand relevé trigonométrique de l'Inde, la déviation des fils à plomb près de l'Himalaya s'est révélée bien plus faible que celle calculée d'après la masse visible des montagnes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1922 Encyclopædia Britannica/Isostasy",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/Isostasy"
+            },
+            {
+              "title": "The Great Trignometrical Survey and Isostacy",
+              "publisher": "Mapping Around",
+              "url": "https://mappingaround.in/the-great-trignometrical-survey-and-isostacy/"
+            }
+          ]
+        },
+        {
+          "text": "En 1855, John Henry Pratt, archidiacre de Calcutta, et George Biddell Airy, astronome royal, publient des explications de cette anomalie ; le modèle d'Airy suppose que la croûte légère s'enfonce sous les chaînes de montagnes en formant des racines dans un substrat plus dense.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On the Computation of the Effect of the Attraction of Mountain-Masses (Airy, 1855)",
+              "publisher": "Philosophical Transactions of the Royal Society / JSTOR",
+              "url": "https://www.jstor.org/stable/108511"
+            },
+            {
+              "title": "Isostasy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Isostasy"
+            },
+            {
+              "title": "On the Deflection of the Plumb-Line in India... Compensating Effect of a Deficiency of Matter (Pratt, 1859)",
+              "publisher": "Philosophical Transactions of the Royal Society / JSTOR",
+              "url": "https://www.jstor.org/stable/108715"
+            }
+          ]
+        },
+        {
+          "text": "Le terme d'isostasie a été forgé à la fin du XIXe siècle par le géologue américain Clarence Dutton.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Isostasy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Isostasy"
+            },
+            {
+              "title": "1922 Encyclopædia Britannica/Isostasy",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/Isostasy"
+            }
+          ]
+        },
+        {
+          "text": "La croûte continentale mesure en moyenne environ 30 à 40 km d'épaisseur, contre environ 70 km sous le Tibet et l'Himalaya.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tibetan Plateau - Seismic Images - IGCP Project 559",
+              "publisher": "IGCP Project 559 Crustal Architecture and Images",
+              "url": "https://www.earthscrust.org.au/science/transects/tibet.html"
+            },
+            {
+              "title": "No mafic layer in 80 km thick Tibetan crust",
+              "publisher": "Nature Communications",
+              "url": "https://www.nature.com/articles/s41467-021-21420-z"
+            }
+          ]
+        },
+        {
+          "text": "Zaghloul El-Naggar, géologue égyptien et promoteur du miracle scientifique du Coran, est l'auteur de The Geological Concept of Mountains in the Quran, où il rapproche le mot awtad des racines des montagnes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Zaghloul El-Naggar",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Zaghloul_El-Naggar"
+            },
+            {
+              "title": "Mountains Created as Pegs (or Pickets)",
+              "publisher": "AboutIslam",
+              "url": "https://aboutislam.net/muslim-issues/science-muslim-issues/mountains-created-pegs-pickets/"
+            }
+          ]
+        },
+        {
+          "text": "La brochure A Brief Illustrated Guide to Understanding Islam reproduit un schéma de racine de montagne tiré du manuel Earth de Frank Press et Raymond Siever et affirme, en citant El-Naggar, que les montagnes stabilisent la croûte terrestre et empêchent la terre de trembler.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Islam Guide: The Quran on Mountains",
+              "publisher": "islam-guide.com",
+              "url": "https://www.islam-guide.com/ch1-1-b.htm"
+            }
+          ]
+        },
+        {
+          "text": "La brochure A Brief Illustrated Guide to Understanding Islam est largement diffusée sur Internet.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Islam Guide: A Brief Illustrated Guide to Understanding Islam",
+              "publisher": "islam-guide.com",
+              "url": "https://www.islam-guide.com/"
+            },
+            {
+              "title": "A Brief Illustrated Guide To Understanding Islam... 54 Language(s)",
+              "publisher": "Islamic Dawah Network",
+              "url": "https://islamwww.com/a-brief-illustrated-guide-to-understanding-islam/"
+            }
+          ]
+        },
+        {
+          "text": "Les versets 78:6-7, 16:15, 21:31 et 31:10 ne mentionnent ni racine, ni profondeur, ni partie cachée des montagnes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah An-Nahl 16:15",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/16:15"
+            },
+            {
+              "title": "Surah Al-Anbiya 21:31",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/21:31"
+            },
+            {
+              "title": "Surah Luqman 31:10",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/31:10"
+            },
+            {
+              "title": "Surah An-Naba 78:7",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/78:7"
+            }
+          ]
+        },
+        {
+          "text": "Dans son tafsir, At-Tabari (mort en 923) rapporte, à propos de 16:15, des récits attribués à Al-Hasan Al-Basri et à Qays ibn Ubad : la terre tanguait après sa création, les anges dirent qu'elle ne porterait personne, puis les montagnes furent créées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير الطبري - سورة النحل الآية 15",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura16-aya15.html"
+            },
+            {
+              "title": "تفسير الطبري - القول في تأويل قوله تعالى وألقى في الأرض رواسي أن تميد بكم",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/content/50/2878/%D8%A7%D9%84%D9%82%D9%88%D9%84-%D9%81%D9%8A-%D8%AA%D8%A3%D9%88%D9%8A%D9%84-%D9%82%D9%88%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D9%88%D8%A3%D9%84%D9%82%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D8%B1%D9%88%D8%A7%D8%B3%D9%8A-%D8%A3%D9%86-%D8%AA%D9%85%D9%8A%D8%AF-%D8%A8%D9%83%D9%85-"
+            }
+          ]
+        },
+        {
+          "text": "Ibn Kathir (XIVe siècle) reprend dans son tafsir cette explication d'une terre qui tanguait avant d'être stabilisée par les montagnes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير ابن كثير - سورة النحل الآية 15",
+              "publisher": "King Saud University",
+              "url": "http://quran.ksu.edu.sa/tafseer/katheer/sura16-aya15.html"
+            }
+          ]
+        },
+        {
+          "text": "Un hadith rapporté par At-Tirmidhi (Jami' at-Tirmidhi, n° 3369 dans la numérotation courante), d'authenticité discutée, raconte que la terre vacillait, que Dieu créa les montagnes et qu'elle se stabilisa.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jami` at-Tirmidhi 3369",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/tirmidhi:3369"
+            },
+            {
+              "title": "Hadith 3369 of chapters on tafsir by Jami al Tirmizi",
+              "publisher": "IslamicFinder",
+              "url": "https://www.islamicfinder.org/hadith/tirmidhi/tafsir/3369/"
+            }
+          ]
+        },
+        {
+          "text": "Avant le XIXe siècle, aucun commentaire classique ne tire de ces versets l'idée de racines profondes qui compensent le relief.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "تفسير الطبري - سورة النحل الآية 15",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura16-aya15.html"
+            },
+            {
+              "title": "Isostasy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Isostasy"
+            }
+          ]
+        },
+        {
+          "text": "Les grandes chaînes de montagnes se forment aux frontières de plaques en collision ou en subduction ; l'Himalaya résulte de la collision entre la plaque indienne et l'Eurasie, commencée il y a environ 50 millions d'années et toujours active.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Understanding plate motions [This Dynamic Earth]",
+              "publisher": "USGS",
+              "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html"
+            },
+            {
+              "title": "The Himalayas: Two continents collide [This Dynamic Earth]",
+              "publisher": "USGS",
+              "url": "https://pubs.usgs.gov/gip/dynamic/himalaya.html"
+            }
+          ]
+        },
+        {
+          "text": "Les Andes se sont formées au-dessus de la subduction de la plaque Nazca sous la plaque sud-américaine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Understanding plate motions [This Dynamic Earth]",
+              "publisher": "USGS",
+              "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html"
+            }
+          ]
+        },
+        {
+          "text": "Le séisme du 22 mai 1960 dans le sud du Chili, de magnitude 9,5, est le plus puissant jamais enregistré.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On This Day: 1960 Chilean Earthquake and Tsunami",
+              "publisher": "NOAA NCEI",
+              "url": "https://www.ncei.noaa.gov/news/day-1960-chilean-earthquake-and-tsunami"
+            }
+          ]
+        },
+        {
+          "text": "Le séisme du 25 avril 2015 au Népal, de magnitude 7,8, a fait près de 9 000 morts.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "One Year After the M7.8 Nepal Earthquake",
+              "publisher": "USGS",
+              "url": "https://www.usgs.gov/news/featured-story/one-year-after-m78-nepal-earthquake"
+            }
+          ]
+        },
+        {
+          "text": "Les séismes du 6 février 2023 en Turquie et en Syrie, liés notamment à la rupture de la faille est-anatolienne, ont fait plus de 50 000 morts.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Frequently Asked Questions about 2023 Earthquakes in Türkiye",
+              "publisher": "USGS",
+              "url": "https://www.usgs.gov/programs/earthquake-hazards/science/frequently-asked-questions-about-2023-earthquakes-turkiye"
+            }
+          ]
+        },
+        {
+          "text": "Le séisme du 8 septembre 2023 dans le Haut Atlas, au Maroc, de magnitude 6,8, a fait près de 3 000 morts et détruit des villages de montagne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Morocco earthquake updates: Over 2,900 killed in rare, powerful quake",
+              "publisher": "ABC News",
+              "url": "https://abcnews.com/International/live-updates/morocco-earthquake/death-toll-reaches-2946-103168135?id=103047032"
+            },
+            {
+              "title": "Morocco earthquake",
+              "publisher": "Médecins Sans Frontières Australia",
+              "url": "https://msf.org.au/issue/morocco-earthquake"
+            }
+          ]
+        },
+        {
+          "text": "L'isostasie applique le principe de la flottabilité à la croûte : les reliefs sont compensés par une racine de croûte légère qui s'enfonce dans le manteau plus dense.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Isostasy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Isostasy"
+            },
+            {
+              "title": "1922 Encyclopædia Britannica/Isostasy",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/Isostasy"
+            }
+          ]
+        },
+        {
+          "text": "Le manteau terrestre est essentiellement solide mais flue lentement à l'échelle des temps géologiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Are the tectonic plates floating on magma?",
+              "publisher": "USGS",
+              "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "La croûte mesure environ trente à quarante kilomètres d'épaisseur sous un continent ordinaire, mais autour de soixante-dix sous le Tibet et l'Himalaya.",
+            "note": "Les épaisseurs de croûte sont des ordres de grandeur arrondis. Selon les études sismiques, la croûte sous le Tibet mesure de 60 à plus de 70 km. L'argument veut seulement montrer que la racine est bien plus profonde sous les grandes chaînes, pas établir une valeur exacte."
+          },
+          {
+            "excerpt": "L'Himalaya est né de la collision entre la plaque indienne et l'Eurasie, commencée il y a environ cinquante millions d'années et toujours en cours.",
+            "note": "La date du début de la collision est discutée, selon les auteurs entre 40 et 60 millions d'années environ. « Environ cinquante » est une estimation assumée. Le raisonnement repose seulement sur le fait que la collision est ancienne et toujours active."
+          },
+          {
+            "excerpt": "Il y a environ vingt mille ans, la Scandinavie était écrasée sous une calotte de glace épaisse de plusieurs kilomètres.",
+            "note": "Le dernier maximum glaciaire se situe vers 26 000 à 19 000 ans, et l'épaisseur de la calotte n'est donnée qu'en ordre de grandeur. Le point démontré, une croûte qui remonte après la fonte, ne dépend pas de ces valeurs."
+          },
+          {
+            "excerpt": "La glace a fondu, et le sol remonte encore aujourd'hui, de près d'un centimètre par an autour du golfe de Botnie.",
+            "note": "Le rebond post-glaciaire maximal est mesuré autour de 8 à 10 mm par an. Le chiffre arrondi sert seulement à illustrer une croûte en mouvement."
+          },
+          {
+            "excerpt": "Pendant ce temps, les plaques dérivent de quelques centimètres par an, à peu près à la vitesse où poussent tes ongles.",
+            "note": "La vitesse des plaques varie d'environ 1 à 10 cm par an. La comparaison avec les ongles est une image pédagogique classique, et l'argument ne dépend d'aucune valeur précise."
+          },
+          {
+            "excerpt": "Le 25 avril 2015, en plein Himalaya, un séisme de magnitude 7,8 frappe le Népal et fait près de neuf mille morts.",
+            "note": "Le bilan est arrondi (environ 8 900 morts selon les sources officielles), et la magnitude varie légèrement selon les agences (7,8 ou 7,9). L'exemple montre seulement qu'une région montagneuse subit de grands séismes."
+          },
+          {
+            "excerpt": "Le 6 février 2023, la faille est-anatolienne rompt, et les séismes tuent plus de cinquante mille personnes en Turquie et en Syrie.",
+            "note": "Le bilan cumulé des deux pays est une estimation arrondie qui a évolué selon les sources. L'ordre de grandeur suffit à illustrer le propos."
+          },
+          {
+            "excerpt": "Et le 8 septembre 2023, au Maroc, c'est le Haut Atlas lui-même qui tremble : magnitude 6,8, près de trois mille morts, des villages de montagne détruits.",
+            "note": "Le bilan (près de 3 000 morts) est arrondi, et la magnitude diffère un peu selon les agences (6,8 pour l'USGS, 7,0 pour le CNRST marocain). L'argument repose seulement sur le fait qu'une chaîne de montagnes a subi un séisme meurtrier."
+          }
+        ]
+      },
+      "corrections": []
+    },
     {
       "slug": "qui-a-vraiment-ecrit-les-evangiles-c8bc",
       "youtubeId": "qlG4FebMRmg",
