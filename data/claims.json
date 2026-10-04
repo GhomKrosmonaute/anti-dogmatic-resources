@@ -1,8 +1,431 @@
 {
-  "generatedAt": "2026-10-04T00:46:10.691Z",
+  "generatedAt": "2026-10-04T02:16:12.004Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
+      "youtubeId": "yk1WcBv1jfM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
+      "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",
+      "publishedAt": "2026-10-04T02:15:11.931Z",
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "chaine-de-transmission",
+      "examinedClaim": null,
+      "facts": [
+        {
+          "text": "Les sciences du hadith (isnad, 'ilm al-rijal) se sont développées aux IIe et IIIe siècles de l'hégire ; des dictionnaires biographiques évaluent la probité et la mémoire des transmetteurs ainsi que la possibilité qu'ils se soient rencontrés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Biographical evaluation",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Biographical_evaluation"
+            },
+            {
+              "title": "Rijal",
+              "publisher": "WikiShia",
+              "url": "https://en.wikishia.net/view/Rijal"
+            }
+          ]
+        },
+        {
+          "text": "À l'époque de la constitution des grands recueils, des dizaines de milliers de paroles attribuées au Prophète circulaient.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Musnad Ahmad ibn Hanbal",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Musnad_Ahmad_ibn_Hanbal"
+            },
+            {
+              "title": "On The Nature Of The Hadith Collections Of Imam Al-Bukhari & Muslim",
+              "publisher": "Islamic Awareness",
+              "url": "https://www.islamic-awareness.org/hadith/bukhari.html"
+            }
+          ]
+        },
+        {
+          "text": "Dans la théorie juridique islamique classique, un récit mutawatir est transmis à chaque génération par tant de narrateurs qu'un accord sur un mensonge est jugé inconcevable, et il produit une connaissance certaine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tawatur",
+              "publisher": "WikiShia",
+              "url": "https://en.wikishia.net/view/Tawatur"
+            },
+            {
+              "title": "Hadith terminology",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hadith_terminology"
+            }
+          ]
+        },
+        {
+          "text": "1 Corinthiens 15:6 (Louis Segond 1910) : « Ensuite, il est apparu à plus de cinq cents frères à la fois, dont la plupart sont encore vivants, et dont quelques-uns sont morts. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1 Corinthiens 15:6 - LSG",
+              "publisher": "Bible Study Tools",
+              "url": "https://www.biblestudytools.com/lsg/1-corinthiens/15-6.html"
+            },
+            {
+              "title": "1 Corinthiens 15 - Louis Segond 1910",
+              "publisher": "Alliance biblique française",
+              "url": "https://lire.la-bible.net/bible/LSG/1CO.15"
+            }
+          ]
+        },
+        {
+          "text": "L'apologétique chrétienne présente 1 Corinthiens 15:6 comme un argument en faveur de la résurrection.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Evidential Value of 1 Corinthians 15:3-8 to the Case for the Resurrection",
+              "publisher": "Cross Examined",
+              "url": "https://crossexamined.org/the-evidential-value-of-1-corinthians-153-8-to-the-case-for-the-resurrection/"
+            },
+            {
+              "title": "An Early and Reliable Account of Jesus' Resurrection",
+              "publisher": "Stand to Reason",
+              "url": "https://www.str.org/w/an-early-and-reliable-account-of-jesus-resurrection"
+            }
+          ]
+        },
+        {
+          "text": "Le 13 octobre 1917, des dizaines de milliers de personnes se sont rassemblées à la Cova da Iria, près de Fatima, où trois enfants bergers avaient annoncé un miracle ; beaucoup ont rapporté que le soleil avait pâli, tournoyé, changé de couleur et semblé plonger vers la foule.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Miracle of the Sun",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+            }
+          ]
+        },
+        {
+          "text": "Le quotidien anticlérical lisboète O Século a rapporté que le soleil avait « dansé » à Fatima.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Miracle du soleil",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Miracle_du_soleil"
+            },
+            {
+              "title": "Astounding Things!: How the Midday Sun Danced at Fatima",
+              "publisher": "World Apostolate of Fatima USA",
+              "url": "https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/"
+            }
+          ]
+        },
+        {
+          "text": "La première édition du Livre de Mormon (1830) contient le témoignage de trois témoins, à qui un ange aurait montré les plaques, et celui de huit témoins affirmant les avoir maniées et soupesées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Book of Mormon (1830)/Eight Witnesses",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/Book_of_Mormon_(1830)/Eight_Witnesses"
+            },
+            {
+              "title": "Book of Mormon (1830)/Three Witnesses",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/Book_of_Mormon_(1830)/Three_Witnesses"
+            }
+          ]
+        },
+        {
+          "text": "Loftus et Palmer (1974) : une semaine après avoir vu le film d'un accident, les participants dont la question employait le verbe « smashed » (fracassées) étaient plus de deux fois plus nombreux à se souvenir de verre brisé que ceux dont la question employait « hit » (heurtées), alors que le film n'en montrait pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Reconstruction of Automobile Destruction (JVLVB 13, 585-589, 1974)",
+              "publisher": "Journal of Verbal Learning and Verbal Behavior",
+              "url": "https://gwern.net/doc/psychology/cognitive-bias/1974-loftus.pdf"
+            },
+            {
+              "title": "Loftus and Palmer 1974",
+              "publisher": "Simply Psychology",
+              "url": "https://www.simplypsychology.org/loftus-palmer.html"
+            }
+          ]
+        },
+        {
+          "text": "David Hume, Of Miracles (1748) : « Aucun témoignage ne suffit à établir un miracle, à moins que ce témoignage ne soit d'une nature telle que sa fausseté serait plus miraculeuse que le fait qu'il cherche à établir. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Miracles",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/miracles/"
+            }
+          ]
+        },
+        {
+          "text": "La Première épître aux Corinthiens est généralement datée du milieu des années 50, soit une vingtaine d'années après la crucifixion.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "First Epistle to the Corinthians",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians"
+            },
+            {
+              "title": "When Were the Letters to the Corinthians Written?",
+              "publisher": "Bart Ehrman",
+              "url": "https://www.bartehrman.com/when-were-the-letters-to-the-corinthians-written/"
+            }
+          ]
+        },
+        {
+          "text": "Aucun des cinq cents frères mentionnés en 1 Corinthiens 15:6 n'a laissé de témoignage nommé, et Paul ne prétend pas avoir assisté à cette apparition.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jesus' Appearance to the 500",
+              "publisher": "The Bart Ehrman Blog",
+              "url": "https://ehrmanblog.org/jesus-appearance-to-the-500/"
+            },
+            {
+              "title": "1 Corinthians 15",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/1_Corinthians_15"
+            }
+          ]
+        },
+        {
+          "text": "Aucun des quatre évangiles canoniques, tous datés après 1 Corinthiens par la majorité des spécialistes, ne mentionne une apparition devant cinq cents personnes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jesus' Appearance to the 500",
+              "publisher": "The Bart Ehrman Blog",
+              "url": "https://ehrmanblog.org/jesus-appearance-to-the-500/"
+            },
+            {
+              "title": "1 Corinthians 15",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/1_Corinthians_15"
+            }
+          ]
+        },
+        {
+          "text": "De nombreux historiens estiment que 1 Corinthiens 15:3-7 reprend une formule de foi antérieure à Paul.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1 Corinthians 15",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/1_Corinthians_15"
+            },
+            {
+              "title": "1 Corinthians 15:3b-6a, 7 (JETS 49/2, 2006)",
+              "publisher": "Journal of the Evangelical Theological Society",
+              "url": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_49_49-2_JETS_49-2_225-234_MacGregor.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Aucun observatoire astronomique n'a enregistré d'anomalie solaire le 13 octobre 1917.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Miracle of the Sun",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+            },
+            {
+              "title": "Miracle du soleil",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Miracle_du_soleil"
+            }
+          ]
+        },
+        {
+          "text": "Les témoignages recueillis à Fatima divergent sur la nature du phénomène, et certains présents ont déclaré n'avoir rien vu d'extraordinaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Miracle of the Sun",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+            },
+            {
+              "title": "Miracle du soleil",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Miracle_du_soleil"
+            }
+          ]
+        },
+        {
+          "text": "Fixer le soleil produit des images rémanentes et des halos colorés, et peut provoquer une rétinopathie solaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Solar Retinopathy",
+              "publisher": "EyeWiki (American Academy of Ophthalmology)",
+              "url": "https://eyewiki.org/Solar_Retinopathy"
+            },
+            {
+              "title": "Solar Retinopathy: Symptoms, Causes & Recovery",
+              "publisher": "Cleveland Clinic",
+              "url": "https://my.clevelandclinic.org/health/diseases/solar-retinopathy"
+            }
+          ]
+        },
+        {
+          "text": "Le physicien Auguste Meessen (Université catholique de Louvain) a attribué les miracles du soleil rapportés sur des lieux d'apparitions mariales à des effets physiologiques liés à l'observation prolongée du soleil.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Apparitions and Miracles of the Sun",
+              "publisher": "Auguste Meessen",
+              "url": "https://www.meessen.net/AMeessen/Apparitions_and_Miracles_of_the_Sun.pdf"
+            },
+            {
+              "title": "Miracle of the Sun",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+            }
+          ]
+        },
+        {
+          "text": "Les huit témoins du Livre de Mormon étaient quatre frères Whitmer, leur beau-frère Hiram Page, ainsi que Joseph Smith père, Hyrum Smith et Samuel H. Smith.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Witnesses of the Book of Mormon",
+              "publisher": "The Church of Jesus Christ of Latter-day Saints",
+              "url": "https://www.churchofjesuschrist.org/study/history/topics/witnesses-of-the-book-of-mormon?lang=eng"
+            },
+            {
+              "title": "Book of Mormon witnesses",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Book_of_Mormon_witnesses"
+            }
+          ]
+        },
+        {
+          "text": "Le témoignage des trois témoins décrit un ange descendu du ciel qui leur présente les plaques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Book of Mormon (1830)/Three Witnesses",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/Book_of_Mormon_(1830)/Three_Witnesses"
+            }
+          ]
+        },
+        {
+          "text": "Joseph Smith affirmait avoir rendu les plaques à l'ange Moroni ; aucun examen indépendant n'en a jamais été fait.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Golden plates",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Golden_plates"
+            }
+          ]
+        },
+        {
+          "text": "Les trois témoins ont rompu avec Joseph Smith à la fin des années 1830 sans jamais renier leur témoignage.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Witnesses of the Book of Mormon",
+              "publisher": "The Church of Jesus Christ of Latter-day Saints",
+              "url": "https://www.churchofjesuschrist.org/study/history/topics/witnesses-of-the-book-of-mormon?lang=eng"
+            },
+            {
+              "title": "Book of Mormon witnesses",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Book_of_Mormon_witnesses"
+            }
+          ]
+        },
+        {
+          "text": "En 1845, James Strang, qui disputait la succession de Joseph Smith, a présenté les plaques de Voree avec des témoins signataires ; l'Église de Jésus-Christ des saints des derniers jours ne les reconnaît pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Voree plates",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Voree_plates"
+            },
+            {
+              "title": "James Strang movement",
+              "publisher": "FAIR",
+              "url": "https://www.fairlatterdaysaints.org/answers/James_Strang_movement"
+            }
+          ]
+        },
+        {
+          "text": "Ibn al-Jawzi (mort en 1201) a compilé le Kitab al-Mawdu'at, un ouvrage consacré aux hadiths forgés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Great Collection of Fabricated Traditions",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/A_Great_Collection_of_Fabricated_Traditions"
+            },
+            {
+              "title": "Ibn al-Jawzi",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ibn_al-Jawzi"
+            }
+          ]
+        },
+        {
+          "text": "Dans sa Muqaddima, Ibn al-Salah (mort en 1245) juge le hadith mutawatir rarissime et cite en exemple le hadith « Quiconque ment sur moi délibérément, qu'il prenne sa place en Enfer ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "علوم الحديث لابن الصلاح - معرفة المشهور من الحديث",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/content/90/137/%D8%A7%D9%84%D9%86%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%81%D9%8A-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86-%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D9%88%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB"
+            },
+            {
+              "title": "Hadith terminology",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hadith_terminology"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
     {
       "slug": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
       "youtubeId": "a8OZPpeJk_A",
