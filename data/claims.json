@@ -1,8 +1,440 @@
 {
-  "generatedAt": "2026-10-03T21:01:09.309Z",
+  "generatedAt": "2026-10-04T00:46:10.691Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
+      "youtubeId": "a8OZPpeJk_A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=a8OZPpeJk_A",
+      "title": "Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)",
+      "publishedAt": "2026-10-04T00:45:10.638Z",
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Jésus n'a été ni tué ni crucifié : Dieu a donné son apparence à un autre homme, crucifié à sa place, et l'a élevé vivant auprès de Lui.",
+        "verdict": "faux",
+        "summary": "Les sources les plus anciennes attestent que Jésus a été crucifié sous Ponce Pilate : Paul vers 55, puis Tacite et Josèphe. Même les historiens très critiques envers les Évangiles tiennent ce fait pour l'un des plus sûrs de sa vie. Le Coran ne décrit lui-même aucune substitution : le sosie vient de conteurs venus sept siècles plus tard, qui se contredisent, et l'idée reprend une théologie docète attestée dès le deuxième siècle.",
+        "techniques": [
+          "infalsifiabilite",
+          "argument-autorite",
+          "chaine-de-transmission"
+        ]
+      },
+      "facts": [
+        {
+          "text": "La sourate 4 (An-Nisa), versets 157-158, affirme que Jésus n'a été ni tué ni crucifié, que « cela leur a été rendu semblable » (shubbiha lahum) et que Dieu l'a élevé vers Lui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 4:157 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=4&verse=157"
+            },
+            {
+              "title": "Quran 4:158 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=4&verse=158"
+            }
+          ]
+        },
+        {
+          "text": "Le Coran appelle Jésus al-Masih (le Messie), affirme sa naissance virginale et lui attribue des miracles (notamment sourates 3:45-49, 4:171, 19:20).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 3:49 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=3&verse=49"
+            },
+            {
+              "title": "Quran 19:20 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=19&verse=20"
+            }
+          ]
+        },
+        {
+          "text": "Les versets 4:153-156 énumèrent des fautes reprochées aux fils d'Israël, dont la rupture de l'alliance, le meurtre de prophètes et une calomnie contre Marie, avant de rapporter leur parole « nous avons tué le Messie ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah An-Nisa 155-158",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/4:155-158"
+            },
+            {
+              "title": "Surah An-Nisa 156-158",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/4:156-158"
+            }
+          ]
+        },
+        {
+          "text": "La grande majorité des savants sunnites interprètent 4:157 comme une substitution : un autre homme a été crucifié et Jésus a été élevé vivant auprès de Dieu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Islamic views on Jesus's death",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Islamic_views_on_Jesus%27s_death"
+            },
+            {
+              "title": "\"They Killed Him Not\": The Crucifixion in Shi'a Isma'ili Islam (Khalil Andani, 2011)",
+              "publisher": "The Matheson Trust",
+              "url": "https://www.themathesontrust.org/papers/islam/andani-crucifixion.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Des hadiths rapportés par al-Bukhari et Muslim annoncent la descente de Jésus fils de Marie à la fin des temps, en juge équitable qui brisera la croix.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sahih al-Bukhari 3448",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/bukhari:3448"
+            },
+            {
+              "title": "Sahih Muslim 155",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/muslim/1/296-301"
+            }
+          ]
+        },
+        {
+          "text": "Al-Tabari, auteur du commentaire coranique Jami' al-bayan, est mort à Bagdad en 923 (310 de l'hégire).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Al-Ṭabarī",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/al-Tabari"
+            },
+            {
+              "title": "Al-Tabari",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Al-Tabari"
+            }
+          ]
+        },
+        {
+          "text": "Tabari rapporte, d'après Wahb ibn Munabbih, que Jésus et ses disciples, encerclés dans une maison, reçurent tous son apparence, et qu'un disciple accepta de mourir à sa place en échange du paradis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tafsir al-Tabari, sourate 4, verset 157",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura4-aya157.html"
+            },
+            {
+              "title": "Islamic Interpretations of Q 4.157",
+              "publisher": "Christian ThinkTank",
+              "url": "https://www.christian-thinktank.com/4157.html"
+            }
+          ]
+        },
+        {
+          "text": "Tabari rapporte, d'après Qatada et al-Suddi, une version où un volontaire accepte de recevoir l'apparence de Jésus et de mourir à sa place.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tafsir al-Tabari, sourate 4, verset 157",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura4-aya157.html"
+            },
+            {
+              "title": "Islamic Interpretations of Q 4.157",
+              "publisher": "Christian ThinkTank",
+              "url": "https://www.christian-thinktank.com/4157.html"
+            }
+          ]
+        },
+        {
+          "text": "Ibn Kathir (mort en 1373) rapporte un récit attribué à Ibn Abbas où un disciple se porte volontaire pour recevoir l'apparence de Jésus, et juge authentique la chaîne de transmission jusqu'à Ibn Abbas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tafsir Ibn Kathir (abridged), An-Nisa 157",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/en/4:157/tafsirs/en-tafisr-ibn-kathir"
+            },
+            {
+              "title": "Ibn Kathīr",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Ibn-Kathir"
+            }
+          ]
+        },
+        {
+          "text": "Tabari cite Ibn Ishaq, selon qui le disciple qui reçut l'apparence de Jésus s'appelait Sergius (Sarjis).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tafsir al-Tabari, sourate 4, verset 157",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura4-aya157.html"
+            },
+            {
+              "title": "Islamic Interpretations of Q 4.157",
+              "publisher": "Christian ThinkTank",
+              "url": "https://www.christian-thinktank.com/4157.html"
+            }
+          ]
+        },
+        {
+          "text": "Certains commentateurs musulmans identifient le crucifié à Judas, qui aurait reçu l'apparence de Jésus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "هل خان أحد الحواريين عيسى عليه السلام؟",
+              "publisher": "IslamQA",
+              "url": "https://islamqa.info/ar/answers/536449"
+            },
+            {
+              "title": "Mafatih al-ghayb, sourate 4, verset 157",
+              "publisher": "quran-tafsir.net",
+              "url": "https://quran-tafsir.net/alrazy/sura4-aya157.html"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 5:110 : Dieu rappelle à Jésus qu'Il a repoussé de lui les fils d'Israël lorsqu'il leur a apporté les preuves évidentes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 5:110 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=5&verse=110"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Évangile de Marc, Judas désigne Jésus par un baiser (14:44-45), les disciples s'enfuient (14:50) et Jésus crie « mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? » (15:34).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mark 14:44-50; 15:25; 15:34; John 19:14 (NRSVUE)",
+              "publisher": "Bible Gateway",
+              "url": "https://www.biblegateway.com/passage/?search=Mark+14%3A44-50%3BMark+15%3A25%3BMark+15%3A34%3BJohn+19%3A14&version=NRSVUE"
+            }
+          ]
+        },
+        {
+          "text": "Marc 15:25 situe la crucifixion à la troisième heure, alors qu'en Jean 19:14 Jésus est encore devant Pilate vers la sixième heure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mark 14:44-50; 15:25; 15:34; John 19:14 (NRSVUE)",
+              "publisher": "Bible Gateway",
+              "url": "https://www.biblegateway.com/passage/?search=Mark+14%3A44-50%3BMark+15%3A25%3BMark+15%3A34%3BJohn+19%3A14&version=NRSVUE"
+            }
+          ]
+        },
+        {
+          "text": "L'Évangile de Barnabé raconte que Judas reçut l'apparence de Jésus et fut crucifié à sa place.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gospel of Barnabas",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gospel_of_Barnabas"
+            },
+            {
+              "title": "Why the 'Gospel of Barnabas' is a Medieval Fake",
+              "publisher": "Catholic Answers",
+              "url": "https://www.catholic.com/magazine/online-edition/why-the-gospel-of-barnabas-is-a-medieval-fake"
+            }
+          ]
+        },
+        {
+          "text": "Zamakhshari (mort en 1144), dans al-Kashshaf, se demande à quoi se rapporte le verbe shubbiha : pas à Jésus, qui est celui auquel on ressemble, ni au crucifié, jamais mentionné ; il propose soit un sens impersonnel (« l'affaire leur a paru ainsi »), soit un crucifié sous-entendu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Al-Kashshaf, sourate 4, verset 157",
+              "publisher": "tafsir.app",
+              "url": "https://tafsir.app/kashaf/4/157"
+            },
+            {
+              "title": "Abu al-Qāsim Maḥmūd ibn ʿUmar al-Zamakhsharī",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Abu-al-Qasim-Mahmud-ibn-Umar-al-Zamakhshari"
+            }
+          ]
+        },
+        {
+          "text": "Wahb ibn Munabbih est mort vers 730 et il est réputé pour ses récits tirés des traditions juives et chrétiennes (isra'iliyyat).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Wahb ibn Munabbih",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Wahb_ibn_Munabbih"
+            },
+            {
+              "title": "Wahb Ibn Munabbih",
+              "publisher": "Encyclopedia.com (Encyclopedia of Religion)",
+              "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/wahb-ibn-munabbih"
+            }
+          ]
+        },
+        {
+          "text": "Ibn Ishaq (mort vers 767), Qatada (mort vers 735) et al-Suddi (mort vers 745) ont vécu environ sept siècles après la mort de Jésus et ne disposaient d'aucun document contemporain des faits.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Les dates sont exactes (Ibn Ishaq meurt en 767, Qatada en 117/735, al-Suddi en 745), mais affirmer qu'ils « ne disposaient d'aucun document » est une négation absolue invérifiable ; il vaut mieux dire que leurs récits n'en citent aucun. Correction proposée : Ibn Ishaq (mort vers 767), Qatada (mort vers 735) et al-Suddi (mort vers 745) ont vécu environ sept siècles après la mort de Jésus, et leurs récits ne s'appuient sur aucun document contemporain des faits qu'ils citeraient.",
+          "sources": [
+            {
+              "title": "Qatada ibn Di'ama",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Qatada_ibn_Di%27ama"
+            },
+            {
+              "title": "Al-Suddī",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Al-Sudd%C4%AB"
+            },
+            {
+              "title": "Ibn Ishaq",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ibn_Ishaq"
+            }
+          ]
+        },
+        {
+          "text": "Fakhr al-Din al-Razi (mort en 1210), dans Mafatih al-ghayb, objecte que si Dieu peut donner l'apparence d'un homme à un autre, on ne peut plus se fier à ses sens et que la transmission par témoins (tawatur), y compris celle qui concerne le Prophète, devient douteuse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mafatih al-ghayb, sourate 4, verset 157",
+              "publisher": "quran-tafsir.net",
+              "url": "https://quran-tafsir.net/alrazy/sura4-aya157.html"
+            },
+            {
+              "title": "Mafatih al-ghayb, sourate 3, verset 55",
+              "publisher": "quran-tafsir.net",
+              "url": "https://quran-tafsir.net/alrazy/sura3-aya55.html"
+            },
+            {
+              "title": "Fakhr al-Din al-Razi",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/al-din-al-razi/"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 3:55 : « Ô Jésus, je vais te recueillir (mutawaffika) et t'élever vers Moi ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 3:55 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=3&verse=55"
+            }
+          ]
+        },
+        {
+          "text": "Ailleurs dans le Coran, le verbe tawaffa désigne le fait que Dieu reprend les âmes au moment de la mort, par exemple en 39:42.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quran 39:42 – translations",
+              "publisher": "Quranic Arabic Corpus",
+              "url": "https://corpus.quran.com/translation.jsp?chapter=39&verse=42"
+            }
+          ]
+        },
+        {
+          "text": "Tabari rapporte qu'Ibn Abbas expliquait mutawaffika par « je vais te faire mourir » (mumituka).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tafsir al-Tabari, sourate 3, verset 55",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura3-aya55.html"
+            }
+          ]
+        },
+        {
+          "text": "Tabari rapporte, d'après Wahb ibn Munabbih, que Dieu fit mourir Jésus pendant trois heures avant de l'élever.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tafsir al-Tabari, sourate 3, verset 55",
+              "publisher": "King Saud University",
+              "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura3-aya55.html"
+            },
+            {
+              "title": "Al-Tabari On Jesus' Last Days",
+              "publisher": "Answering Islam",
+              "url": "https://www.answering-islam.org/Shamoun/tabari_on_jesus.htm"
+            }
+          ]
+        },
+        {
+          "text": "Des penseurs ismaéliens du Xe siècle, dont Abu Hatim al-Razi, admettaient la crucifixion du corps de Jésus, comme le documente Todd Lawson dans The Crucifixion and the Qur'an (Oneworld, 2009).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"They Killed Him Not\": The Crucifixion in Shi'a Isma'ili Islam (Khalil Andani, 2011)",
+              "publisher": "The Matheson Trust",
+              "url": "https://www.themathesontrust.org/papers/islam/andani-crucifixion.pdf"
+            },
+            {
+              "title": "Review of Lawson, The Crucifixion and the Qur'an (2009)",
+              "publisher": "Centre for Muslim-Christian Studies, Oxford",
+              "url": "https://www.cmcsoxford.org.uk/resources/book-reviews/lawson-crucifixion-quran"
+            }
+          ]
+        },
+        {
+          "text": "En 1942, Mahmud Shaltut, devenu grand imam d'al-Azhar en 1958, a publié un avis selon lequel Jésus est mort et rien dans le Coran n'établit son élévation corporelle au ciel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "مجلة الرسالة، العدد 462، رفع عيسى",
+              "publisher": "Wikisource (arabe)",
+              "url": "https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_462/%D8%B1%D9%81%D8%B9_%D8%B9%D9%8A%D8%B3%D9%89._._."
+            },
+            {
+              "title": "Mahmud Shaltut",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mahmud_Shaltut"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
     {
       "slug": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
       "youtubeId": "liUjpvYCsuU",
