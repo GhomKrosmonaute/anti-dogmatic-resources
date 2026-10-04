@@ -1,8 +1,463 @@
 {
-  "generatedAt": "2026-10-04T04:31:11.970Z",
+  "generatedAt": "2026-10-04T06:16:11.318Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "quand-on-veut-on-peut-451d",
+      "youtubeId": "zEChYJZZYGM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zEChYJZZYGM",
+      "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
+      "publishedAt": "2026-10-04T06:15:11.250Z",
+      "pillar": "Le système : comment la société fonctionne et dysfonctionne",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Quand on veut, on peut : avec assez de volonté et de travail, n'importe qui peut réussir, quelle que soit son origine.",
+        "verdict": "trompeur",
+        "summary": "L'effort compte, mais il ne suffit pas. Les récits de réussite ne retiennent que les survivants, et l'entraînement n'explique qu'une partie des écarts de performance. Selon l'OCDE, il faudrait en France six générations à une famille à bas revenus pour atteindre le revenu moyen. Le mot « méritocratie » lui-même vient d'une satire qui mettait en garde contre cette idée.",
+        "techniques": [
+          "selection-des-cas",
+          "infalsifiabilite",
+          "faux-dilemme"
+        ]
+      },
+      "facts": [
+        {
+          "text": "L'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789 dit : « Tous les Citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Déclaration des Droits de l'Homme et du Citoyen de 1789",
+              "publisher": "Conseil constitutionnel",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+            },
+            {
+              "title": "Déclaration du 26 août 1789 des droits de l'homme et du citoyen",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+            }
+          ]
+        },
+        {
+          "text": "Les lois Jules Ferry de 1881 et 1882 ont rendu l'école primaire gratuite, obligatoire et laïque.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jules Ferry laws",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jules_Ferry_laws"
+            },
+            {
+              "title": "Loi sur l'enseignement primaire obligatoire",
+              "publisher": "Académie de Besançon",
+              "url": "https://clespourlhistoire.ac-besancon.fr/loi-sur-lenseignement-primaire-obligatoire/"
+            }
+          ]
+        },
+        {
+          "text": "Albert Camus est né en 1913 en Algérie. Son père est mort à la guerre en 1914. Sa mère, presque sourde et illettrée, faisait des ménages à Alger.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Camus, Albert",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/albert-camus/"
+            },
+            {
+              "title": "Albert Camus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+            }
+          ]
+        },
+        {
+          "text": "L'instituteur Louis Germain a préparé Albert Camus au concours des bourses qui lui a permis d'entrer au lycée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Louis Germain (instituteur)",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Louis_Germain_(instituteur)"
+            }
+          ]
+        },
+        {
+          "text": "Albert Camus, qui a grandi dans le quartier de Belcourt à Alger, a reçu le prix Nobel de littérature en 1957.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Albert Camus – Facts",
+              "publisher": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/literature/1957/camus/facts/"
+            },
+            {
+              "title": "Camus, Albert",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/albert-camus/"
+            }
+          ]
+        },
+        {
+          "text": "Ericsson, Krampe et Tesch-Römer ont publié en 1993 dans la Psychological Review une étude sur des violonistes d'une académie de musique de Berlin. D'après eux, les meilleurs se distinguaient par la pratique délibérée accumulée, environ dix mille heures à vingt ans pour les plus brillants.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993)",
+              "publisher": "Royal Society Open Science / PMC",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6731745/"
+            },
+            {
+              "title": "Malcolm Gladwell got us wrong: Our research was key to the 10,000-hour rule, but here's what got oversimplified",
+              "publisher": "Salon",
+              "url": "https://www.salon.com/2016/04/10/malcolm_gladwell_got_us_wrong_our_research_was_key_to_the_10000_hour_rule_but_heres_what_got_oversimplified/"
+            }
+          ]
+        },
+        {
+          "text": "Malcolm Gladwell a popularisé la « règle des dix mille heures » dans son livre Outliers, publié en 2008.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Malcolm Gladwell got us wrong: Our research was key to the 10,000-hour rule, but here's what got oversimplified",
+              "publisher": "Salon",
+              "url": "https://www.salon.com/2016/04/10/malcolm_gladwell_got_us_wrong_our_research_was_key_to_the_10000_hour_rule_but_heres_what_got_oversimplified/"
+            }
+          ]
+        },
+        {
+          "text": "Pendant la Seconde Guerre mondiale, au sein du Statistical Research Group de l'université Columbia, Abraham Wald a montré qu'il fallait renforcer les zones des avions rentrés qui ne portaient pas d'impacts, puisque les avions touchés à ces endroits ne revenaient pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Abraham Wald",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Abraham_Wald"
+            }
+          ]
+        },
+        {
+          "text": "En 2014, Steve Wozniak a déclaré à Bloomberg Businessweek : « The garage is a bit of a myth » (le garage est un peu un mythe).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Steve Wozniak on What Really Happened in Jobs' Garage",
+              "publisher": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/videos/2014-12-05/steve-wozniak-on-what-really-happened-in-jobs-garage"
+            },
+            {
+              "title": "Wozniak calls Apple garage origin 'a myth'",
+              "publisher": "Network World",
+              "url": "https://www.networkworld.com/article/933422/wozniak-calls-apple-garage-origin-a-myth.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1968, grâce au club des mères d'élèves, le lycée Lakeside de Seattle s'est doté d'un terminal relié à un ordinateur. Bill Gates, alors âgé d'environ treize ans, y a eu accès. Malcolm Gladwell raconte cet épisode dans Outliers.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bill Gates",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bill_Gates"
+            },
+            {
+              "title": "Outliers Chapter 2: The 10,000-Hour Rule Summary & Analysis",
+              "publisher": "LitCharts",
+              "url": "https://www.litcharts.com/lit/outliers/chapter-2-the-10-000-hour-rule"
+            },
+            {
+              "title": "Bill Gates - Lakeside School (speech, 2005)",
+              "publisher": "Gates Foundation",
+              "url": "https://www.gatesfoundation.org/ideas/speeches/2005/09/bill-gates-lakeside-school"
+            }
+          ]
+        },
+        {
+          "text": "Adolescent, Bill Gates a passé de nombreuses heures, y compris la nuit, à programmer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Teenage Bill Gates snuck out of his house nightly to write computer code",
+              "publisher": "CNBC",
+              "url": "https://www.cnbc.com/2025/02/19/teenage-bill-gates-snuck-out-of-his-house-nightly-to-write-computer-code.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1958, Michael Young a publié The Rise of the Meritocracy, une satire dystopique. Son narrateur écrit en 2033 et le mérite y est défini par la formule « intelligence plus effort ». Le livre s'achève sur une révolte contre l'élite méritocratique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Rise of the Meritocracy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy"
+            },
+            {
+              "title": "Down with meritocracy",
+              "publisher": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2001/jun/29/comment"
+            }
+          ]
+        },
+        {
+          "text": "Le sociologue Alan Fox avait déjà employé le mot « meritocracy » en 1956, dans un sens péjoratif.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Rise of the Meritocracy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy"
+            },
+            {
+              "title": "The Birth of Meritocracy: Michael Young, The Rise of the Meritocracy and Post-War British Politics",
+              "publisher": "Discover Society",
+              "url": "https://archive.discoversociety.org/2018/10/02/the-birth-of-meritocracy-michael-young-the-rise-of-the-meritocracy-and-post-war-british-politics/"
+            }
+          ]
+        },
+        {
+          "text": "En 2001, Michael Young a publié dans le Guardian une tribune intitulée « Down with meritocracy ». Il y critique l'usage du mot par Tony Blair et écrit que son livre était une satire censée servir d'avertissement, avertissement qui n'a pas été entendu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Down with meritocracy",
+              "publisher": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2001/jun/29/comment"
+            },
+            {
+              "title": "'The Rise of the Meritocracy' was intended as a warning",
+              "publisher": "What is a Suitable Education?",
+              "url": "https://suitable-education.uk/the-rise-of-the-meritocracy-was-intended-as-a-warning/"
+            }
+          ]
+        },
+        {
+          "text": "Anders Ericsson a contesté la manière dont ses travaux ont été transformés en « règle des dix mille heures ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Malcolm Gladwell got us wrong: Our research was key to the 10,000-hour rule, but here's what got oversimplified",
+              "publisher": "Salon",
+              "url": "https://www.salon.com/2016/04/10/malcolm_gladwell_got_us_wrong_our_research_was_key_to_the_10000_hour_rule_but_heres_what_got_oversimplified/"
+            },
+            {
+              "title": "Peak: Secrets from the New Science of Expertise",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise"
+            }
+          ]
+        },
+        {
+          "text": "La méta-analyse de Macnamara, Hambrick et Oswald (Psychological Science, 2014) porte sur 88 études. Selon elle, la pratique délibérée explique environ 26 % des écarts de performance dans les jeux, 21 % en musique, 18 % dans le sport, 4 % dans les études et moins de 1 % dans les métiers.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Becoming an expert takes more than practice",
+              "publisher": "ScienceDaily / Association for Psychological Science",
+              "url": "https://www.sciencedaily.com/releases/2014/07/140702111033.htm"
+            },
+            {
+              "title": "Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis",
+              "publisher": "Psychological Science",
+              "url": "https://scottbarrykaufman.com/wp-content/uploads/2014/07/Macnamara-et-al.-2014.pdf"
+            }
+          ]
+        },
+        {
+          "text": "L'effet de l'âge relatif fait que les jeunes nés au début de l'année de sélection sont surreprésentés dans les équipes sportives. Il a été documenté en 1985 dans le hockey canadien (Barnsley, Thompson et Barnsley), puis dans le football européen.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Editorial: 40 years of relative age effects in sport",
+              "publisher": "Frontiers / PMC",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12711794/"
+            },
+            {
+              "title": "Barnsley, Roger H. (ERIC document ED306679)",
+              "publisher": "ERIC",
+              "url": "https://files.eric.ed.gov/fulltext/ED306679.pdf"
+            }
+          ]
+        },
+        {
+          "text": "En 2018, Pluchino, Biondo et Rapisarda (université de Catane) ont publié « Talent versus Luck: the role of randomness in success and failure » dans Advances in Complex Systems. Leur modèle simule mille individus sur quarante ans, avec un talent distribué selon une loi normale. Une minorité y concentre l'essentiel de la richesse, et les plus riches sont rarement les plus talentueux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Talent vs Luck: the role of randomness in success and failure",
+              "publisher": "arXiv / Advances in Complex Systems",
+              "url": "https://arxiv.org/abs/1802.07068"
+            },
+            {
+              "title": "If you're so smart, why aren't you rich? Turns out it's just chance.",
+              "publisher": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/"
+            }
+          ]
+        },
+        {
+          "text": "En 2022, Pluchino, Biondo et Rapisarda ont reçu le prix Ig Nobel d'économie pour avoir expliqué mathématiquement pourquoi le succès va le plus souvent aux plus chanceux plutôt qu'aux plus talentueux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Congratulations to Alessandro Pluchino, Alessio Emanuele Biondo and Andrea Rapisarda who have won the 2022 Ig Nobel Prize for Economics!",
+              "publisher": "World Scientific",
+              "url": "https://www.worldscientific.com/do/10.1142/news20220919.609659/full/"
+            }
+          ]
+        },
+        {
+          "text": "Selon le rapport de l'OCDE « A Broken Social Elevator? How to Promote Social Mobility » (2018), il faudrait six générations en France pour que les descendants d'une famille à bas revenus atteignent le revenu moyen, contre quatre et demie en moyenne dans l'OCDE et deux au Danemark.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Social mobility in France: what do we really know?",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/en/publications/social-mobility-france-what-do-we-really-know"
+            },
+            {
+              "title": "Moving up the income ladder takes generations. How many depends on where you live",
+              "publisher": "World Economic Forum",
+              "url": "https://www.weforum.org/stories/2018/08/moving-up-the-income-ladder-takes-generations-how-many-depends-on-where-you-live/"
+            }
+          ]
+        },
+        {
+          "text": "Pierre Bourdieu et Jean-Claude Passeron ont publié Les Héritiers en 1964 et La Reproduction en 1970. Ils y soutiennent que l'école consacre comme mérite personnel un capital culturel hérité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Education, culture et domination dans la sociologie de Pierre Bourdieu",
+              "publisher": "SES ENS Lyon",
+              "url": "https://ses.ens-lyon.fr/articles/education-culture-et-domination-dans-la-sociologie-de-pierre-bourdieu"
+            }
+          ]
+        },
+        {
+          "text": "Les enquêtes PISA de l'OCDE classent régulièrement la France parmi les pays où le lien entre origine sociale et résultats scolaires est le plus fort.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "PISA 2022 Results (Volume I and II) - Country Notes: France",
+              "publisher": "OCDE",
+              "url": "https://www.oecd.org/en/publications/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/france_d1a5bb8b.html"
+            },
+            {
+              "title": "PISA 2022 : la France, encore et toujours, championne des inégalités",
+              "publisher": "Café pédagogique",
+              "url": "https://www.cafepedagogique.net/2023/12/05/pisa-2022-la-france-encore-et-toujours-championne-des-inegalites-2/"
+            }
+          ]
+        },
+        {
+          "text": "Le 19 novembre 1957, Albert Camus a écrit à Louis Germain : « Sans vous, sans cette main affectueuse que vous avez tendue au petit enfant pauvre que j'étais, sans votre enseignement, et votre exemple, rien de tout cela ne serait arrivé. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Louis Germain (instituteur)",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Louis_Germain_(instituteur)"
+            },
+            {
+              "title": "Analyse linéaire de la lettre d'Albert Camus à son instituteur, monsieur Germain, du 19 novembre 1957",
+              "publisher": "Gazette littéraire",
+              "url": "https://www.gazettelitteraire.com/2023/10/analyse-lineaire-de-la-lettre-d-albert-camus-a-son-instituteur-monsieur-germain-du-19-novembre-1957.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1966, Lerner et Simmons ont publié dans le Journal of Personality and Social Psychology une expérience où des observateurs qui ne pouvaient pas aider une victime apparente de décharges électriques avaient tendance à la dévaloriser.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Observer's reaction to the \"innocent victim\": compassion or rejection?",
+              "publisher": "Journal of Personality and Social Psychology (Ovid)",
+              "url": "https://www.ovid.com/00005205-196608000-00011"
+            }
+          ]
+        },
+        {
+          "text": "Melvin Lerner a théorisé la « croyance en un monde juste », notamment dans The Belief in a Just World: A Fundamental Delusion (1980).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Melvin J. Lerner",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Melvin_J._Lerner"
+            },
+            {
+              "title": "An Overview (The Belief in a Just World)",
+              "publisher": "Springer",
+              "url": "https://link.springer.com/chapter/10.1007/978-1-4757-6418-5_1"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "D'après eux, ce qui distingue les meilleurs, ce n'est pas un don mystérieux : c'est la pratique délibérée, autour de dix mille heures à vingt ans pour les plus brillants.",
+            "note": "« Autour de dix mille heures » est une moyenne arrondie annoncée comme telle. Le propos porte sur le rôle de la pratique, pas sur le nombre exact d'heures."
+          },
+          {
+            "excerpt": "Réponse : vingt-six pour cent dans les jeux comme les échecs, vingt et un pour cent en musique, dix-huit pour cent dans le sport, quatre pour cent dans les études, et moins d'un pour cent dans les métiers.",
+            "note": "Ce sont des parts de variance expliquée, arrondies à l'unité. La conclusion (l'entraînement n'explique qu'une minorité des écarts) ne dépend pas des décimales. Le fact-check vérifiera les valeurs publiées."
+          },
+          {
+            "excerpt": "Ils simulent mille individus sur une carrière de quarante ans.",
+            "note": "Ce sont les paramètres du modèle, cités tels quels. Le résultat qualitatif ne dépend ni de la taille exacte de la population ni de la durée simulée."
+          },
+          {
+            "excerpt": "Résultat : au bout de quarante ans, une petite minorité concentre l'essentiel de la richesse, comme dans le monde réel.",
+            "note": "La formule résume en mots une répartition de type 80/20, sans prétendre à un chiffre précis."
+          },
+          {
+            "excerpt": "En France : six générations. Plus d'un siècle.",
+            "note": "Il s'agit d'une estimation de l'OCDE, et « plus d'un siècle » en est une conversion volontairement prudente. Le propos (l'ascenseur social est lent) ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "La moyenne de l'OCDE est de quatre générations et demie, et le Danemark en est à deux.",
+            "note": "Ce sont des estimations arrondies qui servent de points de comparaison. Seul l'ordre de grandeur des écarts entre pays compte."
+          },
+          {
+            "excerpt": "Moins d'un siècle plus tard, les lois Jules Ferry de 1881 et 1882 rendent l'école primaire gratuite, obligatoire et laïque.",
+            "note": "« Moins d'un siècle » arrondit l'écart entre 1789 et 1881-1882. Les dates exactes sont données juste après."
+          },
+          {
+            "excerpt": "Un homme écrit une mise en garde, et plus de quarante ans plus tard, on la lui renvoie comme un idéal politique.",
+            "note": "« Plus de quarante ans » arrondit l'écart entre 1958 et 2001. L'effet rhétorique ne dépend pas du nombre exact d'années."
+          }
+        ]
+      },
+      "corrections": []
+    },
     {
       "slug": "tout-arrive-pour-une-raison-3a38",
       "youtubeId": "EaKHThIwLtk",
