@@ -1,63 +1,452 @@
 {
-  "version": 2,
-  "generatedAt": "2026-10-05T18:51:35.967Z",
+  "generatedAt": "2026-10-05T20:01:10.414Z",
   "license": "CC BY 4.0",
-  "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
+  "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
     {
-      "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
-      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
-      "format": "short",
-      "publishedAt": "2026-10-05T18:15:04.019Z",
-      "durationSeconds": 134,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré",
-        "summary": "Aucun mécanisme physique ne relie ces planètes lointaines à nos vies. Les tests contrôlés de l'astrologie, comme celui de Shawn Carlson publié dans Nature en 1985, ne font pas mieux que le hasard. Le sentiment de justesse s'explique par l'effet Barnum et la relecture après coup, et ces transits durent d'ailleurs bien au-delà de 2028."
-      },
+      "slug": "le-chemin-de-vie-en-numerologie-2d23",
+      "youtubeId": "G1IOo80G-P8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G1IOo80G-P8",
+      "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
+      "publishedAt": "2026-10-05T20:00:10.317Z",
+      "pillar": "Pseudo-sciences et charlatans : astrologie, voyance, médecines alternatives",
       "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": {
-        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
-        "channel": "La Télé de Lilou Macé",
-        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
-        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8",
-        "passages": [
-          {
-            "text": "Les deux se tiennent la main jusqu'en 2028."
-          },
-          {
-            "text": "Pluton et Uranus se tiennent la main jusqu'en 2028"
-          }
+      "examinedClaim": {
+        "statement": "Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun.",
+        "verdict": "faux",
+        "summary": "Le chemin de vie n'a rien de pythagoricien : la méthode date du début du XXe siècle. Elle s'applique à un calendrier fixé par Rome, un pape et des gouvernements, au point qu'une même personne, comme George Washington, peut avoir deux chemins de vie. Le calcul se ramène au reste d'une division par neuf, et ses portraits conviennent à tout le monde par effet Barnum, comme Forer l'a montré en 1949.",
+        "techniques": [
+          "numerologie",
+          "appel-a-l-anciennete",
+          "selection-des-cas"
         ]
       },
-      "series": null,
-      "youtube": {
-        "id": "jUXA-3UNzBE",
-        "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
-        "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
+      "facts": [
+        {
+          "text": "En numérologie, le chemin de vie se calcule en additionnant les chiffres de la date de naissance et en réduisant le total à un chiffre de 1 à 9, sauf pour les nombres maîtres 11, 22 et 33.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Life Path Number — Calculator, Meanings & Guide",
+              "publisher": "World Numerology",
+              "url": "https://www.worldnumerology.com/numerology-life-path/"
+            },
+            {
+              "title": "Life Path Number: Calculator, Formula, and Meanings 1–9, 11, 22, and 33",
+              "publisher": "The Great Almanac",
+              "url": "https://www.thegreatalmanac.com/numerology/life-path-number"
+            }
+          ]
+        },
+        {
+          "text": "Pour le 14 juillet 1989, la somme des chiffres vaut 39, qui se réduit à 12 puis à 3 ; la réduction séparée du jour, du mois et de l'année donne aussi 3.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Life Path Number — Calculator, Meanings & Guide",
+              "publisher": "World Numerology",
+              "url": "https://www.worldnumerology.com/numerology-life-path/"
+            }
+          ]
+        },
+        {
+          "text": "Les manuels de numérologie associent les nombres de 1 à 9 à des profils (1 pionnier, 4 bâtisseur, 7 chercheur, 9 humaniste…) et décrivent 11, 22 et 33 comme des nombres maîtres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Life Path Number: Meanings 1-9 + Calculator",
+              "publisher": "Your Path Numbers",
+              "url": "https://www.yourpathnumbers.com/en/blog/life-path-meanings-1-9"
+            },
+            {
+              "title": "Life Path Number: Calculator, Formula, and Meanings 1–9, 11, 22, and 33",
+              "publisher": "The Great Almanac",
+              "url": "https://www.thegreatalmanac.com/numerology/life-path-number"
+            }
+          ]
+        },
+        {
+          "text": "Selon Aristote (Métaphysique, livre A, chapitre 5), les pythagoriciens tenaient les principes des nombres pour les principes de toutes choses.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Metaphysics by Aristotle, Book I (trad. W. D. Ross)",
+              "publisher": "The Internet Classics Archive (MIT)",
+              "url": "http://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+            },
+            {
+              "title": "Pythagoreanism",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pythagoreanism/"
+            }
+          ]
+        },
+        {
+          "text": "On attribue aux pythagoriciens la découverte que l'octave et la quinte correspondent aux rapports 2:1 et 3:2.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pythagoras",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pythagoras/"
+            }
+          ]
+        },
+        {
+          "text": "Pythagore n'a laissé aucun écrit ; ses principales biographies, par Porphyre et Jamblique, datent de plus de sept siècles après sa mort et lui prêtent des miracles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pythagoras",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pythagoras/"
+            },
+            {
+              "title": "Pythagoras",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pythagoras"
+            }
+          ]
+        },
+        {
+          "text": "Dans Weisheit und Wissenschaft (1962), Walter Burkert a montré qu'une grande partie de la science attribuée à Pythagore lui a été prêtée après coup.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Other Lives: The Truth about Pythagoras",
+              "publisher": "London Review of Books",
+              "url": "https://www.lrb.co.uk/the-paper/v29/n04/m.f.-burnyeat/other-lives"
+            },
+            {
+              "title": "Walter Burkert, Lore and science in ancient Pythagoreanism",
+              "publisher": "PhilPapers",
+              "url": "https://philpapers.org/rec/BURLAS"
+            }
+          ]
+        },
+        {
+          "text": "Les Grecs anciens notaient les nombres avec des lettres ; les chiffres indo-arabes, venus d'Inde par le monde arabe, se diffusent en Europe à partir du Liber Abaci de Fibonacci (1202).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Liber abaci",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/Liber-abaci"
+            },
+            {
+              "title": "Greek number systems",
+              "publisher": "MacTutor History of Mathematics (University of St Andrews)",
+              "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Greek_numbers/"
+            }
+          ]
+        },
+        {
+          "text": "Le calendrier julien entre en vigueur en 45 av. J.-C. et le calendrier grégorien en 1582 ; Pythagore est mort vers 495 av. J.-C.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Julian calendar",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Julian_calendar"
+            },
+            {
+              "title": "Pythagoras",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pythagoras/"
+            }
+          ]
+        },
+        {
+          "text": "La numérologie moderne apparaît aux États-Unis au début du XXe siècle avec L. Dow Balliett, puis Juno Jordan ; la réduction des dates de naissance, les portraits de personnalité et les nombres maîtres sont absents des sources pythagoriciennes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L. Dow Balliett: The Founder of Modern Numerology (1847–1929)",
+              "publisher": "Numerologist.com",
+              "url": "https://numerologist.com/numerology/balliett"
+            },
+            {
+              "title": "Numerology or What Pythagoras Wrought (Underwood Dudley)",
+              "publisher": "American Mathematical Society",
+              "url": "https://bookstore.ams.org/view?ProductCode=SPEC%2F19"
+            },
+            {
+              "title": "Pythagoras",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pythagoras/"
+            }
+          ]
+        },
+        {
+          "text": "En 1949, Bertram Forer a remis à 39 étudiants un même portrait présenté comme personnalisé, tiré en grande partie d'un livre d'astrologie ; la note moyenne de justesse, sur 5, a dépassé 4.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. La démonstration a eu lieu en 1948 et l'article est paru en janvier 1949 (J. Abnorm. Soc. Psychol. 44:118-123) ; les 39 étudiants, le livre d'astrologie de kiosque et la moyenne (4,26 ou 4,30 sur 5) sont exacts. Correction proposée : En 1948 (étude publiée en 1949), Bertram Forer a remis à 39 étudiants un même portrait présenté comme personnalisé, tiré en grande partie d'un livre d'astrologie ; la note moyenne de justesse, sur 5, a dépassé 4.",
+          "sources": [
+            {
+              "title": "Barnum effect",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+            },
+            {
+              "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
+              "publisher": "Journal of Abnormal and Social Psychology (via ResearchGate)",
+              "url": "https://www.researchgate.net/publication/5739334_The_fallacy_of_personal_validation_a_classroom_demonstration_of_gullibility"
+            }
+          ]
+        },
+        {
+          "text": "Le portrait de Forer contenait les phrases « You have a great deal of unused capacity which you have not turned to your advantage » et « At times you are extroverted, affable, sociable, while at other times you are introverted, wary, reserved ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Barnum effect",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+            },
+            {
+              "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
+              "publisher": "Journal of Abnormal and Social Psychology (via ResearchGate)",
+              "url": "https://www.researchgate.net/publication/5739334_The_fallacy_of_personal_validation_a_classroom_demonstration_of_gullibility"
+            }
+          ]
+        },
+        {
+          "text": "Paul Meehl a donné à ce phénomène le nom d'« effet Barnum » en 1956.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Barnum effect",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+            },
+            {
+              "title": "The Science Behind the Barnum Effect",
+              "publisher": "The Decision Lab",
+              "url": "https://thedecisionlab.com/insights/business/the-science-behind-the-barnum-effect"
+            }
+          ]
+        },
+        {
+          "text": "Shawn Carlson a publié dans Nature, en 1985, un test de l'astrologie en double aveugle : les astrologues devaient choisir parmi trois profils de personnalité celui qui correspondait à chaque thème natal, et n'ont pas fait mieux que le hasard.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A double-blind test of astrology",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/318419a0"
+            },
+            {
+              "title": "Shawn Carlson",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+            }
+          ]
+        },
+        {
+          "text": "Septembre, de septem, était le septième mois de l'ancien calendrier romain, qui commençait en mars.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "September",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/September"
+            },
+            {
+              "title": "September (Roman month)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/September_(Roman_month)"
+            }
+          ]
+        },
+        {
+          "text": "Le décompte des années à partir de la naissance de Jésus a été établi au VIe siècle par le moine Denys le Petit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Anno Domini",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Anno_Domini"
+            },
+            {
+              "title": "Dionysius Exiguus",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/biography/Dionysius-Exiguus"
+            }
+          ]
+        },
+        {
+          "text": "Par la bulle Inter gravissimas (1582), Grégoire XIII supprime dix jours pour corriger la dérive du calendrier julien : en Italie et en Espagne, le jeudi 4 octobre 1582 est suivi du vendredi 15 octobre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Inter gravissimas",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Inter_gravissimas"
+            },
+            {
+              "title": "1582",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/1582"
+            }
+          ]
+        },
+        {
+          "text": "Thérèse d'Avila est morte dans la nuit du 4 au 15 octobre 1582, au moment du passage au calendrier grégorien.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Teresa of Ávila",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+            },
+            {
+              "title": "Memorial of St. Teresa of Avila, virgin and doctor",
+              "publisher": "Catholic Culture",
+              "url": "https://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm?date=2012-10-15"
+            }
+          ]
+        },
+        {
+          "text": "La Grande-Bretagne et ses colonies adoptent le calendrier grégorien en 1752.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Calendar (New Style) Act 1750",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750"
+            },
+            {
+              "title": "George Washington's Birthday",
+              "publisher": "U.S. National Archives",
+              "url": "https://www.archives.gov/legislative/features/washington"
+            }
+          ]
+        },
+        {
+          "text": "George Washington est né le 11 février 1731 selon le calendrier julien alors en usage, soit le 22 février 1732 dans le calendrier grégorien, l'année légale anglaise commençant alors le 25 mars.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "George Washington's Birthday",
+              "publisher": "U.S. National Archives",
+              "url": "https://www.archives.gov/legislative/features/washington"
+            }
+          ]
+        },
+        {
+          "text": "Avec la date du 11 février 1731, le chemin de vie calculé vaut 7 ; avec celle du 22 février 1732, il vaut 1.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Life Path Number — Calculator, Meanings & Guide",
+              "publisher": "World Numerology",
+              "url": "https://www.worldnumerology.com/numerology-life-path/"
+            }
+          ]
+        },
+        {
+          "text": "Le calendrier officiel de l'Iran est le calendrier persan (hégirien solaire), utilisé pour l'état civil.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Solar Hijri calendar",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Solar_Hijri_calendar"
+            },
+            {
+              "title": "Iranian calendars",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Iranian_calendars"
+            }
+          ]
+        },
+        {
+          "text": "La racine numérique d'un entier positif égale le reste de sa division par 9, avec 9 à la place de 0 ; 14 + 7 + 1989 = 2010, dont le reste par 9 est 3. En base 8, elle ne pourrait prendre que 7 valeurs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Digital root",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Digital_root"
+            }
+          ]
+        },
+        {
+          "text": "Pour le 18 septembre 1991, l'addition de tous les chiffres donne 38 puis 11, alors que réduire d'abord le jour, le mois et l'année donne 20 puis 2.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Life Path Number — Calculator, Meanings & Guide",
+              "publisher": "World Numerology",
+              "url": "https://www.worldnumerology.com/numerology-life-path/"
+            }
+          ]
+        },
+        {
+          "text": "En numérologie, quand un portrait ne correspond pas, on l'explique par le côté négatif du nombre, par d'autres nombres de la personne ou par des dettes karmiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Karmic Meaning in Numerology: Debt, Lessons & Past Lives",
+              "publisher": "Numerologist.com",
+              "url": "https://numerologist.com/numerology/karmic-numerology-guide"
+            },
+            {
+              "title": "Shadow Traits by Number: Life Path, Expression & Soul Urge",
+              "publisher": "Numerologist.com",
+              "url": "https://numerologist.com/numerology/the-shadow-sides-of-each-number"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": []
       },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
+      "corrections": []
+    },
+    {
+      "slug": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+      "youtubeId": "jUXA-3UNzBE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
+      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+      "publishedAt": "2026-10-05T18:15:04.019Z",
+      "pillar": null,
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
+        "verdict": "non_demontre",
+        "summary": "Aucun mécanisme physique ne relie ces planètes lointaines à nos vies. Les tests contrôlés de l'astrologie, comme celui de Shawn Carlson publié dans Nature en 1985, ne font pas mieux que le hasard. Le sentiment de justesse s'explique par l'effet Barnum et la relecture après coup, et ces transits durent d'ailleurs bien au-delà de 2028.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "infalsifiabilite",
+          "selection-des-cas"
+        ]
       },
       "facts": [
         {
@@ -287,6 +676,20 @@
           ]
         }
       ],
+      "examinedVideo": {
+        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+        "channel": "La Télé de Lilou Macé",
+        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8",
+        "passages": [
+          {
+            "text": "Les deux se tiennent la main jusqu'en 2028."
+          },
+          {
+            "text": "Pluton et Uranus se tiennent la main jusqu'en 2028"
+          }
+        ]
+      },
       "review": {
         "kind": "not_required",
         "approximations": [
@@ -308,38 +711,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "guerisons-miraculeuses-experiences-de-mort-4f09",
+      "slug": "guerisons-miraculeuses-experiences-de-mort-4f09",
+      "youtubeId": "6ZEHqdNAHRY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
       "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
-      "format": "video",
       "publishedAt": "2026-10-05T17:45:08.682Z",
-      "durationSeconds": 684,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "temoignage-inverifiable",
-        "name": "Le témoignage invérifiable"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "6ZEHqdNAHRY",
-        "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
-        "thumbnail": "https://i.ytimg.com/vi/6ZEHqdNAHRY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/guerisons-miraculeuses-experiences-de-mort-4f09.json"
-      },
+      "pillar": "Esprit critique : biais, sophismes, manipulation, complotisme",
+      "technique": "temoignage-inverifiable",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "En 2001, The Lancet a publié l'étude prospective de Pim van Lommel et collègues : sur 344 patients réanimés après un arrêt cardiaque, 62 ont rapporté une expérience de mort imminente.",
@@ -743,6 +1125,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "neurosciences et recherche sur la conscience (expériences de mort imminente, mémoire, hypnose), avec des éléments de médecine clinique",
@@ -771,58 +1154,24 @@
           }
         ]
       },
-      "references": [
-        {
-          "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
-          "channel": null,
-          "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
-          "own": true
-        }
-      ],
-      "next": {
-        "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
-        "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A"
-      },
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
+      "slug": "le-libre-arbitre-existe-t-il-vraiment-e244",
+      "youtubeId": "pIoZtbVyQXY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
       "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",
-      "format": "video",
       "publishedAt": "2026-10-05T15:45:09.131Z",
-      "durationSeconds": 713,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
+      "pillar": "Philosophie moderne : nihilisme, absurde, libre arbitre, sens de la vie",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Notre volonté est libre : au moment de choisir, nous aurions pu vouloir et faire autrement, et nous le savons sans preuve, par l'expérience intime que nous en avons.",
         "verdict": "non_demontre",
-        "verdictLabel": "Non démontré",
-        "summary": "Le libre arbitre au sens fort, celui que décrit Descartes, ne repose que sur le sentiment de choisir. Or ce sentiment peut être détourné, fabriqué ou déclenché en laboratoire (Brasil-Neto 1992, Wegner 1999, Desmurget 2009). Ni les causes ni le hasard ne laissent de place à une volonté qui serait sa propre cause ; il reste une liberté plus modeste : connaître ce qui nous détermine, et ne plus répéter son passé sans le savoir."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "pIoZtbVyQXY",
-        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
-        "thumbnail": "https://i.ytimg.com/vi/pIoZtbVyQXY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-libre-arbitre-existe-t-il-vraiment-e244/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-libre-arbitre-existe-t-il-vraiment-e244.json"
+        "summary": "Le libre arbitre au sens fort, celui que décrit Descartes, ne repose que sur le sentiment de choisir. Or ce sentiment peut être détourné, fabriqué ou déclenché en laboratoire (Brasil-Neto 1992, Wegner 1999, Desmurget 2009). Ni les causes ni le hasard ne laissent de place à une volonté qui serait sa propre cause ; il reste une liberté plus modeste : connaître ce qui nous détermine, et ne plus répéter son passé sans le savoir.",
+        "techniques": [
+          "temoignage-inverifiable",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -1182,6 +1531,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "neurosciences et recherche sur la conscience (neurosciences de la volition et du sentiment d'agentivité)",
@@ -1216,64 +1566,24 @@
           }
         ]
       },
-      "references": [
-        {
-          "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",
-          "channel": null,
-          "url": "https://www.youtube.com/watch?v=SZCHk7cjrec",
-          "own": true
-        }
-      ],
-      "next": {
-        "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir ?",
-        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM"
-      },
-      "shorts": [
-        {
-          "title": "Hasard ou causes : pourquoi aucun des deux ne te rend libre",
-          "url": "https://www.youtube.com/watch?v=uWr0I47_cOo",
-          "publishedAt": "2026-10-05T17:39:36.020Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff",
+      "slug": "ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff",
+      "youtubeId": "3pjP8BcdJJc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3pjP8BcdJJc",
       "title": "Où va vraiment l'argent que tu déposes à la banque ? Le système bancaire expliqué",
-      "format": "video",
       "publishedAt": "2026-10-05T14:45:09.542Z",
-      "durationSeconds": 682,
-      "rubric": {
-        "id": "systeme",
-        "name": "Le système"
-      },
-      "claim": {
+      "pillar": "Le système : comment la société fonctionne et dysfonctionne",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Quand tu déposes ton argent à la banque, elle en garde une partie en réserve et prête le reste à d'autres clients ; et la monnaie vaut quelque chose parce qu'elle repose sur une richesse bien réelle.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "La banque garde bien des réserves et doit se financer, mais selon la Banque d'Angleterre, la Banque de France et la Bundesbank, ce sont les crédits qui créent l'essentiel des dépôts, et non l'inverse : le multiplicateur des manuels renverse la causalité. Depuis la suspension de la convertibilité du dollar en 1971, aucune grande monnaie ne repose sur un stock d'or : elle repose sur la loi et la confiance, comme l'écrivait déjà Aristote."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "3pjP8BcdJJc",
-        "url": "https://www.youtube.com/watch?v=3pjP8BcdJJc",
-        "thumbnail": "https://i.ytimg.com/vi/3pjP8BcdJJc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff.json"
+        "summary": "La banque garde bien des réserves et doit se financer, mais selon la Banque d'Angleterre, la Banque de France et la Bundesbank, ce sont les crédits qui créent l'essentiel des dépôts, et non l'inverse : le multiplicateur des manuels renverse la causalité. Depuis la suspension de la convertibilité du dollar en 1971, aucune grande monnaie ne repose sur un stock d'or : elle repose sur la loi et la confiance, comme l'écrivait déjà Aristote.",
+        "techniques": [
+          "argument-autorite",
+          "appel-a-l-anciennete"
+        ]
       },
       "facts": [
         {
@@ -1604,59 +1914,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": {
-        "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir ?",
-        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM"
-      },
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
+      "slug": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
+      "youtubeId": "GgT4uql9Vv4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
       "title": "Pourquoi les sceptiques s'attaquent-ils à la foi ? Zététique et The Satanic Temple",
-      "format": "video",
       "publishedAt": "2026-10-05T00:00:11.813Z",
-      "durationSeconds": 672,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Religions : toutes, sans en épargner ni en privilégier aucune",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Croire ne fait de mal à personne : chacun ses croyances, et les remettre en question ne sert à rien.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "La liberté de croire est un droit réel, et la foi peut apporter réconfort et communauté. Mais une croyance soustraite à toute vérification finit par coûter à quelqu'un : des malades qui renoncent aux traitements éprouvés, des adeptes sous emprise, des citoyens soumis par la loi au dogme d'autrui."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "charge-de-la-preuve",
-          "name": "Le renversement de la charge de la preuve"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "GgT4uql9Vv4",
-        "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
-        "thumbnail": "https://i.ytimg.com/vi/GgT4uql9Vv4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-combattre-la-pseudoscience-et-la-religion-e698/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-combattre-la-pseudoscience-et-la-religion-e698.json"
+        "summary": "La liberté de croire est un droit réel, et la foi peut apporter réconfort et communauté. Mais une croyance soustraite à toute vérification finit par coûter à quelqu'un : des malades qui renoncent aux traitements éprouvés, des adeptes sous emprise, des citoyens soumis par la loi au dogme d'autrui.",
+        "techniques": [
+          "selection-des-cas",
+          "temoignage-inverifiable",
+          "charge-de-la-preuve"
+        ]
       },
       "facts": [
         {
@@ -2035,6 +2316,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "médecine clinique, pharmacologie et épidémiologie",
@@ -2061,38 +2343,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "une-sagesse-ancestrale-pratiquee-depuis-des-287b",
+      "slug": "une-sagesse-ancestrale-pratiquee-depuis-des-287b",
+      "youtubeId": "AFk9CaSz7PY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AFk9CaSz7PY",
       "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
-      "format": "video",
       "publishedAt": "2026-10-04T22:30:09.807Z",
-      "durationSeconds": 683,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "appel-a-l-anciennete",
-        "name": "L'appel à l'ancienneté"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "AFk9CaSz7PY",
-        "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY",
-        "thumbnail": "https://i.ytimg.com/vi/AFk9CaSz7PY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-sagesse-ancestrale-pratiquee-depuis-des-287b/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-sagesse-ancestrale-pratiquee-depuis-des-287b.json"
-      },
+      "pillar": "Esprit critique : biais, sophismes, manipulation, complotisme",
+      "technique": "appel-a-l-anciennete",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Tu Youyou a reçu en 2015 le prix Nobel de physiologie ou médecine (partagé avec William C. Campbell et Satoshi Ōmura) pour la découverte de l'artémisinine.",
@@ -2475,6 +2736,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "médecine clinique, pharmacologie et méthodologie des essais (épidémiologie)",
@@ -2515,52 +2777,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "l-univers-n-a-pas-ete-fait-pour-toi-fd61",
+      "slug": "l-univers-n-a-pas-ete-fait-pour-toi-fd61",
+      "youtubeId": "5-lp18BDj2I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5-lp18BDj2I",
       "title": "L'univers a-t-il été fait pour nous ? Le troublant mystère du réglage fin",
-      "format": "video",
       "publishedAt": "2026-10-04T19:45:08.969Z",
-      "durationSeconds": 699,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Religions : toutes, sans en épargner ni en privilégier aucune",
+      "technique": null,
+      "examinedClaim": {
         "statement": "L'univers a été fait pour l'être humain : ses lois sont réglées pour nous, et les dieux, les astres et le cosmos s'intéressent à nos vies.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "Certaines constantes physiques sont bien sensibles, mais cela ne prouve aucune intention : nous ne pouvons observer qu'un univers compatible avec notre existence, comme la flaque de Douglas Adams épouse son trou. Poussées jusqu'au bout, les prémisses anthropocentriques mènent à l'absurde : des dieux aux défauts humains, un cosmos presque entièrement mortel, et des astres qui échouent aux tests en double aveugle."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "5-lp18BDj2I",
-        "url": "https://www.youtube.com/watch?v=5-lp18BDj2I",
-        "thumbnail": "https://i.ytimg.com/vi/5-lp18BDj2I/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-univers-n-a-pas-ete-fait-pour-toi-fd61.json"
+        "summary": "Certaines constantes physiques sont bien sensibles, mais cela ne prouve aucune intention : nous ne pouvons observer qu'un univers compatible avec notre existence, comme la flaque de Douglas Adams épouse son trou. Poussées jusqu'au bout, les prémisses anthropocentriques mènent à l'absurde : des dieux aux défauts humains, un cosmos presque entièrement mortel, et des astres qui échouent aux tests en double aveugle.",
+        "techniques": [
+          "selection-des-cas",
+          "infalsifiabilite",
+          "argument-autorite"
+        ]
       },
       "facts": [
         {
@@ -2934,6 +3169,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "cosmologie et astrophysique (réglage fin des constantes physiques, nucléosynthèse stellaire, zone habitable, principe anthropique)",
@@ -2972,64 +3208,24 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Pourquoi tu vois 11h11 partout (et jamais les 1 400 autres minutes)",
-          "url": "https://www.youtube.com/watch?v=wUKjaXhWubo",
-          "publishedAt": "2026-10-04T21:09:41.277Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+      "slug": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+      "youtubeId": "ve29Mi2odq4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ve29Mi2odq4",
       "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
-      "format": "short",
       "publishedAt": "2026-10-04T16:30:16.605Z",
-      "durationSeconds": 120,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
+      "pillar": null,
+      "technique": null,
+      "examinedClaim": {
         "statement": "Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n'y a personne.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "L'écran de la Tesla ne montre pas des morts : il montre les erreurs de classement de son logiciel de vision. Un réseau de neurones entraîné à repérer des piétons range dans cette case des formes verticales comme des stèles, des statues ou des croix. Ces faux positifs sont connus et documentés, et il n'y a pas besoin de l'au-delà pour les expliquer."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        }
-      ],
-      "answers": {
-        "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
-        "channel": "Coffeebird_official",
-        "channelId": "UCmkxA7DNnj4HCFLeUHgCjmg",
-        "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE",
-        "passages": [
-          {
-            "text": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière."
-          }
+        "summary": "L'écran de la Tesla ne montre pas des morts : il montre les erreurs de classement de son logiciel de vision. Un réseau de neurones entraîné à repérer des piétons range dans cette case des formes verticales comme des stèles, des statues ou des croix. Ces faux positifs sont connus et documentés, et il n'y a pas besoin de l'au-delà pour les expliquer.",
+        "techniques": [
+          "caution-scientifique",
+          "argument-autorite"
         ]
-      },
-      "series": null,
-      "youtube": {
-        "id": "ve29Mi2odq4",
-        "url": "https://www.youtube.com/watch?v=ve29Mi2odq4",
-        "thumbnail": "https://i.ytimg.com/vi/ve29Mi2odq4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8.json"
       },
       "facts": [
         {
@@ -3147,56 +3343,40 @@
           ]
         }
       ],
+      "examinedVideo": {
+        "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
+        "channel": "Coffeebird_official",
+        "channelId": "UCmkxA7DNnj4HCFLeUHgCjmg",
+        "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE",
+        "passages": [
+          {
+            "text": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière."
+          }
+        ]
+      },
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "slug": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "youtubeId": "xe7folt44Ko",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xe7folt44Ko",
       "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
-      "format": "video",
       "publishedAt": "2026-10-04T16:30:11.972Z",
-      "durationSeconds": 651,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
+      "pillar": "Pseudo-sciences et charlatans : astrologie, voyance, médecines alternatives",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
         "verdict": "non_demontre",
-        "verdictLabel": "Non démontré",
-        "summary": "Aucun médium n'a jamais réussi un test contrôlé : dès qu'on le prive des réactions de la personne, comme dans l'étude O'Keeffe et Wiseman de 2005, ses lectures ne sont pas mieux reconnues que celles destinées à d'autres. Ce qui impressionne en séance s'explique par la lecture à froid, l'effet Barnum et la mémoire sélective, et le mouvement est né d'une fraude avouée par Margaret Fox en 1888."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "xe7folt44Ko",
-        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
-        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+        "summary": "Aucun médium n'a jamais réussi un test contrôlé : dès qu'on le prive des réactions de la personne, comme dans l'étude O'Keeffe et Wiseman de 2005, ses lectures ne sont pas mieux reconnues que celles destinées à d'autres. Ce qui impressionne en séance s'explique par la lecture à froid, l'effet Barnum et la mémoire sélective, et le mouvement est né d'une fraude avouée par Margaret Fox en 1888.",
+        "techniques": [
+          "temoignage-inverifiable",
+          "selection-des-cas",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -3615,6 +3795,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "neurosciences et recherche sur la conscience",
@@ -3647,49 +3828,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Le message de sa mère morte était en anglais. Elle ne le parlait pas.",
-          "url": "https://www.youtube.com/watch?v=j9jFRMrg0ig",
-          "publishedAt": "2026-10-04T18:26:46.365Z"
-        },
-        {
-          "title": "La médium a dit que sa fille était morte. Elle était séquestrée.",
-          "url": "https://www.youtube.com/watch?v=vLzF1g7XEek",
-          "publishedAt": "2026-10-05T00:26:52.487Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "miracle-ou-mensonge-adab",
+      "slug": "miracle-ou-mensonge-adab",
+      "youtubeId": "ZYr31MAYp6A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
       "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
-      "format": "video",
       "publishedAt": "2026-10-04T14:00:12.156Z",
-      "durationSeconds": 656,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "faux-dilemme",
-        "name": "Le faux dilemme"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "ZYr31MAYp6A",
-        "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
-        "thumbnail": "https://i.ytimg.com/vi/ZYr31MAYp6A/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
-      },
+      "pillar": "Esprit critique : biais, sophismes, manipulation, complotisme",
+      "technique": "faux-dilemme",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Jésus de Nazareth a été crucifié sur ordre de l'autorité romaine à Jérusalem, vers l'an 30.",
@@ -4092,68 +4241,29 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Le jour où une statue de Ganesh a bu du lait devant des foules",
-          "url": "https://www.youtube.com/watch?v=jOCKiehi7pQ",
-          "publishedAt": "2026-10-04T15:08:39.801Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "transits-planetaires-et-retrogradations-191e",
+      "slug": "transits-planetaires-et-retrogradations-191e",
+      "youtubeId": "ghN7-UhF828",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ghN7-UhF828",
       "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
-      "format": "short",
       "publishedAt": "2026-10-04T11:30:03.912Z",
-      "durationSeconds": 132,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
+      "pillar": null,
+      "technique": null,
+      "examinedClaim": {
         "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "Une rétrogradation n'est qu'un effet de perspective : aucune planète ne recule. Testée en double aveugle, notamment par Shawn Carlson dans Nature en 1985 avec un protocole approuvé par des astrologues, la lecture astrologique ne fait pas mieux que le hasard. L'impression que ça marche vient de l'effet Barnum, du biais de confirmation et de la prophétie autoréalisatrice."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": {
-        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
-        "channel": "La Télé de Lilou Macé",
-        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
-        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY",
-        "passages": [
-          {
-            "text": "Je retrouve Sandrine Verrycken, que j'interviewe depuis plus de dix ans, à un moment où on sent tous que les choses s'accélèrent et qu'on aimerait un peu d'oxygène sur ce qui vient."
-          }
+        "summary": "Une rétrogradation n'est qu'un effet de perspective : aucune planète ne recule. Testée en double aveugle, notamment par Shawn Carlson dans Nature en 1985 avec un protocole approuvé par des astrologues, la lecture astrologique ne fait pas mieux que le hasard. L'impression que ça marche vient de l'effet Barnum, du biais de confirmation et de la prophétie autoréalisatrice.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "selection-des-cas"
         ]
-      },
-      "series": null,
-      "youtube": {
-        "id": "ghN7-UhF828",
-        "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
-        "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
       },
       "facts": [
         {
@@ -4320,6 +4430,17 @@
           ]
         }
       ],
+      "examinedVideo": {
+        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+        "channel": "La Télé de Lilou Macé",
+        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY",
+        "passages": [
+          {
+            "text": "Je retrouve Sandrine Verrycken, que j'interviewe depuis plus de dix ans, à un moment où on sent tous que les choses s'accélèrent et qu'on aimerait un peu d'oxygène sur ce qui vient."
+          }
+        ]
+      },
       "review": {
         "kind": "not_required",
         "approximations": [
@@ -4329,52 +4450,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "quand-on-veut-on-peut-451d",
+      "slug": "quand-on-veut-on-peut-451d",
+      "youtubeId": "zEChYJZZYGM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zEChYJZZYGM",
       "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
-      "format": "video",
       "publishedAt": "2026-10-04T06:15:11.250Z",
-      "durationSeconds": 723,
-      "rubric": {
-        "id": "systeme",
-        "name": "Le système"
-      },
-      "claim": {
+      "pillar": "Le système : comment la société fonctionne et dysfonctionne",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Quand on veut, on peut : avec assez de volonté et de travail, n'importe qui peut réussir, quelle que soit son origine.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "L'effort compte, mais il ne suffit pas. Les récits de réussite ne retiennent que les survivants, et l'entraînement n'explique qu'une partie des écarts de performance. Selon l'OCDE, il faudrait en France six générations à une famille à bas revenus pour atteindre le revenu moyen. Le mot « méritocratie » lui-même vient d'une satire qui mettait en garde contre cette idée."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "zEChYJZZYGM",
-        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM",
-        "thumbnail": "https://i.ytimg.com/vi/zEChYJZZYGM/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quand-on-veut-on-peut-451d.json"
+        "summary": "L'effort compte, mais il ne suffit pas. Les récits de réussite ne retiennent que les survivants, et l'entraînement n'explique qu'une partie des écarts de performance. Selon l'OCDE, il faudrait en France six générations à une famille à bas revenus pour atteindre le revenu moyen. Le mot « méritocratie » lui-même vient d'une satire qui mettait en garde contre cette idée.",
+        "techniques": [
+          "selection-des-cas",
+          "infalsifiabilite",
+          "faux-dilemme"
+        ]
       },
       "facts": [
         {
@@ -4773,6 +4867,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": [
@@ -4810,58 +4905,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Nés en janvier : l'avantage que personne ne mérite",
-          "url": "https://www.youtube.com/watch?v=bRpAqdI4F0M",
-          "publishedAt": "2026-10-04T07:38:53.602Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "tout-arrive-pour-une-raison-3a38",
+      "slug": "tout-arrive-pour-une-raison-3a38",
+      "youtubeId": "EaKHThIwLtk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EaKHThIwLtk",
       "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
-      "format": "video",
       "publishedAt": "2026-10-04T04:30:11.892Z",
-      "durationSeconds": 696,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
+      "pillar": "Philosophie moderne : nihilisme, absurde, libre arbitre, sens de la vie",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
         "verdict": "inverifiable",
-        "verdictLabel": "Invérifiable",
-        "summary": "L'idée échappe à toute vérification : chaque événement, heureux ou atroce, reçoit sa raison après coup, et aucune observation ne pourrait la contredire. Ce qui est établi, c'est que le cerveau humain fabrique spontanément cette impression de but, chez les croyants comme chez les athées (Heider et Simmel, Kelemen, Banerjee et Bloom), et que les coïncidences s'expliquent par la loi des très grands nombres."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "EaKHThIwLtk",
-        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
-        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
+        "summary": "L'idée échappe à toute vérification : chaque événement, heureux ou atroce, reçoit sa raison après coup, et aucune observation ne pourrait la contredire. Ce qui est établi, c'est que le cerveau humain fabrique spontanément cette impression de but, chez les croyants comme chez les athées (Heider et Simmel, Kelemen, Banerjee et Bloom), et que les coïncidences s'expliquent par la loi des très grands nombres.",
+        "techniques": [
+          "infalsifiabilite",
+          "relecture-a-posteriori",
+          "selection-des-cas"
+        ]
       },
       "facts": [
         {
@@ -5203,6 +5265,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": [
@@ -5232,38 +5295,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
+      "slug": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
+      "youtubeId": "yk1WcBv1jfM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
       "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",
-      "format": "video",
       "publishedAt": "2026-10-04T02:15:11.931Z",
-      "durationSeconds": 672,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "chaine-de-transmission",
-        "name": "La chaîne de témoins comme preuve"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "yk1WcBv1jfM",
-        "url": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
-        "thumbnail": "https://i.ytimg.com/vi/yk1WcBv1jfM/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f.json"
-      },
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "chaine-de-transmission",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Les sciences du hadith (isnad, 'ilm al-rijal) se sont développées aux IIe et IIIe siècles de l'hégire ; des dictionnaires biographiques évaluent la probité et la mémoire des transmetteurs ainsi que la possibilité qu'ils se soient rencontrés.",
@@ -5671,56 +5713,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
+      "slug": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
+      "youtubeId": "a8OZPpeJk_A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=a8OZPpeJk_A",
       "title": "Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)",
-      "format": "video",
       "publishedAt": "2026-10-04T00:45:10.638Z",
-      "durationSeconds": 688,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Jésus n'a été ni tué ni crucifié : Dieu a donné son apparence à un autre homme, crucifié à sa place, et l'a élevé vivant auprès de Lui.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "Les sources les plus anciennes attestent que Jésus a été crucifié sous Ponce Pilate : Paul vers 55, puis Tacite et Josèphe. Même les historiens très critiques envers les Évangiles tiennent ce fait pour l'un des plus sûrs de sa vie. Le Coran ne décrit lui-même aucune substitution : le sosie vient de conteurs venus sept siècles plus tard, qui se contredisent, et l'idée reprend une théologie docète attestée dès le deuxième siècle."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "a8OZPpeJk_A",
-        "url": "https://www.youtube.com/watch?v=a8OZPpeJk_A",
-        "thumbnail": "https://i.ytimg.com/vi/a8OZPpeJk_A/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/jesus-a-t-il-vraiment-ete-crucifie-ef5c/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/jesus-a-t-il-vraiment-ete-crucifie-ef5c.json"
+        "summary": "Les sources les plus anciennes attestent que Jésus a été crucifié sous Ponce Pilate : Paul vers 55, puis Tacite et Josèphe. Même les historiens très critiques envers les Évangiles tiennent ce fait pour l'un des plus sûrs de sa vie. Le Coran ne décrit lui-même aucune substitution : le sosie vient de conteurs venus sept siècles plus tard, qui se contredisent, et l'idée reprend une théologie docète attestée dès le deuxième siècle.",
+        "techniques": [
+          "infalsifiabilite",
+          "argument-autorite",
+          "chaine-de-transmission"
+        ]
       },
       "facts": [
         {
@@ -6129,62 +6145,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Jésus est mort : ce qu'un futur grand imam d'al-Azhar a écrit en 1942",
-          "url": "https://www.youtube.com/watch?v=Lg06Qs6-w-Q",
-          "publishedAt": "2026-10-04T02:14:08.210Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+      "slug": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+      "youtubeId": "liUjpvYCsuU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=liUjpvYCsuU",
       "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
-      "format": "video",
       "publishedAt": "2026-10-03T21:00:09.277Z",
-      "durationSeconds": 671,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Science : ce que l'on sait vraiment, quand la critique en a besoin",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le Saint Suaire de Turin est le linceul qui a enveloppé le corps de Jésus, et son image, que la science ne sait ni expliquer ni reproduire, s'est formée de façon surnaturelle au moment de la résurrection.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "Le linge n'apparaît qu'au milieu du XIVe siècle à Lirey. Dès 1389, l'évêque de Troyes affirme qu'un artiste a reconnu l'avoir peint, et Clément VII impose en 1390 qu'on le présente comme une peinture. La datation au carbone 14 publiée dans Nature en 1989 par trois laboratoires indépendants place le lin entre 1260 et 1390, et l'image a été reproduite avec des moyens médiévaux."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "charge-de-la-preuve",
-          "name": "Le renversement de la charge de la preuve"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "liUjpvYCsuU",
-        "url": "https://www.youtube.com/watch?v=liUjpvYCsuU",
-        "thumbnail": "https://i.ytimg.com/vi/liUjpvYCsuU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-saint-suaire-de-turin-a-t-il-vraiment-a86b/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-saint-suaire-de-turin-a-t-il-vraiment-a86b.json"
+        "summary": "Le linge n'apparaît qu'au milieu du XIVe siècle à Lirey. Dès 1389, l'évêque de Troyes affirme qu'un artiste a reconnu l'avoir peint, et Clément VII impose en 1390 qu'on le présente comme une peinture. La datation au carbone 14 publiée dans Nature en 1989 par trois laboratoires indépendants place le lin entre 1260 et 1390, et l'image a été reproduite avec des moyens médiévaux.",
+        "techniques": [
+          "caution-scientifique",
+          "infalsifiabilite",
+          "charge-de-la-preuve"
+        ]
       },
       "facts": [
         {
@@ -6613,6 +6597,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "physique nucléaire appliquée : datation par le carbone 14 (radiocarbone)",
@@ -6647,52 +6632,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
+      "slug": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
+      "youtubeId": "FNNHc_mRp8I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
       "title": "Les djinns peuvent-ils entrer dans le corps ? Possession et roqya selon le Coran et la Sunna",
-      "format": "video",
       "publishedAt": "2026-10-03T20:15:09.061Z",
-      "durationSeconds": 654,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le Coran et la Sunna enseignent que les djinns peuvent entrer dans le corps humain et le posséder, et la roqya permet de les en chasser.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "Les textes invoqués existent, mais aucun ne décrit un djinn logé dans un corps : le verset 2:275 est une comparaison sur l'usure qui reprend une croyance arabe ancienne, et le hadith du sang parle de soupçon. Les symptômes attribués aux djinns correspondent à des troubles connus et soignables, comme la paralysie du sommeil, l'épilepsie ou le trouble de transe et de possession."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "FNNHc_mRp8I",
-        "url": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
-        "thumbnail": "https://i.ytimg.com/vi/FNNHc_mRp8I/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732.json"
+        "summary": "Les textes invoqués existent, mais aucun ne décrit un djinn logé dans un corps : le verset 2:275 est une comparaison sur l'usure qui reprend une croyance arabe ancienne, et le hadith du sang parle de soupçon. Les symptômes attribués aux djinns correspondent à des troubles connus et soignables, comme la paralysie du sommeil, l'épilepsie ou le trouble de transe et de possession.",
+        "techniques": [
+          "argument-autorite",
+          "infalsifiabilite",
+          "temoignage-inverifiable"
+        ]
       },
       "facts": [
         {
@@ -7101,6 +7059,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "neurosciences et médecine clinique (médecine du sommeil, épileptologie, psychiatrie des troubles dissociatifs)",
@@ -7127,49 +7086,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Le verset de la possession ne parle pas de possession",
-          "url": "https://www.youtube.com/watch?v=wXiO4nOFG_M",
-          "publishedAt": "2026-10-03T21:41:43.173Z"
-        },
-        {
-          "title": "67 exorcismes pour une épileptique : la justice a tranché",
-          "url": "https://www.youtube.com/watch?v=SqI7utAxRRM",
-          "publishedAt": "2026-10-04T03:41:47.861Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
+      "slug": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
+      "youtubeId": "-tKV9kTwxOY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
       "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
-      "format": "video",
       "publishedAt": "2026-10-03T19:00:08.625Z",
-      "durationSeconds": 654,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "selection-des-cas",
-        "name": "Le tri des cas favorables"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "-tKV9kTwxOY",
-        "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
-        "thumbnail": "https://i.ytimg.com/vi/-tKV9kTwxOY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-tant-de-prieres-semblent-exaucees-9cfc/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-tant-de-prieres-semblent-exaucees-9cfc.json"
-      },
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "selection-des-cas",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Le verset 186 de la sourate Al-Baqara (Coran 2:186) affirme que Dieu est proche et répond à l'appel de celui qui l'invoque.",
@@ -7557,6 +7484,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "épidémiologie et biostatistique (avec des notions de médecine clinique : effet placebo, rémissions spontanées, essais contrôlés)",
@@ -7593,63 +7521,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Pourquoi un mur d'ex-voto ne prouve rien : Cicéron l'avait compris",
-          "url": "https://www.youtube.com/watch?v=IZqkbQttNHQ",
-          "publishedAt": "2026-10-03T20:11:35.929Z"
-        },
-        {
-          "title": "70 miracles à Lourdes : la question que personne ne pose",
-          "url": "https://www.youtube.com/watch?v=O26z3rDbzSA",
-          "publishedAt": "2026-10-04T02:11:41.663Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
+      "slug": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
+      "youtubeId": "eFne8S6CLsU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eFne8S6CLsU",
       "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle scientifique du Coran (78:6-7)",
-      "format": "video",
       "publishedAt": "2026-10-03T17:30:09.246Z",
-      "durationSeconds": 616,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Quatorze siècles avant la géologie moderne, le Coran annonçait que les montagnes sont des piquets aux racines profondes qui stabilisent la Terre et l'empêchent de trembler.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "Les versets ne parlent pas de racines. Ils attribuent aux montagnes une fonction précise, empêcher la terre de tanguer, et Tabari comme Ibn Kathir les lisent ainsi. Or les montagnes naissent des collisions de plaques qui provoquent les séismes, et l'isostasie décrit une croûte qui flotte et bouge : le prétendu miracle relit après coup une cosmologie de tente."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "eFne8S6CLsU",
-        "url": "https://www.youtube.com/watch?v=eFne8S6CLsU",
-        "thumbnail": "https://i.ytimg.com/vi/eFne8S6CLsU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-montagnes-des-piquets-qui-empechent-la-terre-7c57/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-montagnes-des-piquets-qui-empechent-la-terre-7c57.json"
+        "summary": "Les versets ne parlent pas de racines. Ils attribuent aux montagnes une fonction précise, empêcher la terre de tanguer, et Tabari comme Ibn Kathir les lisent ainsi. Or les montagnes naissent des collisions de plaques qui provoquent les séismes, et l'isostasie décrit une croûte qui flotte et bouge : le prétendu miracle relit après coup une cosmologie de tente.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "caution-scientifique",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -8053,6 +7943,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": [
@@ -8090,58 +7981,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Les montagnes empêchent les séismes ? La géologie dit l'inverse",
-          "url": "https://www.youtube.com/watch?v=brCTrylHzQ8",
-          "publishedAt": "2026-10-03T18:48:04.249Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "qui-a-vraiment-ecrit-les-evangiles-c8bc",
+      "slug": "qui-a-vraiment-ecrit-les-evangiles-c8bc",
+      "youtubeId": "qlG4FebMRmg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qlG4FebMRmg",
       "title": "Qui a vraiment écrit les Évangiles ? Ce que l'on sait de Matthieu, Marc, Luc et Jean",
-      "format": "video",
       "publishedAt": "2026-10-03T16:45:12.087Z",
-      "durationSeconds": 685,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Critique des dogmes : textes sacrés et théologie (christianisme, judaïsme, autres religions)",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Les Évangiles ont été écrits par les apôtres Matthieu et Jean, témoins oculaires de Jésus, et par Marc et Luc, disciples directs de Pierre et de Paul.",
         "verdict": "non_demontre",
-        "verdictLabel": "Non démontré",
-        "summary": "Les quatre Évangiles sont anonymes. Leurs auteurs ne sont nommés qu'au IIe siècle : par Papias pour deux d'entre eux, sur la foi d'un intermédiaire, puis par Irénée vers 180 pour les quatre. Les textes eux-mêmes vont contre la tradition : Matthieu recopie Marc jusque dans le récit de sa propre vocation, et Luc se présente comme un compilateur de sources."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "qlG4FebMRmg",
-        "url": "https://www.youtube.com/watch?v=qlG4FebMRmg",
-        "thumbnail": "https://i.ytimg.com/vi/qlG4FebMRmg/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-a-vraiment-ecrit-les-evangiles-c8bc/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-a-vraiment-ecrit-les-evangiles-c8bc.json"
+        "summary": "Les quatre Évangiles sont anonymes. Leurs auteurs ne sont nommés qu'au IIe siècle : par Papias pour deux d'entre eux, sur la foi d'un intermédiaire, puis par Irénée vers 180 pour les quatre. Les textes eux-mêmes vont contre la tradition : Matthieu recopie Marc jusque dans le récit de sa propre vocation, et Luc se présente comme un compilateur de sources.",
+        "techniques": [
+          "chaine-de-transmission",
+          "argument-autorite",
+          "appel-a-l-anciennete"
+        ]
       },
       "facts": [
         {
@@ -8545,42 +8403,22 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "slug": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "youtubeId": "Bcmlc37zuUc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
       "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
-      "format": "video",
       "publishedAt": "2026-10-02T16:00:05.738Z",
-      "durationSeconds": 650,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "caution-scientifique",
-        "name": "La caution scientifique détournée"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "Bcmlc37zuUc",
-        "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
-        "thumbnail": "https://i.ytimg.com/vi/Bcmlc37zuUc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
-      },
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "caution-scientifique",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Neil Armstrong, ancien pilote d'essai, est devenu le premier être humain à marcher sur la Lune le 21 juillet 1969 (temps universel), lors de la mission Apollo 11.",
@@ -8957,48 +8795,22 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Les plantes dépolluent ton salon ? Ce que dit vraiment la NASA",
-          "url": "https://www.youtube.com/watch?v=XOm8vFR8DdE",
-          "publishedAt": "2026-10-02T17:12:55.306Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
+      "slug": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
+      "youtubeId": "gj_C6XBZ2W4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
       "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
-      "format": "video",
       "publishedAt": "2026-10-02T09:15:07.706Z",
-      "durationSeconds": 679,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "relecture-a-posteriori",
-        "name": "La relecture après coup"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "gj_C6XBZ2W4",
-        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
-        "thumbnail": "https://i.ytimg.com/vi/gj_C6XBZ2W4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d.json"
-      },
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "relecture-a-posteriori",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Le verset 21:30 du Coran, dans la traduction de Muhammad Hamidullah, dit : « Ceux qui ont mécru, n'ont-ils pas vu que les cieux et la terre formaient une masse compacte ? Ensuite Nous les avons séparés et fait de l'eau toute chose vivante. »",
@@ -9401,62 +9213,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "La technique qui transforme n'importe quel texte en prophétie",
-          "url": "https://www.youtube.com/watch?v=wyv71lmQMv8",
-          "publishedAt": "2026-10-02T10:42:23.457Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
+      "slug": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
+      "youtubeId": "A292EREGGsc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=A292EREGGsc",
       "title": "Le Coran a-t-il annoncé l'expansion de l'univers avant Hubble ? Sourate 51, verset 47",
-      "format": "video",
       "publishedAt": "2026-10-02T08:30:11.866Z",
-      "durationSeconds": 694,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le Coran décrit l'expansion de l'univers dans le verset « Nous avons construit le ciel avec puissance et Nous l'étendons sans cesse » (sourate 51, verset 47), treize siècles avant Lemaître et Hubble.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "Le verset existe et sa racine évoque l'ampleur. Mais dans le Coran lui-même, al-mûsi' désigne l'homme aisé (2:236), et al-Tabari comme Ibn Kathir lisaient dans ce verset la puissance de Dieu et un ciel rendu vaste, pas une expansion continue. La lecture « expansion » n'entre dans les traductions qu'après la découverte de Lemaître et Hubble, et le ciel coranique est une voûte, pas l'espace de la cosmologie."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "A292EREGGsc",
-        "url": "https://www.youtube.com/watch?v=A292EREGGsc",
-        "thumbnail": "https://i.ytimg.com/vi/A292EREGGsc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a.json"
+        "summary": "Le verset existe et sa racine évoque l'ampleur. Mais dans le Coran lui-même, al-mûsi' désigne l'homme aisé (2:236), et al-Tabari comme Ibn Kathir lisaient dans ce verset la puissance de Dieu et un ciel rendu vaste, pas une expansion continue. La lecture « expansion » n'entre dans les traductions qu'après la découverte de Lemaître et Hubble, et le ciel coranique est une voûte, pas l'espace de la cosmologie.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "selection-des-cas",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -9875,6 +9655,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "Cosmologie et astrophysique (expansion de l'univers, relativité générale, histoire de la cosmologie)",
@@ -9907,58 +9688,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Un verset du Coran pour chaque théorie de l'univers ?",
-          "url": "https://www.youtube.com/watch?v=Fm6zztmVtv8",
-          "publishedAt": "2026-10-02T09:44:24.322Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
+      "slug": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
+      "youtubeId": "obm6HRxW244",
+      "youtubeUrl": "https://www.youtube.com/watch?v=obm6HRxW244",
       "title": "Le fer est-il descendu du ciel ? Le miracle scientifique de la sourate Al-Hadid (Coran 57:25)",
-      "format": "video",
       "publishedAt": "2026-10-02T07:30:09.838Z",
-      "durationSeconds": 638,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le Coran décrit le fer comme « descendu » du ciel, ce qui prouve qu'il vient de l'espace, ce que la science a confirmé",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "Le fer terrestre a bien été forgé dans des étoiles, mais c'est le cas de presque tous les atomes. Le verbe anzala, présenté comme une preuve, sert aussi pour la balance, les bestiaux et les vêtements, et le verset ne mentionne même pas le ciel. La lecture astrophysique est née après 1957, les commentateurs classiques ne la connaissaient pas, et les coïncidences numériques ne tiennent qu'au choix des règles de calcul."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "obm6HRxW244",
-        "url": "https://www.youtube.com/watch?v=obm6HRxW244",
-        "thumbnail": "https://i.ytimg.com/vi/obm6HRxW244/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fer-est-il-vraiment-descendu-du-ciel-af91/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fer-est-il-vraiment-descendu-du-ciel-af91.json"
+        "summary": "Le fer terrestre a bien été forgé dans des étoiles, mais c'est le cas de presque tous les atomes. Le verbe anzala, présenté comme une preuve, sert aussi pour la balance, les bestiaux et les vêtements, et le verset ne mentionne même pas le ciel. La lecture astrophysique est née après 1957, les commentateurs classiques ne la connaissaient pas, et les coïncidences numériques ne tiennent qu'au choix des règles de calcul.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "selection-des-cas",
+          "numerologie"
+        ]
       },
       "facts": [
         {
@@ -10351,6 +10099,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "astrophysique (nucléosynthèse stellaire et explosive)",
@@ -10389,38 +10138,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+      "slug": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+      "youtubeId": "wIGW-ulElfk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wIGW-ulElfk",
       "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
-      "format": "video",
       "publishedAt": "2026-10-01T22:30:11.248Z",
-      "durationSeconds": 661,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "infalsifiabilite",
-        "name": "L'affirmation à l'épreuve de tout"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "wIGW-ulElfk",
-        "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
-        "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
-      },
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "infalsifiabilite",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "La formule « Dieu répond oui, non ou attends » est couramment employée dans la prédication et l'enseignement chrétiens pour expliquer les prières non exaucées.",
@@ -10784,6 +10512,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "médecine clinique et biostatistique (interprétation d'essais cliniques et de revues de preuves), avec quelques passages d'astrophysique (nucléosynthèse stellaire, relativité générale)",
@@ -10800,46 +10529,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Le dragon invisible de Carl Sagan, ou comment une excuse tue une preuve",
-          "url": "https://www.youtube.com/watch?v=4Num35Ble54",
-          "publishedAt": "2026-10-01T23:42:19.502Z"
-        },
-        {
-          "title": "Homéopathie : mieux, pire ou rien, le remède agit toujours ?",
-          "url": "https://www.youtube.com/watch?v=ttz3uPG_OXk",
-          "publishedAt": "2026-10-02T07:08:11.519Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-coran-decrit-il-vraiment-le-developpement-de-l-3f84",
+      "slug": "le-coran-decrit-il-vraiment-le-developpement-de-l-3f84",
+      "youtubeId": "MPFIZJ2a_O8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MPFIZJ2a_O8",
       "title": "Miracle scientifique du Coran : l'embryon décrit il y a 1400 ans ? Nutfa, alaqa, mudgha",
-      "format": "video",
       "publishedAt": "2026-10-01T20:30:08.217Z",
-      "durationSeconds": 677,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": null,
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
       "technique": null,
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "MPFIZJ2a_O8",
-        "url": "https://www.youtube.com/watch?v=MPFIZJ2a_O8",
-        "thumbnail": "https://i.ytimg.com/vi/MPFIZJ2a_O8/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84.json"
-      },
+      "examinedClaim": null,
       "facts": [
         {
           "text": "La sourate 23 (Al-Mu'minun), versets 12 à 14, décrit la création de l'homme à partir d'un extrait d'argile, puis d'une nutfa placée dans un réceptacle sûr, transformée en 'alaqa, puis en mudgha, puis en os revêtus de chair, avant « une tout autre création ».",
@@ -11237,6 +10937,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "confidence",
         "domain": "embryologie humaine (biologie du développement), à la frontière de la médecine et de la génétique",
@@ -11269,52 +10970,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
+      "slug": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
+      "youtubeId": "Zh3i--DO7tc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Zh3i--DO7tc",
       "title": "L'enfer existe-t-il dans la Bible ? Ce que disent vraiment le Shéol et la Géhenne",
-      "format": "video",
       "publishedAt": "2026-10-01T19:45:09.227Z",
-      "durationSeconds": 680,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Critique des dogmes : textes sacrés et théologie passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "La Bible enseigne clairement que les damnés subiront après la mort un supplice éternel dans le feu de l'enfer.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "La Bible contient bien quelques versets de feu et de châtiment, mais le Shéol hébreu est un séjour commun des morts sans torture, la Géhenne une vallée réelle de Jérusalem, et le Nouveau Testament hésite entre destruction, tourment et réconciliation. La doctrine d'un supplice éternel unifié a été fixée par des théologiens et des conciles entre le Ve et le XVe siècle, puis mise en images par Dante."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "Zh3i--DO7tc",
-        "url": "https://www.youtube.com/watch?v=Zh3i--DO7tc",
-        "thumbnail": "https://i.ytimg.com/vi/Zh3i--DO7tc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-enfer-n-est-presque-pas-dans-la-bible-b8ff/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-enfer-n-est-presque-pas-dans-la-bible-b8ff.json"
+        "summary": "La Bible contient bien quelques versets de feu et de châtiment, mais le Shéol hébreu est un séjour commun des morts sans torture, la Géhenne une vallée réelle de Jérusalem, et le Nouveau Testament hésite entre destruction, tourment et réconciliation. La doctrine d'un supplice éternel unifié a été fixée par des théologiens et des conciles entre le Ve et le XVe siècle, puis mise en images par Dante.",
+        "techniques": [
+          "argument-autorite",
+          "relecture-a-posteriori",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -11678,42 +11352,22 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "l-argument-d-autorite-ab9c",
+      "slug": "l-argument-d-autorite-ab9c",
+      "youtubeId": "pTsHM7DTF7U",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pTsHM7DTF7U",
       "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
-      "format": "video",
       "publishedAt": "2026-10-01T19:00:12.466Z",
-      "durationSeconds": 686,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "argument-autorite",
-        "name": "L'argument d'autorité"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "pTsHM7DTF7U",
-        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U",
-        "thumbnail": "https://i.ytimg.com/vi/pTsHM7DTF7U/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-ab9c/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-ab9c.json"
-      },
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": "argument-autorite",
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Linus Pauling a reçu le prix Nobel de chimie en 1954 pour ses travaux sur la nature de la liaison chimique.",
@@ -12101,6 +11755,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "pharmacologie et médecine clinique (interprétation d'essais cliniques et de méta-analyses), avec des passages d'astrophysique (nucléosynthèse stellaire)",
@@ -12123,35 +11778,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "comment-l-homeopathie-est-censee-agir-6e3b",
+      "slug": "comment-l-homeopathie-est-censee-agir-6e3b",
+      "youtubeId": "lBDAu7W8rgs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
       "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
-      "format": "video",
       "publishedAt": "2026-10-01T18:15:07.563Z",
-      "durationSeconds": 712,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": null,
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
       "technique": null,
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "lBDAu7W8rgs",
-        "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
-        "thumbnail": "https://i.ytimg.com/vi/lBDAu7W8rgs/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-l-homeopathie-est-censee-agir-6e3b/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-l-homeopathie-est-censee-agir-6e3b.json"
-      },
+      "examinedClaim": null,
       "facts": [
         {
           "text": "En 1790, alors qu'il traduisait en allemand le traité de matière médicale de William Cullen, Samuel Hahnemann, qui avait pris ses distances avec la pratique médicale, a pris de l'écorce de quinquina en bonne santé et a décrit des symptômes évoquant la fièvre intermittente (extrémités froides, palpitations, abattement).",
@@ -12544,6 +12181,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "pharmacologie et toxicologie, épidémiologie et biostatistique (lecture des essais cliniques et méta-analyses), avec un volet de physique de l'eau liquide",
@@ -12570,46 +12208,17 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Combien de molécules reste-t-il dans un granule de 30 CH ?",
-          "url": "https://www.youtube.com/watch?v=KgX1a6M-Qh4",
-          "publishedAt": "2026-10-01T19:44:13.129Z"
-        },
-        {
-          "title": "Le jour où The Lancet a titré « la fin de l'homéopathie »",
-          "url": "https://www.youtube.com/watch?v=9suj5ctvb6I",
-          "publishedAt": "2026-10-02T01:44:16.806Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "la-hijama-guerit-elle-vraiment-d33e",
+      "slug": "la-hijama-guerit-elle-vraiment-d33e",
+      "youtubeId": "aIAywoU0Png",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aIAywoU0Png",
       "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
-      "format": "video",
       "publishedAt": "2026-10-01T17:30:10.000Z",
-      "durationSeconds": 628,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": null,
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
       "technique": null,
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "aIAywoU0Png",
-        "url": "https://www.youtube.com/watch?v=aIAywoU0Png",
-        "thumbnail": "https://i.ytimg.com/vi/aIAywoU0Png/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-hijama-guerit-elle-vraiment-d33e/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-hijama-guerit-elle-vraiment-d33e.json"
-      },
+      "examinedClaim": null,
       "facts": [
         {
           "text": "Le Sahih al-Bukhari contient un livre consacré à la médecine (Kitab al-Tibb) et les sunnites le considèrent comme le recueil le plus authentique après le Coran.",
@@ -13052,6 +12661,7 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "human",
         "domain": "médecine clinique et évaluation des traitements (physiologie du sang, essais cliniques, biostatistique, effet placebo)",
@@ -13078,58 +12688,25 @@
           }
         ]
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Hijama : quelle toxine sort vraiment avec le sang noir ?",
-          "url": "https://www.youtube.com/watch?v=H7rN4iE8_1Y",
-          "publishedAt": "2026-10-01T18:40:51.869Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
+      "slug": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
+      "youtubeId": "w2FtBMp_kSg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w2FtBMp_kSg",
       "title": "Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l'homme aux deux cornes d'Al-Kahf",
-      "format": "video",
       "publishedAt": "2026-10-01T12:30:09.440Z",
-      "durationSeconds": 656,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Dhul-Qarnayn, l'homme aux deux cornes de la sourate Al-Kahf, est un personnage historique identifiable (Alexandre le Grand ou Cyrus le Grand) dont le Coran rapporte les voyages, la rencontre avec Gog et Magog et la construction d'une muraille de fer et de cuivre, qui existerait encore quelque part.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La vidéo montre qu'Alexandre comme Cyrus ne correspondent pas au portrait coranique : le premier honorait les dieux grecs, le second invoquait Marduk et son empire est écrasé par Alexandre dans Daniel 8. Sa raison la plus forte est que le récit coranique reprend presque point par point la légende syriaque d'Alexandre, rédigée vers 630, avec les mêmes étapes, les mêmes métaux et la même prophétie. Le soleil qui se couche dans une source est contredit par l'astronomie, et aucune muraille de fer et de cuivre n'apparaît sur les images satellites."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "w2FtBMp_kSg",
-        "url": "https://www.youtube.com/watch?v=w2FtBMp_kSg",
-        "thumbnail": "https://i.ytimg.com/vi/w2FtBMp_kSg/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0.json"
+        "summary": "La vidéo montre qu'Alexandre comme Cyrus ne correspondent pas au portrait coranique : le premier honorait les dieux grecs, le second invoquait Marduk et son empire est écrasé par Alexandre dans Daniel 8. Sa raison la plus forte est que le récit coranique reprend presque point par point la légende syriaque d'Alexandre, rédigée vers 630, avec les mêmes étapes, les mêmes métaux et la même prophétie. Le soleil qui se couche dans une source est contredit par l'astronomie, et aucune muraille de fer et de cuivre n'apparaît sur les images satellites.",
+        "techniques": [
+          "argument-autorite",
+          "relecture-a-posteriori",
+          "chaine-de-transmission"
+        ]
       },
       "facts": [
         {
@@ -13503,56 +13080,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "slug": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "youtubeId": "oeFiHgkt4wU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
       "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
-      "format": "video",
       "publishedAt": "2026-10-01T08:00:11.446Z",
-      "durationSeconds": 666,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La vidéo conclut que les pierres n'agissent par aucun mécanisme démontré : améthyste, citrine et quartz rose sont un même minéral dont seule l'impureté change la couleur, et la piézoélectricité du quartz ne s'exerce pas sur une pierre posée. Le test en aveugle de Christopher French montre que le verre produit les mêmes sensations que le cristal, ce qui renvoie l'effet à la suggestion et non à la pierre."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        },
-        {
-          "id": "placebo",
-          "name": "Le placebo pris pour un remède"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "oeFiHgkt4wU",
-        "url": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
-        "thumbnail": "https://i.ytimg.com/vi/oeFiHgkt4wU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-les-pierres-et-les-cristaux-agissent-ils-dca9/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-les-pierres-et-les-cristaux-agissent-ils-dca9.json"
+        "summary": "La vidéo conclut que les pierres n'agissent par aucun mécanisme démontré : améthyste, citrine et quartz rose sont un même minéral dont seule l'impureté change la couleur, et la piézoélectricité du quartz ne s'exerce pas sur une pierre posée. Le test en aveugle de Christopher French montre que le verre produit les mêmes sensations que le cristal, ce qui renvoie l'effet à la suggestion et non à la pierre.",
+        "techniques": [
+          "caution-scientifique",
+          "appel-a-l-anciennete",
+          "placebo"
+        ]
       },
       "facts": [
         {
@@ -13971,56 +13522,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47",
+      "slug": "le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47",
+      "youtubeId": "-POyAhjxO2E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-POyAhjxO2E",
       "title": "Le prophète Muhammad est-il annoncé dans la Bible ? Les 3 versets que tout le monde cite",
-      "format": "video",
       "publishedAt": "2026-10-01T07:15:08.668Z",
-      "durationSeconds": 689,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Prosélytisme religieux et apologétique : techniques de conversion et de recrutement décryptées",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le prophète Muhammad est annoncé dans la Bible : Deutéronome 18,18, l'Évangile de Jean (le « consolateur ») et le Cantique des cantiques 5,16 (« vekoullo mahamaddim », « il est tout entier Muhammad ») prédisent sa venue, et la Bible aurait été falsifiée là où elle le contredit.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La vidéo conclut que ces trois textes ne parlent pas de Muhammad. Le Deutéronome désigne un prophète israélite, Jean parle de l'Esprit-Saint invisible, déjà présent chez les disciples, et « mahamaddim » est un nom commun pluriel (« les délices ») dans un poème d'amour. Sa raison la plus forte est que l'accusation de falsification est contredite par les manuscrits grecs antérieurs à Muhammad, qui lisent tous « paraklêtos », et par Ibn Ishaq lui-même, qui connaît ce mot grec."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "-POyAhjxO2E",
-        "url": "https://www.youtube.com/watch?v=-POyAhjxO2E",
-        "thumbnail": "https://i.ytimg.com/vi/-POyAhjxO2E/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47.json"
+        "summary": "La vidéo conclut que ces trois textes ne parlent pas de Muhammad. Le Deutéronome désigne un prophète israélite, Jean parle de l'Esprit-Saint invisible, déjà présent chez les disciples, et « mahamaddim » est un nom commun pluriel (« les délices ») dans un poème d'amour. Sa raison la plus forte est que l'accusation de falsification est contredite par les manuscrits grecs antérieurs à Muhammad, qui lisent tous « paraklêtos », et par Ibn Ishaq lui-même, qui connaît ce mot grec.",
+        "techniques": [
+          "relecture-a-posteriori",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -14419,56 +13944,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [],
       "corrections": []
     },
     {
-      "id": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "slug": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "youtubeId": "hGHuqnHvlmg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
       "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
-      "format": "video",
       "publishedAt": "2026-10-01T02:45:08.004Z",
-      "durationSeconds": 698,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
+      "pillar": "Bullshit quantique, lithothérapie, médecines alternatives et spiritualités marchandes",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La vidéo conclut que l'« observation » en physique quantique désigne une interaction physique, pas un regard ni une intention : la décohérence a été mesurée sans aucun cerveau dans la boucle (Rempe, Haroche, Zeilinger). Même dans l'interprétation la plus favorable à la conscience, le résultat d'une mesure reste aléatoire, et la loi de l'attraction date de 1906, près de vingt ans avant la mécanique quantique."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "hGHuqnHvlmg",
-        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
-        "thumbnail": "https://i.ytimg.com/vi/hGHuqnHvlmg/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
+        "summary": "La vidéo conclut que l'« observation » en physique quantique désigne une interaction physique, pas un regard ni une intention : la décohérence a été mesurée sans aucun cerveau dans la boucle (Rempe, Haroche, Zeilinger). Même dans l'interprétation la plus favorable à la conscience, le résultat d'une mesure reste aléatoire, et la loi de l'attraction date de 1906, près de vingt ans avant la mécanique quantique.",
+        "techniques": [
+          "caution-scientifique",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -14862,67 +14361,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Einstein, la Lune et ce que « observer » veut vraiment dire",
-          "url": "https://www.youtube.com/watch?v=mtCgg18jmMk",
-          "publishedAt": "2026-10-01T04:07:42.514Z"
-        },
-        {
-          "title": "Loi de l'attraction : ce que The Secret dit vraiment des malades",
-          "url": "https://www.youtube.com/watch?v=UX38qfbB1MU",
-          "publishedAt": "2026-10-01T07:48:40.432Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
+      "slug": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
+      "youtubeId": "I1oCBdRo6js",
+      "youtubeUrl": "https://www.youtube.com/watch?v=I1oCBdRo6js",
       "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
-      "format": "video",
       "publishedAt": "2026-10-01T02:00:10.451Z",
-      "durationSeconds": 634,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "La vidéo conclut que le miracle numérique ne résiste pas au recomptage : le total de 365 n'est obtenu qu'en choisissant des règles de tri (formes, suffixes, sens du mot « jour ») dont la seule justification est le résultat, comme dans le sophisme du tireur texan. Sa raison la plus forte est que ces comptages dépendent de l'édition et de la lecture retenues, et que Khalifa a lui-même retiré deux versets pour sauver son code 19."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "I1oCBdRo6js",
-        "url": "https://www.youtube.com/watch?v=I1oCBdRo6js",
-        "thumbnail": "https://i.ytimg.com/vi/I1oCBdRo6js/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31.json"
+        "summary": "La vidéo conclut que le miracle numérique ne résiste pas au recomptage : le total de 365 n'est obtenu qu'en choisissant des règles de tri (formes, suffixes, sens du mot « jour ») dont la seule justification est le résultat, comme dans le sophisme du tireur texan. Sa raison la plus forte est que ces comptages dépendent de l'édition et de la lecture retenues, et que Khalifa a lui-même retiré deux versets pour sauver son code 19.",
+        "techniques": [
+          "numerologie",
+          "selection-des-cas",
+          "caution-scientifique"
+        ]
       },
       "facts": [
         {
@@ -15316,62 +14778,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Il a retiré deux versets du Coran pour sauver son code 19",
-          "url": "https://www.youtube.com/watch?v=ATOqJqd6YPk",
-          "publishedAt": "2026-10-01T03:08:14.275Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28",
+      "slug": "comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28",
+      "youtubeId": "zoeVEThgAmc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zoeVEThgAmc",
       "title": "Comment le Coran a-t-il été préservé depuis le Prophète ? De la révélation au mushaf d'Uthman",
-      "format": "video",
       "publishedAt": "2026-10-01T00:27:21.037Z",
-      "durationSeconds": 706,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Islam : Coran, hadiths, histoire et doctrine passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le Coran récité aujourd'hui est exactement celui que récitait le Prophète : il a été préservé sans la moindre altération, lettre pour lettre, depuis quatorze siècles, par la mémoire et l'écriture, sous la protection de Dieu (sourate 15, verset 9).",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La vidéo conclut que la préservation parfaite du Coran est un dogme et non une conclusion historique. Les sources musulmanes elles-mêmes (Bukhari, Muslim, Tirmidhi, al-Suyuti) décrivent un texte issu d'un choix fait par un comité sous l'autorité d'un calife, avec des exemplaires concurrents brûlés, des versets récités devenus introuvables et plusieurs lectures encore en usage. Elle reconnaît toutefois qu'un texte proche du nôtre existait très tôt, et que l'argument est circulaire puisqu'il cite le texte lui-même pour prouver sa protection."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "zoeVEThgAmc",
-        "url": "https://www.youtube.com/watch?v=zoeVEThgAmc",
-        "thumbnail": "https://i.ytimg.com/vi/zoeVEThgAmc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28.json"
+        "summary": "La vidéo conclut que la préservation parfaite du Coran est un dogme et non une conclusion historique. Les sources musulmanes elles-mêmes (Bukhari, Muslim, Tirmidhi, al-Suyuti) décrivent un texte issu d'un choix fait par un comité sous l'autorité d'un calife, avec des exemplaires concurrents brûlés, des versets récités devenus introuvables et plusieurs lectures encore en usage. Elle reconnaît toutefois qu'un texte proche du nôtre existait très tôt, et que l'argument est circulaire puisqu'il cite le texte lui-même pour prouver sa protection.",
+        "techniques": [
+          "argument-autorite",
+          "chaine-de-transmission",
+          "selection-des-cas"
+        ]
       },
       "facts": [
         {
@@ -15780,62 +15210,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Un verset du Coran récité, appliqué… et introuvable",
-          "url": "https://www.youtube.com/watch?v=lqihd5VI5FQ",
-          "publishedAt": "2026-10-01T02:38:09.884Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-pari-de-pascal-55c1",
+      "slug": "le-pari-de-pascal-55c1",
+      "youtubeId": "IMmyIhAADD4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IMmyIhAADD4",
       "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
-      "format": "video",
       "publishedAt": "2026-09-25T08:30:12.640Z",
-      "durationSeconds": 444,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Critique des dogmes : textes sacrés et théologie passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
         "verdict": "non_demontre",
-        "verdictLabel": "Non démontré",
-        "summary": "La vidéo conclut que le pari ne prouve pas l'existence de Dieu : Pascal lui-même admet que la raison ne peut rien déterminer, et l'avantage qu'on a à croire n'est pas un indice de vérité (Voltaire). Son argument principal est que le calcul ne tient pas : il vaut pour n'importe quelle religion (Diderot), croire n'est pas un acte volontaire, et une foi adoptée par intérêt n'aurait pas la valeur qu'il prétend récompenser."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "IMmyIhAADD4",
-        "url": "https://www.youtube.com/watch?v=IMmyIhAADD4",
-        "thumbnail": "https://i.ytimg.com/vi/IMmyIhAADD4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
+        "summary": "La vidéo conclut que le pari ne prouve pas l'existence de Dieu : Pascal lui-même admet que la raison ne peut rien déterminer, et l'avantage qu'on a à croire n'est pas un indice de vérité (Voltaire). Son argument principal est que le calcul ne tient pas : il vaut pour n'importe quelle religion (Diderot), croire n'est pas un acte volontaire, et une foi adoptée par intérêt n'aurait pas la valeur qu'il prétend récompenser.",
+        "techniques": [
+          "faux-dilemme",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -16161,67 +15559,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Tu ne perds rien à croire, et tu peux tout gagner : voilà l'argument qu'on t'a peut-être servi…",
-          "url": "https://www.youtube.com/watch?v=fPzBIQfvXz4",
-          "publishedAt": "2026-09-25T09:37:05.232Z"
-        },
-        {
-          "title": "Deuxième problème.",
-          "url": "https://www.youtube.com/watch?v=XF4iNzLdP90",
-          "publishedAt": "2026-09-25T15:37:14.333Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "la-donation-de-constantin-83d1",
+      "slug": "la-donation-de-constantin-83d1",
+      "youtubeId": "YnNocnkAkvM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YnNocnkAkvM",
       "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",
-      "format": "video",
       "publishedAt": "2026-09-25T08:00:12.889Z",
-      "durationSeconds": 426,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Anticléricalisme : histoire, pouvoir et argent des clergés",
+      "technique": null,
+      "examinedClaim": {
         "statement": "La Donation de Constantin est un acte authentique : l'empereur Constantin, guéri de la lèpre et baptisé par le pape Sylvestre, aurait cédé à l'Église de Rome le palais du Latran, la ville de Rome et les provinces d'Occident, faisant du pape le maître de l'Occident.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La Donation de Constantin est un faux, rédigé entre le milieu du VIIIe et le IXe siècle, et non sous Constantin au IVe siècle. Lorenzo Valla l'a démontré en 1440 en attaquant le texte par le texte : latin tardif et anachronique, incohérences historiques (Constantin baptisé à Nicomédie en 337 et non par Sylvestre), silence des sources contemporaines. Ses motivations politiques n'invalident pas ses preuves."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "YnNocnkAkvM",
-        "url": "https://www.youtube.com/watch?v=YnNocnkAkvM",
-        "thumbnail": "https://i.ytimg.com/vi/YnNocnkAkvM/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-donation-de-constantin-83d1/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-donation-de-constantin-83d1.json"
+        "summary": "La Donation de Constantin est un faux, rédigé entre le milieu du VIIIe et le IXe siècle, et non sous Constantin au IVe siècle. Lorenzo Valla l'a démontré en 1440 en attaquant le texte par le texte : latin tardif et anachronique, incohérences historiques (Constantin baptisé à Nicomédie en 337 et non par Sylvestre), silence des sources contemporaines. Ses motivations politiques n'invalident pas ses preuves.",
+        "techniques": [
+          "argument-autorite",
+          "chaine-de-transmission",
+          "appel-a-l-anciennete"
+        ]
       },
       "facts": [
         {
@@ -16530,67 +15891,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Pendant des siècles, un seul parchemin a suffi à faire d'un évêque le maître de l'Occident.",
-          "url": "https://www.youtube.com/watch?v=L3y6ctmhEEo",
-          "publishedAt": "2026-09-25T09:07:08.139Z"
-        },
-        {
-          "title": "Entre en scène notre détective : Lorenzo Valla, humaniste romain et philologue redoutable.",
-          "url": "https://www.youtube.com/watch?v=HsYzAHzs3ns",
-          "publishedAt": "2026-09-25T15:07:23.901Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "le-fardeau-de-la-preuve-19ef",
+      "slug": "le-fardeau-de-la-preuve-19ef",
+      "youtubeId": "1DqgdLPjCi4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
       "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
-      "format": "video",
       "publishedAt": "2026-09-25T07:02:41.865Z",
-      "durationSeconds": 467,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": {
+      "pillar": "Zététique et esprit critique : outils, biais cognitifs, sophismes",
+      "technique": null,
+      "examinedClaim": {
         "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
         "verdict": "trompeur",
-        "verdictLabel": "Trompeur",
-        "summary": "La vidéo conclut que cette phrase renverse la charge de la preuve : c'est à celui qui affirme l'existence de Dieu d'apporter des raisons, et l'absence de réfutation n'est pas une preuve (appel à l'ignorance, théière de Russell, dragon de Sagan). Elle reconnaît toutefois que l'on peut prouver certaines négations dans un domaine fini, et que l'athée qui affirme savoir qu'aucun dieu n'existe porte lui aussi une charge de la preuve."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "charge-de-la-preuve",
-          "name": "Le renversement de la charge de la preuve"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "1DqgdLPjCi4",
-        "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
-        "thumbnail": "https://i.ytimg.com/vi/1DqgdLPjCi4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
+        "summary": "La vidéo conclut que cette phrase renverse la charge de la preuve : c'est à celui qui affirme l'existence de Dieu d'apporter des raisons, et l'absence de réfutation n'est pas une preuve (appel à l'ignorance, théière de Russell, dragon de Sagan). Elle reconnaît toutefois que l'on peut prouver certaines négations dans un domaine fini, et que l'athée qui affirme savoir qu'aucun dieu n'existe porte lui aussi une charge de la preuve.",
+        "techniques": [
+          "charge-de-la-preuve",
+          "infalsifiabilite",
+          "faux-dilemme"
+        ]
       },
       "facts": [
         {
@@ -16763,67 +16087,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Une bande-annonce te promet le film du siècle : explosions, mystère, révélation finale.",
-          "url": "https://www.youtube.com/watch?v=BVmFncU9kIg",
-          "publishedAt": "2026-09-25T08:37:15.266Z"
-        },
-        {
-          "title": "Le renversement s'accompagne presque toujours d'un second sophisme, plus ancien encore : l'appe…",
-          "url": "https://www.youtube.com/watch?v=aZMENmnW3zY",
-          "publishedAt": "2026-09-25T14:37:55.410Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "sans-dieu-tout-est-permis-9230",
+      "slug": "sans-dieu-tout-est-permis-9230",
+      "youtubeId": "xr-j1jeo9YU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
       "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
-      "format": "video",
       "publishedAt": "2026-09-25T05:40:52.683Z",
-      "durationSeconds": 512,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
+      "pillar": "Nihilisme et philosophie : Nietzsche, Camus, Cioran, l'absurde",
+      "technique": null,
+      "examinedClaim": {
         "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
         "verdict": "faux",
-        "verdictLabel": "Faux",
-        "summary": "La vidéo conclut que ce chantage moral ne tient pas : la formule est une citation approximative popularisée par Sartre, Nietzsche et Camus décrivent le nihilisme comme un danger à surmonter et non comme un programme, et l'argument repose sur des sophismes (faux dilemme, appel aux conséquences, homme de paille). Sa raison la plus forte est le dilemme d'Euthyphron : si le bien dépend du commandement divin, la morale est arbitraire, et s'il en est indépendant, Dieu ne la fonde plus."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "xr-j1jeo9YU",
-        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
-        "thumbnail": "https://i.ytimg.com/vi/xr-j1jeo9YU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
+        "summary": "La vidéo conclut que ce chantage moral ne tient pas : la formule est une citation approximative popularisée par Sartre, Nietzsche et Camus décrivent le nihilisme comme un danger à surmonter et non comme un programme, et l'argument repose sur des sophismes (faux dilemme, appel aux conséquences, homme de paille). Sa raison la plus forte est le dilemme d'Euthyphron : si le bien dépend du commandement divin, la morale est arbitraire, et s'il en est indépendant, Dieu ne la fonde plus.",
+        "techniques": [
+          "faux-dilemme",
+          "argument-autorite",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -17062,67 +16349,30 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Un jour, quelqu'un te dira : « sans Dieu, tout est permis ».",
-          "url": "https://www.youtube.com/watch?v=6CE0cmlvWaM",
-          "publishedAt": "2026-09-25T07:07:13.430Z"
-        },
-        {
-          "title": "Deuxième suspect : Camus.",
-          "url": "https://www.youtube.com/watch?v=oT-625Lhl8Q",
-          "publishedAt": "2026-09-25T13:07:33.010Z"
-        }
-      ],
       "corrections": []
     },
     {
-      "id": "omniscience-divine-contre-libre-arbitre-9957",
+      "slug": "omniscience-divine-contre-libre-arbitre-9957",
+      "youtubeId": "SZCHk7cjrec",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SZCHk7cjrec",
       "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",
-      "format": "video",
       "publishedAt": "2026-09-25T05:01:32.451Z",
-      "durationSeconds": 516,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
+      "pillar": "Critique des dogmes : textes sacrés et théologie passés au crible",
+      "technique": null,
+      "examinedClaim": {
         "statement": "L'omniscience divine, c'est-à-dire la connaissance infaillible de tous les actes futurs, est compatible avec la liberté humaine et la responsabilité morale.",
         "verdict": "non_demontre",
-        "verdictLabel": "Non démontré",
-        "summary": "La vidéo conclut que les trois grandes tentatives de conciliation (Boèce, Molina, théisme ouvert), auxquelles s'ajoute l'option calviniste, imposent toutes de sacrifier soit un attribut divin, soit la liberté humaine. Sa raison la plus forte est l'argument de Nelson Pike : si la croyance infaillible de Dieu est dans le passé et que le passé est irrévocable, personne n'a le pouvoir d'agir autrement. Le narrateur présente sa conclusion sur l'incohérence du concept comme une opinion assumée."
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "SZCHk7cjrec",
-        "url": "https://www.youtube.com/watch?v=SZCHk7cjrec",
-        "thumbnail": "https://i.ytimg.com/vi/SZCHk7cjrec/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/omniscience-divine-contre-libre-arbitre-9957/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/omniscience-divine-contre-libre-arbitre-9957.json"
+        "summary": "La vidéo conclut que les trois grandes tentatives de conciliation (Boèce, Molina, théisme ouvert), auxquelles s'ajoute l'option calviniste, imposent toutes de sacrifier soit un attribut divin, soit la liberté humaine. Sa raison la plus forte est l'argument de Nelson Pike : si la croyance infaillible de Dieu est dans le passé et que le passé est irrévocable, personne n'a le pouvoir d'agir autrement. Le narrateur présente sa conclusion sur l'incohérence du concept comme une opinion assumée.",
+        "techniques": [
+          "argument-autorite",
+          "faux-dilemme",
+          "infalsifiabilite"
+        ]
       },
       "facts": [
         {
@@ -17412,202 +16662,54 @@
           ]
         }
       ],
+      "examinedVideo": null,
       "review": {
         "kind": "not_required",
         "approximations": []
       },
-      "references": [],
-      "next": null,
-      "shorts": [
-        {
-          "title": "Si un être connaît avec une certitude infaillible ce que tu feras demain matin, alors demain ma…",
-          "url": "https://www.youtube.com/watch?v=NbYtdc_1QUw",
-          "publishedAt": "2026-09-25T06:03:45.724Z"
-        },
-        {
-          "title": "On va nous répondre que c'est un sophisme d'athée tatillon.",
-          "url": "https://www.youtube.com/watch?v=Pean4X0gtH4",
-          "publishedAt": "2026-09-25T12:03:45.764Z"
-        },
-        {
-          "title": "Troisième rustine, la plus honnête intellectuellement, et donc la plus coûteuse dogmatiquement.",
-          "url": "https://www.youtube.com/watch?v=PPDDTImMmKk",
-          "publishedAt": "2026-09-25T18:03:45.802Z"
-        }
-      ],
       "corrections": []
     }
   ],
   "channels": [
     {
-      "id": "la-tele-de-lilou-mace-54c7",
+      "slug": "la-tele-de-lilou-mace-54c7",
       "name": "La Télé de Lilou Macé",
       "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
       "subscribers": 327000,
       "answers": [
         {
-          "examined": {
-            "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
-            "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
-          },
-          "video": {
-            "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
-            "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
-            "format": "short",
-            "publishedAt": "2026-10-05T18:15:04.019Z",
-            "durationSeconds": 134,
-            "rubric": {
-              "id": "pseudo-sciences",
-              "name": "Pseudo-sciences et charlatans"
-            },
-            "claim": {
-              "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
-              "verdict": "non_demontre",
-              "verdictLabel": "Non démontré"
-            },
-            "technique": null,
-            "techniques": [
-              {
-                "id": "relecture-a-posteriori",
-                "name": "La relecture après coup"
-              },
-              {
-                "id": "infalsifiabilite",
-                "name": "L'affirmation à l'épreuve de tout"
-              },
-              {
-                "id": "selection-des-cas",
-                "name": "Le tri des cas favorables"
-              }
-            ],
-            "answers": {
-              "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
-              "channel": "La Télé de Lilou Macé",
-              "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
-            },
-            "series": null,
-            "youtube": {
-              "id": "jUXA-3UNzBE",
-              "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
-              "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
-            },
-            "links": {
-              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
-              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
-            }
-          }
+          "slug": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+          "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+          "examinedTitle": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+          "examinedUrl": "https://www.youtube.com/watch?v=zujpg_kzPD8",
+          "verdict": "non_demontre",
+          "publishedAt": "2026-10-05T18:15:04.019Z"
         },
         {
-          "examined": {
-            "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
-            "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
-          },
-          "video": {
-            "id": "transits-planetaires-et-retrogradations-191e",
-            "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
-            "format": "short",
-            "publishedAt": "2026-10-04T11:30:03.912Z",
-            "durationSeconds": 132,
-            "rubric": {
-              "id": "pseudo-sciences",
-              "name": "Pseudo-sciences et charlatans"
-            },
-            "claim": {
-              "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
-              "verdict": "faux",
-              "verdictLabel": "Faux"
-            },
-            "technique": null,
-            "techniques": [
-              {
-                "id": "relecture-a-posteriori",
-                "name": "La relecture après coup"
-              },
-              {
-                "id": "selection-des-cas",
-                "name": "Le tri des cas favorables"
-              }
-            ],
-            "answers": {
-              "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
-              "channel": "La Télé de Lilou Macé",
-              "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
-            },
-            "series": null,
-            "youtube": {
-              "id": "ghN7-UhF828",
-              "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
-              "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
-            },
-            "links": {
-              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
-              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
-            }
-          }
+          "slug": "transits-planetaires-et-retrogradations-191e",
+          "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+          "examinedTitle": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+          "examinedUrl": "https://www.youtube.com/watch?v=gSt7_DGKqYY",
+          "verdict": "faux",
+          "publishedAt": "2026-10-04T11:30:03.912Z"
         }
-      ],
-      "links": {
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/la-tele-de-lilou-mace-54c7.json"
-      }
+      ]
     },
     {
-      "id": "coffeebird-official-6800",
+      "slug": "coffeebird-official-6800",
       "name": "Coffeebird_official",
       "url": "https://www.youtube.com/channel/UCmkxA7DNnj4HCFLeUHgCjmg",
       "subscribers": null,
       "answers": [
         {
-          "examined": {
-            "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
-            "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE"
-          },
-          "video": {
-            "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
-            "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
-            "format": "short",
-            "publishedAt": "2026-10-04T16:30:16.605Z",
-            "durationSeconds": 120,
-            "rubric": {
-              "id": "pseudo-sciences",
-              "name": "Pseudo-sciences et charlatans"
-            },
-            "claim": {
-              "statement": "Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n'y a personne.",
-              "verdict": "faux",
-              "verdictLabel": "Faux"
-            },
-            "technique": null,
-            "techniques": [
-              {
-                "id": "caution-scientifique",
-                "name": "La caution scientifique détournée"
-              },
-              {
-                "id": "argument-autorite",
-                "name": "L'argument d'autorité"
-              }
-            ],
-            "answers": {
-              "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
-              "channel": "Coffeebird_official",
-              "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE"
-            },
-            "series": null,
-            "youtube": {
-              "id": "ve29Mi2odq4",
-              "url": "https://www.youtube.com/watch?v=ve29Mi2odq4",
-              "thumbnail": "https://i.ytimg.com/vi/ve29Mi2odq4/hqdefault.jpg"
-            },
-            "links": {
-              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/",
-              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8.json"
-            }
-          }
+          "slug": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+          "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
+          "examinedTitle": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
+          "examinedUrl": "https://www.youtube.com/watch?v=x9YOtsGnpwE",
+          "verdict": "faux",
+          "publishedAt": "2026-10-04T16:30:16.605Z"
         }
-      ],
-      "links": {
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/coffeebird-official-6800.json"
-      }
+      ]
     }
   ],
   "techniques": [
@@ -17619,8 +16721,7 @@
         "la « prédiction » n'a été remarquée qu'après la découverte",
         "le texte d'origine admet plusieurs lectures",
         "personne ne s'en est servi pour découvrir quoi que ce soit"
-      ],
-      "question": "Pourquoi tant de textes anciens semblent-ils annoncer des découvertes modernes ?"
+      ]
     },
     {
       "id": "caution-scientifique",
@@ -17630,8 +16731,7 @@
         "aucune publication n'est citée",
         "la citation est vague ou sortie de son contexte",
         "l'institution, quand on lui pose la question, dit autre chose"
-      ],
-      "question": "La NASA et les scientifiques ont-ils vraiment confirmé ce que disent les livres sacrés ?"
+      ]
     },
     {
       "id": "numerologie",
@@ -17641,8 +16741,7 @@
         "les règles de comptage changent selon le résultat voulu",
         "seuls les comptes qui marchent sont montrés",
         "n'importe quel long texte produit des coïncidences"
-      ],
-      "question": "Les nombres cachés dans les textes sacrés sont-ils une preuve ?"
+      ]
     },
     {
       "id": "chaine-de-transmission",
@@ -17652,8 +16751,7 @@
         "on juge les témoins, jamais la plausibilité du fait",
         "les témoins n'étaient pas présents",
         "aucune source extérieure indépendante ne confirme"
-      ],
-      "question": "Des milliers de témoins peuvent-ils tous se tromper ?"
+      ]
     },
     {
       "id": "argument-autorite",
@@ -17663,8 +16761,7 @@
         "la compétence invoquée n'est pas celle du sujet",
         "on cite le prestige plutôt que les preuves",
         "les autres spécialistes ne sont pas d'accord"
-      ],
-      "question": "Si de grands savants y croyaient, n'est-ce pas que c'est vrai ?"
+      ]
     },
     {
       "id": "temoignage-inverifiable",
@@ -17674,8 +16771,7 @@
         "rien ne permet de vérifier le récit",
         "seuls les cas réussis sont racontés",
         "l'émotion remplace les données"
-      ],
-      "question": "Tant de gens disent avoir été guéris : peuvent-ils tous se tromper ?"
+      ]
     },
     {
       "id": "placebo",
@@ -17685,8 +16781,7 @@
         "aucune comparaison avec un faux traitement",
         "l'amélioration naturelle (la régression vers la moyenne) est ignorée",
         "seuls des critères subjectifs sont mesurés"
-      ],
-      "question": "Si un remède me fait du bien, est-ce qu'il marche vraiment ?"
+      ]
     },
     {
       "id": "charge-de-la-preuve",
@@ -17696,8 +16791,7 @@
         "celui qui affirme n'apporte aucune preuve",
         "l'absence de réfutation est présentée comme une preuve",
         "l'affirmation est taillée pour ne pas pouvoir être réfutée"
-      ],
-      "question": "Peut-on prouver que Dieu n'existe pas ?"
+      ]
     },
     {
       "id": "infalsifiabilite",
@@ -17707,8 +16801,7 @@
         "chaque échec a son explication (« c'était la nuit », « tu n'avais pas assez la foi »)",
         "la thèse s'adapte à tous les résultats",
         "elle ne prédit rien qu'on pourrait vérifier"
-      ],
-      "question": "Pourquoi certaines croyances résistent-elles à toutes les preuves ?"
+      ]
     },
     {
       "id": "selection-des-cas",
@@ -17718,8 +16811,7 @@
         "aucune donnée sur les échecs",
         "les prophéties ratées sont passées sous silence",
         "les exemples sont choisis après coup"
-      ],
-      "question": "Pourquoi les prophéties semblent-elles toujours se réaliser ?"
+      ]
     },
     {
       "id": "appel-a-l-anciennete",
@@ -17729,8 +16821,7 @@
         "la durée ou le nombre remplace la preuve",
         "des pratiques tout aussi anciennes ont été abandonnées (la saignée)",
         "on cite la tradition plutôt que des résultats"
-      ],
-      "question": "Une pratique vieille de mille ans peut-elle se tromper ?"
+      ]
     },
     {
       "id": "faux-dilemme",
@@ -17740,35 +16831,7 @@
         "d'autres possibilités existent mais ne sont pas évoquées",
         "« soit c'est un miracle, soit ce sont des menteurs »",
         "le choix proposé force la conclusion"
-      ],
-      "question": "Miracle ou mensonge : n'y a-t-il vraiment que deux possibilités ?"
-    }
-  ],
-  "rubrics": [
-    {
-      "id": "esprit-critique",
-      "name": "Esprit critique",
-      "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit"
-    },
-    {
-      "id": "religions",
-      "name": "Religions",
-      "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions"
-    },
-    {
-      "id": "philosophie",
-      "name": "Philosophie moderne",
-      "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie"
-    },
-    {
-      "id": "pseudo-sciences",
-      "name": "Pseudo-sciences et charlatans",
-      "description": "astrologie, voyance, numérologie, tarot, médecines alternatives, bullshit quantique, lithothérapie, développement personnel"
-    },
-    {
-      "id": "systeme",
-      "name": "Le système",
-      "description": "travail, argent, institutions, médias, politique, méritocratie, bureaucratie"
+      ]
     }
   ]
 }
