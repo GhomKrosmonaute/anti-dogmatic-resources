@@ -1,0 +1,174 @@
+{
+  "version": 2,
+  "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+  "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
+  "format": "short",
+  "publishedAt": "2026-10-04T16:30:16.605Z",
+  "durationSeconds": 120,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n'y a personne.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "L'écran de la Tesla ne montre pas des morts : il montre les erreurs de classement de son logiciel de vision. Un réseau de neurones entraîné à repérer des piétons range dans cette case des formes verticales comme des stèles, des statues ou des croix. Ces faux positifs sont connus et documentés, et il n'y a pas besoin de l'au-delà pour les expliquer."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    }
+  ],
+  "answers": {
+    "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
+    "channel": "Coffeebird_official",
+    "channelId": "UCmkxA7DNnj4HCFLeUHgCjmg",
+    "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE",
+    "passages": [
+      {
+        "text": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière."
+      }
+    ]
+  },
+  "series": null,
+  "youtube": {
+    "id": "ve29Mi2odq4",
+    "url": "https://www.youtube.com/watch?v=ve29Mi2odq4",
+    "thumbnail": "https://i.ytimg.com/vi/ve29Mi2odq4/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8.json"
+  },
+  "facts": [
+    {
+      "text": "Les Tesla analysent les images de leurs caméras avec des réseaux de neurones entraînés à reconnaître des objets, dont des piétons, et l'écran de bord affiche ce que le logiciel a détecté.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "AI & Robotics",
+          "publisher": "Tesla",
+          "url": "https://www.tesla.com/AI"
+        },
+        {
+          "title": "Model 3 Owner's Manual",
+          "publisher": "Tesla",
+          "url": "https://www.tesla.com/ownersmanual/model3/en_us/GUID-2CB60804-9CEA-4F4B-8B04-09B991368DC5.html"
+        }
+      ]
+    },
+    {
+      "text": "Les systèmes de détection d'objets par réseaux de neurones produisent des faux positifs : des formes verticales comme une stèle, une statue, une croix ou une ombre peuvent être classées comme piétons.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "How Far are We from Solving Pedestrian Detection?",
+          "publisher": "CVPR 2016 / arXiv",
+          "url": "https://arxiv.org/abs/1602.01237"
+        },
+        {
+          "title": "Apparently Some of You Need a Halloween Reminder that Teslas Can't Detect Ghosts",
+          "publisher": "Gizmodo",
+          "url": "https://gizmodo.com/tesla-ghosts-halloween-2000675877"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, Anh Nguyen, Jason Yosinski et Jeff Clune ont montré dans « Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images » (CVPR 2015) que des réseaux de neurones classent avec une très forte confiance des images méconnaissables comme des objets précis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Deep Neural Networks Are Easily Fooled: High Confidence Predictions for Unrecognizable Images",
+          "publisher": "CVPR 2015 Open Access (CVF)",
+          "url": "https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.html"
+        },
+        {
+          "title": "Deep Neural Networks are Easily Fooled",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/pdf/1412.1897"
+        }
+      ]
+    },
+    {
+      "text": "La paréidolie est la tendance du cerveau humain à percevoir des formes familières, comme des visages, dans des stimuli aléatoires tels que les nuages.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pareidolia",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/pareidolia"
+        }
+      ]
+    },
+    {
+      "text": "Les « orbes » des photos sont en général des particules de poussière ou des gouttelettes proches de l'objectif, éclairées par le flash.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "So You Have a Ghost in Your Photo",
+          "publisher": "Skeptical Inquirer",
+          "url": "https://skepticalinquirer.org/2020/06/so-you-have-a-ghost-in-your-photo/"
+        },
+        {
+          "title": "Backscatter (photography)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Backscatter_(photography)"
+        }
+      ]
+    },
+    {
+      "text": "Les « voix » entendues dans les enregistrements dits paranormaux s'expliquent par la tendance du cerveau à percevoir des mots dans du bruit (paréidolie auditive).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Auditory Pareidolia: Effects of Contextual Priming on Perceptions of Purportedly Paranormal and Ambiguous Auditory Stimuli",
+          "publisher": "Applied Cognitive Psychology (Wiley)",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3068"
+        },
+        {
+          "title": "Meaning in randomness",
+          "publisher": "The Psychologist (British Psychological Society)",
+          "url": "https://www.bps.org.uk/psychologist/meaning-randomness"
+        }
+      ]
+    },
+    {
+      "text": "Les détecteurs de champs électromagnétiques (EMF) réagissent aux champs produits par les installations électriques et les appareils courants.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ghost Meters: I Can Name that Ghost in 5 Milligauss",
+          "publisher": "Skeptical Inquirer",
+          "url": "https://skepticalinquirer.org/exclusive/ghost-meters-i-can-name-that-ghost-in-5-milligauss/"
+        },
+        {
+          "title": "Power lines and electrical products: Extremely low frequency electric and magnetic fields",
+          "publisher": "Health Canada",
+          "url": "https://www.canada.ca/en/health-canada/services/health-risks-safety/radiation/everyday-things-emit-radiation/power-lines-electrical-appliances.html"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

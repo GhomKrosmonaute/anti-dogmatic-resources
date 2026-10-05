@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "id": "philosophie",
+  "name": "Philosophie moderne",
+  "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie",
+  "items": [
+    {
+      "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
+      "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",
+      "format": "video",
+      "publishedAt": "2026-10-05T15:45:09.131Z",
+      "durationSeconds": 713,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Notre volonté est libre : au moment de choisir, nous aurions pu vouloir et faire autrement, et nous le savons sans preuve, par l'expérience intime que nous en avons.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pIoZtbVyQXY",
+        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
+        "thumbnail": "https://i.ytimg.com/vi/pIoZtbVyQXY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-libre-arbitre-existe-t-il-vraiment-e244/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-libre-arbitre-existe-t-il-vraiment-e244.json"
+      }
+    },
+    {
+      "id": "tout-arrive-pour-une-raison-3a38",
+      "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
+      "format": "video",
+      "publishedAt": "2026-10-04T04:30:11.892Z",
+      "durationSeconds": 696,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "EaKHThIwLtk",
+        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
+        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
+      }
+    },
+    {
+      "id": "sans-dieu-tout-est-permis-9230",
+      "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+      "format": "video",
+      "publishedAt": "2026-09-25T05:40:52.683Z",
+      "durationSeconds": 512,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xr-j1jeo9YU",
+        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
+        "thumbnail": "https://i.ytimg.com/vi/xr-j1jeo9YU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
+      }
+    }
+  ]
+}

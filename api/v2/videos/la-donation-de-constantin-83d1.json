@@ -1,0 +1,370 @@
+{
+  "version": 2,
+  "id": "la-donation-de-constantin-83d1",
+  "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",
+  "format": "video",
+  "publishedAt": "2026-09-25T08:00:12.889Z",
+  "durationSeconds": 426,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "La Donation de Constantin est un acte authentique : l'empereur Constantin, guéri de la lèpre et baptisé par le pape Sylvestre, aurait cédé à l'Église de Rome le palais du Latran, la ville de Rome et les provinces d'Occident, faisant du pape le maître de l'Occident.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "La Donation de Constantin est un faux, rédigé entre le milieu du VIIIe et le IXe siècle, et non sous Constantin au IVe siècle. Lorenzo Valla l'a démontré en 1440 en attaquant le texte par le texte : latin tardif et anachronique, incohérences historiques (Constantin baptisé à Nicomédie en 337 et non par Sylvestre), silence des sources contemporaines. Ses motivations politiques n'invalident pas ses preuves."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "chaine-de-transmission",
+      "name": "La chaîne de témoins comme preuve"
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "YnNocnkAkvM",
+    "url": "https://www.youtube.com/watch?v=YnNocnkAkvM",
+    "thumbnail": "https://i.ytimg.com/vi/YnNocnkAkvM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-donation-de-constantin-83d1/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-donation-de-constantin-83d1.json"
+  },
+  "facts": [
+    {
+      "text": "Le Constitutum Constantini se présente comme un acte de l'empereur Constantin qui accorde au pape Sylvestre le palais du Latran, les insignes impériaux, Rome et les provinces d'Italie et d'Occident, en remerciement d'une guérison de la lèpre et d'un baptême.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        }
+      ]
+    },
+    {
+      "text": "Le texte présente le transfert de la capitale impériale en Orient comme un moyen de ne pas faire d'ombre au pouvoir du pape.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        }
+      ]
+    },
+    {
+      "text": "Constantin est le premier empereur romain à s'être converti au christianisme.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Constantine I | Biography, Accomplishments, Death, & Facts",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor"
+        }
+      ]
+    },
+    {
+      "text": "Les historiens datent généralement la rédaction du faux entre le milieu du VIIIe et le IXe siècle ; le lieu et la date exacts restent discutés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        },
+        {
+          "title": "The \"Donation of Constantine\": a centuries-old historiographical debate",
+          "publisher": "SciELO Chile",
+          "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-88322023000100301&lng=en&nrm=iso"
+        }
+      ]
+    },
+    {
+      "text": "L'historien Johannes Fried défend une origine franque du faux au IXe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "“Donation of Constantine” and “Constitutum Constantini”",
+          "publisher": "Bryn Mawr Classical Review",
+          "url": "https://bmcr.brynmawr.edu/2008/2008.02.21"
+        },
+        {
+          "title": "Donation of Constantine and Constitutum Constantini (Fried, 2007)",
+          "publisher": "De Gruyter / OAPEN",
+          "url": "https://library.oapen.org/bitstream/id/426ce6b2-8202-4823-920b-1f05f7d7b47f/9783110902235.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Au milieu du VIIIe siècle, la papauté menacée par les Lombards s'allie aux Francs, et en 756 Pépin le Bref remet au pape des territoires d'Italie centrale, à l'origine des États pontificaux.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Pippin",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Donation-of-Pippin"
+        },
+        {
+          "title": "States of the Church",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/14257a.htm"
+        }
+      ]
+    },
+    {
+      "text": "La Donation de Constantin figure dans les Fausses Décrétales du Pseudo-Isidore au IXe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        },
+        {
+          "title": "1911 Encyclopædia Britannica/Donation of Constantine",
+          "publisher": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Donation_of_Constantine"
+        }
+      ]
+    },
+    {
+      "text": "Le pape Léon IX invoque la Donation dans une lettre au patriarche Michel Cérulaire, dans le contexte des tensions menant au schisme de 1054.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        },
+        {
+          "title": "Michael I Cerularius",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michael_I_Cerularius"
+        }
+      ]
+    },
+    {
+      "text": "La Donation a été ajoutée au Décret de Gratien au XIIe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        }
+      ]
+    },
+    {
+      "text": "Un diplôme de l'empereur Otton III de 1001 qualifie déjà la Donation de mensonge.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine and Constitutum Constantini (Fried, 2007)",
+          "publisher": "De Gruyter / OAPEN",
+          "url": "https://library.oapen.org/bitstream/id/426ce6b2-8202-4823-920b-1f05f7d7b47f/9783110902235.pdf"
+        },
+        {
+          "title": "Donation of Constantine Is Exposed",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/history/donation-constantine-exposed"
+        }
+      ]
+    },
+    {
+      "text": "Dante, dans l'Enfer de la Divine Comédie, déplore les maux causés par la Donation de Constantin sans en contester l'authenticité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Divina Commedia/Inferno/Canto XIX",
+          "publisher": "Wikisource",
+          "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XIX"
+        }
+      ]
+    },
+    {
+      "text": "Lorenzo Valla est l'auteur des Elegantiae linguae latinae et a rédigé en 1440 le De falso credita et ementita Constantini donatione alors qu'il servait Alphonse d'Aragon, en conflit avec le pape Eugène IV.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lorenzo Valla, Discourse on the Forgery of the Alleged Donation of Constantine (introduction)",
+          "publisher": "Hanover College",
+          "url": "https://history.hanover.edu/texts/vallaintro.html"
+        },
+        {
+          "title": "Lorenzo Valla",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/lorenzo-valla/"
+        }
+      ]
+    },
+    {
+      "text": "Valla relève dans la Donation un latin tardif incompatible avec une chancellerie du IVe siècle et se moque notamment de l'emploi du mot « satrapes » pour des dignitaires romains.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lorenzo Valla Proves that the Donation of Constantine is a Forgery",
+          "publisher": "HistoryofInformation.com",
+          "url": "https://www.historyofinformation.com/detail.php?id=1817"
+        },
+        {
+          "title": "Lorenzo Valla, On the Donation of Constantine (I Tatti Renaissance Library)",
+          "publisher": "Bryn Mawr Classical Review",
+          "url": "https://bmcr.brynmawr.edu/2008/2008.01.31"
+        }
+      ]
+    },
+    {
+      "text": "Le document mentionne Constantinople parmi les grands sièges ecclésiastiques, alors que la ville n'a été inaugurée sous ce nom qu'en 330.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        },
+        {
+          "title": "Constantine I | Biography, Accomplishments, Death, & Facts",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor"
+        }
+      ]
+    },
+    {
+      "text": "Aucune source contemporaine de Constantin ne mentionne une telle donation.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine Is Exposed",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/history/donation-constantine-exposed"
+        },
+        {
+          "title": "Lorenzo Valla, Discourse on the Forgery of the Alleged Donation of Constantine (introduction)",
+          "publisher": "Hanover College",
+          "url": "https://history.hanover.edu/texts/vallaintro.html"
+        }
+      ]
+    },
+    {
+      "text": "Constantin a été baptisé sur son lit de mort en 337 par Eusèbe de Nicomédie ; le récit de la guérison de sa lèpre par Sylvestre vient d'une légende.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Eusebius of Nicomedia",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05623b.htm"
+        },
+        {
+          "title": "Donation of Constantine",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/05118a.htm"
+        }
+      ]
+    },
+    {
+      "text": "Nicolas de Cues a exprimé des doutes sur la Donation dans le De concordantia catholica, vers 1433, et Reginald Pecock l'a aussi contestée peu après Valla.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Donation of Constantine Is Exposed",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/history/donation-constantine-exposed"
+        },
+        {
+          "title": "Reginald Pecock and Lorenzo Valla on the Donation of Constantine",
+          "publisher": "Studies in the Renaissance",
+          "url": "https://www.journals.uchicago.edu/doi/10.2307/2857015"
+        }
+      ]
+    },
+    {
+      "text": "Lorenzo Valla est ensuite entré au service de la curie romaine sous le pape Nicolas V.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lorenzo Valla",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/lorenzo-valla/"
+        }
+      ]
+    },
+    {
+      "text": "Ulrich von Hutten a publié le traité de Valla en 1517, et Martin Luther, qui l'a lu peu après, s'en est indigné dans sa correspondance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lorenzo Valla, Discourse on the Forgery of the Alleged Donation of Constantine (introduction)",
+          "publisher": "Hanover College",
+          "url": "https://history.hanover.edu/texts/vallaintro.html"
+        },
+        {
+          "title": "The Papal Antichrist: Martin Luther and the Underappreciated Influence of Lorenzo Valla",
+          "publisher": "Renaissance Quarterly",
+          "url": "https://www.academia.edu/22653029/_The_Papal_Antichrist_Martin_Luther_and_the_Underappreciated_Influence_of_Lorenzo_Valla_Renaissance_Quarterly_61_1_2008_26_52"
+        }
+      ]
+    },
+    {
+      "text": "Les États pontificaux ont survécu jusqu'à la prise de Rome en 1870, et les accords du Latran de 1929 ont créé l'État de la Cité du Vatican.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Roman question",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Roman-question"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [
+    {
+      "title": "Pendant des siècles, un seul parchemin a suffi à faire d'un évêque le maître de l'Occident.",
+      "url": "https://www.youtube.com/watch?v=L3y6ctmhEEo",
+      "publishedAt": "2026-09-25T09:07:08.139Z"
+    },
+    {
+      "title": "Entre en scène notre détective : Lorenzo Valla, humaniste romain et philologue redoutable.",
+      "url": "https://www.youtube.com/watch?v=HsYzAHzs3ns",
+      "publishedAt": "2026-09-25T15:07:23.901Z"
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "generatedAt": "2026-10-05T18:51:35.990Z",
+  "license": "CC BY 4.0",
+  "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
+  "channel": "Satané Ghom",
+  "counts": {
+    "videos": 41,
+    "shorts": 3,
+    "channels": 2,
+    "techniques": 12,
+    "rubrics": 5,
+    "corrections": 0
+  },
+  "endpoints": {
+    "videos": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos.json",
+    "videoPage": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-{n}.json",
+    "video": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/{id}.json",
+    "rubrics": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics.json",
+    "rubric": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/{id}.json",
+    "techniques": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques.json",
+    "technique": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/{id}.json",
+    "channels": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels.json",
+    "channel": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/{id}.json",
+    "corrections": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/corrections.json",
+    "all": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/data/claims.json",
+    "rss": [
+      "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml",
+      "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/corrections.xml"
+    ]
+  },
+  "docs": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/index.html"
+}

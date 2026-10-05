@@ -1,0 +1,302 @@
+{
+  "version": 2,
+  "id": "esprit-critique",
+  "name": "Esprit critique",
+  "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
+  "items": [
+    {
+      "id": "guerisons-miraculeuses-experiences-de-mort-4f09",
+      "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T17:45:08.682Z",
+      "durationSeconds": 684,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "temoignage-inverifiable",
+        "name": "Le témoignage invérifiable"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "6ZEHqdNAHRY",
+        "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+        "thumbnail": "https://i.ytimg.com/vi/6ZEHqdNAHRY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/guerisons-miraculeuses-experiences-de-mort-4f09.json"
+      }
+    },
+    {
+      "id": "une-sagesse-ancestrale-pratiquee-depuis-des-287b",
+      "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T22:30:09.807Z",
+      "durationSeconds": 683,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "appel-a-l-anciennete",
+        "name": "L'appel à l'ancienneté"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "AFk9CaSz7PY",
+        "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY",
+        "thumbnail": "https://i.ytimg.com/vi/AFk9CaSz7PY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-sagesse-ancestrale-pratiquee-depuis-des-287b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-sagesse-ancestrale-pratiquee-depuis-des-287b.json"
+      }
+    },
+    {
+      "id": "miracle-ou-mensonge-adab",
+      "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T14:00:12.156Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "faux-dilemme",
+        "name": "Le faux dilemme"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "ZYr31MAYp6A",
+        "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
+        "thumbnail": "https://i.ytimg.com/vi/ZYr31MAYp6A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
+      }
+    },
+    {
+      "id": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
+      "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",
+      "format": "video",
+      "publishedAt": "2026-10-04T02:15:11.931Z",
+      "durationSeconds": 672,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "chaine-de-transmission",
+        "name": "La chaîne de témoins comme preuve"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yk1WcBv1jfM",
+        "url": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
+        "thumbnail": "https://i.ytimg.com/vi/yk1WcBv1jfM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f.json"
+      }
+    },
+    {
+      "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
+      "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
+      "format": "video",
+      "publishedAt": "2026-10-03T19:00:08.625Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "selection-des-cas",
+        "name": "Le tri des cas favorables"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "-tKV9kTwxOY",
+        "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
+        "thumbnail": "https://i.ytimg.com/vi/-tKV9kTwxOY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-tant-de-prieres-semblent-exaucees-9cfc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-tant-de-prieres-semblent-exaucees-9cfc.json"
+      }
+    },
+    {
+      "id": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T16:00:05.738Z",
+      "durationSeconds": 650,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "caution-scientifique",
+        "name": "La caution scientifique détournée"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Bcmlc37zuUc",
+        "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
+        "thumbnail": "https://i.ytimg.com/vi/Bcmlc37zuUc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
+      }
+    },
+    {
+      "id": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
+      "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T09:15:07.706Z",
+      "durationSeconds": 679,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "relecture-a-posteriori",
+        "name": "La relecture après coup"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "gj_C6XBZ2W4",
+        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
+        "thumbnail": "https://i.ytimg.com/vi/gj_C6XBZ2W4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d.json"
+      }
+    },
+    {
+      "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+      "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T22:30:11.248Z",
+      "durationSeconds": 661,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "infalsifiabilite",
+        "name": "L'affirmation à l'épreuve de tout"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "wIGW-ulElfk",
+        "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+        "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
+      }
+    },
+    {
+      "id": "l-argument-d-autorite-ab9c",
+      "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T19:00:12.466Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pTsHM7DTF7U",
+        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U",
+        "thumbnail": "https://i.ytimg.com/vi/pTsHM7DTF7U/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-ab9c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-ab9c.json"
+      }
+    },
+    {
+      "id": "le-fardeau-de-la-preuve-19ef",
+      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+      "format": "video",
+      "publishedAt": "2026-09-25T07:02:41.865Z",
+      "durationSeconds": 467,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": {
+        "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1DqgdLPjCi4",
+        "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+        "thumbnail": "https://i.ytimg.com/vi/1DqgdLPjCi4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
+      }
+    }
+  ]
+}

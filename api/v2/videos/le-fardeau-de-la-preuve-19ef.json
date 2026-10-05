@@ -1,0 +1,234 @@
+{
+  "version": 2,
+  "id": "le-fardeau-de-la-preuve-19ef",
+  "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+  "format": "video",
+  "publishedAt": "2026-09-25T07:02:41.865Z",
+  "durationSeconds": 467,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": {
+    "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "La vidéo conclut que cette phrase renverse la charge de la preuve : c'est à celui qui affirme l'existence de Dieu d'apporter des raisons, et l'absence de réfutation n'est pas une preuve (appel à l'ignorance, théière de Russell, dragon de Sagan). Elle reconnaît toutefois que l'on peut prouver certaines négations dans un domaine fini, et que l'athée qui affirme savoir qu'aucun dieu n'existe porte lui aussi une charge de la preuve."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "faux-dilemme",
+      "name": "Le faux dilemme"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "1DqgdLPjCi4",
+    "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+    "thumbnail": "https://i.ytimg.com/vi/1DqgdLPjCi4/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
+  },
+  "facts": [
+    {
+      "text": "Le Digeste de Justinien, promulgué en 533, contient la maxime « Ei incumbit probatio qui dicit, non qui negat » (la preuve incombe à celui qui affirme, non à celui qui nie), attribuée au juriste romain Paul.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Digest of Justinian: Liber XXII",
+          "publisher": "The Latin Library",
+          "url": "https://www.thelatinlibrary.com/justinian/digest22.shtml"
+        },
+        {
+          "title": "Digest XXII, 3, 2 (Paulus)",
+          "publisher": "Trans-Lex.org",
+          "url": "https://www.trans-lex.org/800200/"
+        }
+      ]
+    },
+    {
+      "text": "La présomption d'innocence est inscrite à l'article 9 de la Déclaration des droits de l'homme et du citoyen de 1789.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Article 9 - Déclaration du 26 août 1789 des droits de l'homme et du citoyen",
+          "publisher": "Légifrance",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527435/"
+        }
+      ]
+    },
+    {
+      "text": "Bertrand Russell a rédigé en 1952 un texte intitulé « Is There a God? », commandé par le magazine Illustrated, qui n'a pas été publié de son vivant, et dans lequel il propose l'analogie d'une théière de porcelaine en orbite entre la Terre et Mars, trop petite pour être détectée par les télescopes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Russell's teapot",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Russell%27s_teapot"
+        }
+      ]
+    },
+    {
+      "text": "Dans ce texte, Russell soutient que si l'existence de cette théière était affirmée par des livres anciens et enseignée aux enfants, le doute à son égard serait considéré comme une excentricité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Russell's teapot",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Russell%27s_teapot"
+        }
+      ]
+    },
+    {
+      "text": "John Locke identifie et nomme l'argumentum ad ignorantiam dans son Essai sur l'entendement humain, publié en 1690.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "An Essay Concerning Human Understanding Book IV",
+          "publisher": "Early Modern Texts",
+          "url": "https://www.earlymoderntexts.com/assets/pdfs/locke1690book4_3.pdf"
+        },
+        {
+          "title": "Argument from ignorance",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Argument_from_ignorance"
+        }
+      ]
+    },
+    {
+      "text": "Carl Sagan expose l'analogie du dragon invisible dans son garage dans l'ouvrage The Demon-Haunted World, publié en 1995.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Demon-Haunted World",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Demon-Haunted_World"
+        },
+        {
+          "title": "Il n'existe pas de traduction française du dernier livre de Carl Sagan",
+          "publisher": "X (Acermendax)",
+          "url": "https://twitter.com/Acermendax/status/1273910586280161295"
+        }
+      ]
+    },
+    {
+      "text": "Guillaume d'Ockham était un théologien et philosophe franciscain mort vers 1347, associé au principe de parcimonie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "William of Ockham",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/ockham/"
+        }
+      ]
+    },
+    {
+      "text": "La formule latine « entia non sunt multiplicanda praeter necessitatem » n'apparaît pas telle quelle dans les écrits conservés de Guillaume d'Ockham ; les historiens l'attribuent à des auteurs postérieurs, notamment le scolastique irlandais John Punch au XVIIe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Occam's razor",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+        },
+        {
+          "title": "Who sharpened Occam's Razor?",
+          "publisher": "Irish Philosophy",
+          "url": "https://irishphilosophy.com/2014/05/27/who-sharpened-occams-razor/"
+        }
+      ]
+    },
+    {
+      "text": "Christopher Hitchens formule dans God Is Not Great, publié en 2007, le principe selon lequel ce qui peut être affirmé sans preuve peut être rejeté sans preuve.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hitchens's razor",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hitchens%27s_razor"
+        }
+      ]
+    },
+    {
+      "text": "Karl Popper expose le critère de falsifiabilité dans Logik der Forschung, publié en allemand en 1934.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Karl Popper",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/popper/"
+        }
+      ]
+    },
+    {
+      "text": "Il est logiquement démontrable qu'il n'existe aucun nombre premier pair supérieur à deux, ce qui constitue un exemple de proposition négative prouvable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Is 2 prime?",
+          "publisher": "Brilliant",
+          "url": "https://brilliant.org/wiki/is-2-prime/"
+        }
+      ]
+    },
+    {
+      "text": "L'athéisme dit faible, ou agnosticisme athée, se définit comme l'absence de croyance en une divinité faute de raisons suffisantes, et se distingue de l'affirmation positive qu'aucune divinité n'existe.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Atheism and Agnosticism",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/atheism-agnosticism/"
+        },
+        {
+          "title": "Agnostic atheism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agnostic_atheism"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [
+    {
+      "title": "Une bande-annonce te promet le film du siècle : explosions, mystère, révélation finale.",
+      "url": "https://www.youtube.com/watch?v=BVmFncU9kIg",
+      "publishedAt": "2026-09-25T08:37:15.266Z"
+    },
+    {
+      "title": "Le renversement s'accompagne presque toujours d'un second sophisme, plus ancien encore : l'appe…",
+      "url": "https://www.youtube.com/watch?v=aZMENmnW3zY",
+      "publishedAt": "2026-09-25T14:37:55.410Z"
+    }
+  ],
+  "corrections": []
+}

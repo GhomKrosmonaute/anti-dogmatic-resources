@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Données ouvertes · Satané Ghom</title>
+<link rel="stylesheet" href="../style.css">
+<link rel="alternate" type="application/rss+xml" title="Satané Ghom · vérifications" href="../feed.xml"></head><body>
+<header><a href="../index.html">Satané Ghom · vérifications</a>
+<nav><a href="../index.html">Vidéos</a><a href="../chaines/index.html">Chaînes examinées</a><a href="../techniques/index.html">Techniques</a><a href="../errata/index.html">Corrections</a><a href="../methode/index.html">Méthode</a><a href="../api/index.html">Données</a><a href="../feed.xml">RSS</a></nav></header>
+<main><h1>Données ouvertes</h1>
+<p>Toutes les vérifications sont lisibles par programme, sous licence CC BY 4.0 : une API JSON statique, en lecture seule, sans clé ni inscription. Elle est servie avec <code>Access-Control-Allow-Origin: *</code>, donc lisible depuis n'importe quel site, dans le navigateur. Les données sont mises à jour à chaque publication et au plus toutes les dix minutes en cache.</p>
+<h2>API JSON (v2)</h2>
+<ul>
+<li><code>api/v2/index.json</code> — version, date de génération, effectifs et adresses de tout le reste</li>
+<li><code>api/v2/videos.json</code> — les 50 vérifications les plus récentes, avec la liste des pages</li>
+<li><code>api/v2/videos/page-{n}.json</code> — les vérifications par pages de 50, avec les liens précédent et suivant</li>
+<li><code>api/v2/videos/{id}.json</code> — une vérification complète : affirmation, verdict, faits et sources, relecture, vidéo examinée, vidéos citées, Shorts, corrections</li>
+<li><code>api/v2/rubrics.json</code> — les cinq rubriques de la chaîne, avec leur nombre de vidéos</li>
+<li><code>api/v2/rubrics/{id}.json</code> — une rubrique et ses vidéos</li>
+<li><code>api/v2/techniques.json</code> — les techniques de manipulation</li>
+<li><code>api/v2/techniques/{id}.json</code> — une technique, les vidéos qui l'enseignent et celles qui en montrent un exemple</li>
+<li><code>api/v2/channels.json</code> — les chaînes dont des vidéos ont reçu une réponse</li>
+<li><code>api/v2/channels/{id}.json</code> — une chaîne, les vidéos examinées et les réponses publiées</li>
+<li><code>api/v2/corrections.json</code> — toutes les corrections, de la plus récente à la plus ancienne</li>
+<li><code>data/claims.json</code> — tout en un seul fichier, avec les mêmes fiches</li>
+</ul>
+<h2>Une vidéo</h2>
+<ul>
+<li><code>id</code> — son identifiant, celui de son adresse</li>
+<li><code>format</code> — <code>video</code> (format long) ou <code>short</code></li>
+<li><code>publishedAt</code> — date de publication, ISO 8601 en UTC ; <code>durationSeconds</code> : sa durée</li>
+<li><code>rubric</code> — sa rubrique : <code>esprit-critique</code>, <code>religions</code>, <code>philosophie</code>, <code>pseudo-sciences</code> ou <code>systeme</code></li>
+<li><code>claim</code> — l'affirmation examinée et son verdict (<code>faux</code>, <code>trompeur</code>, <code>non_demontre</code>, <code>inverifiable</code>, <code>exact</code>), ou <code>null</code> pour une vidéo qui enseigne une technique (<code>technique</code>)</li>
+<li><code>techniques</code> — les techniques de manipulation sur lesquelles l'affirmation s'appuie</li>
+<li><code>answers</code> — la vidéo YouTube à laquelle elle répond, ou <code>null</code> ; <code>series</code> : sa partie dans une série de Shorts</li>
+<li><code>facts</code> — dans la fiche complète : les faits vérifiés et leurs sources ; <code>review</code> : comment le script a été relu ; <code>references</code>, <code>next</code>, <code>shorts</code> : les vidéos citées, celle que propose son écran de fin, les Shorts qui en sont tirés ; <code>corrections</code></li>
+<li><code>links</code> — l'adresse de sa page et de sa fiche ; <code>youtube</code> : son identifiant, son adresse et sa miniature</li>
+</ul>
+<p>Les adresses sont absolues. La forme de la v2 ne change pas : des champs peuvent s'ajouter, ignorez ceux que vous ne connaissez pas ; un changement incompatible ira dans <code>api/v3/</code>.</p>
+<pre>const api = 'https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/';
+const { items } = await (await fetch(api + 'videos.json')).json();
+const faux = items.filter(video => video.claim?.verdict === 'faux');</pre>
+<h2>Flux RSS</h2>
+<ul>
+<li><code>feed.xml</code> — les dernières vérifications</li>
+<li><code>corrections.xml</code> — les corrections</li>
+</ul></main>
+<footer>Chaîne entièrement générée par IA, vérifiée par recherche web et, sur les sujets spécialisés, par relecture. Contenu sous licence CC BY 4.0. <a href="https://github.com/GhomKrosmonaute/anti-dogmatic-resources/issues/new">Signaler une erreur</a> · <a href="../confidentialite/index.html">Confidentialité</a>.</footer>
+</body></html>

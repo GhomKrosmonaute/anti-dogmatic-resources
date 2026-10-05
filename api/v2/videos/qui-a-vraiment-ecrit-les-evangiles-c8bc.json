@@ -1,0 +1,454 @@
+{
+  "version": 2,
+  "id": "qui-a-vraiment-ecrit-les-evangiles-c8bc",
+  "title": "Qui a vraiment écrit les Évangiles ? Ce que l'on sait de Matthieu, Marc, Luc et Jean",
+  "format": "video",
+  "publishedAt": "2026-10-03T16:45:12.087Z",
+  "durationSeconds": 685,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Les Évangiles ont été écrits par les apôtres Matthieu et Jean, témoins oculaires de Jésus, et par Marc et Luc, disciples directs de Pierre et de Paul.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Les quatre Évangiles sont anonymes. Leurs auteurs ne sont nommés qu'au IIe siècle : par Papias pour deux d'entre eux, sur la foi d'un intermédiaire, puis par Irénée vers 180 pour les quatre. Les textes eux-mêmes vont contre la tradition : Matthieu recopie Marc jusque dans le récit de sa propre vocation, et Luc se présente comme un compilateur de sources."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "chaine-de-transmission",
+      "name": "La chaîne de témoins comme preuve"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "qlG4FebMRmg",
+    "url": "https://www.youtube.com/watch?v=qlG4FebMRmg",
+    "thumbnail": "https://i.ytimg.com/vi/qlG4FebMRmg/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-a-vraiment-ecrit-les-evangiles-c8bc/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-a-vraiment-ecrit-les-evangiles-c8bc.json"
+  },
+  "facts": [
+    {
+      "text": "L'épître aux Colossiens (4, 14) appelle Luc « le médecin bien-aimé ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Colossians 4:14",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/colossians/4-14.htm"
+        }
+      ]
+    },
+    {
+      "text": "L'Évangile de Matthieu présente Matthieu comme un collecteur de taxes appelé par Jésus (Mt 9, 9) et compté parmi les Douze (Mt 10, 3).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mark 2:14–22; Matthew 9:9–17; Luke 5:27–38",
+          "publisher": "ESV.org",
+          "url": "https://www.esv.org/Mark+2:14%E2%80%9322;Matthew+9:9%E2%80%9317;Luke+5:27%E2%80%9338/"
+        },
+        {
+          "title": "Matthew 10:3",
+          "publisher": "ESV.org",
+          "url": "https://www.esv.org/verses/Matthew+10:3/"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Évangile de Jean (13, 23-25), le « disciple que Jésus aimait » se penche sur la poitrine de Jésus pendant le dernier repas.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "John 13:23–25 NIV",
+          "publisher": "Biblia (Faithlife)",
+          "url": "https://biblia.com/bible/niv/john/13/23-25?ssi=0"
+        }
+      ]
+    },
+    {
+      "text": "Les manuscrits titrés des Évangiles qui nous sont parvenus attribuent tous chaque Évangile au même nom, sans auteur concurrent.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Alleged Anonymity of the Canonical Gospels (S. Gathercole, version auteur)",
+          "publisher": "University of Cambridge Repository / Journal of Theological Studies",
+          "url": "https://www.repository.cam.ac.uk/bitstreams/fb044653-963f-4601-9a81-2355d67f6fea/download"
+        },
+        {
+          "title": "Michael Wolter, Martin Hengel, and the Titles of the Gospels",
+          "publisher": "German for Neutestamentler",
+          "url": "https://germanforneutestamentler.com/2015/01/05/wolter-hengel-gospel-titles/"
+        }
+      ]
+    },
+    {
+      "text": "Papias, évêque de Hiérapolis au début du IIe siècle, a écrit une œuvre en cinq livres sur les paroles du Seigneur. Elle est perdue mais citée par Eusèbe de Césarée, Histoire ecclésiastique III, 39.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Eusebius - on Papias (HE III, 39)",
+          "publisher": "Early Church Texts",
+          "url": "https://earlychurchtexts.com/public/eusbius_on_papias.htm"
+        },
+        {
+          "title": "St. Papias",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/11457c.htm"
+        }
+      ]
+    },
+    {
+      "text": "Selon Papias, qui rapporte les propos de « l'Ancien », Marc, interprète de Pierre, a écrit avec exactitude mais sans ordre ce dont il se souvenait des paroles et des actes du Seigneur (Eusèbe, HE III, 39, 15).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Eusebius - on Papias (HE III, 39)",
+          "publisher": "Early Church Texts",
+          "url": "https://earlychurchtexts.com/public/eusbius_on_papias.htm"
+        },
+        {
+          "title": "The Alleged Anonymity of the Canonical Gospels (S. Gathercole, version auteur)",
+          "publisher": "University of Cambridge Repository / Journal of Theological Studies",
+          "url": "https://www.repository.cam.ac.uk/bitstreams/fb044653-963f-4601-9a81-2355d67f6fea/download"
+        }
+      ]
+    },
+    {
+      "text": "Selon Papias, Matthieu a rassemblé les logia en langue hébraïque, et chacun les a traduits comme il pouvait (Eusèbe, HE III, 39, 16).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Eusebius - on Papias (HE III, 39)",
+          "publisher": "Early Church Texts",
+          "url": "https://earlychurchtexts.com/public/eusbius_on_papias.htm"
+        },
+        {
+          "title": "Eusebius, Historia ecclesiastica 3.39.16 (texte grec)",
+          "publisher": "Perseus Digital Library, Tufts University",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0640:book%3D3:chapter%3D39:section%3D16"
+        }
+      ]
+    },
+    {
+      "text": "Vers 180, Irénée de Lyon (Contre les hérésies III, 1, 1) attribue les quatre Évangiles à Matthieu, à Marc, interprète de Pierre, à Luc, compagnon de Paul, et à Jean, disciple du Seigneur, qui aurait publié le sien à Éphèse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Against Heresies, III.1 (St. Irenaeus)",
+          "publisher": "New Advent",
+          "url": "https://www.newadvent.org/fathers/0103301.htm"
+        },
+        {
+          "title": "The Alleged Anonymity of the Canonical Gospels (S. Gathercole, version auteur)",
+          "publisher": "University of Cambridge Repository / Journal of Theological Studies",
+          "url": "https://www.repository.cam.ac.uk/bitstreams/fb044653-963f-4601-9a81-2355d67f6fea/download"
+        }
+      ]
+    },
+    {
+      "text": "Irénée affirme avoir entendu Polycarpe de Smyrne dans sa jeunesse, et que Polycarpe avait connu l'apôtre Jean (Contre les hérésies III, 3, 4 ; lettre à Florinus citée par Eusèbe, HE V, 20).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Against Heresies, III.3 (St. Irenaeus)",
+          "publisher": "New Advent",
+          "url": "https://www.newadvent.org/fathers/0103303.htm"
+        },
+        {
+          "title": "Church History of Eusebius, Book V, Chapter 20",
+          "publisher": "Wikisource (NPNF II/1)",
+          "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Church_History_of_Eusebius/Book_V/Chapter_20"
+        }
+      ]
+    },
+    {
+      "text": "Richard Bauckham, professeur de Nouveau Testament à l'université de St Andrews, a publié Jesus and the Eyewitnesses en 2006.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jesus and the Eyewitnesses",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jesus_and_the_Eyewitnesses"
+        },
+        {
+          "title": "Richard Bauckham",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Richard_Bauckham"
+        }
+      ]
+    },
+    {
+      "text": "Marc 15, 21 présente Simon de Cyrène comme le père d'Alexandre et de Rufus. Bauckham y voit la mention de témoins connus des premiers lecteurs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mark 15:21",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/mark/15-21.htm"
+        },
+        {
+          "title": "A Summary of Chapter 3 of Richard Bauckham's Jesus and the Eyewitnesses",
+          "publisher": "Biblical Scholarship (blog)",
+          "url": "https://biblicalscholarship.wordpress.com/2008/07/05/a-summary-of-chapter-3-of-richard-bauckhams-jesus-and-the-eyewitnesses/"
+        }
+      ]
+    },
+    {
+      "text": "Bauckham soutient que Pierre est le premier disciple nommé (Mc 1, 16) et le dernier (Mc 16, 7) dans Marc, ce qui désignerait sa source principale, et que les noms des Évangiles correspondent aux fréquences des prénoms juifs de Palestine à l'époque.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. L'inclusio de Pierre (Mc 1, 16 / 16, 7) est bien un argument de Bauckham. Son étude des fréquences, fondée sur le lexique de Tal Ilan, porte sur les noms des personnages cités dans les Évangiles, et non sur les noms attribués aux Évangiles ou à leurs auteurs : « les noms des Évangiles » prête donc à confusion. Correction proposée : Bauckham soutient que Pierre est le premier disciple nommé (Mc 1, 16) et le dernier (Mc 16, 7) dans Marc, ce qui désignerait sa source principale, et que les noms de personnes cités dans les Évangiles correspondent aux fréq",
+      "sources": [
+        {
+          "title": "Jesus and the Eyewitnesses (review)",
+          "publisher": "The Christian Century",
+          "url": "https://www.christiancentury.org/reviews/2007-07/jesus-and-eyewitnesses"
+        },
+        {
+          "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony (review)",
+          "publisher": "Reformed Faith & Practice (RTS)",
+          "url": "https://journal.rts.edu/review/jesus-and-the-eyewitnesses-the-gospels-as-eyewitness-testimony/"
+        }
+      ]
+    },
+    {
+      "text": "Aucun des quatre Évangiles ne nomme son auteur dans le corps du texte. Matthieu et le disciple bien-aimé y apparaissent à la troisième personne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Alleged Anonymity of the Canonical Gospels (S. Gathercole, version auteur)",
+          "publisher": "University of Cambridge Repository / Journal of Theological Studies",
+          "url": "https://www.repository.cam.ac.uk/bitstreams/fb044653-963f-4601-9a81-2355d67f6fea/download"
+        },
+        {
+          "title": "John 21:24 ESV",
+          "publisher": "Biblia (Faithlife)",
+          "url": "https://biblia.com/bible/esv/john/21/24"
+        }
+      ]
+    },
+    {
+      "text": "Les titres des Évangiles utilisent la formule grecque « kata » (selon). Les plus anciens manuscrits qui les portent, dont les papyrus Bodmer P66 et P75, datent des environs de l'an 200.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. P66 (« euangelion kata Iōannēn ») et P75 (« euangelion kata Loukan », « kata Iōannēn ») portent bien des titres en « kata ». Leur datation vers 200 est la datation classique, mais elle est contestée : Nongbri propose le IVe siècle, et une étude de New Testament Studies date P66 du IIIe-IVe siècle et P75 du IVe. Correction proposée : Les titres des Évangiles utilisent la formule grecque « kata » (selon). Les plus anciens manuscrits qui les portent, dont les papyrus Bodmer P66 et P75, sont traditionnellement datés des environs de l'an 200, une datation ",
+      "sources": [
+        {
+          "title": "Titles in the New Testament Papyri",
+          "publisher": "New Testament Studies (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/titles-in-the-new-testament-papyri/4ADE3BD7541916BEA44E4E2067AE66A7"
+        },
+        {
+          "title": "Papyrus 75",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Papyrus_75"
+        }
+      ]
+    },
+    {
+      "text": "Le papyrus P52, plus ancien fragment connu d'un Évangile, ne contient que quelques versets de Jean 18 et ne conserve aucun titre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Rylands Library Papyrus P52",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52"
+        },
+        {
+          "title": "Earliest New Testament Fragment",
+          "publisher": "Biblical Archaeology Society Library",
+          "url": "https://library.biblicalarchaeology.org/sidebar/earliest-new-testament-fragment/"
+        }
+      ]
+    },
+    {
+      "text": "Vers 150, dans sa Première Apologie adressée à l'empereur (chapitres 66-67), Justin Martyr parle des « mémoires des apôtres » lus le dimanche, sans jamais nommer Matthieu, Marc, Luc ou Jean comme auteurs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The First Apology (St. Justin Martyr)",
+          "publisher": "New Advent",
+          "url": "https://www.newadvent.org/fathers/0126.htm"
+        },
+        {
+          "title": "Justin Martyr",
+          "publisher": "Bart Ehrman",
+          "url": "https://www.bartehrman.com/justin-martyr/"
+        }
+      ]
+    },
+    {
+      "text": "Irénée, vers 180, est le premier auteur connu à nommer ensemble les quatre évangélistes, environ un siècle après la rédaction du premier Évangile.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Alleged Anonymity of the Canonical Gospels (S. Gathercole, version auteur)",
+          "publisher": "University of Cambridge Repository / Journal of Theological Studies",
+          "url": "https://www.repository.cam.ac.uk/bitstreams/fb044653-963f-4601-9a81-2355d67f6fea/download"
+        },
+        {
+          "title": "The Development of the Canon of the New Testament - Irenaeus",
+          "publisher": "NTCanon.org",
+          "url": "http://www.ntcanon.org/Irenaeus.shtml"
+        }
+      ]
+    },
+    {
+      "text": "Pour un très large consensus des spécialistes, l'Évangile de Matthieu a été composé en grec, n'est pas une traduction de l'hébreu et reprend en grec, souvent mot pour mot, des passages de Marc.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gospel of Matthew",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gospel_of_Matthew"
+        },
+        {
+          "title": "Did Matthew Write in Hebrew? (Weekly Readers' Mailbag)",
+          "publisher": "The Bart Ehrman Blog",
+          "url": "https://ehrmanblog.org/did-matthew-write-in-hebrew-did-jesus-institute-the-lords-supper-did-josephus-mention-jesus-weekly-readers-mailbag-july-9-2016/"
+        }
+      ]
+    },
+    {
+      "text": "Eusèbe de Césarée décrit Papias comme un homme d'intelligence très limitée (HE III, 39, 13).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Eusebius - on Papias (HE III, 39)",
+          "publisher": "Early Church Texts",
+          "url": "https://earlychurchtexts.com/public/eusbius_on_papias.htm"
+        },
+        {
+          "title": "Papias of Hierapolis",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Papias_of_Hierapolis"
+        }
+      ]
+    },
+    {
+      "text": "Irénée (Contre les hérésies II, 22, 5) affirme que Jésus a enseigné après quarante ans, en approchant de la cinquantaine, en invoquant les Anciens qui avaient fréquenté Jean en Asie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Against Heresies, II.22 (St. Irenaeus)",
+          "publisher": "New Advent",
+          "url": "https://www.newadvent.org/fathers/0103222.htm"
+        },
+        {
+          "title": "Irenaeus of Lyons, Against Heresies 2.22.5",
+          "publisher": "Biblical Scholarship (blog)",
+          "url": "https://biblicalscholarship.wordpress.com/2024/01/22/irenaeus-of-lyons-against-heresies-2-22-5/"
+        }
+      ]
+    },
+    {
+      "text": "Irénée (Contre les hérésies III, 11, 8) justifie l'existence d'exactement quatre Évangiles par les quatre régions du monde et les quatre vents principaux, dans un contexte de polémique contre les gnostiques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Against Heresies, III.11 (St. Irenaeus)",
+          "publisher": "New Advent",
+          "url": "https://www.newadvent.org/fathers/0103311.htm"
+        },
+        {
+          "title": "Irenaeus on the Fourfold Gospel Tradition",
+          "publisher": "J. David Stark",
+          "url": "https://jdavidstark.com/irenaeus-on-the-fourfold-gospel-tradition/"
+        }
+      ]
+    },
+    {
+      "text": "Marc 2, 14 (vocation de Lévi, fils d'Alphée) et Matthieu 9, 9 (vocation de Matthieu) racontent la même scène presque mot pour mot, en changeant le nom.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mark 2:14–22; Matthew 9:9–17; Luke 5:27–38",
+          "publisher": "ESV.org",
+          "url": "https://www.esv.org/Mark+2:14%E2%80%9322;Matthew+9:9%E2%80%9317;Luke+5:27%E2%80%9338/"
+        }
+      ]
+    },
+    {
+      "text": "Depuis le XIXe siècle, l'hypothèse dominante chez les spécialistes est l'antériorité de Marc, que Matthieu et Luc ont utilisé comme source.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Marcan priority",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marcan_priority"
+        },
+        {
+          "title": "Two-source hypothesis",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Two-source_hypothesis"
+        }
+      ]
+    },
+    {
+      "text": "Dans le prologue de Luc (1, 1-4), l'auteur dit écrire après d'autres récits, d'après la transmission des témoins oculaires et après des recherches.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Luke 1:1–4 ESV",
+          "publisher": "Biblia (Faithlife)",
+          "url": "https://biblia.com/bible/esv/luke/1/1-4"
+        }
+      ]
+    },
+    {
+      "text": "Jean 21, 24 dit du disciple bien-aimé : « nous savons que son témoignage est vrai ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "John 21:24 ESV",
+          "publisher": "Biblia (Faithlife)",
+          "url": "https://biblia.com/bible/esv/john/21/24"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

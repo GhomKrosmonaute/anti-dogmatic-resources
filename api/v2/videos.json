@@ -1,0 +1,1555 @@
+{
+  "version": 2,
+  "total": 41,
+  "pageSize": 50,
+  "page": 1,
+  "pages": 1,
+  "previous": null,
+  "next": null,
+  "items": [
+    {
+      "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+      "format": "short",
+      "publishedAt": "2026-10-05T18:15:04.019Z",
+      "durationSeconds": 134,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
+      },
+      "series": null,
+      "youtube": {
+        "id": "jUXA-3UNzBE",
+        "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
+        "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
+      }
+    },
+    {
+      "id": "guerisons-miraculeuses-experiences-de-mort-4f09",
+      "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T17:45:08.682Z",
+      "durationSeconds": 684,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "temoignage-inverifiable",
+        "name": "Le témoignage invérifiable"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "6ZEHqdNAHRY",
+        "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+        "thumbnail": "https://i.ytimg.com/vi/6ZEHqdNAHRY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/guerisons-miraculeuses-experiences-de-mort-4f09.json"
+      }
+    },
+    {
+      "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
+      "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",
+      "format": "video",
+      "publishedAt": "2026-10-05T15:45:09.131Z",
+      "durationSeconds": 713,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Notre volonté est libre : au moment de choisir, nous aurions pu vouloir et faire autrement, et nous le savons sans preuve, par l'expérience intime que nous en avons.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pIoZtbVyQXY",
+        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
+        "thumbnail": "https://i.ytimg.com/vi/pIoZtbVyQXY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-libre-arbitre-existe-t-il-vraiment-e244/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-libre-arbitre-existe-t-il-vraiment-e244.json"
+      }
+    },
+    {
+      "id": "ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff",
+      "title": "Où va vraiment l'argent que tu déposes à la banque ? Le système bancaire expliqué",
+      "format": "video",
+      "publishedAt": "2026-10-05T14:45:09.542Z",
+      "durationSeconds": 682,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand tu déposes ton argent à la banque, elle en garde une partie en réserve et prête le reste à d'autres clients ; et la monnaie vaut quelque chose parce qu'elle repose sur une richesse bien réelle.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "3pjP8BcdJJc",
+        "url": "https://www.youtube.com/watch?v=3pjP8BcdJJc",
+        "thumbnail": "https://i.ytimg.com/vi/3pjP8BcdJJc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff.json"
+      }
+    },
+    {
+      "id": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
+      "title": "Pourquoi les sceptiques s'attaquent-ils à la foi ? Zététique et The Satanic Temple",
+      "format": "video",
+      "publishedAt": "2026-10-05T00:00:11.813Z",
+      "durationSeconds": 672,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Croire ne fait de mal à personne : chacun ses croyances, et les remettre en question ne sert à rien.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "GgT4uql9Vv4",
+        "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
+        "thumbnail": "https://i.ytimg.com/vi/GgT4uql9Vv4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-combattre-la-pseudoscience-et-la-religion-e698/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-combattre-la-pseudoscience-et-la-religion-e698.json"
+      }
+    },
+    {
+      "id": "une-sagesse-ancestrale-pratiquee-depuis-des-287b",
+      "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T22:30:09.807Z",
+      "durationSeconds": 683,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "appel-a-l-anciennete",
+        "name": "L'appel à l'ancienneté"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "AFk9CaSz7PY",
+        "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY",
+        "thumbnail": "https://i.ytimg.com/vi/AFk9CaSz7PY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-sagesse-ancestrale-pratiquee-depuis-des-287b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-sagesse-ancestrale-pratiquee-depuis-des-287b.json"
+      }
+    },
+    {
+      "id": "l-univers-n-a-pas-ete-fait-pour-toi-fd61",
+      "title": "L'univers a-t-il été fait pour nous ? Le troublant mystère du réglage fin",
+      "format": "video",
+      "publishedAt": "2026-10-04T19:45:08.969Z",
+      "durationSeconds": 699,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'univers a été fait pour l'être humain : ses lois sont réglées pour nous, et les dieux, les astres et le cosmos s'intéressent à nos vies.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "5-lp18BDj2I",
+        "url": "https://www.youtube.com/watch?v=5-lp18BDj2I",
+        "thumbnail": "https://i.ytimg.com/vi/5-lp18BDj2I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-univers-n-a-pas-ete-fait-pour-toi-fd61.json"
+      }
+    },
+    {
+      "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+      "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
+      "format": "short",
+      "publishedAt": "2026-10-04T16:30:16.605Z",
+      "durationSeconds": 120,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n'y a personne.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": {
+        "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
+        "channel": "Coffeebird_official",
+        "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ve29Mi2odq4",
+        "url": "https://www.youtube.com/watch?v=ve29Mi2odq4",
+        "thumbnail": "https://i.ytimg.com/vi/ve29Mi2odq4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8.json"
+      }
+    },
+    {
+      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T16:30:11.972Z",
+      "durationSeconds": 651,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xe7folt44Ko",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
+        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+      }
+    },
+    {
+      "id": "miracle-ou-mensonge-adab",
+      "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T14:00:12.156Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "faux-dilemme",
+        "name": "Le faux dilemme"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "ZYr31MAYp6A",
+        "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
+        "thumbnail": "https://i.ytimg.com/vi/ZYr31MAYp6A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
+      }
+    },
+    {
+      "id": "transits-planetaires-et-retrogradations-191e",
+      "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+      "format": "short",
+      "publishedAt": "2026-10-04T11:30:03.912Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ghN7-UhF828",
+        "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
+        "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
+      }
+    },
+    {
+      "id": "quand-on-veut-on-peut-451d",
+      "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T06:15:11.250Z",
+      "durationSeconds": 723,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand on veut, on peut : avec assez de volonté et de travail, n'importe qui peut réussir, quelle que soit son origine.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "zEChYJZZYGM",
+        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM",
+        "thumbnail": "https://i.ytimg.com/vi/zEChYJZZYGM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quand-on-veut-on-peut-451d.json"
+      }
+    },
+    {
+      "id": "tout-arrive-pour-une-raison-3a38",
+      "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
+      "format": "video",
+      "publishedAt": "2026-10-04T04:30:11.892Z",
+      "durationSeconds": 696,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "EaKHThIwLtk",
+        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
+        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
+      }
+    },
+    {
+      "id": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
+      "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",
+      "format": "video",
+      "publishedAt": "2026-10-04T02:15:11.931Z",
+      "durationSeconds": 672,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "chaine-de-transmission",
+        "name": "La chaîne de témoins comme preuve"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yk1WcBv1jfM",
+        "url": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
+        "thumbnail": "https://i.ytimg.com/vi/yk1WcBv1jfM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f.json"
+      }
+    },
+    {
+      "id": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
+      "title": "Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)",
+      "format": "video",
+      "publishedAt": "2026-10-04T00:45:10.638Z",
+      "durationSeconds": 688,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Jésus n'a été ni tué ni crucifié : Dieu a donné son apparence à un autre homme, crucifié à sa place, et l'a élevé vivant auprès de Lui.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "a8OZPpeJk_A",
+        "url": "https://www.youtube.com/watch?v=a8OZPpeJk_A",
+        "thumbnail": "https://i.ytimg.com/vi/a8OZPpeJk_A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/jesus-a-t-il-vraiment-ete-crucifie-ef5c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/jesus-a-t-il-vraiment-ete-crucifie-ef5c.json"
+      }
+    },
+    {
+      "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+      "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-03T21:00:09.277Z",
+      "durationSeconds": 671,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Saint Suaire de Turin est le linceul qui a enveloppé le corps de Jésus, et son image, que la science ne sait ni expliquer ni reproduire, s'est formée de façon surnaturelle au moment de la résurrection.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "liUjpvYCsuU",
+        "url": "https://www.youtube.com/watch?v=liUjpvYCsuU",
+        "thumbnail": "https://i.ytimg.com/vi/liUjpvYCsuU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-saint-suaire-de-turin-a-t-il-vraiment-a86b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-saint-suaire-de-turin-a-t-il-vraiment-a86b.json"
+      }
+    },
+    {
+      "id": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
+      "title": "Les djinns peuvent-ils entrer dans le corps ? Possession et roqya selon le Coran et la Sunna",
+      "format": "video",
+      "publishedAt": "2026-10-03T20:15:09.061Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran et la Sunna enseignent que les djinns peuvent entrer dans le corps humain et le posséder, et la roqya permet de les en chasser.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "FNNHc_mRp8I",
+        "url": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
+        "thumbnail": "https://i.ytimg.com/vi/FNNHc_mRp8I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732.json"
+      }
+    },
+    {
+      "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
+      "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
+      "format": "video",
+      "publishedAt": "2026-10-03T19:00:08.625Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "selection-des-cas",
+        "name": "Le tri des cas favorables"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "-tKV9kTwxOY",
+        "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
+        "thumbnail": "https://i.ytimg.com/vi/-tKV9kTwxOY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-tant-de-prieres-semblent-exaucees-9cfc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-tant-de-prieres-semblent-exaucees-9cfc.json"
+      }
+    },
+    {
+      "id": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
+      "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle scientifique du Coran (78:6-7)",
+      "format": "video",
+      "publishedAt": "2026-10-03T17:30:09.246Z",
+      "durationSeconds": 616,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Quatorze siècles avant la géologie moderne, le Coran annonçait que les montagnes sont des piquets aux racines profondes qui stabilisent la Terre et l'empêchent de trembler.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "eFne8S6CLsU",
+        "url": "https://www.youtube.com/watch?v=eFne8S6CLsU",
+        "thumbnail": "https://i.ytimg.com/vi/eFne8S6CLsU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-montagnes-des-piquets-qui-empechent-la-terre-7c57/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-montagnes-des-piquets-qui-empechent-la-terre-7c57.json"
+      }
+    },
+    {
+      "id": "qui-a-vraiment-ecrit-les-evangiles-c8bc",
+      "title": "Qui a vraiment écrit les Évangiles ? Ce que l'on sait de Matthieu, Marc, Luc et Jean",
+      "format": "video",
+      "publishedAt": "2026-10-03T16:45:12.087Z",
+      "durationSeconds": 685,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Évangiles ont été écrits par les apôtres Matthieu et Jean, témoins oculaires de Jésus, et par Marc et Luc, disciples directs de Pierre et de Paul.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "qlG4FebMRmg",
+        "url": "https://www.youtube.com/watch?v=qlG4FebMRmg",
+        "thumbnail": "https://i.ytimg.com/vi/qlG4FebMRmg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-a-vraiment-ecrit-les-evangiles-c8bc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-a-vraiment-ecrit-les-evangiles-c8bc.json"
+      }
+    },
+    {
+      "id": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T16:00:05.738Z",
+      "durationSeconds": 650,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "caution-scientifique",
+        "name": "La caution scientifique détournée"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Bcmlc37zuUc",
+        "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
+        "thumbnail": "https://i.ytimg.com/vi/Bcmlc37zuUc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
+      }
+    },
+    {
+      "id": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
+      "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T09:15:07.706Z",
+      "durationSeconds": 679,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "relecture-a-posteriori",
+        "name": "La relecture après coup"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "gj_C6XBZ2W4",
+        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
+        "thumbnail": "https://i.ytimg.com/vi/gj_C6XBZ2W4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d.json"
+      }
+    },
+    {
+      "id": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
+      "title": "Le Coran a-t-il annoncé l'expansion de l'univers avant Hubble ? Sourate 51, verset 47",
+      "format": "video",
+      "publishedAt": "2026-10-02T08:30:11.866Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit l'expansion de l'univers dans le verset « Nous avons construit le ciel avec puissance et Nous l'étendons sans cesse » (sourate 51, verset 47), treize siècles avant Lemaître et Hubble.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "A292EREGGsc",
+        "url": "https://www.youtube.com/watch?v=A292EREGGsc",
+        "thumbnail": "https://i.ytimg.com/vi/A292EREGGsc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a.json"
+      }
+    },
+    {
+      "id": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
+      "title": "Le fer est-il descendu du ciel ? Le miracle scientifique de la sourate Al-Hadid (Coran 57:25)",
+      "format": "video",
+      "publishedAt": "2026-10-02T07:30:09.838Z",
+      "durationSeconds": 638,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit le fer comme « descendu » du ciel, ce qui prouve qu'il vient de l'espace, ce que la science a confirmé",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "obm6HRxW244",
+        "url": "https://www.youtube.com/watch?v=obm6HRxW244",
+        "thumbnail": "https://i.ytimg.com/vi/obm6HRxW244/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fer-est-il-vraiment-descendu-du-ciel-af91/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fer-est-il-vraiment-descendu-du-ciel-af91.json"
+      }
+    },
+    {
+      "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+      "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T22:30:11.248Z",
+      "durationSeconds": 661,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "infalsifiabilite",
+        "name": "L'affirmation à l'épreuve de tout"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "wIGW-ulElfk",
+        "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+        "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
+      }
+    },
+    {
+      "id": "le-coran-decrit-il-vraiment-le-developpement-de-l-3f84",
+      "title": "Miracle scientifique du Coran : l'embryon décrit il y a 1400 ans ? Nutfa, alaqa, mudgha",
+      "format": "video",
+      "publishedAt": "2026-10-01T20:30:08.217Z",
+      "durationSeconds": 677,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "MPFIZJ2a_O8",
+        "url": "https://www.youtube.com/watch?v=MPFIZJ2a_O8",
+        "thumbnail": "https://i.ytimg.com/vi/MPFIZJ2a_O8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84.json"
+      }
+    },
+    {
+      "id": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
+      "title": "L'enfer existe-t-il dans la Bible ? Ce que disent vraiment le Shéol et la Géhenne",
+      "format": "video",
+      "publishedAt": "2026-10-01T19:45:09.227Z",
+      "durationSeconds": 680,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "La Bible enseigne clairement que les damnés subiront après la mort un supplice éternel dans le feu de l'enfer.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Zh3i--DO7tc",
+        "url": "https://www.youtube.com/watch?v=Zh3i--DO7tc",
+        "thumbnail": "https://i.ytimg.com/vi/Zh3i--DO7tc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-enfer-n-est-presque-pas-dans-la-bible-b8ff/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-enfer-n-est-presque-pas-dans-la-bible-b8ff.json"
+      }
+    },
+    {
+      "id": "l-argument-d-autorite-ab9c",
+      "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T19:00:12.466Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pTsHM7DTF7U",
+        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U",
+        "thumbnail": "https://i.ytimg.com/vi/pTsHM7DTF7U/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-ab9c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-ab9c.json"
+      }
+    },
+    {
+      "id": "comment-l-homeopathie-est-censee-agir-6e3b",
+      "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
+      "format": "video",
+      "publishedAt": "2026-10-01T18:15:07.563Z",
+      "durationSeconds": 712,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lBDAu7W8rgs",
+        "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
+        "thumbnail": "https://i.ytimg.com/vi/lBDAu7W8rgs/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-l-homeopathie-est-censee-agir-6e3b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-l-homeopathie-est-censee-agir-6e3b.json"
+      }
+    },
+    {
+      "id": "la-hijama-guerit-elle-vraiment-d33e",
+      "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+      "format": "video",
+      "publishedAt": "2026-10-01T17:30:10.000Z",
+      "durationSeconds": 628,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "aIAywoU0Png",
+        "url": "https://www.youtube.com/watch?v=aIAywoU0Png",
+        "thumbnail": "https://i.ytimg.com/vi/aIAywoU0Png/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-hijama-guerit-elle-vraiment-d33e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-hijama-guerit-elle-vraiment-d33e.json"
+      }
+    },
+    {
+      "id": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
+      "title": "Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l'homme aux deux cornes d'Al-Kahf",
+      "format": "video",
+      "publishedAt": "2026-10-01T12:30:09.440Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Dhul-Qarnayn, l'homme aux deux cornes de la sourate Al-Kahf, est un personnage historique identifiable (Alexandre le Grand ou Cyrus le Grand) dont le Coran rapporte les voyages, la rencontre avec Gog et Magog et la construction d'une muraille de fer et de cuivre, qui existerait encore quelque part.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "w2FtBMp_kSg",
+        "url": "https://www.youtube.com/watch?v=w2FtBMp_kSg",
+        "thumbnail": "https://i.ytimg.com/vi/w2FtBMp_kSg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0.json"
+      }
+    },
+    {
+      "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T08:00:11.446Z",
+      "durationSeconds": 666,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "oeFiHgkt4wU",
+        "url": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
+        "thumbnail": "https://i.ytimg.com/vi/oeFiHgkt4wU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-les-pierres-et-les-cristaux-agissent-ils-dca9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-les-pierres-et-les-cristaux-agissent-ils-dca9.json"
+      }
+    },
+    {
+      "id": "le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47",
+      "title": "Le prophète Muhammad est-il annoncé dans la Bible ? Les 3 versets que tout le monde cite",
+      "format": "video",
+      "publishedAt": "2026-10-01T07:15:08.668Z",
+      "durationSeconds": 689,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le prophète Muhammad est annoncé dans la Bible : Deutéronome 18,18, l'Évangile de Jean (le « consolateur ») et le Cantique des cantiques 5,16 (« vekoullo mahamaddim », « il est tout entier Muhammad ») prédisent sa venue, et la Bible aurait été falsifiée là où elle le contredit.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "-POyAhjxO2E",
+        "url": "https://www.youtube.com/watch?v=-POyAhjxO2E",
+        "thumbnail": "https://i.ytimg.com/vi/-POyAhjxO2E/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47.json"
+      }
+    },
+    {
+      "id": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:45:08.004Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hGHuqnHvlmg",
+        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+        "thumbnail": "https://i.ytimg.com/vi/hGHuqnHvlmg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
+      }
+    },
+    {
+      "id": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
+      "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:00:10.451Z",
+      "durationSeconds": 634,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "I1oCBdRo6js",
+        "url": "https://www.youtube.com/watch?v=I1oCBdRo6js",
+        "thumbnail": "https://i.ytimg.com/vi/I1oCBdRo6js/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31.json"
+      }
+    },
+    {
+      "id": "comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28",
+      "title": "Comment le Coran a-t-il été préservé depuis le Prophète ? De la révélation au mushaf d'Uthman",
+      "format": "video",
+      "publishedAt": "2026-10-01T00:27:21.037Z",
+      "durationSeconds": 706,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran récité aujourd'hui est exactement celui que récitait le Prophète : il a été préservé sans la moindre altération, lettre pour lettre, depuis quatorze siècles, par la mémoire et l'écriture, sous la protection de Dieu (sourate 15, verset 9).",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "zoeVEThgAmc",
+        "url": "https://www.youtube.com/watch?v=zoeVEThgAmc",
+        "thumbnail": "https://i.ytimg.com/vi/zoeVEThgAmc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28.json"
+      }
+    },
+    {
+      "id": "le-pari-de-pascal-55c1",
+      "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
+      "format": "video",
+      "publishedAt": "2026-09-25T08:30:12.640Z",
+      "durationSeconds": 444,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "IMmyIhAADD4",
+        "url": "https://www.youtube.com/watch?v=IMmyIhAADD4",
+        "thumbnail": "https://i.ytimg.com/vi/IMmyIhAADD4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
+      }
+    },
+    {
+      "id": "la-donation-de-constantin-83d1",
+      "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",
+      "format": "video",
+      "publishedAt": "2026-09-25T08:00:12.889Z",
+      "durationSeconds": 426,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "La Donation de Constantin est un acte authentique : l'empereur Constantin, guéri de la lèpre et baptisé par le pape Sylvestre, aurait cédé à l'Église de Rome le palais du Latran, la ville de Rome et les provinces d'Occident, faisant du pape le maître de l'Occident.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "YnNocnkAkvM",
+        "url": "https://www.youtube.com/watch?v=YnNocnkAkvM",
+        "thumbnail": "https://i.ytimg.com/vi/YnNocnkAkvM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-donation-de-constantin-83d1/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-donation-de-constantin-83d1.json"
+      }
+    },
+    {
+      "id": "le-fardeau-de-la-preuve-19ef",
+      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+      "format": "video",
+      "publishedAt": "2026-09-25T07:02:41.865Z",
+      "durationSeconds": 467,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": {
+        "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1DqgdLPjCi4",
+        "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+        "thumbnail": "https://i.ytimg.com/vi/1DqgdLPjCi4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
+      }
+    },
+    {
+      "id": "sans-dieu-tout-est-permis-9230",
+      "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+      "format": "video",
+      "publishedAt": "2026-09-25T05:40:52.683Z",
+      "durationSeconds": 512,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xr-j1jeo9YU",
+        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
+        "thumbnail": "https://i.ytimg.com/vi/xr-j1jeo9YU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
+      }
+    },
+    {
+      "id": "omniscience-divine-contre-libre-arbitre-9957",
+      "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",
+      "format": "video",
+      "publishedAt": "2026-09-25T05:01:32.451Z",
+      "durationSeconds": 516,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'omniscience divine, c'est-à-dire la connaissance infaillible de tous les actes futurs, est compatible avec la liberté humaine et la responsabilité morale.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "SZCHk7cjrec",
+        "url": "https://www.youtube.com/watch?v=SZCHk7cjrec",
+        "thumbnail": "https://i.ytimg.com/vi/SZCHk7cjrec/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/omniscience-divine-contre-libre-arbitre-9957/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/omniscience-divine-contre-libre-arbitre-9957.json"
+      }
+    }
+  ],
+  "pageLinks": [
+    "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json"
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "version": 2,
+  "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+  "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
+  "format": "video",
+  "publishedAt": "2026-10-01T22:30:11.248Z",
+  "durationSeconds": 661,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "infalsifiabilite",
+    "name": "L'affirmation à l'épreuve de tout"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "wIGW-ulElfk",
+    "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+    "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
+  },
+  "facts": [
+    {
+      "text": "La formule « Dieu répond oui, non ou attends » est couramment employée dans la prédication et l'enseignement chrétiens pour expliquer les prières non exaucées.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Mystery of Unanswered Prayer",
+          "publisher": "Keep Believing Ministries (Ray Pritchard)",
+          "url": "https://www.keepbelieving.com/sermon/the-mystery-of-unanswered-prayer-2/"
+        }
+      ]
+    },
+    {
+      "text": "La doctrine homéopathique parle d'« aggravation homéopathique » pour désigner une aggravation initiale des symptômes, interprétée comme le signe que le remède agit, et exige un remède individualisé selon le terrain du patient.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Aggravation homéopathique",
+          "publisher": "APMH",
+          "url": "https://apmh.asso.fr/articles/view/309"
+        },
+        {
+          "title": "Homéopathie",
+          "publisher": "Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Hom%C3%A9opathie"
+        }
+      ]
+    },
+    {
+      "text": "En lithothérapie, il est couramment recommandé de purifier puis de recharger les pierres, notamment à la lumière de la lune ou sur un amas de quartz.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Comment Purifier et Recharger vos Pierres Naturelles : Guide Complet en Lithothérapie",
+          "publisher": "Ajoyä",
+          "url": "https://ajoya.fr/pierres/purifier-recharger-pierres-naturelles/"
+        }
+      ]
+    },
+    {
+      "text": "Karl Popper expose le critère de réfutabilité (une théorie scientifique doit interdire certaines observations) dans Logik der Forschung, publié en 1934 (daté 1935).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Karl Popper",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/popper/"
+        },
+        {
+          "title": "The Logic of Scientific Discovery",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery"
+        }
+      ]
+    },
+    {
+      "text": "Dans Conjectures and Refutations (1963), Popper écrit que l'irréfutabilité n'est pas une vertu d'une théorie, mais un vice.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Popper: Refutation and Confirmation (extrait de Conjectures and Refutations)",
+          "publisher": "Central Connecticut State University",
+          "url": "https://bertie.ccsu.edu/naturesci/PhilSci/PopperArticle.html"
+        },
+        {
+          "title": "Popper - Conjectures and Refutations: The Growth of Scientific Knowledge",
+          "publisher": "Buboquote",
+          "url": "https://www.buboquote.com/en/quote/3323-popper-a-theory-which-is-not-refutable-by-any-conceivable-event-is-non-scientific-irrefutability"
+        }
+      ]
+    },
+    {
+      "text": "Carl Sagan présente la parabole du dragon invisible dans le garage (invisible, flottant, au feu sans chaleur, indétectable) dans The Demon-Haunted World (1995).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Demon-Haunted World",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Demon-Haunted_World"
+        },
+        {
+          "title": "The Dragon In My Garage by Carl Sagan",
+          "publisher": "Whitman College",
+          "url": "http://people.whitman.edu/~herbrawt/classes/110/Sagan.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Leon Festinger, Henry Riecken et Stanley Schachter ont observé en 1954 un groupe américain qui prédisait un déluge pour le 21 décembre ; certains membres avaient quitté leur emploi ou donné leurs biens ; après l'échec, la meneuse annonça que la foi du groupe avait sauvé le monde, et le groupe se mit à chercher la publicité ; récit publié dans When Prophecy Fails (1956).",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Les faits rapportés (déluge du 21 décembre 1954, sacrifices des membres, message selon lequel la lumière du groupe avait sauvé le monde, revirement vers la publicité) figurent bien dans le livre. Mais une étude d'archives de Thomas Kelly (Journal of the History of the Behavioral Sciences, 2025) montre que le groupe faisait déjà du prosélytisme avant l'échec, que Dorothy Martin s'est rétractée dès 1955 et que les chercheurs sont intervenus dans les événements : il faut donc présenter ces faits comme le récit du livre. Correction proposée : Leon Festing",
+      "sources": [
+        {
+          "title": "When Prophecy Fails",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/When_Prophecy_Fails"
+        },
+        {
+          "title": "It's one of the most influential social psychology studies ever. Was it all a lie?",
+          "publisher": "Mother Jones",
+          "url": "https://www.motherjones.com/politics/2025/11/when-prophecy-fails-cognitive-dissonance-ethics/"
+        },
+        {
+          "title": "Debunking \"When Prophecy Fails\"",
+          "publisher": "Journal of the History of the Behavioral Sciences (Wiley)",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043"
+        }
+      ]
+    },
+    {
+      "text": "Leon Festinger publie A Theory of Cognitive Dissonance en 1957.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Theory of Cognitive Dissonance",
+          "publisher": "Stanford University Press",
+          "url": "https://www.sup.org/books/sociology/theory-cognitive-dissonance"
+        }
+      ]
+    },
+    {
+      "text": "Ziva Kunda publie en 1990 « The case for motivated reasoning » dans Psychological Bulletin, décrivant le raisonnement motivé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The case for motivated reasoning",
+          "publisher": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/paper/The-case-for-motivated-reasoning.-Kunda/329a0178e56350cf27b41e4cde9c8e278854ec32"
+        }
+      ]
+    },
+    {
+      "text": "L'étude STEP (Benson et al., American Heart Journal, 2006) a suivi environ 1 800 patients opérés d'un pontage coronarien dans six hôpitaux américains ; la prière d'intercession de communautés chrétiennes n'a pas réduit les complications, et les patients certains d'être l'objet de prières en ont eu davantage (59 % contre 52 %).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients",
+          "publisher": "Mayo Clinic / American Heart Journal",
+          "url": "https://mayoclinic.elsevierpure.com/en/publications/study-of-the-therapeutic-effects-of-intercessory-prayer-step-in-c/"
+        },
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer - STEP",
+          "publisher": "American College of Cardiology",
+          "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2010/02/23/19/21/step"
+        }
+      ]
+    },
+    {
+      "text": "Le Deutéronome (6:16) dit : « Vous ne tenterez point l'Éternel, votre Dieu ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Deutéronome 6:16 (LSG)",
+          "publisher": "YouVersion / Bible.com",
+          "url": "https://www.bible.com/fr/bible/93/DEU.6.16.LSG"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le National Health and Medical Research Council australien conclut, sur la base de 176 études, qu'il n'existe aucune pathologie pour laquelle on dispose de preuves fiables de l'efficacité de l'homéopathie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Evidence on the effectiveness of homeopathy for treating health conditions (NHMRC Information Paper, 2015)",
+          "publisher": "National Health and Medical Research Council (copie CFI)",
+          "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/33/2021/04/22174009/nhmrc_2015.pdf"
+        },
+        {
+          "title": "Health experts find no evidence homeopathy works, again",
+          "publisher": "The Conversation",
+          "url": "https://theconversation.com/health-experts-find-no-evidence-homeopathy-works-again-38651"
+        },
+        {
+          "title": "The Australian Report on Homeopathy",
+          "publisher": "Homeopathy Research Institute",
+          "url": "https://www.hri-research.org/resources/homeopathy-the-debate/the-australian-report-on-homeopathy/"
+        }
+      ]
+    },
+    {
+      "text": "En 2019, la Haute Autorité de santé rend un avis défavorable au maintien du remboursement de l'homéopathie ; le remboursement prend fin le 1er janvier 2021.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Médicaments homéopathiques : une efficacité insuffisante pour être proposés au remboursement",
+          "publisher": "Haute Autorité de santé",
+          "url": "https://www.has-sante.fr/jcms/p_3066934/fr/medicaments-homeopathiques-une-efficacite-insuffisante-pour-etre-proposes-au-remboursement"
+        },
+        {
+          "title": "Déremboursement des spécialités homéopathiques en 2021",
+          "publisher": "VIDAL",
+          "url": "https://www.vidal.fr/actualites/23549-deremboursement-des-specialites-homeopathiques-en-2021.html"
+        }
+      ]
+    },
+    {
+      "text": "Shawn Carlson publie en 1985 dans Nature (« A double-blind test of astrology ») un test en double aveugle dont le protocole avait été approuvé par des astrologues ; ceux-ci n'ont pas associé les thèmes natals aux profils de personnalité, choisis parmi trois, mieux que le hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/318419a0"
+        },
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        }
+      ]
+    },
+    {
+      "text": "Christopher French (Goldsmiths, Université de Londres) a présenté en 2001 une expérience montrant que des volontaires méditant avec de vrais cristaux de quartz ou avec des imitations rapportaient les mêmes sensations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Chris French",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chris_French"
+        },
+        {
+          "title": "Crystal therapy: the power of placebo?",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2018/09/18/crystal-therapy-the-power-of-placebo"
+        }
+      ]
+    },
+    {
+      "text": "Il est couramment affirmé que le Coran annonce l'origine cosmique du fer en s'appuyant sur la sourate 57, verset 25 (« Nous avons fait descendre le fer »).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Supernova Explosion and a Miracle of The Qur'an",
+          "publisher": "The Fountain Magazine",
+          "url": "https://fountainmagazine.com/all-issues/2006/issue-54-april-june-2006/supernova-explosion-and-a-miracle-of-the-quran/"
+        }
+      ]
+    },
+    {
+      "text": "Le même verbe (anzala) employé en sourate 57:25 pour le fer l'est aussi pour les bestiaux (sourate 39:6) et pour le vêtement (sourate 7:26).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quranic Arabic Corpus – 57:25",
+          "publisher": "University of Leeds",
+          "url": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=25"
+        },
+        {
+          "title": "Quranic Arabic Corpus – 39:6",
+          "publisher": "University of Leeds",
+          "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=6"
+        },
+        {
+          "title": "Quranic Arabic Corpus – 7:26",
+          "publisher": "University of Leeds",
+          "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=26"
+        }
+      ]
+    },
+    {
+      "text": "Le fer, comme l'oxygène et le calcium, est produit par la nucléosynthèse stellaire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "DOE Explains...Nucleosynthesis",
+          "publisher": "U.S. Department of Energy",
+          "url": "https://www.energy.gov/science/doe-explainsnucleosynthesis"
+        }
+      ]
+    },
+    {
+      "text": "La nucléosynthèse stellaire a été décrite en détail en 1957 par Burbidge, Burbidge, Fowler et Hoyle (Reviews of Modern Physics), et aucune exégèse antérieure ne l'a tirée de la sourate 57, verset 25.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "B2FH paper",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/B2FH_paper"
+        },
+        {
+          "title": "Tafsirs for Qur'an 57.25 Al-Hadid",
+          "publisher": "QuranX",
+          "url": "https://quranx.com/Tafsirs/57.25"
+        }
+      ]
+    },
+    {
+      "text": "Urbain Le Verrier a calculé la position d'une planète inconnue à partir des anomalies de l'orbite d'Uranus ; Johann Galle a observé Neptune le 23 septembre 1846, à environ un degré de la position prédite.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "September 23, 1846: Neptune's Existence Observationally Confirmed",
+          "publisher": "American Physical Society",
+          "url": "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed"
+        }
+      ]
+    },
+    {
+      "text": "Le Verrier a proposé une planète hypothétique, Vulcain, pour expliquer les anomalies de l'orbite de Mercure ; elle n'a jamais été trouvée, et l'avance du périhélie de Mercure a été expliquée par la relativité générale d'Einstein en 1915.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Vulcan (hypothetical planet)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)"
+        }
+      ]
+    },
+    {
+      "text": "En 2009, l'association britannique Sense About Science a interrogé les fabricants de quinze produits détox ; aucun n'a su définir clairement la détox ni nommer précisément les toxines éliminées.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Debunking detox",
+          "publisher": "Sense About Science",
+          "url": "https://senseaboutscience.org/activities/debunking-detox/"
+        },
+        {
+          "title": "You can't detox your body. It's a myth. So how do you get healthy? (reprise de l'article de Dara Mohammadi, The Guardian)",
+          "publisher": "Goodreads (reprise du Guardian)",
+          "url": "https://www.goodreads.com/author_blog_posts/7478615-you-can-t-detox-your-body-it-s-a-myth-so-how-do-you-get-healthy"
+        }
+      ]
+    },
+    {
+      "text": "Le foie et les reins assurent en permanence l'élimination des déchets et des substances toxiques de l'organisme.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Your Kidneys & How They Work",
+          "publisher": "NIDDK (NIH)",
+          "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work"
+        },
+        {
+          "title": "Liver: Where It's Located, Function & Anatomy",
+          "publisher": "Cleveland Clinic",
+          "url": "https://my.clevelandclinic.org/health/body/21481-liver"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "médecine clinique et biostatistique (interprétation d'essais cliniques et de revues de preuves), avec quelques passages d'astrophysique (nucléosynthèse stellaire, relativité générale)",
+    "threshold": 6.6,
+    "passages": 8,
+    "approximations": [
+      {
+        "excerpt": "En 2006, l'étude STEP, dirigée par le cardiologue Herbert Benson et publiée dans l'American Heart Journal, suit environ mille huit cents patients opérés d'un pontage coronarien dans six hôpitaux américains.",
+        "note": "Le nombre de participants est arrondi (un peu plus de 1 800). C'est un effectif, pas une dose, un risque ou un effet sur la santé, et l'argument ne dépend pas de sa valeur exacte."
+      },
+      {
+        "excerpt": "Le 23 septembre 1846, Johann Galle la découvre à environ un degré de la position annoncée.",
+        "note": "L'écart réel est d'un peu moins d'un degré. Cet arrondi sert seulement à montrer que la prédiction était précise : sa valeur exacte ne change rien au raisonnement."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [
+    {
+      "title": "Le dragon invisible de Carl Sagan, ou comment une excuse tue une preuve",
+      "url": "https://www.youtube.com/watch?v=4Num35Ble54",
+      "publishedAt": "2026-10-01T23:42:19.502Z"
+    },
+    {
+      "title": "Homéopathie : mieux, pire ou rien, le remède agit toujours ?",
+      "url": "https://www.youtube.com/watch?v=ttz3uPG_OXk",
+      "publishedAt": "2026-10-02T07:08:11.519Z"
+    }
+  ],
+  "corrections": []
+}

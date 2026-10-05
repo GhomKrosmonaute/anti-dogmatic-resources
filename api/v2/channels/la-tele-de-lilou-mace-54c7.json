@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "id": "la-tele-de-lilou-mace-54c7",
+  "name": "La Télé de Lilou Macé",
+  "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
+  "subscribers": 327000,
+  "answers": [
+    {
+      "examined": {
+        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
+      },
+      "video": {
+        "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+        "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+        "format": "short",
+        "publishedAt": "2026-10-05T18:15:04.019Z",
+        "durationSeconds": 134,
+        "rubric": {
+          "id": "pseudo-sciences",
+          "name": "Pseudo-sciences et charlatans"
+        },
+        "claim": {
+          "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
+          "verdict": "non_demontre",
+          "verdictLabel": "Non démontré"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "relecture-a-posteriori",
+            "name": "La relecture après coup"
+          },
+          {
+            "id": "infalsifiabilite",
+            "name": "L'affirmation à l'épreuve de tout"
+          },
+          {
+            "id": "selection-des-cas",
+            "name": "Le tri des cas favorables"
+          }
+        ],
+        "answers": {
+          "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+          "channel": "La Télé de Lilou Macé",
+          "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
+        },
+        "series": null,
+        "youtube": {
+          "id": "jUXA-3UNzBE",
+          "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
+          "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
+        }
+      }
+    },
+    {
+      "examined": {
+        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
+      },
+      "video": {
+        "id": "transits-planetaires-et-retrogradations-191e",
+        "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+        "format": "short",
+        "publishedAt": "2026-10-04T11:30:03.912Z",
+        "durationSeconds": 132,
+        "rubric": {
+          "id": "pseudo-sciences",
+          "name": "Pseudo-sciences et charlatans"
+        },
+        "claim": {
+          "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
+          "verdict": "faux",
+          "verdictLabel": "Faux"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "relecture-a-posteriori",
+            "name": "La relecture après coup"
+          },
+          {
+            "id": "selection-des-cas",
+            "name": "Le tri des cas favorables"
+          }
+        ],
+        "answers": {
+          "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+          "channel": "La Télé de Lilou Macé",
+          "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
+        },
+        "series": null,
+        "youtube": {
+          "id": "ghN7-UhF828",
+          "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
+          "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
+        }
+      }
+    }
+  ],
+  "links": {
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/la-tele-de-lilou-mace-54c7.json"
+  }
+}

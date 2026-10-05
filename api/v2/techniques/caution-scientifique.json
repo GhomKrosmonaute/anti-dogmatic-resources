@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "caution-scientifique",
+  "name": "La caution scientifique détournée",
+  "definition": "On invoque la NASA, un prix Nobel ou « des scientifiques » pour une affirmation qu'ils n'ont pas faite.",
+  "signs": [
+    "aucune publication n'est citée",
+    "la citation est vague ou sortie de son contexte",
+    "l'institution, quand on lui pose la question, dit autre chose"
+  ],
+  "question": "La NASA et les scientifiques ont-ils vraiment confirmé ce que disent les livres sacrés ?",
+  "taughtBy": [
+    {
+      "id": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T16:00:05.738Z",
+      "durationSeconds": 650,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "caution-scientifique",
+        "name": "La caution scientifique détournée"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Bcmlc37zuUc",
+        "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
+        "thumbnail": "https://i.ytimg.com/vi/Bcmlc37zuUc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
+      }
+    }
+  ],
+  "examples": [
+    {
+      "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+      "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
+      "format": "short",
+      "publishedAt": "2026-10-04T16:30:16.605Z",
+      "durationSeconds": 120,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n'y a personne.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": {
+        "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
+        "channel": "Coffeebird_official",
+        "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ve29Mi2odq4",
+        "url": "https://www.youtube.com/watch?v=ve29Mi2odq4",
+        "thumbnail": "https://i.ytimg.com/vi/ve29Mi2odq4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8.json"
+      }
+    },
+    {
+      "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+      "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-03T21:00:09.277Z",
+      "durationSeconds": 671,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Saint Suaire de Turin est le linceul qui a enveloppé le corps de Jésus, et son image, que la science ne sait ni expliquer ni reproduire, s'est formée de façon surnaturelle au moment de la résurrection.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "liUjpvYCsuU",
+        "url": "https://www.youtube.com/watch?v=liUjpvYCsuU",
+        "thumbnail": "https://i.ytimg.com/vi/liUjpvYCsuU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-saint-suaire-de-turin-a-t-il-vraiment-a86b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-saint-suaire-de-turin-a-t-il-vraiment-a86b.json"
+      }
+    },
+    {
+      "id": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
+      "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle scientifique du Coran (78:6-7)",
+      "format": "video",
+      "publishedAt": "2026-10-03T17:30:09.246Z",
+      "durationSeconds": 616,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Quatorze siècles avant la géologie moderne, le Coran annonçait que les montagnes sont des piquets aux racines profondes qui stabilisent la Terre et l'empêchent de trembler.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "eFne8S6CLsU",
+        "url": "https://www.youtube.com/watch?v=eFne8S6CLsU",
+        "thumbnail": "https://i.ytimg.com/vi/eFne8S6CLsU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-montagnes-des-piquets-qui-empechent-la-terre-7c57/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-montagnes-des-piquets-qui-empechent-la-terre-7c57.json"
+      }
+    },
+    {
+      "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T08:00:11.446Z",
+      "durationSeconds": 666,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "oeFiHgkt4wU",
+        "url": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
+        "thumbnail": "https://i.ytimg.com/vi/oeFiHgkt4wU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-les-pierres-et-les-cristaux-agissent-ils-dca9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-les-pierres-et-les-cristaux-agissent-ils-dca9.json"
+      }
+    },
+    {
+      "id": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:45:08.004Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hGHuqnHvlmg",
+        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+        "thumbnail": "https://i.ytimg.com/vi/hGHuqnHvlmg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
+      }
+    },
+    {
+      "id": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
+      "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:00:10.451Z",
+      "durationSeconds": 634,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "I1oCBdRo6js",
+        "url": "https://www.youtube.com/watch?v=I1oCBdRo6js",
+        "thumbnail": "https://i.ytimg.com/vi/I1oCBdRo6js/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31.json"
+      }
+    }
+  ]
+}

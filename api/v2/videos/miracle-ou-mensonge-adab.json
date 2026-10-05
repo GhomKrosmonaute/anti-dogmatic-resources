@@ -1,0 +1,445 @@
+{
+  "version": 2,
+  "id": "miracle-ou-mensonge-adab",
+  "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
+  "format": "video",
+  "publishedAt": "2026-10-04T14:00:12.156Z",
+  "durationSeconds": 656,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "faux-dilemme",
+    "name": "Le faux dilemme"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "ZYr31MAYp6A",
+    "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
+    "thumbnail": "https://i.ytimg.com/vi/ZYr31MAYp6A/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
+  },
+  "facts": [
+    {
+      "text": "Jésus de Nazareth a été crucifié sur ordre de l'autorité romaine à Jérusalem, vers l'an 30.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Crucifixion of Jesus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus"
+        }
+      ]
+    },
+    {
+      "text": "Selon l'Évangile de Jean (20, 19), après la crucifixion, les disciples se tiennent enfermés, portes closes, par crainte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jean 20:19 ; Actes 2, 4, 5, 12 ; Jean 8:58 ; 10:30 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Jean+20%3A19%3BActes+4%3A3%3BActes+5%3A18%3BActes+5%3A40%3BActes+12%3A1-2%3BActes+2%3A1-4%3BJean+8%3A58%3BJean+10%3A30&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Selon les Actes des Apôtres (chapitres 2 à 5), les apôtres proclament publiquement la résurrection à la Pentecôte, quelques semaines après la crucifixion, puis sont arrêtés (Actes 4, 3 ; 5, 18) et fouettés (Actes 5, 40).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jean 20:19 ; Actes 2, 4, 5, 12 ; Jean 8:58 ; 10:30 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Jean+20%3A19%3BActes+4%3A3%3BActes+5%3A18%3BActes+5%3A40%3BActes+12%3A1-2%3BActes+2%3A1-4%3BJean+8%3A58%3BJean+10%3A30&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Selon la tradition chrétienne, la plupart des apôtres sont morts martyrs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Did the Apostles Really Die as Martyrs for Their Faith?",
+          "publisher": "Christian Research Institute",
+          "url": "https://www.equip.org/articles/apostles-really-die-martyrs-faith/"
+        },
+        {
+          "title": "The Fate of the Apostles (aperçu : introduction)",
+          "publisher": "Routledge / Ashgate",
+          "url": "https://api.pageplace.de/preview/DT0400.9781317031901_A26649418/preview-9781317031901_A26649418.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La Première lettre aux Corinthiens est généralement datée du milieu des années 50, soit une vingtaine d'années après la crucifixion ; Paul y énumère les apparitions du ressuscité (1 Corinthiens 15, 5-8).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "When Were the Letters to the Corinthians Written?",
+          "publisher": "Bart Ehrman",
+          "url": "https://www.bartehrman.com/when-were-the-letters-to-the-corinthians-written/"
+        },
+        {
+          "title": "1 Corinthiens 15:3-8 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthiens+15%3A3-8&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "1 Corinthiens 15, 6, traduction Louis Segond 1910 : « Ensuite, il est apparu à plus de cinq cents frères à la fois, dont la plupart sont encore vivants, et dont quelques-uns sont morts. » Le texte ne nomme aucun de ces cinq cents témoins.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "1 Corinthiens 15:3-8 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthiens+15%3A3-8&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "C. S. Lewis, auteur des Chroniques de Narnia (publiées en français sous le titre Le Monde de Narnia), athée dans sa jeunesse puis converti au christianisme, a donné pendant la Seconde Guerre mondiale des causeries radiophoniques à la BBC, réunies en 1952 dans Mere Christianity.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mere Christianity",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mere_Christianity"
+        },
+        {
+          "title": "75 Years Ago: C.S. Lewis Speaks to Britain about Christianity on the BBC—A Chronology",
+          "publisher": "The Gospel Coalition",
+          "url": "https://www.thegospelcoalition.org/blogs/evangelical-history/75-years-ago-c-s-lewis-on-the-bbc-a-chronology/"
+        }
+      ]
+    },
+    {
+      "text": "Mere Christianity, livre II, chapitre 3 : « A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. » Traduction de la chaîne.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Dans le livre (II, 3, « The Shocking Alternative »), on lit « on a level with », et non « on the level with », variante qui circule sur Internet ; le reste de la citation est exact. Correction proposée : Mere Christianity, livre II, chapitre 3 : « A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on a level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. » Traduction de la chaîne.",
+      "sources": [
+        {
+          "title": "Mere Christianity, Book 2, Chapters 3 & 4",
+          "publisher": "C. S. Lewis (texte reproduit)",
+          "url": "https://f1lt3r.github.io/mere-christianity/book-2/MereChristianity-Book2-Chapters3-4.pdf"
+        },
+        {
+          "title": "Lewis's trilemma",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
+        }
+      ]
+    },
+    {
+      "text": "David Hume, essai « Of Miracles », publié en 1748 dans les Philosophical Essays Concerning Human Understanding (rebaptisés An Enquiry Concerning Human Understanding en 1758, en français Enquête sur l'entendement humain), section X : « When anyone tells me, that he saw a dead man restored to life, I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened. » Traduction de la chaîne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hume Texts Online: Enquiry, Section X, Of Miracles",
+          "publisher": "davidhume.org (Peter Millican, Amyas Merivale)",
+          "url": "https://davidhume.org/texts/e/10"
+        },
+        {
+          "title": "David Hume",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/hume/"
+        }
+      ]
+    },
+    {
+      "text": "Au cours de l'histoire, des croyants de religions différentes et incompatibles entre elles sont morts pour leur foi.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Fate of the Apostles (aperçu : introduction)",
+          "publisher": "Routledge / Ashgate",
+          "url": "https://api.pageplace.de/preview/DT0400.9781317031901_A26649418/preview-9781317031901_A26649418.pdf"
+        },
+        {
+          "title": "Martyrdom in Sikhism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martyrdom_in_Sikhism"
+        }
+      ]
+    },
+    {
+      "text": "Le Nouveau Testament ne raconte explicitement l'exécution que d'un seul des Douze, Jacques fils de Zébédée (Actes 12, 2) ; les récits de martyre des autres apôtres proviennent de traditions postérieures.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jean 20:19 ; Actes 2, 4, 5, 12 ; Jean 8:58 ; 10:30 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Jean+20%3A19%3BActes+4%3A3%3BActes+5%3A18%3BActes+5%3A40%3BActes+12%3A1-2%3BActes+2%3A1-4%3BJean+8%3A58%3BJean+10%3A30&version=LSG"
+        },
+        {
+          "title": "The Fate of the Apostles (aperçu : introduction)",
+          "publisher": "Routledge / Ashgate",
+          "url": "https://api.pageplace.de/preview/DT0400.9781317031901_A26649418/preview-9781317031901_A26649418.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Sean McDowell, apologiste chrétien, conclut dans The Fate of the Apostles (Ashgate, 2015), issu de sa thèse de doctorat, que la solidité des preuves historiques du martyre varie fortement d'un apôtre à l'autre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Fate of the Apostles (aperçu : introduction)",
+          "publisher": "Routledge / Ashgate",
+          "url": "https://api.pageplace.de/preview/DT0400.9781317031901_A26649418/preview-9781317031901_A26649418.pdf"
+        },
+        {
+          "title": "A Historical Evaluation of the Evidence for the Death of the Apostles as Martyrs for Their Faith",
+          "publisher": "Southern Baptist Theological Seminary",
+          "url": "https://repository.sbts.edu/handle/10392/4857"
+        }
+      ]
+    },
+    {
+      "text": "La majorité des historiens datent l'Évangile de Marc des environs de l'an 70 et l'Évangile de Jean de la fin du Ier siècle ; c'est dans Jean que Jésus affirme le plus explicitement sa divinité (par exemple Jean 8, 58 et 10, 30).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gospel of Mark",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gospel_of_Mark"
+        },
+        {
+          "title": "Gospel of John",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gospel_of_John"
+        },
+        {
+          "title": "The 7 \"I Am\" Statements of Jesus in John",
+          "publisher": "Bart Ehrman",
+          "url": "https://www.bartehrman.com/7-i-am-statements-of-jesus/"
+        }
+      ]
+    },
+    {
+      "text": "Loftus et Palmer (1974), Journal of Verbal Learning and Verbal Behavior : une semaine après avoir vu le film d'un accident, 32 % des étudiants interrogés avec le verbe « smashed » déclarent avoir vu du verre brisé, contre 14 % de ceux interrogés avec « hit » ; le film n'en montrait pas.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Loftus and Palmer 1974",
+          "publisher": "Simply Psychology",
+          "url": "https://www.simplypsychology.org/loftus-palmer.html"
+        },
+        {
+          "title": "Reconstruction of automobile destruction: An example of the interaction between language and memory",
+          "publisher": "Journal of Verbal Learning and Verbal Behavior (via Semantic Scholar)",
+          "url": "https://www.semanticscholar.org/paper/Reconstruction-of-automobile-destruction:-An-of-the-Loftus-Palmer/6cba61868b7cc3689aca04c9541cb884ac02f7ee"
+        }
+      ]
+    },
+    {
+      "text": "La mémoire humaine est reconstructive : chaque rappel reconstruit le souvenir et peut l'altérer.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reconsolidation and the Dynamic Nature of Memory",
+          "publisher": "Cold Spring Harbor Perspectives in Biology (Karim Nader, 2015)",
+          "url": "https://cshperspectives.cshlp.org/content/7/10/a021782"
+        }
+      ]
+    },
+    {
+      "text": "Le 21 septembre 1995, des statues de Ganesh ont semblé « boire » du lait, d'abord à New Delhi ; le phénomène a été signalé en quelques heures dans toute l'Inde et dans des temples de la diaspora, notamment au Royaume-Uni.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Miracle of Capillary Action",
+          "publisher": "Scientific American",
+          "url": "https://www.scientificamerican.com/blog/observations/the-miracle-of-capillary-action/"
+        },
+        {
+          "title": "\"It's a Miracle!\" Rejoice Millions As Lord Ganesha Receives Milk",
+          "publisher": "Hinduism Today",
+          "url": "https://www.hinduismtoday.com/magazine/november-1995/1995-11-it-s-a-miracle-rejoice-millions-as-lord-ganesha-receives-milk/"
+        }
+      ]
+    },
+    {
+      "text": "Des scientifiques du ministère indien de la Science et de la Technologie ont ajouté du colorant au lait offert et montré qu'il était aspiré par capillarité hors de la cuillère puis s'écoulait le long de la statue.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Miracle of Capillary Action",
+          "publisher": "Scientific American",
+          "url": "https://www.scientificamerican.com/blog/observations/the-miracle-of-capillary-action/"
+        },
+        {
+          "title": "Ganesha drinking milk miracle",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle"
+        }
+      ]
+    },
+    {
+      "text": "En 1829, dans l'État de New York, Oliver Cowdery, David Whitmer et Martin Harris ont signé le « Témoignage des trois témoins », publié avec le Livre de Mormon en 1830, qui décrit un ange descendu du ciel leur montrant les plaques que Joseph Smith disait avoir traduites.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Appendix 4: Testimony of Three Witnesses, Late June 1829",
+          "publisher": "The Joseph Smith Papers",
+          "url": "https://www.josephsmithpapers.org/paper-summary/appendix-4-testimony-of-three-witnesses-late-june-1829/1"
+        },
+        {
+          "title": "Three Witnesses",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Three_Witnesses"
+        }
+      ]
+    },
+    {
+      "text": "Les trois témoins ont rompu avec Joseph Smith ou ont été exclus de son Église à la fin des années 1830, sans jamais renier publiquement leur témoignage.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Witnesses of the Book of Mormon",
+          "publisher": "The Church of Jesus Christ of Latter-day Saints",
+          "url": "https://www.churchofjesuschrist.org/study/history/topics/witnesses-of-the-book-of-mormon?lang=eng"
+        },
+        {
+          "title": "Martin Harris (Latter Day Saints)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martin_Harris_(Latter_Day_Saints)"
+        }
+      ]
+    },
+    {
+      "text": "Dans une lettre du 15 avril 1838 à Lyman E. Johnson, Stephen Burnett rapporte avoir entendu Martin Harris déclarer qu'il n'avait jamais vu les plaques avec ses yeux naturels, mais seulement en vision.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Stephen Burnett to Lyman E. Johnson, April 15, 1838 (Joseph Smith Letterbook 2:64-66)",
+          "publisher": "Transcription, Church History Library",
+          "url": "https://user.xmission.com/~research/central/burnettletter.pdf"
+        },
+        {
+          "title": "Martin Harris (Latter Day Saints)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martin_Harris_(Latter_Day_Saints)"
+        }
+      ]
+    },
+    {
+      "text": "Bertram Forer (1949), Journal of Abnormal and Social Psychology : ses étudiants ont tous reçu le même profil de personnalité, en partie tiré d'un livre d'astrologie, et lui ont attribué une note moyenne de justesse de 4,26 sur 5 ; le phénomène est appelé effet Barnum.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bertram Forer",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bertram_Forer"
+        },
+        {
+          "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
+          "publisher": "Journal of Abnormal and Social Psychology (via ResearchGate)",
+          "url": "https://www.researchgate.net/publication/5739334_The_fallacy_of_personal_validation_a_classroom_demonstration_of_gullibility"
+        }
+      ]
+    },
+    {
+      "text": "Shawn Carlson, « A double-blind test of astrology », Nature, 1985 : en double aveugle, les astrologues n'ont pas fait mieux que le hasard pour associer un thème astral au profil de personnalité correspondant.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/318419a0"
+        },
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "NASA ADS",
+          "url": "https://ui.adsabs.harvard.edu/abs/1985Natur.318..419C"
+        }
+      ]
+    },
+    {
+      "text": "Beaucoup d'affections guérissent spontanément ; la régression vers la moyenne et l'effet placebo produisent des améliorations ressenties sans effet propre du traitement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "When the placebo effect is not an effect",
+          "publisher": "PubMed Central",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8519555/"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le National Health and Medical Research Council australien a conclu qu'il n'existe aucune affection pour laquelle l'efficacité de l'homéopathie est établie par des preuves fiables.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "An Analysis of Four Government-Funded Reviews of Research on Homeopathic Medicine",
+          "publisher": "PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8312774/"
+        },
+        {
+          "title": "Homeopathy no more effective than placebos, a study by the National Health and Medical Research Council finds",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2015-03-11/homeopathy-no-more-effective-than-placebos-major-study-says/6302722"
+        }
+      ]
+    },
+    {
+      "text": "Remplacer un traitement efficace par une médecine alternative sans efficacité démontrée peut mettre la santé en danger.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Use of Alternative Medicine for Cancer and Its Impact on Survival",
+          "publisher": "Journal of the National Cancer Institute (via ResearchGate)",
+          "url": "https://www.researchgate.net/publication/322166383_Use_of_Alternative_Medicine_for_Cancer_and_Its_Impact_on_Survival"
+        },
+        {
+          "title": "Using alternative medicine only for cancer linked to lower survival rate",
+          "publisher": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2017/08/170810120415.htm"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [
+    {
+      "title": "Le jour où une statue de Ganesh a bu du lait devant des foules",
+      "url": "https://www.youtube.com/watch?v=jOCKiehi7pQ",
+      "publishedAt": "2026-10-04T15:08:39.801Z"
+    }
+  ],
+  "corrections": []
+}
