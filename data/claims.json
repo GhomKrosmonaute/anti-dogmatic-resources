@@ -1,8 +1,432 @@
 {
-  "generatedAt": "2026-10-04T22:31:09.899Z",
+  "generatedAt": "2026-10-05T00:01:11.911Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
+      "youtubeId": "GgT4uql9Vv4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
+      "title": "Pourquoi les sceptiques s'attaquent-ils à la foi ? Zététique et The Satanic Temple",
+      "publishedAt": "2026-10-05T00:00:11.813Z",
+      "pillar": "Religions : toutes, sans en épargner ni en privilégier aucune",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Croire ne fait de mal à personne : chacun ses croyances, et les remettre en question ne sert à rien.",
+        "verdict": "trompeur",
+        "summary": "La liberté de croire est un droit réel, et la foi peut apporter réconfort et communauté. Mais une croyance soustraite à toute vérification finit par coûter à quelqu'un : des malades qui renoncent aux traitements éprouvés, des adeptes sous emprise, des citoyens soumis par la loi au dogme d'autrui.",
+        "techniques": [
+          "selection-des-cas",
+          "temoignage-inverifiable",
+          "charge-de-la-preuve"
+        ]
+      },
+      "facts": [
+        {
+          "text": "La statue de Baphomet du Temple satanique est une sculpture en bronze à tête de bouc, haute d'environ 2,6 mètres (8,5 pieds).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Statue of Baphomet",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Statue_of_Baphomet"
+            },
+            {
+              "title": "Satanic monument in Detroit unveiled: Is it disrespectful?",
+              "publisher": "The Christian Science Monitor",
+              "url": "https://www.csmonitor.com/layout/set/amphtml/USA/USA-Update/2015/0726/Satanic-monument-in-Detroit-unveiled-Is-it-disrespectful"
+            }
+          ]
+        },
+        {
+          "text": "L'article premier de la loi du 9 décembre 1905 dispose : « La République assure la liberté de conscience. Elle garantit le libre exercice des cultes sous les seules restrictions édictées ci-après dans l'intérêt de l'ordre public. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508749"
+            }
+          ]
+        },
+        {
+          "text": "L'article 18 de la Déclaration universelle des droits de l'homme (1948) proclame que toute personne a droit à la liberté de pensée, de conscience et de religion, ce qui implique la liberté de changer de religion ou de conviction.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Déclaration universelle des droits de l'homme",
+              "publisher": "Haut-Commissariat des Nations unies aux droits de l'homme",
+              "url": "https://www.ohchr.org/en/UDHR/Documents/UDHR_Translations/frn.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Li, Stampfer, Williams et VanderWeele (JAMA Internal Medicine, 2016) ont suivi 74 534 infirmières américaines de 1992 à 2012 : une fréquentation des offices religieux plus d'une fois par semaine était associée à une mortalité inférieure d'environ 33 % par rapport à l'absence de fréquentation (étude observationnelle).",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Le résumé de JAMA confirme les 74 534 femmes et le HR de 0,67 (−33 %), mais la mortalité a été suivie de 1996 à juin 2012 ; 1992 est seulement l'année de la première mesure de la fréquentation. Correction proposée : Li, Stampfer, Williams et VanderWeele (JAMA Internal Medicine, 2016) ont étudié 74 534 infirmières américaines dont la pratique religieuse était relevée depuis 1992, et suivi leur mortalité de 1996 à 2012 : une fréquentation des offices religieux plus d'une fois par semaine était associée à une mortalité inférieure d'environ 33 % par rappo",
+          "sources": [
+            {
+              "title": "Association of Religious Service Attendance With Mortality Among Women",
+              "publisher": "JAMA Internal Medicine",
+              "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521827"
+            },
+            {
+              "title": "Frequent religious service attendance linked with decreased mortality risk among women",
+              "publisher": "ScienceDaily (Harvard T.H. Chan School of Public Health)",
+              "url": "https://www.sciencedaily.com/releases/2016/05/160516115258.htm"
+            }
+          ]
+        },
+        {
+          "text": "William James publie en 1896 l'essai The Will to Believe, qui défend le droit de croire face à des options vitales que les preuves ne peuvent pas trancher, refuser de décider étant déjà une décision.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Will to Believe, and Other Essays in Popular Philosophy",
+              "publisher": "Project Gutenberg",
+              "url": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm"
+            }
+          ]
+        },
+        {
+          "text": "Johnson, Park, Gross et Yu (Yale, Journal of the National Cancer Institute, 2018) : chez des patients atteints de cancers du sein, de la prostate, du poumon ou colorectaux, le choix des médecines alternatives seules était associé à un risque de décès environ 2,5 fois plus élevé que les traitements conventionnels.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Use of Alternative Medicine for Cancer and Its Impact on Survival",
+              "publisher": "Journal of the National Cancer Institute (Oxford Academic)",
+              "url": "https://academic.oup.com/jnci/article/110/1/121/4064136"
+            },
+            {
+              "title": "Using alternative medicine only for cancer linked to lower survival rate",
+              "publisher": "ScienceDaily (Yale)",
+              "url": "https://www.sciencedaily.com/releases/2017/08/170810120415.htm"
+            }
+          ]
+        },
+        {
+          "text": "L'évolution naturelle des maladies, leurs fluctuations et l'effet de l'attention reçue peuvent produire une amélioration ressentie, raison pour laquelle les essais cliniques comparent les traitements à un placebo.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The therapeutic effect of clinical trials: understanding placebo response rates in clinical trials",
+              "publisher": "PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1201145/"
+            }
+          ]
+        },
+        {
+          "text": "En décembre 1995, seize corps de membres de l'Ordre du Temple solaire sont retrouvés dans le Vercors, après les morts survenues en Suisse et au Québec en octobre 1994.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Seize morts dont trois enfants : il y a 30 ans, l'onde de choc du massacre de l'Ordre du Temple solaire dans le Vercors",
+              "publisher": "France 3 Régions",
+              "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/seize-morts-dont-trois-enfants-il-y-a-30-ans-l-onde-de-choc-du-massacre-de-l-ordre-du-temple-solaire-dans-le-vercors-3266396.html"
+            },
+            {
+              "title": "Affaire de l'Ordre du Temple solaire",
+              "publisher": "Sûreté du Québec",
+              "url": "https://www.patrimoine.sq.gouv.qc.ca/evenement/Affaire-de-lOrdre-du-Temple-solaire-0007"
+            }
+          ]
+        },
+        {
+          "text": "La loi About-Picard (loi n° 2001-504 du 12 juin 2001) réprime l'abus de faiblesse d'une personne en état de sujétion psychologique ou physique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi n° 2001-504 du 12 juin 2001 tendant à renforcer la prévention et la répression des mouvements sectaires",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000589924"
+            }
+          ]
+        },
+        {
+          "text": "La Miviludes a été créée par un décret du 28 novembre 2002 ; ses rapports récents désignent la santé et le bien-être comme un domaine majeur des signalements de dérives sectaires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Décret n° 2002-1392 du 28 novembre 2002 instituant une mission interministérielle de vigilance et de lutte contre les dérives sectaires",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000234077"
+            },
+            {
+              "title": "Santé et bien-être en tête des signalements de dérives sectaires",
+              "publisher": "VIDAL",
+              "url": "https://www.vidal.fr/actualites/31309-sante-et-bien-etre-en-tete-des-signalements-de-derives-sectaires.html"
+            }
+          ]
+        },
+        {
+          "text": "Le chevalier de La Barre, né en 1745, est exécuté à Abbeville le 1er juillet 1766, accusé notamment de ne pas s'être découvert au passage d'une procession et d'avoir chanté des chansons impies.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "François-Jean Lefebvre de La Barre",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Jean_Lefebvre_de_La_Barre"
+            },
+            {
+              "title": "1er juillet 1766 - Exécution du chevalier de la Barre",
+              "publisher": "Herodote.net",
+              "url": "https://www.herodote.net/almanach-ID-3189.php"
+            }
+          ]
+        },
+        {
+          "text": "Le délit de blasphème du droit local d'Alsace-Moselle (article 166 du code pénal local) a été abrogé par la loi du 27 janvier 2017 relative à l'égalité et à la citoyenneté.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Abrogation du délit de blasphème",
+              "publisher": "Sénat",
+              "url": "https://www.senat.fr/questions/base/2018/qSEQ180605942.html"
+            },
+            {
+              "title": "LOI n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033934948"
+            }
+          ]
+        },
+        {
+          "text": "En 2024, la Louisiane a adopté une loi (HB 71) imposant l'affichage des Dix Commandements dans les salles de classe des écoles publiques, contestée devant un tribunal fédéral dès juin 2024.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rev. Roake v. Brumley",
+              "publisher": "ACLU",
+              "url": "https://www.aclu.org/cases/rev-roake-v-brumley"
+            },
+            {
+              "title": "The newest debate over the Ten Commandments in public schools",
+              "publisher": "National Constitution Center",
+              "url": "https://constitutioncenter.org/blog/the-newest-debate-over-the-ten-commandments-in-public-schools"
+            }
+          ]
+        },
+        {
+          "text": "Dans plusieurs pays de traditions religieuses différentes, le blasphème ou l'apostasie restent passibles de prison, et dans certains de la peine de mort.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "40% of world's countries and territories had blasphemy laws in 2019",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/short-reads/2022/01/25/four-in-ten-countries-and-territories-worldwide-had-blasphemy-laws-in-2019-2/"
+            },
+            {
+              "title": "Issue Update: Prosecuting Blasphemy in Russia",
+              "publisher": "U.S. Commission on International Religious Freedom",
+              "url": "https://www.uscirf.gov/sites/default/files/2025-04/2025%20Issue%20Update%20Prosecuting%20Blasphemy%20in%20Russia.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le mot zététique vient du grec zêtein, chercher ; Sextus Empiricus écrit dans les Esquisses pyrrhoniennes (livre I) que l'école sceptique est aussi appelée zététique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Outlines of Pyrrhonism, Book I",
+              "publisher": "Wofford College (traduction R. G. Bury)",
+              "url": "https://sites.wofford.edu/wp-content/uploads/OUTLINES%20OF%20PYRRHONISM.pdf"
+            },
+            {
+              "title": "Sextus Empiricus",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/sextus-empiricus/"
+            }
+          ]
+        },
+        {
+          "text": "Le physicien Henri Broch a fondé un laboratoire de zététique à l'université de Nice.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Henri Broch, docteur ès sciences, professeur émérite université Nice",
+              "publisher": "Association française pour l'information scientifique (AFIS)",
+              "url": "https://www.afis.org/Henri-Broch"
+            }
+          ]
+        },
+        {
+          "text": "Dans un article de 1952, « Is There a God? », Bertrand Russell illustre la charge de la preuve par une théière en porcelaine tournant autour du Soleil entre la Terre et Mars, trop petite pour être vue au télescope.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is There a God? (Bertrand Russell, 1952)",
+              "publisher": "CORTECS",
+              "url": "https://cortecs.org/wp-content/uploads/2014/12/Is-there-a-God_Russell_1952.pdf"
+            },
+            {
+              "title": "Russell's teapot",
+              "publisher": "Humanists UK Heritage",
+              "url": "https://heritage.humanists.uk/object/russells-teapot/"
+            }
+          ]
+        },
+        {
+          "text": "Karl Popper propose le critère de falsifiabilité dans Logik der Forschung, publié en 1934.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Karl Popper",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/popper/"
+            }
+          ]
+        },
+        {
+          "text": "Shawn Carlson publie en 1985 dans Nature (« A double-blind test of astrology ») une expérience où des astrologues n'ont pas associé les thèmes astraux aux profils de personnalité mieux que le hasard.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A double-blind test of astrology",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/318419a0"
+            },
+            {
+              "title": "A double-blind test of astrology",
+              "publisher": "NASA Astrophysics Data System",
+              "url": "https://ui.adsabs.harvard.edu/abs/1985Natur.318..419C"
+            }
+          ]
+        },
+        {
+          "text": "La formule « Pluralitas non est ponenda sine necessitate » figure dans les écrits du franciscain anglais Guillaume d'Ockham, au XIVe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Occam's razor",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+            },
+            {
+              "title": "William of Ockham",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/ockham/"
+            }
+          ]
+        },
+        {
+          "text": "Bertram Forer (1949) a remis à tous ses étudiants le même portrait de personnalité, tiré en grande partie d'un livre d'astrologie ; ils l'ont noté en moyenne 4,26 sur 5 pour sa justesse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Forer effect",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/forer.html"
+            },
+            {
+              "title": "Barnum effect",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+            }
+          ]
+        },
+        {
+          "text": "Peter Wason (1960, tâche 2-4-6) a montré que les sujets cherchent des exemples qui confirment leurs hypothèses plutôt que des exemples qui pourraient les réfuter.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On the failure to eliminate hypotheses in a conceptual task",
+              "publisher": "Quarterly Journal of Experimental Psychology (Taylor & Francis)",
+              "url": "https://www.tandfonline.com/doi/abs/10.1080/17470216008416717"
+            }
+          ]
+        },
+        {
+          "text": "Alfred Wegener propose la dérive des continents en 1912, hypothèse largement rejetée avant que les études des fonds océaniques des années 1960 ne mènent à la tectonique des plaques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Continental Drift",
+              "publisher": "National Geographic Education",
+              "url": "https://education.nationalgeographic.org/resource/continental-drift/"
+            }
+          ]
+        },
+        {
+          "text": "The Satanic Temple, fondé en 2013, est une organisation non théiste qui ne croit pas en un Satan surnaturel et en fait un symbole de révolte contre l'autorité arbitraire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Answers to the most common questions about The Satanic Temple",
+              "publisher": "The Satanic Temple",
+              "url": "https://thesatanictemple.com/pages/faq"
+            },
+            {
+              "title": "The Satanic Temple",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Satanic_Temple"
+            }
+          ]
+        },
+        {
+          "text": "Le cinquième des sept principes de The Satanic Temple dit : « Beliefs should conform to one's best scientific understanding of the world. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "There Are Seven Fundamental Tenets",
+              "publisher": "The Satanic Temple",
+              "url": "https://thesatanictemple.com/blogs/the-satanic-temple-tenets/there-are-seven-fundamental-tenets"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "human",
+        "domain": "médecine clinique, pharmacologie et épidémiologie",
+        "approximations": [
+          {
+            "excerpt": "Et que vient faire, dans cette histoire, une statue de bronze à tête de bouc haute de plus de deux mètres et demi ?",
+            "note": "La statue mesure environ 2,6 mètres. Ce chiffre arrondi ne sert qu'à poser une image d'accroche, aucun argument n'en dépend."
+          },
+          {
+            "excerpt": "En 2016, une étude publiée dans JAMA Internal Medicine a suivi plus de soixante-dix mille infirmières américaines.",
+            "note": "La cohorte compte environ 74 500 femmes. Cet effectif arrondi décrit seulement la taille de l'étude et ne dit rien d'un risque ni d'un effet sur la santé."
+          },
+          {
+            "excerpt": "Tous reçoivent le même texte, tiré en grande partie d'un livre d'astrologie, et lui attribuent pourtant, en moyenne, plus de quatre sur cinq pour sa justesse.",
+            "note": "La note moyenne relevée par Forer est d'environ 4,3 sur 5. L'arrondi « plus de quatre sur cinq » suffit à montrer que tous ont jugé juste un portrait identique. On est en psychologie, pas dans un domaine de santé."
+          },
+          {
+            "excerpt": "Nous sommes un tas d'atomes qui, après quelques milliards d'années de chimie, a décidé qu'il voulait savoir qu'il était un tas d'atomes, et pourquoi.",
+            "note": "« Quelques milliards d'années » renvoie de façon volontairement floue à l'histoire de la chimie et de la vie sur Terre, environ quatre milliards d'années. C'est une opinion assumée, pas une démonstration."
+          },
+          {
+            "excerpt": "Dans les années soixante, l'étude des fonds océaniques donne naissance à la tectonique des plaques, et les géologues changent d'avis.",
+            "note": "La décennie est une datation approximative d'une révolution scientifique étalée sur plusieurs années. L'argument porte sur le fait que la science se corrige, pas sur la date exacte."
+          }
+        ]
+      },
+      "corrections": []
+    },
     {
       "slug": "une-sagesse-ancestrale-pratiquee-depuis-des-287b",
       "youtubeId": "AFk9CaSz7PY",
