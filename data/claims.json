@@ -1,8 +1,361 @@
 {
-  "generatedAt": "2026-10-05T00:01:11.911Z",
+  "generatedAt": "2026-10-05T14:46:09.680Z",
   "license": "CC BY 4.0",
   "source": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "slug": "ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff",
+      "youtubeId": "3pjP8BcdJJc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3pjP8BcdJJc",
+      "title": "Où va vraiment l'argent que tu déposes à la banque ? Le système bancaire expliqué",
+      "publishedAt": "2026-10-05T14:45:09.542Z",
+      "pillar": "Le système : comment la société fonctionne et dysfonctionne",
+      "technique": null,
+      "examinedClaim": {
+        "statement": "Quand tu déposes ton argent à la banque, elle en garde une partie en réserve et prête le reste à d'autres clients ; et la monnaie vaut quelque chose parce qu'elle repose sur une richesse bien réelle.",
+        "verdict": "trompeur",
+        "summary": "La banque garde bien des réserves et doit se financer, mais selon la Banque d'Angleterre, la Banque de France et la Bundesbank, ce sont les crédits qui créent l'essentiel des dépôts, et non l'inverse : le multiplicateur des manuels renverse la causalité. Depuis la suspension de la convertibilité du dollar en 1971, aucune grande monnaie ne repose sur un stock d'or : elle repose sur la loi et la confiance, comme l'écrivait déjà Aristote.",
+        "techniques": [
+          "argument-autorite",
+          "appel-a-l-anciennete"
+        ]
+      },
+      "facts": [
+        {
+          "text": "Les économistes appellent intermédiation financière le rôle de la banque qui collecte l'épargne et la prête aux emprunteurs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "intermédiation financière – Grand dictionnaire terminologique",
+              "publisher": "Office québécois de la langue française",
+              "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8392046/intermediation-financiere"
+            }
+          ]
+        },
+        {
+          "text": "En France, le Fonds de garantie des dépôts et de résolution (FGDR) couvre les dépôts jusqu'à 100 000 euros par client et par établissement ; ce plafond est harmonisé dans l'Union européenne (directive 2014/49/UE).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Directive 2014/49/UE relative aux systèmes de garantie des dépôts",
+              "publisher": "EUR-Lex / Union européenne",
+              "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0049"
+            },
+            {
+              "title": "Garantie des dépôts et des titres",
+              "publisher": "Direction générale du Trésor",
+              "url": "https://www.tresor.economie.gouv.fr/banque-assurance-finance/garantie-des-depots-et-des-titres"
+            }
+          ]
+        },
+        {
+          "text": "Au XIXe siècle, dans une grande partie du monde, les billets de banque étaient convertibles en une quantité fixe d'or ou d'argent métal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gold Standard (Michael D. Bordo)",
+              "publisher": "Econlib – Concise Encyclopedia of Economics",
+              "url": "https://www.econlib.org/library/Enc/GoldStandard.html"
+            }
+          ]
+        },
+        {
+          "text": "En juillet 1944, à la conférence de Bretton Woods, 44 pays alliés ont établi un système où le dollar était convertible en or à 35 dollars l'once pour les banques centrales étrangères, les autres monnaies étant arrimées au dollar.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Creation of the Bretton Woods System",
+              "publisher": "Federal Reserve History",
+              "url": "https://www.federalreservehistory.org/essays/bretton-woods-created"
+            }
+          ]
+        },
+        {
+          "text": "La Banque d'Angleterre a publié dans son Quarterly Bulletin 2014 T1 l'article « Money creation in the modern economy » de Michael McLeay, Amar Radia et Ryland Thomas, qui écrit : « Whenever a bank makes a loan, it simultaneously creates a matching deposit in the borrower's bank account, thereby creating new money. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Money creation in the modern economy (Quarterly Bulletin 2014 Q1)",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+            },
+            {
+              "title": "Money creation in the modern economy",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy"
+            }
+          ]
+        },
+        {
+          "text": "Le même article qualifie d'idées reçues (« popular misconceptions ») le fait que les banques agiraient simplement comme intermédiaires prêtant les dépôts des épargnants et qu'elles « multiplieraient » la monnaie de banque centrale ; les banques prêtent d'abord et les réserves suivent.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Money creation in the modern economy (Quarterly Bulletin 2014 Q1)",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+            },
+            {
+              "title": "Money creation in the modern economy",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy"
+            }
+          ]
+        },
+        {
+          "text": "La formule « les crédits font les dépôts » figure dans les manuels français d'économie et dans les supports pédagogiques de la Banque de France sur la création monétaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Comment est créée la monnaie ?",
+              "publisher": "Banque de France",
+              "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie"
+            },
+            {
+              "title": "Création monétaire",
+              "publisher": "Melchior (plateforme pédagogique SES)",
+              "url": "https://www.melchior.fr/notion/creation-monetaire"
+            }
+          ]
+        },
+        {
+          "text": "La Deutsche Bundesbank décrit la création monétaire par le crédit bancaire dans son Monthly Report d'avril 2017 (« The role of banks, non-banks and the central bank in the money creation process »).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Monthly Report – April 2017",
+              "publisher": "Deutsche Bundesbank",
+              "url": "https://www.bundesbank.de/en/publications/reports/monthly-reports/monthly-report-april-2017-667334"
+            },
+            {
+              "title": "The role of banks, non-banks and the central bank in the money creation process",
+              "publisher": "Deutsche Bundesbank",
+              "url": "https://www.bundesbank.de/resource/blob/654284/df66c4444d065a7f519e2ab0c476df58/mL/2017-04-money-creation-process-data.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Selon la Banque d'Angleterre (2014), le remboursement d'un prêt bancaire détruit la monnaie qu'il avait créée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Money creation in the modern economy (Quarterly Bulletin 2014 Q1)",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Selon le Quarterly Bulletin 2014 T1 de la Banque d'Angleterre, les dépôts bancaires représentaient environ 97 % de la monnaie en circulation au Royaume-Uni, et l'essentiel de la monnaie est créée par les banques commerciales lorsqu'elles accordent des prêts.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Money creation in the modern economy (Quarterly Bulletin 2014 Q1)",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+            },
+            {
+              "title": "Money creation in the modern economy",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy"
+            }
+          ]
+        },
+        {
+          "text": "La Réserve fédérale américaine a abaissé les taux de réserves obligatoires à zéro, avec effet au 26 mars 2020.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Reserve Requirements",
+              "publisher": "Board of Governors of the Federal Reserve System",
+              "url": "https://www.federalreserve.gov/monetarypolicy/reservereq.Htm"
+            },
+            {
+              "title": "Regulation D: Reserve Requirements of Depository Institutions",
+              "publisher": "Federal Register",
+              "url": "https://www.federalregister.gov/documents/2020/03/24/2020-05806/regulation-d-reserve-requirements-of-depository-institutions"
+            }
+          ]
+        },
+        {
+          "text": "Selon la Banque d'Angleterre (2014), le crédit bancaire est limité par la rentabilité et le risque, les règles prudentielles (exigences de fonds propres issues des accords de Bâle), la demande des emprunteurs et la politique de taux de la banque centrale.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. L'article cite bien la rentabilité, le risque, la réglementation prudentielle (« requirements for banks' capital and liquidity positions »), la demande d'emprunt et la politique monétaire, mais il ne mentionne pas les accords de Bâle. Correction proposée : Selon la Banque d'Angleterre (2014), le crédit bancaire est limité par la rentabilité et le risque, la réglementation prudentielle (exigences de fonds propres et de liquidité), le comportement des ménages et des entreprises, et en dernier ressort par la politique monétaire de la banque centrale.",
+          "sources": [
+            {
+              "title": "Money creation in the modern economy (Quarterly Bulletin 2014 Q1)",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les virements entre banques se règlent en monnaie de banque centrale (réserves), et les banques se disputent les dépôts notamment pour conserver ces réserves et se financer à moindre coût.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Money creation in the modern economy (Quarterly Bulletin 2014 Q1)",
+              "publisher": "Bank of England",
+              "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+            }
+          ]
+        },
+        {
+          "text": "L'article L312-2 du Code monétaire et financier dispose : « Sont considérés comme fonds remboursables du public les fonds qu'une personne recueille d'un tiers, notamment sous forme de dépôts, avec le droit d'en disposer pour son propre compte, mais à charge pour elle de les restituer. »",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Le texte publié sur Légifrance porte « sous la forme de dépôts » et ne met pas de virgule avant « mais » ; le sens de la citation est exact. Correction proposée : L'article L312-2 du Code monétaire et financier dispose : « Sont considérés comme fonds remboursables du public les fonds qu'une personne recueille d'un tiers, notamment sous la forme de dépôts, avec le droit d'en disposer pour son propre compte mais à charge pour elle de les restituer. »",
+          "sources": [
+            {
+              "title": "Section 2 : Fonds remboursables du public (Article L312-2)",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000006170367/"
+            },
+            {
+              "title": "Article L312-2 – Code monétaire et financier",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027643301/2014-01-01"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'arrêt Foley v Hill (1848), la Chambre des lords a jugé que l'argent versé à un banquier cesse d'être celui du déposant et devient celui du banquier, tenu de restituer une somme équivalente sur demande.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Foley v Hill",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Foley_v_Hill"
+            },
+            {
+              "title": "Foley v Hill and Others",
+              "publisher": "vLex United Kingdom",
+              "url": "https://vlex.co.uk/vid/foley-v-hill-and-803974245"
+            }
+          ]
+        },
+        {
+          "text": "Le 9 mars 2023, les déposants de la Silicon Valley Bank ont demandé à retirer environ 42 milliards de dollars en une journée ; la banque a été fermée le 10 mars 2023 par le régulateur californien, la FDIC étant nommée administrateur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Recent Bank Failures and the Federal Regulatory Response",
+              "publisher": "FDIC",
+              "url": "https://www.fdic.gov/news/speeches/2023/spmar2723.html"
+            },
+            {
+              "title": "Review of DFPI's Oversight and Regulation of Silicon Valley Bank",
+              "publisher": "California Department of Financial Protection and Innovation",
+              "url": "https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/05/Review-of-DFPIs-Oversight-and-Regulation-of-Silicon-Valley-Bank.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les ressources du FGDR ne représentent qu'une petite fraction des dépôts qu'il couvre : le dispositif est conçu pour la défaillance d'un établissement, non pour celle de tout le système bancaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Key figures of the FGDR",
+              "publisher": "Fonds de Garantie des Dépôts et de Résolution",
+              "url": "https://www.garantiedesdepots.fr/en/presentation-fgdr/key-figures-of-the-FGDR"
+            },
+            {
+              "title": "Core Principles for Effective Deposit Insurance Systems",
+              "publisher": "Bank for International Settlements / IADI",
+              "url": "https://www.bis.org/publ/bcbs156.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le 15 août 1971, dans une allocution télévisée, Richard Nixon a déclaré : « I have directed Secretary Connally to suspend temporarily the convertibility of the American dollar into gold or other reserve assets ».",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Le texte officiel de l'allocution (American Presidency Project, repris par le World Gold Council) porte « the convertibility of the dollar into gold », et non « of the American dollar ». Correction proposée : Le 15 août 1971, dans une allocution télévisée, Richard Nixon a déclaré : « I have directed Secretary Connally to suspend temporarily the convertibility of the dollar into gold or other reserve assets ».",
+          "sources": [
+            {
+              "title": "Address to the Nation Outlining a New Economic Policy: \"The Challenge of Peace\"",
+              "publisher": "The American Presidency Project (UC Santa Barbara)",
+              "url": "https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace"
+            },
+            {
+              "title": "After the Gold Standard, 1931-1999 – 1971 August 15",
+              "publisher": "World Gold Council",
+              "url": "https://www.gold.org/sites/default/files/documents/after-the-gold-standard/1971aug15.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Aujourd'hui, aucune grande monnaie n'est convertible en or à un prix fixe.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gold in the IMF",
+              "publisher": "International Monetary Fund",
+              "url": "https://www.imf.org/en/about/factsheets/sheets/2022/gold-in-the-imf"
+            },
+            {
+              "title": "The second amendment of the Fund's Articles of Agreement: a general view",
+              "publisher": "IMF Finance & Development (1978)",
+              "url": "https://www.elibrary.imf.org/view/journals/022/0015/001/article-A004-en.xml"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Éthique à Nicomaque, livre V (1133a), Aristote écrit que la monnaie (nomisma) tient son nom du fait qu'elle existe non par nature mais par la loi (nomos), et qu'il dépend de nous de la changer et de la rendre inutilisable ; l'œuvre date du IVe siècle avant notre ère.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Aristotle, Nicomachean Ethics, Bekker page 1133a",
+              "publisher": "Perseus Digital Library (Tufts University)",
+              "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:bekker%20page=1133a"
+            },
+            {
+              "title": "Nicomachean Ethics – Book V (trad. F. H. Peters)",
+              "publisher": "Standard Ebooks",
+              "url": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-5"
+            }
+          ]
+        },
+        {
+          "text": "« Crédit » vient du latin credere (croire, confier) et « fiduciaire » du latin fiducia (confiance).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "crédit",
+              "publisher": "Dictionnaire de l'Académie française",
+              "url": "https://www.dictionnaire-academie.fr/article/A9C4863"
+            },
+            {
+              "title": "fiduciaire",
+              "publisher": "Dictionnaire de l'Académie française",
+              "url": "https://www.dictionnaire-academie.fr/article/A9F0693"
+            }
+          ]
+        }
+      ],
+      "examinedVideo": null,
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "corrections": []
+    },
     {
       "slug": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
       "youtubeId": "GgT4uql9Vv4",
