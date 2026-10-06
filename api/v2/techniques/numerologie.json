@@ -9,7 +9,36 @@
     "n'importe quel long texte produit des coïncidences"
   ],
   "question": "Les nombres cachés dans les textes sacrés sont-ils une preuve ?",
-  "taughtBy": [],
+  "taughtBy": [
+    {
+      "id": "codes-secrets-de-la-torah-nombres-sacres-de-la-7a44",
+      "title": "Codes secrets de la Torah, Grande Pyramide, 11:11 : les nombres cachent-ils un message ?",
+      "format": "video",
+      "publishedAt": "2026-10-06T22:30:15.989Z",
+      "durationSeconds": 692,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "numerologie",
+        "name": "Les coïncidences comptées"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "i_d64jHkE1A",
+        "url": "https://www.youtube.com/watch?v=i_d64jHkE1A",
+        "thumbnail": "https://i.ytimg.com/vi/i_d64jHkE1A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/codes-secrets-de-la-torah-nombres-sacres-de-la-7a44/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/codes-secrets-de-la-torah-nombres-sacres-de-la-7a44.json"
+      }
+    }
+  ],
   "examples": [
     {
       "id": "le-chemin-de-vie-en-numerologie-2d23",

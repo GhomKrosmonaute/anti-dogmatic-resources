@@ -5,7 +5,7 @@
       "id": "esprit-critique",
       "name": "Esprit critique",
       "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
-      "videos": 11,
+      "videos": 12,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/esprit-critique.json"
       }

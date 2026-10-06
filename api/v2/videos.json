@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 48,
+  "total": 49,
   "pageSize": 50,
   "page": 1,
   "pages": 1,
   "previous": null,
   "next": null,
   "items": [
+    {
+      "id": "codes-secrets-de-la-torah-nombres-sacres-de-la-7a44",
+      "title": "Codes secrets de la Torah, Grande Pyramide, 11:11 : les nombres cachent-ils un message ?",
+      "format": "video",
+      "publishedAt": "2026-10-06T22:30:15.989Z",
+      "durationSeconds": 692,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "numerologie",
+        "name": "Les coïncidences comptées"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "i_d64jHkE1A",
+        "url": "https://www.youtube.com/watch?v=i_d64jHkE1A",
+        "thumbnail": "https://i.ytimg.com/vi/i_d64jHkE1A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/codes-secrets-de-la-torah-nombres-sacres-de-la-7a44/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/codes-secrets-de-la-torah-nombres-sacres-de-la-7a44.json"
+      }
+    },
     {
       "id": "l-acupuncture-a-l-epreuve-des-faits-3acc",
       "title": "L'acupuncture, ça marche vraiment ? Méridiens, énergie qi et ce qu'en dit la science",
