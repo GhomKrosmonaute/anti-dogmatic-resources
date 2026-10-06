@@ -1,0 +1,468 @@
+{
+  "version": 2,
+  "id": "anthropocentrisme-et-anthropomorphisme-f503",
+  "title": "L'homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature",
+  "format": "video",
+  "publishedAt": "2026-10-06T23:00:12.844Z",
+  "durationSeconds": 714,
+  "rubric": {
+    "id": "systeme",
+    "name": "Le système"
+  },
+  "claim": {
+    "statement": "L'humain est naturellement herbivore : ses petites canines, ses mains sans griffes et son long intestin le prouvent, et la viande, inadaptée à son corps, pourrit dans son côlon.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "La vidéo conclut que l'humain est un omnivore : les proportions de son tube digestif (Katharine Milton), les traces de boucherie vieilles d'environ deux millions d'années à Kanjera South et la physiologie de la digestion des protéines contredisent l'image d'un herbivore contrarié. Cette erreur, symétrique de l'animal-objet justifié par la « domination », n'empêche pas de défendre le bien-être animal ou le végétarisme, à condition de s'appuyer sur l'éthologie, la sentience et l'écologie réelles."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "4ojC0a3f7AY",
+    "url": "https://www.youtube.com/watch?v=4ojC0a3f7AY",
+    "thumbnail": "https://i.ytimg.com/vi/4ojC0a3f7AY/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/anthropocentrisme-et-anthropomorphisme-f503/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/anthropocentrisme-et-anthropomorphisme-f503.json"
+  },
+  "facts": [
+    {
+      "text": "Genèse 1:28 (traduction Louis Segond 1910) : « Remplissez la terre, et l'assujettissez ; et dominez sur les poissons de la mer, sur les oiseaux du ciel, et sur tout animal qui se meut sur la terre. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Genèse 1:28 (Louis Segond 1910)",
+          "publisher": "Bible.audio",
+          "url": "https://www.bible.audio/bible-LSG-1-1-28-complet-contexte-non.htm"
+        }
+      ]
+    },
+    {
+      "text": "Proverbes 12:10 (traduction Louis Segond 1910) : « Le juste prend soin de son bétail, mais les entrailles des méchants sont cruelles. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Proverbes 12:10 (Louis Segond 1910)",
+          "publisher": "Bible.audio",
+          "url": "https://www.bible.audio/bible-LSG-20-12-10-complet-contexte-non.htm"
+        }
+      ]
+    },
+    {
+      "text": "Le Coran, sourate 6, verset 38, compare les bêtes de la terre et les oiseaux à des communautés semblables à celles des humains.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quran 6:38 – translations compared",
+          "publisher": "IslamAwakened",
+          "url": "https://islamawakened.com/quran/6/38/"
+        }
+      ]
+    },
+    {
+      "text": "Genèse 1:29 (traduction Louis Segond 1910) attribue aux premiers humains une nourriture exclusivement végétale (herbes portant semence et fruits des arbres).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Comparateur Bible – Genèse 1:29",
+          "publisher": "levangile.com",
+          "url": "https://www.levangile.com/comparateur-bible-1-1-29"
+        }
+      ]
+    },
+    {
+      "text": "Les animaux domestiques ont servi au labour et à la production de laine dans les sociétés agricoles ; l'élevage fournit une part importante de l'alimentation mondiale.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Food for all – World Food Summit: livestock and food security",
+          "publisher": "FAO",
+          "url": "https://www.fao.org/4/X0262E/x0262e13.htm"
+        },
+        {
+          "title": "Livestock provide much more than nutritious food – senior FAO official",
+          "publisher": "Teagasc",
+          "url": "https://teagasc.ie/news--events/daily/livestock-provide-much-more-than-nutritious-food--senior-fao-official/"
+        }
+      ]
+    },
+    {
+      "text": "Le jaïnisme et une partie de l'hindouisme font de l'ahimsa, la non-violence envers les êtres vivants, un principe central de la vie quotidienne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ahimsa",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/ahimsa"
+        },
+        {
+          "title": "Ahimsa",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ahimsa"
+        }
+      ]
+    },
+    {
+      "text": "Dans la cinquième partie du Discours de la méthode (1637), Descartes compare les bêtes à des automates.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Discours de la méthode – Cinquième partie",
+          "publisher": "Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Discours_de_la_m%C3%A9thode_(%C3%A9d._Cousin)/Cinqui%C3%A8me_partie"
+        },
+        {
+          "title": "Descartes, Discours de la méthode (1637)",
+          "publisher": "Internet Archive",
+          "url": "https://ia601601.us.archive.org/5/items/descartes_methode/descartes_methode.pdf"
+        }
+      ]
+    },
+    {
+      "text": "L'article 515-14 du Code civil, introduit par la loi du 16 février 2015, dispose : « Les animaux sont des êtres vivants doués de sensibilité. Sous réserve des lois qui les protègent, les animaux sont soumis au régime des biens. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Code civil – Article 515-14",
+          "publisher": "Légifrance",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030250342"
+        },
+        {
+          "title": "Le Code civil intègre la « sensibilité » des animaux",
+          "publisher": "Le Petit Juriste",
+          "url": "https://www.lepetitjuriste.fr/le-code-civil-integre-la-sensibilite-des-animaux/"
+        }
+      ]
+    },
+    {
+      "text": "Le poulet de chair standard, sélectionné pour sa croissance rapide, atteint son poids d'abattage en moins de six semaines environ.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Welfare of broilers on farm (EFSA Scientific Opinion, 2023)",
+          "publisher": "EFSA Journal / PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9941850"
+        },
+        {
+          "title": "Leg Disorders in Broiler Chickens: Prevalence, Risk Factors and Prevention",
+          "publisher": "PLOS ONE / PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/2212134"
+        }
+      ]
+    },
+    {
+      "text": "Knowles et al. (2008, PLOS ONE, « Leg Disorders in Broiler Chickens ») ont évalué la démarche d'environ 51 000 poulets au Royaume-Uni : plus d'un quart (environ 27,6 %) présentaient des troubles de la locomotion, la croissance rapide figurant parmi les facteurs de risque.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Leg Disorders in Broiler Chickens: Prevalence, Risk Factors and Prevention",
+          "publisher": "PLOS ONE / PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/2212134"
+        },
+        {
+          "title": "University of Bristol news, 2008",
+          "publisher": "University of Bristol",
+          "url": "https://bristol.ac.uk/news/2008/5811.html"
+        }
+      ]
+    },
+    {
+      "text": "Konrad Lorenz a décrit en 1943 le « Kindchenschema » (schéma du bébé) : tête ronde, grands yeux et nez court déclenchent une réponse de tendresse chez l'humain.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Baby schema research (citing Lorenz 1943)",
+          "publisher": "PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3260535/"
+        },
+        {
+          "title": "Publications by Konrad Lorenz",
+          "publisher": "Konrad Lorenz Forschungsstelle, Universität Wien",
+          "url": "https://klf.univie.ac.at/fileadmin/user_upload/p_klf/Publications_by_Konrad_Lorenz.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La sélection de chiens brachycéphales au visage infantile est probablement liée à la préférence humaine pour les traits juvéniles (présenté comme hypothèse plausible, non comme fait établi).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The difference between two brachycephalic and one mesocephalic dog breeds' problem-solving performance suggests evidence for paedomorphism in behaviour",
+          "publisher": "Scientific Reports",
+          "url": "https://link.springer.com/10.1038/s41598-023-41229-8"
+        },
+        {
+          "title": "Are Brachycephalic Dogs Really Cute? Evidence from Online Descriptions",
+          "publisher": "Anthrozoös / PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616237"
+        }
+      ]
+    },
+    {
+      "text": "Packer, Hendricks, Tivers et Burn (Royal Veterinary College, PLOS ONE, 2015) ont montré que le risque de syndrome obstructif des voies respiratoires des brachycéphales (BOAS) augmente à mesure que le museau raccourcit.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Impact of Facial Conformation on Canine Health: Brachycephalic Obstructive Airway Syndrome",
+          "publisher": "PLOS ONE / PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4624979"
+        },
+        {
+          "title": "Impact of facial conformation on canine health: BOAS",
+          "publisher": "Royal Veterinary College",
+          "url": "https://www.rvc.ac.uk/research/research-centres-and-facilities/rvc-animal-welfare-science-and-ethics/news/impact-of-facial-conformation-on-canine-health-brachycephalic-obstructive-airway-syndrome"
+        }
+      ]
+    },
+    {
+      "text": "Evans et Adams (Journal of Small Animal Practice, 2010) rapportent des taux de césarienne supérieurs à 80 % des portées chez le bouledogue anglais et le bouledogue français au Royaume-Uni.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Proportion of litters of purebred dogs born by caesarean section (Evans & Adams, 2010)",
+          "publisher": "Journal of Small Animal Practice (copie Gwern.net)",
+          "url": "https://www.gwern.net/doc/genetics/selection/2010-evans.pdf"
+        },
+        {
+          "title": "Dystocia in breeding bitches – a welfare concern",
+          "publisher": "DogWellNet (International Partnership for Dogs)",
+          "url": "https://dogwellnet.com/content/population-statistics/general-breeds-specific-disease-inform/populaton-based-data-from-veterinarians-insurance-databases/dystocia-in-breeding-bitches-a-welfare-concern-r538/"
+        }
+      ]
+    },
+    {
+      "text": "En janvier 2022, le tribunal de district d'Oslo a jugé que l'élevage du bouledogue anglais et du cavalier king charles enfreignait la loi norvégienne sur le bien-être animal ; la décision a été portée en appel.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Comments on the judgement by the Oslo district court on 31 January 2022",
+          "publisher": "Norsk Veterinærtidsskrift",
+          "url": "https://nvt.vetnett.no/journal/2022/2/m-2032/Comments_on_the_judgement_by_the_Oslo_district_court_on_31_January_2022_concerning_whether_breeding_of_English_bulldogs_and_Cavalier_King_Charles_Spaniels_can_continue"
+        },
+        {
+          "title": "HR-2023-1901-A",
+          "publisher": "Supreme Court of Norway",
+          "url": "https://www.domstol.no/en/supremecourt/rulings/2023/supreme-court-civil-cases/HR-2023-1901-A/"
+        }
+      ]
+    },
+    {
+      "text": "La loi française n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale a créé un certificat d'engagement et de connaissance pour l'acquisition d'animaux de compagnie dont les chiens et les chats, et interdit la vente de chiens et de chats en animalerie à partir du 1er janvier 2024.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "LOI n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes",
+          "publisher": "Légifrance",
+          "url": "https://www.legifrance.gouv.fr/eli/loi/2021/11/30/AGRX2035381L/jo/texte"
+        },
+        {
+          "title": "Loi maltraitance animale : quelles conséquences pour les collectivités locales ?",
+          "publisher": "Landot & associés",
+          "url": "https://blog.landot-avocats.net/2021/12/02/loi-maltraitance-animale-quelles-consequences-pour-les-collectivites-locales/"
+        }
+      ]
+    },
+    {
+      "text": "Chez le lion, un mâle qui prend le contrôle d'une troupe tue fréquemment les lionceaux de son prédécesseur.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Adaptations of female lions to infanticide by incoming males (Packer & Pusey, 1983)",
+          "publisher": "Duke Scholars",
+          "url": "https://scholars.duke.edu/publication/794445"
+        }
+      ]
+    },
+    {
+      "text": "À Gombe (Tanzanie), entre 1974 et 1978, la communauté de chimpanzés de Kasakela a tué un à un les mâles de la communauté voisine de Kahama, observation documentée par les équipes de Jane Goodall.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gombe Chimpanzee War",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gombe_Chimpanzee_War"
+        }
+      ]
+    },
+    {
+      "text": "Lettre de Charles Darwin à Asa Gray du 22 mai 1860 (traduction de la chaîne) : il ne parvient pas à se persuader qu'un Dieu bienfaisant et tout-puissant ait créé les ichneumonidés pour qu'ils se nourrissent dans le corps vivant des chenilles, ou qu'un chat joue avec les souris.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Letter no. 2814 – Darwin to Asa Gray, 22 May 1860",
+          "publisher": "Darwin Correspondence Project",
+          "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml"
+        }
+      ]
+    },
+    {
+      "text": "Le documentaire Disney White Wilderness (1958), lauréat de l'Oscar du meilleur documentaire, montre des lemmings se jetant d'une falaise ; une enquête de la télévision publique canadienne CBC (1982) a révélé que les animaux avaient été poussés pour le tournage.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "White Wilderness (film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/White_Wilderness_(film)"
+        },
+        {
+          "title": "Alaska Fish & Wildlife News – lemmings",
+          "publisher": "Alaska Department of Fish and Game",
+          "url": "https://www.adfg.alaska.gov/index.cfm%3Fadfg=wildlifenews.view_article&articles_id=56"
+        }
+      ]
+    },
+    {
+      "text": "Alexandra Horowitz (Behavioural Processes, 2009) a montré que l'« air coupable » du chien dépend surtout des reproches du maître plutôt que d'une désobéissance effective.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Disambiguating the guilty look: salient prompts to a familiar dog behaviour",
+          "publisher": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19520245/"
+        },
+        {
+          "title": "Disambiguating the guilty look (PDF)",
+          "publisher": "Barnard College",
+          "url": "https://barnard.edu/sites/default/files/inline-files/Disambiguating%20the%20guilty%20look.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Le chat est un carnivore strict qui doit trouver la taurine dans son alimentation ; les végétaux n'en fournissent pas en quantité utile.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Why Can't My Cat Be Vegan?",
+          "publisher": "ASPCA",
+          "url": "https://www.aspca.org/news/why-cant-my-cat-be-vegan"
+        }
+      ]
+    },
+    {
+      "text": "Pion, Kittleson, Rogers et Morris (Science, 1987) ont associé la carence en taurine à la cardiomyopathie dilatée du chat.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Myocardial failure in cats associated with low plasma taurine: a reversible cardiomyopathy",
+          "publisher": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/3616607/"
+        }
+      ]
+    },
+    {
+      "text": "Le gorille, au régime presque exclusivement végétal, possède de grandes canines ; chez les primates, les canines servent surtout à la menace et au combat.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gorillas, elephants and teeth",
+          "publisher": "National Geographic",
+          "url": "https://www.nationalgeographic.com/animals/article/150207-animals-gorillas-elephants-teeth-science-dentistry"
+        },
+        {
+          "title": "Competition, coalitions and canine size in primates (Plavcan & van Schaik)",
+          "publisher": "Göttingen Research Online",
+          "url": "https://publications.goettingen-research-online.de/ID-7728"
+        }
+      ]
+    },
+    {
+      "text": "Les chimpanzés chassent et mangent de la viande.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Craig Stanford – chimpanzee hunting research",
+          "publisher": "University of Southern California",
+          "url": "https://dornsife.usc.edu/stanford/?p=182"
+        },
+        {
+          "title": "Ecological and social influences on the hunting behaviour of wild chimpanzees",
+          "publisher": "University of Minnesota Experts",
+          "url": "https://experts.umn.edu/en/publications/ecological-and-social-influences-on-the-hunting-behaviour-of-wild/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "médecine et physiologie de la nutrition, humaine et vétérinaire (digestion, carences en vitamine B12 et en taurine, syndrome respiratoire des brachycéphales), avec des éléments de recherche sur la con",
+    "threshold": 6.6,
+    "passages": 11,
+    "approximations": [
+      {
+        "excerpt": "Depuis des millénaires, une même intuition traverse les cultures : l'être humain occupe une place à part dans le vivant.",
+        "note": "Durée volontairement vague, qui sert de cadrage historique ; aucune précision n'est nécessaire à l'argument."
+      },
+      {
+        "excerpt": "C'est encore l'argument des défenseurs de l'élevage tel qu'il fonctionne : il nourrit des millions de gens à bas prix, il fait vivre les campagnes, et un animal, au pré comme sur un canapé, reste un animal.",
+        "note": "« Des millions de gens » est un ordre de grandeur rhétorique prêté aux défenseurs de l'élevage ; il ne concerne pas la santé et rien ne dépend de sa valeur exacte."
+      },
+      {
+        "excerpt": "Le poulet standard a été sélectionné pour atteindre son poids d'abattage en à peine six semaines.",
+        "note": "Durée arrondie (selon les souches et les filières, plutôt cinq à sept semaines) ; l'argument sur la croissance rapide ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "En 2008, l'équipe de Toby Knowles a observé environ cinquante et un mille de ces poulets au Royaume-Uni : plus d'un quart marchaient mal.",
+        "note": "Seul l'effectif observé (environ 51 000 animaux) est une approximation assumée, sans enjeu pour l'argument. La proportion de poulets boiteux concerne la santé et reste à vérifier par le fact-check comme résultat d'étude."
+      },
+      {
+        "excerpt": "Et au Kenya, à Kanjera South, des os vieux d'environ deux millions d'années portent des traces de découpe à l'outil de pierre.",
+        "note": "Âge arrondi d'un site archéologique ; l'argument (une consommation de viande très ancienne) ne dépend pas de la datation précise."
+      },
+      {
+        "excerpt": "Et le végétarisme a des arguments sérieux : selon la synthèse de Joseph Poore et Thomas Nemecek publiée dans Science en 2018, les produits animaux occupent environ quatre-vingt-trois pour cent des terres agricoles mondiales pour seulement dix-huit pour cent de nos calories.",
+        "note": "Pourcentages arrondis d'usage des terres et d'apport calorique, sans lien avec la santé ; c'est l'écart entre les deux chiffres qui porte l'argument, pas leur valeur exacte."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Ep32 - Avoir raison pour de mauvaises raisons",
+      "channel": "Hygiène Mentale",
+      "url": "https://www.youtube.com/watch?v=VnbhrwNXry0",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "L'univers a-t-il été fait pour nous ? Le mystère du réglage fin",
+    "url": "https://www.youtube.com/watch?v=5-lp18BDj2I"
+  },
+  "shorts": [],
+  "corrections": []
+}

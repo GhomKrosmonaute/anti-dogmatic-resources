@@ -41,7 +41,7 @@
       "id": "systeme",
       "name": "Le système",
       "description": "travail, argent, institutions, médias, politique, méritocratie, bureaucratie",
-      "videos": 3,
+      "videos": 4,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/systeme.json"
       }

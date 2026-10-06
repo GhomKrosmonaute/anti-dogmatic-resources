@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "anthropocentrisme-et-anthropomorphisme-f503",
+      "title": "L'homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature",
+      "format": "video",
+      "publishedAt": "2026-10-06T23:00:12.844Z",
+      "durationSeconds": 714,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "L'humain est naturellement herbivore : ses petites canines, ses mains sans griffes et son long intestin le prouvent, et la viande, inadaptée à son corps, pourrit dans son côlon.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "4ojC0a3f7AY",
+        "url": "https://www.youtube.com/watch?v=4ojC0a3f7AY",
+        "thumbnail": "https://i.ytimg.com/vi/4ojC0a3f7AY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/anthropocentrisme-et-anthropomorphisme-f503/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/anthropocentrisme-et-anthropomorphisme-f503.json"
+      }
+    },
+    {
       "id": "moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a",
       "title": "Moïse, les dix plaies et la sortie d'Égypte : l'archéologie a-t-elle retrouvé l'Exode ?",
       "format": "video",
