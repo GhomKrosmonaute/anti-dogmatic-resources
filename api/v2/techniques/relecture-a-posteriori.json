@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "avons-nous-chacun-une-mission-sur-terre-eeaa",
+      "title": "Avons-nous tous une mission de vie ? Ce qu'en disent les religions, les astres et la philosophie",
+      "format": "video",
+      "publishedAt": "2026-10-06T12:30:09.565Z",
+      "durationSeconds": 680,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Chacun de nous a une mission sur Terre, une raison d'être propre que Dieu, les astres ou l'univers lui ont assignée et qu'il lui revient de découvrir.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "vZmW3Xd-QgQ",
+        "url": "https://www.youtube.com/watch?v=vZmW3Xd-QgQ",
+        "thumbnail": "https://i.ytimg.com/vi/vZmW3Xd-QgQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/avons-nous-chacun-une-mission-sur-terre-eeaa/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/avons-nous-chacun-une-mission-sur-terre-eeaa.json"
+      }
+    },
+    {
       "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
       "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
       "format": "short",

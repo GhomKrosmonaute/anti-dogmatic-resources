@@ -1,9 +1,467 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T10:16:09.522Z",
+  "generatedAt": "2026-10-06T12:31:09.645Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "avons-nous-chacun-une-mission-sur-terre-eeaa",
+      "title": "Avons-nous tous une mission de vie ? Ce qu'en disent les religions, les astres et la philosophie",
+      "format": "video",
+      "publishedAt": "2026-10-06T12:30:09.565Z",
+      "durationSeconds": 680,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Chacun de nous a une mission sur Terre, une raison d'être propre que Dieu, les astres ou l'univers lui ont assignée et qu'il lui revient de découvrir.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Aucun des appuis invoqués ne fonde une mission assignée à chacun. Lus en entier, les textes religieux parlent d'un prophète, d'un peuple, d'un culte commun ou d'un devoir de caste, tandis que les nœuds lunaires et la numérologie distribuent la même « mission » à des millions de personnes. Depuis Darwin, l'apparence de finalité s'explique sans intention, et l'utilité psychologique d'un but, bien réelle, ne prouve pas qu'il nous ait été donné."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "vZmW3Xd-QgQ",
+        "url": "https://www.youtube.com/watch?v=vZmW3Xd-QgQ",
+        "thumbnail": "https://i.ytimg.com/vi/vZmW3Xd-QgQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/avons-nous-chacun-une-mission-sur-terre-eeaa/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/avons-nous-chacun-une-mission-sur-terre-eeaa.json"
+      },
+      "facts": [
+        {
+          "text": "L'Éthique à Nicomaque d'Aristote (IVe siècle av. J.-C.) s'ouvre sur la phrase « Tout art et toute investigation, et pareillement toute action et tout choix tendent vers quelque bien, à ce qu'il semble » (livre I, 1, traduction Tricot).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Aristote, Éthique à Nicomaque (Traduction Tricot, Vrin)",
+              "publisher": "devoir-de-philosophie.com",
+              "url": "https://www.devoir-de-philosophie.com/philosophie/aristote-ethique-a-nicomaque-traduction-tricot-vrin"
+            },
+            {
+              "title": "Éthique à Nicomaque",
+              "publisher": "Librairie philosophique J. Vrin",
+              "url": "https://www.vrin.fr/livre/9782711600229/ethique-a-nicomaque"
+            }
+          ]
+        },
+        {
+          "text": "Au livre I, chapitre 7, de l'Éthique à Nicomaque, Aristote argumente que, comme le joueur de flûte, le sculpteur, l'œil, la main et le pied ont une fonction, l'homme en a une : une activité de l'âme conforme à la raison.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nicomachean Ethics, Book I (trad. W. D. Ross)",
+              "publisher": "The Internet Classics Archive (MIT)",
+              "url": "http://classics.mit.edu/Aristotle/nicomachaen.1.i.html"
+            }
+          ]
+        },
+        {
+          "text": "Viktor Frankl, psychiatre viennois, a survécu à plusieurs camps nazis, dont Auschwitz.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Viktor Frankl – Biography",
+              "publisher": "Viktor Frankl Institut, Vienne",
+              "url": "https://www.viktorfrankl.org/biography.html"
+            }
+          ]
+        },
+        {
+          "text": "Le livre de Frankl sur son expérience des camps a paru en allemand en 1946 et est connu en français notamment sous le titre « Découvrir un sens à sa vie avec la logothérapie ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Viktor Frankl – Biography",
+              "publisher": "Viktor Frankl Institut, Vienne",
+              "url": "https://www.viktorfrankl.org/biography.html"
+            },
+            {
+              "title": "Découvrir un sens à sa vie : avec la logothérapie (Éditions de l'Homme, 1988)",
+              "publisher": "Open Library",
+              "url": "https://openlibrary.org/works/OL1268413W/..._Trotzdem_Ja_zum_Leben_sagen?edition=decouvrirunsenss0000fran"
+            }
+          ]
+        },
+        {
+          "text": "Frankl écrit que les prisonniers qui savaient qu'une tâche les attendait étaient les plus aptes à survivre, et que la question n'est pas ce que nous attendons de la vie mais ce que la vie attend de nous.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Viktor E. Frankl, The Will to Meaning (1962)",
+              "publisher": "Panarchy",
+              "url": "https://www.panarchy.org/frankl/meaning.html"
+            },
+            {
+              "title": "Quote by Viktor Frankl: « It did not really matter what we expected from life... »",
+              "publisher": "Goodreads",
+              "url": "https://www.goodreads.com/quotes/8604504-it-did-not-really-matter-what-we-expected-from-life"
+            }
+          ]
+        },
+        {
+          "text": "Jérémie 1:5 (Segond 1910) : « Avant que je t'eusse formé dans le ventre de ta mère, je te connaissais, et avant que tu fusses sorti de son sein, je t'avais consacré, je t'avais établi prophète des nations. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jérémie 1:5 (Segond 1910)",
+              "publisher": "Lueur.org",
+              "url": "https://www.lueur.org/bible/jeremie1.5/segond-1910"
+            },
+            {
+              "title": "Bible Segond 1910/Livre de Jérémie",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Bible_Segond_1910/Livre_de_J%C3%A9r%C3%A9mie"
+            }
+          ]
+        },
+        {
+          "text": "La Bhagavad-Gîtâ (3:35) affirme qu'il vaut mieux accomplir son propre devoir (svadharma), même imparfaitement, que bien accomplir le devoir d'autrui (traduction libre de la première moitié du verset).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bhagavad-gītā 3.35",
+              "publisher": "Vedabase",
+              "url": "https://vedabase.io/en/library/bg/3/35/"
+            }
+          ]
+        },
+        {
+          "text": "En astrologie dite karmique, le nœud Nord est présenté comme la direction que l'âme doit prendre dans cette vie et le nœud Sud comme ce qu'elle doit laisser derrière elle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nœud Nord et Nœud Sud en Astrologie — Guide",
+              "publisher": "Mon Ascendant",
+              "url": "https://mon-ascendant.fr/noeud-nord-sud/"
+            },
+            {
+              "title": "Nœuds lunaires : karma et mission de vie",
+              "publisher": "Karmastro",
+              "url": "https://karmastro.com/blog/nuds-lunaires-karma-mission-vie/"
+            }
+          ]
+        },
+        {
+          "text": "Le diagramme de l'ikigai en quatre cercles (ce que tu aimes, ce pour quoi tu es doué, ce dont le monde a besoin, ce pour quoi tu peux être payé) est largement diffusé dans le développement personnel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ikigai",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ikigai"
+            }
+          ]
+        },
+        {
+          "text": "Darwin publie L'Origine des espèces en 1859 ; la sélection naturelle explique l'apparence de conception des organes sans concepteur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Darwin's greatest discovery: Design without designer (F. J. Ayala)",
+              "publisher": "PNAS",
+              "url": "https://www.pnas.org/doi/10.1073/pnas.0701072104"
+            }
+          ]
+        },
+        {
+          "text": "Dans son autobiographie, Darwin écrit que le vieil argument du dessein dans la nature, tel que l'a donné Paley, qui lui semblait autrefois si concluant, tombe maintenant que la loi de la sélection naturelle a été découverte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Darwin and Design",
+              "publisher": "Darwin Correspondence Project, University of Cambridge",
+              "url": "https://www.darwinproject.ac.uk/commentary/religion/darwin-and-design"
+            },
+            {
+              "title": "The autobiography of Charles Darwin 1809-1882 (éd. Nora Barlow, 1958)",
+              "publisher": "Darwin Online",
+              "url": "https://darwin-online.org.uk/content/contentblock?amp=&amp=&amp=&basepage=1&hitpage=1&itemID=F1497&viewtype=side"
+            }
+          ]
+        },
+        {
+          "text": "Kelemen, Rottman et Seston (2013, Journal of Experimental Psychology: General) ont montré que des scientifiques de grandes universités américaines acceptaient davantage d'explications téléologiques injustifiées, comme « les arbres produisent de l'oxygène pour que les animaux puissent respirer », lorsqu'ils répondaient sous contrainte de temps.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Professional Physical Scientists Display Tenacious Teleological Tendencies (Kelemen, Rottman, Seston, 2013)",
+              "publisher": "Journal of Experimental Psychology: General (APA)",
+              "url": "https://www.joshuarottman.com/uploads/8/2/7/9/8279307/kelemenrottmanseston_jepgwsuppmat_professional_scientists_2013.pdf"
+            },
+            {
+              "title": "Professional physical scientists display tenacious teleological tendencies: purpose-based reasoning as a cognitive default",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23067062/"
+            }
+          ]
+        },
+        {
+          "text": "Jérémie 29:11 fait partie d'une lettre adressée aux déportés à Babylone (29:1), et le verset 29:10 annonce la délivrance une fois écoulés soixante-dix ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jérémie 29 (Segond 1910)",
+              "publisher": "Lueur.org",
+              "url": "https://www.lueur.org/bible/jeremie29"
+            },
+            {
+              "title": "Jérémie 29:1-10 – LSG",
+              "publisher": "Bible Study Tools",
+              "url": "https://www.biblestudytools.com/lsg/jeremie/passage/?q=jeremie+29:1-10"
+            }
+          ]
+        },
+        {
+          "text": "Sourate 51, verset 56 (traduction Hamidullah) : « Je n'ai créé les djinns et les hommes que pour qu'ils M'adorent. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ad-Dariyat-56 – Le Saint Coran (comparaison des traductions françaises)",
+              "publisher": "NobleQuran.org",
+              "url": "http://fr.noblequran.org/coran/sourate-ad-dariyat/ayat-56/"
+            },
+            {
+              "title": "Coran, sourate 51, Ad-Dariyat (Qui éparpillent)",
+              "publisher": "Oumma",
+              "url": "https://oumma.com/coran/sourate-51/"
+            }
+          ]
+        },
+        {
+          "text": "La Bhagavad-Gîtâ, chapitre 18, versets 41 à 44, répartit les devoirs entre brahmanes, kshatriyas (guerriers), vaishyas (agriculture, élevage, commerce) et shudras (service), selon des qualités nées de la nature de chacun.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bhagavad-gītā 18.41",
+              "publisher": "Vedabase",
+              "url": "https://vedabase.io/en/library/bg/18/41/"
+            },
+            {
+              "title": "Bhagavad-gītā 18.44",
+              "publisher": "Vedabase",
+              "url": "https://vedabase.io/en/library/bg/18/44/"
+            }
+          ]
+        },
+        {
+          "text": "Pendant des siècles, l'appartenance à une varna et les devoirs qui s'y rattachent ont été déterminés en pratique par la naissance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jati",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/jati-Hindu-caste-system"
+            },
+            {
+              "title": "Varna",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/varna-Hinduism"
+            },
+            {
+              "title": "Varna (Hinduism)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Varna_(Hinduism)"
+            }
+          ]
+        },
+        {
+          "text": "Les nœuds lunaires sont les deux points où l'orbite de la Lune coupe l'écliptique ; ils parcourent le zodiaque en environ 18,6 ans, soit environ un an et demi par signe.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lunar node",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Lunar_node"
+            }
+          ]
+        },
+        {
+          "text": "La numérologie du chemin de vie retient douze nombres possibles : de 1 à 9 et les nombres maîtres 11, 22 et 33.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les 12 chemins de vie en numérologie : guide complet",
+              "publisher": "Bout du conte",
+              "url": "https://www.boutduconte.com/post/chemins-de-vie-numerologie-guide-complet"
+            },
+            {
+              "title": "Comment calculer son chemin de vie — méthode complète",
+              "publisher": "calcul-numerologie.fr",
+              "url": "https://calcul-numerologie.fr/calcul-chemin-de-vie/"
+            }
+          ]
+        },
+        {
+          "text": "Le diagramme de l'ikigai en quatre cercles a été diffusé en 2014 par le blogueur Marc Winn, qui a remplacé un mot dans un diagramme espagnol préexistant (attribué à Andrés Zuzunaga) et l'a lui-même raconté par la suite.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "About Marc Winn: the Ikigai diagram",
+              "publisher": "Marc Winn",
+              "url": "https://www.marcwinn.com/about"
+            },
+            {
+              "title": "Ikigai",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ikigai"
+            }
+          ]
+        },
+        {
+          "text": "Au Japon, le mot ikigai désigne souvent des sources de satisfaction modestes et quotidiennes, sans lien obligé avec le travail ou la rémunération.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ikigai Explained By Japanese Author & Neuroscientist Ken Mogi",
+              "publisher": "Ikigai Tribe",
+              "url": "https://ikigaitribe.com/ikigai/ikigai-explained-by-a-neuroscientist/"
+            },
+            {
+              "title": "Ikigai",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ikigai"
+            }
+          ]
+        },
+        {
+          "text": "Frankl écrit que ceux qui sont revenus des camps le doivent à bien des hasards ou des miracles, et que les meilleurs d'entre eux ne sont pas revenus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Viktor E. Frankl Quote: « We who have come back, by the aid of many lucky chances or miracles... »",
+              "publisher": "QuoteFancy",
+              "url": "https://quotefancy.com/quote/1870628/Viktor-E-Frankl-We-who-have-come-back-by-the-aid-of-many-lucky-chances-or-miracles"
+            },
+            {
+              "title": "Viktor Frankl Criticism: The Best of Us Did Not Return (Dan P. McAdams)",
+              "publisher": "eNotes",
+              "url": "https://www.enotes.com/topics/viktor-frankl/criticism/criticism/dan-p-mcadams-review-date-february-1994"
+            }
+          ]
+        },
+        {
+          "text": "Primo Levi, rescapé d'Auschwitz, écrit dans Les Naufragés et les rescapés (1986) que ce ne sont pas les meilleurs qui ont survécu aux camps.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Primo Levi – I sommersi e i salvati",
+              "publisher": "Wikiquote (it)",
+              "url": "https://it.wikiquote.org/wiki/I_sommersi_e_i_salvati"
+            },
+            {
+              "title": "Wall Street Journal. The Tragedy of Survival",
+              "publisher": "Centro Primo Levi New York",
+              "url": "https://primolevicenter.org/wall-street-journal-the-tragedy-of-survival-2/"
+            }
+          ]
+        },
+        {
+          "text": "Hill et Turiano (2014, Psychological Science) ont trouvé, chez plusieurs milliers d'adultes américains suivis pendant quatorze ans, que le fait de déclarer un but dans la vie était associé à un risque de mortalité plus faible.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Having a sense of purpose may add years to your life",
+              "publisher": "ScienceDaily (Association for Psychological Science)",
+              "url": "https://www.sciencedaily.com/releases/2014/05/140512124308.htm"
+            },
+            {
+              "title": "Purpose in Life as a Predictor of Mortality Across Adulthood",
+              "publisher": "Semantic Scholar",
+              "url": "https://www.semanticscholar.org/paper/Purpose-in-Life-as-a-Predictor-of-Mortality-Across-Hill-Turiano/59c5bbc19423a3fecd64167f70d3a53086404618"
+            }
+          ]
+        },
+        {
+          "text": "Un placebo peut soulager certains symptômes sans avoir d'effet pharmacologique propre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The power of the placebo effect",
+              "publisher": "Harvard Health Publishing",
+              "url": "https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect"
+            }
+          ]
+        },
+        {
+          "text": "Dans L'existentialisme est un humanisme (conférence de 1945), Sartre utilise l'exemple du coupe-papier, dont l'essence précède l'existence, et écrit que « l'homme n'est rien d'autre que ce qu'il se fait ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Existentialism Is a Humanism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism"
+            },
+            {
+              "title": "Existentialism is a Humanism, Jean-Paul Sartre",
+              "publisher": "Marxists Internet Archive",
+              "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=G1IOo80G-P8",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "L'univers a-t-il été fait pour nous ? Le mystère du réglage fin",
+        "url": "https://www.youtube.com/watch?v=5-lp18BDj2I"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "personne-n-a-jamais-prouve-le-contraire-1cf1",
       "title": "Si la science n'a jamais prouvé le contraire, a-t-on le droit d'y croire ?",
@@ -401,7 +859,13 @@
         "title": "Pourquoi certaines convictions ne vacillent jamais, même face aux preuves ?",
         "url": "https://www.youtube.com/watch?v=wIGW-ulElfk"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Loch Ness : 250 prélèvements d'ADN et un seul suspect",
+          "url": "https://www.youtube.com/watch?v=egTyU9vYJLs",
+          "publishedAt": "2026-10-06T11:39:29.162Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -7476,6 +7940,11 @@
           "title": "Jésus est mort : ce qu'un futur grand imam d'al-Azhar a écrit en 1942",
           "url": "https://www.youtube.com/watch?v=Lg06Qs6-w-Q",
           "publishedAt": "2026-10-04T02:14:08.210Z"
+        },
+        {
+          "title": "Pourquoi les historiens sont sûrs que Jésus a été crucifié",
+          "url": "https://www.youtube.com/watch?v=IiQYGbgG0MQ",
+          "publishedAt": "2026-10-04T08:14:29.463Z"
         }
       ],
       "corrections": []

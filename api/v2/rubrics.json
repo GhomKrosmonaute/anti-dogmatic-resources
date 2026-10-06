@@ -23,7 +23,7 @@
       "id": "philosophie",
       "name": "Philosophie moderne",
       "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie",
-      "videos": 3,
+      "videos": 4,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/philosophie.json"
       }
