@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 43,
+  "total": 44,
   "pageSize": 50,
   "page": 1,
   "pages": 1,
   "previous": null,
   "next": null,
   "items": [
+    {
+      "id": "personne-n-a-jamais-prouve-le-contraire-1cf1",
+      "title": "Si la science n'a jamais prouvé le contraire, a-t-on le droit d'y croire ?",
+      "format": "video",
+      "publishedAt": "2026-10-06T10:15:09.435Z",
+      "durationSeconds": 665,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "charge-de-la-preuve",
+        "name": "Le renversement de la charge de la preuve"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "mJXyMNvHVT0",
+        "url": "https://www.youtube.com/watch?v=mJXyMNvHVT0",
+        "thumbnail": "https://i.ytimg.com/vi/mJXyMNvHVT0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/personne-n-a-jamais-prouve-le-contraire-1cf1/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/personne-n-a-jamais-prouve-le-contraire-1cf1.json"
+      }
+    },
     {
       "id": "le-bouddhisme-est-il-une-religion-ou-une-5c18",
       "title": "Le bouddhisme est-il une religion ou une philosophie ? Ce qu'enseignait vraiment le Bouddha",

@@ -1,0 +1,401 @@
+{
+  "version": 2,
+  "id": "personne-n-a-jamais-prouve-le-contraire-1cf1",
+  "title": "Si la science n'a jamais prouvé le contraire, a-t-on le droit d'y croire ?",
+  "format": "video",
+  "publishedAt": "2026-10-06T10:15:09.435Z",
+  "durationSeconds": 665,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "charge-de-la-preuve",
+    "name": "Le renversement de la charge de la preuve"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "mJXyMNvHVT0",
+    "url": "https://www.youtube.com/watch?v=mJXyMNvHVT0",
+    "thumbnail": "https://i.ytimg.com/vi/mJXyMNvHVT0/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/personne-n-a-jamais-prouve-le-contraire-1cf1/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/personne-n-a-jamais-prouve-le-contraire-1cf1.json"
+  },
+  "facts": [
+    {
+      "text": "La Lune, avec le Soleil, provoque les marées océaniques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "What Causes Tides - Tides and Water Levels",
+          "publisher": "NOAA National Ocean Service",
+          "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides02_cause.html"
+        }
+      ]
+    },
+    {
+      "text": "L'astrologie occidentale trouve ses origines dans l'observation du ciel en Mésopotamie, notamment à Babylone.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Western Astrology",
+          "publisher": "World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Western_Astrology/"
+        },
+        {
+          "title": "Babylonian astrology",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Babylonian_astrology"
+        }
+      ]
+    },
+    {
+      "text": "La mécanique de Newton (Principia, 1687) est restée la référence plus de deux siècles avant d'être corrigée par la relativité d'Einstein (1905-1915).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Principia",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Principia"
+        },
+        {
+          "title": "100 Years of General Relativity",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/story/100-years-of-general-relativity"
+        }
+      ]
+    },
+    {
+      "text": "Au XVIIIe siècle, de nombreux savants rejetaient l'idée que des pierres puissent tomber du ciel.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Early UFO Skeptics",
+          "publisher": "Geophysical Institute, University of Alaska Fairbanks",
+          "url": "https://www.gi.alaska.edu/alaska-science-forum/early-ufo-skeptics"
+        }
+      ]
+    },
+    {
+      "text": "Le 26 avril 1803, une chute de météorites a eu lieu à L'Aigle (Orne, Normandie) ; Jean-Baptiste Biot a enquêté sur place et son rapport a convaincu l'Académie des sciences de la réalité des météorites.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Scientists Didn't Believe in Meteorites Until 1803",
+          "publisher": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/smart-news/1803-rain-rocks-helped-establish-existence-meteorites-180963017/"
+        }
+      ]
+    },
+    {
+      "text": "Alfred Wegener a proposé la dérive des continents en 1912 ; la plupart des géologues de son époque l'ont rejetée ; il est mort au Groenland en 1930 ; la tectonique des plaques, dans les années 1960, a confirmé le déplacement des continents.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Historical perspective, This Dynamic Earth",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html"
+        },
+        {
+          "title": "Alfred Wegener",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alfred_Wegener"
+        }
+      ]
+    },
+    {
+      "text": "L'expansion des fonds océaniques, qui a validé le déplacement des continents, a été établie notamment grâce aux anomalies magnétiques des roches du plancher océanique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Frederick Vine and Drummond Matthews",
+          "publisher": "The Geological Society",
+          "url": "https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Vine-and-Matthews.html"
+        },
+        {
+          "title": "Vine-Matthews hypothesis",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/science/Vine-Matthews-hypothesis"
+        }
+      ]
+    },
+    {
+      "text": "Le cœlacanthe, connu seulement par des fossiles et considéré comme éteint depuis environ 66 millions d'années, a été pêché par un chalutier en décembre 1938 au large de l'Afrique du Sud.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "West Indian Ocean coelacanth",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/West_Indian_Ocean_coelacanth"
+        },
+        {
+          "title": "Coelacanth",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Coelacanth"
+        }
+      ]
+    },
+    {
+      "text": "John Locke a nommé l'argumentum ad ignorantiam dans An Essay Concerning Human Understanding (1690), livre IV, chapitre XVII.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "An Essay Concerning Human Understanding, Book IV, Chapter XVII",
+          "publisher": "John Locke (texte intégral)",
+          "url": "https://enlightenment.supersaturated.com/johnlocke/BOOKIVChapterXVII.html"
+        },
+        {
+          "title": "Fallacies",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/fallacies/"
+        }
+      ]
+    },
+    {
+      "text": "Dans Broca's Brain (1979), Carl Sagan écrit qu'on s'est moqué de certains génies, mais qu'on s'est aussi moqué de clowns (« they also laughed at Bozo the Clown »).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Carl Sagan",
+          "publisher": "Wikiquote",
+          "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+        },
+        {
+          "title": "Broca's Brain Quotes",
+          "publisher": "Goodreads",
+          "url": "https://www.goodreads.com/work/quotes/1769867-broca-s-brain-reflections-on-the-romance-of-science"
+        }
+      ]
+    },
+    {
+      "text": "Bertrand Russell a formulé l'analogie de la théière céleste dans « Is There a God? » (1952) ; la citation lue est une traduction fidèle de ce passage.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Russell's teapot",
+          "publisher": "Humanists UK Heritage",
+          "url": "https://heritage.humanists.uk/object/russells-teapot/"
+        },
+        {
+          "title": "Russell's teapot",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Russell%27s_teapot"
+        }
+      ]
+    },
+    {
+      "text": "L'étude STEP (Benson et al., American Heart Journal, 2006) a suivi 1 802 patients opérés d'un pontage coronarien : la prière d'intercession n'a eu aucun effet sur les complications, et les patients certains d'être l'objet de prières ont eu un peu plus de complications.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer - STEP",
+          "publisher": "American College of Cardiology",
+          "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2010/02/23/19/21/step"
+        },
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients",
+          "publisher": "Mayo Clinic",
+          "url": "https://mayoclinic.elsevierpure.com/en/publications/study-of-the-therapeutic-effects-of-intercessory-prayer-step-in-c/"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le NHMRC australien a examiné les résultats de 176 études et conclu qu'il n'existe aucune affection pour laquelle on dispose de preuves fiables de l'efficacité de l'homéopathie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "NHMRC Information Paper: Evidence on the effectiveness of homeopathy for treating health conditions",
+          "publisher": "National Health and Medical Research Council",
+          "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/33/2021/04/22174009/nhmrc_2015.pdf"
+        },
+        {
+          "title": "Homeopathy (publications)",
+          "publisher": "National Health and Medical Research Council",
+          "url": "https://www.nhmrc.gov.au/about-us/publications/homeopathy"
+        }
+      ]
+    },
+    {
+      "text": "En 2019, la Haute Autorité de santé a jugé l'efficacité des médicaments homéopathiques insuffisante pour justifier leur remboursement ; celui-ci a pris fin le 1er janvier 2021.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Évaluation des médicaments homéopathiques",
+          "publisher": "Haute Autorité de santé",
+          "url": "https://www.has-sante.fr/jcms/p_3116594/fr/evaluation-des-medicaments-homeopathiques"
+        },
+        {
+          "title": "Homéopathie : la date du déremboursement total et la liste des produits concernés sont désormais officielles",
+          "publisher": "VIDAL",
+          "url": "https://www.vidal.fr/actualites/23909-homeopathie-la-date-du-deremboursement-total-et-la-liste-des-produits-concernes-sont-desormais-officielles.html"
+        }
+      ]
+    },
+    {
+      "text": "Le rhume guérit spontanément, l'effet placebo existe, et les essais cliniques comparent à l'aveugle un traitement à un placebo pour isoler son effet propre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Placebo Effects and the Common Cold: A Randomized Controlled Trial",
+          "publisher": "Annals of Family Medicine",
+          "url": "https://www.annfammed.org/content/9/4/312"
+        }
+      ]
+    },
+    {
+      "text": "Dans les essais contrôlés, l'homéopathie ne fait pas mieux qu'un placebo ; les granules homéopathiques sont faits de sucre (saccharose et lactose).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Évaluation des médicaments homéopathiques",
+          "publisher": "Haute Autorité de santé",
+          "url": "https://www.has-sante.fr/jcms/p_3116594/fr/evaluation-des-medicaments-homeopathiques"
+        },
+        {
+          "title": "Je suis diabétique. Prendre des granules homéopathiques tous les jours peut-il modifier ma glycémie ?",
+          "publisher": "Le Moniteur des pharmacies",
+          "url": "https://www.lemoniteurdespharmacies.fr/revues/le-moniteur-des-pharmacies/article/n-3134/je-suis-diabetique-prendre-des-granules-homeopathiques-tous-les-jours-peut-il-modifier-ma-glycemie.html"
+        }
+      ]
+    },
+    {
+      "text": "Shawn Carlson a publié en 1985 dans Nature « A double-blind test of astrology » : protocole conçu avec l'accord d'astrologues, choix du bon profil de personnalité (CPI) parmi trois pour chaque thème natal ; les astrologues prévoyaient au moins 50 % de réussite et ont obtenu environ un sur trois, soit le niveau du hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "Nature / NASA ADS",
+          "url": "https://ui.adsabs.harvard.edu/abs/1985Natur.318..419C"
+        },
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        }
+      ]
+    },
+    {
+      "text": "« Les astres inclinent, ils ne déterminent pas » est une maxime traditionnelle de l'astrologie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astra inclinant, non necessitant",
+          "publisher": "Astrovidya",
+          "url": "https://www.astrovidya.com/astrohistory.html"
+        }
+      ]
+    },
+    {
+      "text": "Karl Popper a pris l'astrologie comme exemple de pseudo-science et a écrit dans Conjectures and Refutations (1963) que l'irréfutabilité n'est pas une vertu d'une théorie mais un vice.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Popper: Science: Conjectures and Refutations",
+          "publisher": "Central Connecticut State University (texte de Popper)",
+          "url": "https://bertie.ccsu.edu/naturesci/PhilSci/PopperArticle.html"
+        }
+      ]
+    },
+    {
+      "text": "Christopher Hitchens a popularisé la formule « ce qui peut être affirmé sans preuve peut aussi être rejeté sans preuve », appelée rasoir de Hitchens.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hitchens's razor",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hitchens%27s_razor"
+        }
+      ]
+    },
+    {
+      "text": "En 2018, l'équipe du généticien Neil Gemmell (université d'Otago) a prélevé environ 250 échantillons d'eau dans le Loch Ness pour en analyser l'ADN environnemental : aucune trace d'ADN de reptile, mais beaucoup d'ADN d'anguille.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Loch Ness Contains No 'Monster' DNA, Say Scientists",
+          "publisher": "Live Science",
+          "url": "https://www.livescience.com/loch-ness-monster-dna-study.html"
+        },
+        {
+          "title": "Loch Ness Monster DNA study reveals 'plausible' explanation for sightings",
+          "publisher": "BBC Science Focus Magazine",
+          "url": "https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "Médecine clinique, épidémiologie et biostatistique (méthodologie des essais contrôlés contre placebo)",
+    "threshold": 6.6,
+    "passages": 11,
+    "approximations": [
+      {
+        "excerpt": "Prends l'astrologie : des millénaires d'observation du ciel, depuis Babylone.",
+        "note": "« Des millénaires » arrondit une tradition vieille de quelques milliers d'années. La durée exacte n'importe pas à l'argument."
+      },
+      {
+        "excerpt": "La mécanique de Newton a régné plus de deux siècles avant qu'Einstein ne la corrige.",
+        "note": "De 1687 à 1905, il s'écoule un peu plus de deux siècles. L'ordre de grandeur suffit à illustrer qu'une théorie peut être révisée."
+      },
+      {
+        "excerpt": "Un poisson qu'on ne connaissait que par ses fossiles, et qu'on croyait éteint depuis environ soixante-six millions d'années.",
+        "note": "Les derniers fossiles connus datent de la fin du Crétacé. L'arrondi est sans enjeu pour l'argument."
+      },
+      {
+        "excerpt": "Il meurt au Groenland en 1930 sans les avoir convaincus, et il faut attendre les années 1960 et la tectonique des plaques pour qu'on lui donne raison.",
+        "note": "« Les années 1960 » désigne la période où la tectonique des plaques s'impose. Une datation plus fine ne changerait rien au propos."
+      },
+      {
+        "excerpt": "Et quand l'équipe du généticien Neil Gemmell a prélevé, en 2018, quelque deux cent cinquante échantillons d'eau dans le loch pour en analyser l'ADN, elle n'a trouvé aucune trace de reptile, mais énormément d'ADN d'anguille.",
+        "note": "« Quelque deux cent cinquante » arrondit le nombre d'échantillons. Le constat ne dépend pas du compte exact."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+      "own": true
+    },
+    {
+      "title": "Homéopathie : Les preuves d'efficacité - Tronche de Fake 4.3",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=7Cs-AMjyVbM",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Pourquoi certaines convictions ne vacillent jamais, même face aux preuves ?",
+    "url": "https://www.youtube.com/watch?v=wIGW-ulElfk"
+  },
+  "shorts": [],
+  "corrections": []
+}
