@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "les-premiers-de-cordee-et-la-theorie-du-4091",
+      "title": "Premiers de cordée et ruissellement : la réussite des plus riches profite-t-elle à tous ?",
+      "format": "video",
+      "publishedAt": "2026-10-06T14:00:10.533Z",
+      "durationSeconds": 684,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand on allège les impôts des plus riches, ils investissent et créent des emplois : leur réussite finit par profiter à tout le monde.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "BRlmf9tRcd0",
+        "url": "https://www.youtube.com/watch?v=BRlmf9tRcd0",
+        "thumbnail": "https://i.ytimg.com/vi/BRlmf9tRcd0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-premiers-de-cordee-et-la-theorie-du-4091/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-premiers-de-cordee-et-la-theorie-du-4091.json"
+      }
+    },
+    {
       "id": "quand-on-veut-on-peut-451d",
       "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
       "format": "video",

@@ -1,9 +1,410 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T12:31:09.645Z",
+  "generatedAt": "2026-10-06T14:01:10.623Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-premiers-de-cordee-et-la-theorie-du-4091",
+      "title": "Premiers de cordée et ruissellement : la réussite des plus riches profite-t-elle à tous ?",
+      "format": "video",
+      "publishedAt": "2026-10-06T14:00:10.533Z",
+      "durationSeconds": 684,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand on allège les impôts des plus riches, ils investissent et créent des emplois : leur réussite finit par profiter à tout le monde.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Les grandes fortunes investissent bel et bien, et la réforme française a réduit les départs à l'étranger de contribuables fortunés. Mais le comité d'évaluation de France Stratégie ne trouve aucun effet mesurable sur l'investissement, alors que les dividendes ont bondi au profit d'une infime minorité. Sur cinquante ans et dix-huit pays, les grandes baisses d'impôts pour les riches augmentent leur part des revenus, sans effet significatif sur la croissance ni sur le chômage."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "BRlmf9tRcd0",
+        "url": "https://www.youtube.com/watch?v=BRlmf9tRcd0",
+        "thumbnail": "https://i.ytimg.com/vi/BRlmf9tRcd0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-premiers-de-cordee-et-la-theorie-du-4091/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-premiers-de-cordee-et-la-theorie-du-4091.json"
+      },
+      "facts": [
+        {
+          "text": "Lors d'un entretien télévisé le 15 octobre 2017, Emmanuel Macron a défendu ses réformes fiscales en disant croire à la cordée, en souhaitant qu'on célèbre ceux qui réussissent grâce à leur talent, et en déclarant : « Si l'on commence à jeter des cailloux sur les premiers de cordée, c'est toute la cordée qui dégringole. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ce qu'il faut retenir de l'interview d'Emmanuel Macron sur TF1",
+              "publisher": "France 24",
+              "url": "https://www.france24.com/fr/20171016-france-interview-emmanuel-macron-tf1-csg-bordel-pma-isf-harcelement"
+            },
+            {
+              "title": "ISF : \"Je ne crois pas à la jalousie\" envers les riches, lance Macron",
+              "publisher": "Europe 1",
+              "url": "https://www.europe1.fr/politique/isf-je-ne-crois-pas-a-la-jalousie-envers-les-riches-lance-macron-3465077"
+            }
+          ]
+        },
+        {
+          "text": "Premier de cordée est un roman de Roger Frison-Roche paru en 1941.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1941 \"Premier de Cordée\" le roman",
+              "publisher": "Site officiel Roger Frison-Roche",
+              "url": "https://frison-roche.com/1941-premier-de-cordee-le-roman/"
+            },
+            {
+              "title": "Premier de cordée (roman)",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Premier_de_cord%C3%A9e_(roman)"
+            }
+          ]
+        },
+        {
+          "text": "En alpinisme, le premier de cordée progresse en tête assuré par le second, puis assure le second depuis le relais ; la corde sert à arrêter les chutes, pas à hisser les grimpeurs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Assurage (alpinisme et escalade)",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Assurage_(alpinisme_et_escalade)"
+            }
+          ]
+        },
+        {
+          "text": "La loi de finances pour 2018 a supprimé l'ISF et l'a remplacé par l'impôt sur la fortune immobilière (IFI), qui exclut les actions et les parts d'entreprise et ne porte que sur le patrimoine immobilier.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Le rapport du Sénat confirme que l'IFI est « un impôt annuel sur les seuls actifs immobiliers », mais il précise que les parts de sociétés restent taxées pour « la fraction de leur valeur représentative de biens ou droits immobiliers » : les actions et parts ne sont donc pas exclues en totalité. Correction proposée : La loi de finances pour 2018 a supprimé l'ISF et l'a remplacé par l'impôt sur la fortune immobilière (IFI), qui ne porte que sur le patrimoine immobilier, détenu directement ou via des sociétés, et exclut donc les placements financiers co",
+          "sources": [
+            {
+              "title": "Transformation de l'ISF en IFI et création du PFU : un premier bilan",
+              "publisher": "Sénat",
+              "url": "https://www.senat.fr/rap/r19-042-1/r19-042-15.html"
+            }
+          ]
+        },
+        {
+          "text": "La loi de finances pour 2018 a créé le prélèvement forfaitaire unique (flat tax) de 30 %, prélèvements sociaux compris, sur les dividendes, intérêts et plus-values, auparavant soumis au barème progressif de l'impôt sur le revenu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le prélèvement forfaitaire unique : une bonne nouvelle pour de nombreux épargnants",
+              "publisher": "CMS Francis Lefebvre",
+              "url": "https://cms.law/fr/fra/legal-updates/Le-prelevement-forfaitaire-unique-une-bonne-nouvelle-pour-de-nombreux-epargnants"
+            },
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Troisième rapport, avis du comité",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2021/1014%20Reforme%20de%20la%20fiscalit%C3%A9%20du%20capital/fs-2021-avis-troisieme_rapport-fiscalite_du_capital-octobre.pdf"
+            }
+          ]
+        },
+        {
+          "text": "La courbe de Laffer a été popularisée dans les années 1970 par l'économiste américain Arthur Laffer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Laffer curve",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Laffer_curve"
+            },
+            {
+              "title": "Laffer Curve Napkin",
+              "publisher": "Smithsonian National Museum of American History",
+              "url": "https://americanhistory.si.edu/collections/object/nmah_1439217"
+            }
+          ]
+        },
+        {
+          "text": "Dans son discours dit de la croix d'or (1896), William Jennings Bryan a déclaré : « There are those who believe that, if you will only legislate to make the well-to-do prosperous, their prosperity will leak through on those below. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "William Jennings Bryan Cross of Gold Speech",
+              "publisher": "University of Groningen – American History documents",
+              "url": "https://www.let.rug.nl/usa/documents/1876-1900/william-jennings-bryan-cross-of-gold-speech-july-8-1896.php"
+            },
+            {
+              "title": "The Cross of Gold Speech",
+              "publisher": "Teaching American History",
+              "url": "https://teachingamericanhistory.org/document/the-cross-of-gold-speech/"
+            }
+          ]
+        },
+        {
+          "text": "En 1932, l'humoriste Will Rogers s'est moqué de la politique de Herbert Hoover en disant que l'argent avait été attribué au sommet dans l'espoir qu'il ruisselle (« trickle down ») jusqu'aux nécessiteux ; c'est l'une des origines de l'expression, née comme une moquerie dans les années 1930.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Trickle-down economics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Trickle-down_economics"
+            },
+            {
+              "title": "Trickle-down theory",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/economics/trickle-down-theory"
+            }
+          ]
+        },
+        {
+          "text": "En 1982 (« Recession Economics », The New York Review of Books), John Kenneth Galbraith a écrit qu'une génération plus ancienne et moins élégante appelait cette approche la théorie du cheval et du moineau : si l'on donne assez d'avoine au cheval, il en passera un peu sur la route pour les moineaux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Recession Economics",
+              "publisher": "The New York Review of Books",
+              "url": "https://www.nybooks.com/articles/1982/02/04/recession-economics/"
+            },
+            {
+              "title": "Galbraith, John Kenneth - \"Recession Economics,\" New York Review of Books (1982-02-04)",
+              "publisher": "WIST Quotations",
+              "url": "https://wist.info/galbraith-john-kenneth/16956/"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'article de William Greider « The Education of David Stockman » (The Atlantic, décembre 1981), David Stockman, directeur du budget de Ronald Reagan, déclare qu'il est difficile de vendre le « trickle down » et que la baisse générale des taux (Kemp-Roth) a toujours été un cheval de Troie pour faire baisser le taux le plus élevé.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "What Stockman said about Reagan plans for taxes, budget",
+              "publisher": "The Christian Science Monitor",
+              "url": "https://www.csmonitor.com/1981/1113/111348.html"
+            },
+            {
+              "title": "David Stockman",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/David_Stockman"
+            }
+          ]
+        },
+        {
+          "text": "L'économiste Thomas Sowell a consacré un livre, « 'Trickle Down' Theory and 'Tax Cuts for the Rich' » (2012), à l'idée qu'aucun économiste n'a défendu de théorie du ruissellement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"Trickle Down Theory\" and \"Tax Cuts for the Rich\"",
+              "publisher": "Hoover Institution",
+              "url": "https://www.hoover.org/research/trickle-down-theory-and-tax-cuts-rich"
+            },
+            {
+              "title": "Trickle-down economics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Trickle-down_economics"
+            }
+          ]
+        },
+        {
+          "text": "Un comité d'évaluation des réformes de la fiscalité du capital a été installé en 2018 au sein de France Stratégie, organisme placé auprès du Premier ministre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Installation du Comité d'évaluation des réformes de la fiscalité du capital",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/actualites/installation-comite-devaluation-reformes-de-fiscalite-capital"
+            },
+            {
+              "title": "Décret n° 2013-333 du 22 avril 2013 portant création du Commissariat général à la stratégie et à la prospective",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027343503"
+            }
+          ]
+        },
+        {
+          "text": "Selon le comité d'évaluation de France Stratégie, les dividendes perçus par les ménages sont passés d'environ 14 milliards d'euros en 2017 à plus de 23 milliards en 2018, après la création du prélèvement forfaitaire unique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Troisième rapport, avis du comité",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2021/1014%20Reforme%20de%20la%20fiscalit%C3%A9%20du%20capital/fs-2021-avis-troisieme_rapport-fiscalite_du_capital-octobre.pdf"
+            },
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Rapport final",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis_0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Selon le comité d'évaluation de France Stratégie, une très large part des dividendes perçus est concentrée sur une infime minorité de foyers très aisés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Troisième rapport, avis du comité",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2021/1014%20Reforme%20de%20la%20fiscalit%C3%A9%20du%20capital/fs-2021-avis-troisieme_rapport-fiscalite_du_capital-octobre.pdf"
+            },
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Rapport final",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis_0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le comité d'évaluation de France Stratégie a observé une diminution des départs à l'étranger de contribuables fortunés après les réformes de 2018.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Rapport final",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis_0.pdf"
+            },
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Troisième rapport, avis du comité",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2021/1014%20Reforme%20de%20la%20fiscalit%C3%A9%20du%20capital/fs-2021-avis-troisieme_rapport-fiscalite_du_capital-octobre.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le comité d'évaluation de France Stratégie n'est pas parvenu à mettre en évidence d'effet de la suppression de l'ISF et du prélèvement forfaitaire unique sur l'investissement des entreprises.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Rapport final",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis_0.pdf"
+            },
+            {
+              "title": "Comité d'évaluation des réformes de la fiscalité du capital – Troisième rapport, avis du comité",
+              "publisher": "France Stratégie",
+              "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2021/1014%20Reforme%20de%20la%20fiscalit%C3%A9%20du%20capital/fs-2021-avis-troisieme_rapport-fiscalite_du_capital-octobre.pdf"
+            }
+          ]
+        },
+        {
+          "text": "David Hope et Julian Limberg (« The economic consequences of major tax cuts for the rich », Socio-Economic Review, 2022) ont étudié les grandes baisses d'impôts pour les plus riches dans 18 pays de l'OCDE de 1965 à 2015 : elles augmentent la part des revenus du 1 % le plus riche, sans effet significatif sur la croissance ni sur le chômage.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The economic consequences of major tax cuts for the rich",
+              "publisher": "Socio-Economic Review (Oxford University Press)",
+              "url": "https://academic.oup.com/ser/article/20/2/539/6500315"
+            },
+            {
+              "title": "Tax cuts for the wealthy only benefit the rich",
+              "publisher": "London School of Economics",
+              "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics"
+            }
+          ]
+        },
+        {
+          "text": "Owen Zidar (« Tax Cuts for Whom? », Journal of Political Economy, 2019) montre qu'aux États-Unis les baisses d'impôts pour les 90 % les moins aisés stimulent bien plus l'emploi que celles pour les 10 % les plus aisés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tax Cuts For Whom? Heterogeneous Effects of Income Tax Changes on Growth and Employment",
+              "publisher": "NBER",
+              "url": "https://www.nber.org/papers/w21035"
+            },
+            {
+              "title": "Tax Cuts for Whom? Heterogeneous Effects of Income Tax Changes on Growth and Employment",
+              "publisher": "Journal of Political Economy (JSTOR)",
+              "url": "https://www.jstor.org/stable/26846678"
+            }
+          ]
+        },
+        {
+          "text": "Une note de discussion des services du FMI (Dabla-Norris et al., « Causes and Consequences of Income Inequality: A Global Perspective », 2015) observe qu'une hausse de la part des revenus des 20 % les plus riches est associée à une croissance plus faible dans les années suivantes, et conclut que les gains ne ruissellent pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Causes and Consequences of Income Inequality: A Global Perspective",
+              "publisher": "International Monetary Fund",
+              "url": "https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Causes-and-Consequences-of-Income-Inequality-A-Global-Perspective-42986"
+            },
+            {
+              "title": "Causes and Consequences of Income Inequality: A Global Perspective (SDN/15/13)",
+              "publisher": "International Monetary Fund",
+              "url": "https://www.imf.org/-/media/websites/imf/imported/external/pubs/ft/sdn/2015/_sdn1513pdf.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Lors de la crise financière de 2008, les États sont intervenus pour sauver les banques en difficulté.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'intervention des États et des banques centrales et ses contreparties au plus fort de la crise",
+              "publisher": "Ministère de l'Économie (Facileco)",
+              "url": "https://www.economie.gouv.fr/facileco/lintervention-des-etats-et-des-banques-centrales-et-ses-contreparties-au-plus-fort-de-la-crise"
+            }
+          ]
+        },
+        {
+          "text": "En France, les inégalités de revenus ont nettement reculé entre 1965 et 1980.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Inégalités de revenu et de richesse en France : évolutions et liens sur longue période",
+              "publisher": "Insee – Économie et Statistique",
+              "url": "https://www.insee.fr/fr/statistiques/fichier/4253029/510_511_512_Garbinti_Goupille-Lebret_FR.pdf"
+            },
+            {
+              "title": "Quarante ans d'inégalités de niveau de vie et de redistribution en France (1975-2016)",
+              "publisher": "Insee – France, portrait social",
+              "url": "https://www.insee.fr/fr/statistiques/4238443?sommaire=4238781"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "La SPECTACULAIRE réduction des inégalités en France (1965-1980)",
+          "channel": "Chat Sceptique",
+          "url": "https://www.youtube.com/watch?v=Aox6YjA7ytA",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Où va vraiment l'argent que tu déposes à la banque ?",
+        "url": "https://www.youtube.com/watch?v=3pjP8BcdJJc"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "avons-nous-chacun-une-mission-sur-terre-eeaa",
       "title": "Avons-nous tous une mission de vie ? Ce qu'en disent les religions, les astres et la philosophie",
@@ -459,7 +860,13 @@
         "title": "L'univers a-t-il été fait pour nous ? Le mystère du réglage fin",
         "url": "https://www.youtube.com/watch?v=5-lp18BDj2I"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Le sens de la vie fait survivre ? Ce que les morts n'ont pas écrit",
+          "url": "https://www.youtube.com/watch?v=ia4AFz4bnAI",
+          "publishedAt": "2026-10-06T13:40:30.014Z"
+        }
+      ],
       "corrections": []
     },
     {
