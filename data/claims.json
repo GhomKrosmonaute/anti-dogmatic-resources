@@ -1,9 +1,533 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T16:16:11.124Z",
+  "generatedAt": "2026-10-06T17:46:15.667Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "l-acupuncture-a-l-epreuve-des-faits-3acc",
+      "title": "L'acupuncture, ça marche vraiment ? Méridiens, énergie qi et ce qu'en dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-06T17:45:15.571Z",
+      "durationSeconds": 752,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "En piquant des points précis situés sur les méridiens, l'acupuncture rééquilibre la circulation du qi et soigne : les patients qui vont mieux en sont la preuve.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Le soulagement ressenti par les patients est réel, mais aucun méridien n'a jamais été identifié en anatomie. Dans les essais contrôlés, une acupuncture simulée, avec des aiguilles hors des points, des aiguilles rétractables ou un cure-dent, soulage presque autant que la vraie : le bénéfice vient du rituel, de la relation et des attentes, pas du qi."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hHWFd5ai2MI",
+        "url": "https://www.youtube.com/watch?v=hHWFd5ai2MI",
+        "thumbnail": "https://i.ytimg.com/vi/hHWFd5ai2MI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-acupuncture-a-l-epreuve-des-faits-3acc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-acupuncture-a-l-epreuve-des-faits-3acc.json"
+      },
+      "facts": [
+        {
+          "text": "Les aiguilles d'acupuncture sont à peine plus épaisses qu'un cheveu, et le point Hegu, entre le pouce et l'index, est traditionnellement employé contre les maux de tête.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Acupuncture: What To Know",
+              "publisher": "Cleveland Clinic",
+              "url": "https://my.clevelandclinic.org/health/treatments/4767-acupuncture"
+            },
+            {
+              "title": "Acupressure for Pain and Headaches",
+              "publisher": "Memorial Sloan Kettering Cancer Center",
+              "url": "https://www.mskcc.org/cancer-care/patient-education/acupressure-pain-and-headaches"
+            }
+          ]
+        },
+        {
+          "text": "La médecine traditionnelle chinoise décrit douze méridiens principaux reliés chacun à un organe, plus huit vaisseaux dits extraordinaires, parcourus par le qi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Meridian (Chinese medicine)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)"
+            }
+          ]
+        },
+        {
+          "text": "Le Huangdi Neijing, texte fondateur de la médecine chinoise classique, a été compilé il y a plus de deux mille ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A brief history of acupuncture",
+              "publisher": "Rheumatology (Oxford University Press)",
+              "url": "https://academic.oup.com/rheumatology/article/43/5/662/1788282"
+            },
+            {
+              "title": "Huangdi neijing",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/Huangdi-neijing"
+            }
+          ]
+        },
+        {
+          "text": "L'OMS (bureau régional du Pacifique occidental) a publié en 2008 un référentiel standardisant l'emplacement d'un peu plus de 360 points d'acupuncture (361).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "WHO Standard Acupuncture Point Locations",
+              "publisher": "Evidence-Based Complementary and Alternative Medicine (PubMed)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19204011/"
+            },
+            {
+              "title": "WHO Standard Acupuncture Point Locations in the Western Pacific Region",
+              "publisher": "World Health Organization, Western Pacific Region",
+              "url": "https://books.google.com/books/about/WHO_Standard_Acupuncture_Point_Locations.html?id=_Wwys_i2Ks8C"
+            }
+          ]
+        },
+        {
+          "text": "La tradition appelle de qi la sensation sourde, de lourdeur ou d'engourdissement, ressentie lors de la puncture.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Characterization of Deqi Sensation and Acupuncture Effect",
+              "publisher": "Evidence-Based Complementary and Alternative Medicine (PMC)",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705793/"
+            }
+          ]
+        },
+        {
+          "text": "George Soulié de Morant, diplomate français en poste en Chine au début du XXe siècle, a publié à partir des années 1930 des ouvrages qui ont largement fait connaître l'acupuncture en France et en Occident.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "George Soulié de Morant",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/George_Souli%C3%A9_de_Morant"
+            },
+            {
+              "title": "The Forefather of Acupuncture Energetics, a Charlatan?",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/the-forefather-of-acupuncture-energetics-a-charlatan/"
+            }
+          ]
+        },
+        {
+          "text": "En juillet 1971, James Reston, journaliste au New York Times, a été opéré de l'appendicite à Pékin sous anesthésie conventionnelle par injection, puis traité par acupuncture pour un inconfort postopératoire, ce qu'il a raconté dans son journal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "At the Pinnacle of His Profession: Mr. Reston Goes to China, July 8, 1971-August 27, 1971",
+              "publisher": "University of Illinois Archives",
+              "url": "https://archives.library.illinois.edu/james-reston-main-exhibit-page/10205-2/"
+            },
+            {
+              "title": "Acupuncture Anesthesia: A Proclamation from Chairman Mao (Part I)",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/acupuncture-anesthesia-a-proclamation-of-chairman-mao-part-i/"
+            }
+          ]
+        },
+        {
+          "text": "En France, des facultés de médecine délivrent des diplômes d'acupuncture, des sages-femmes la proposent en maternité et des consultations hospitalières l'utilisent contre la douleur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Arrêté du 2 novembre 2009 fixant la liste des diplômes permettant l'exercice des actes d'acupuncture par les sages-femmes",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021245638"
+            },
+            {
+              "title": "Lieux d'enseignement de l'acupuncture médicale",
+              "publisher": "FAFORMEC",
+              "url": "https://acupuncture-medic.fr/college-des-enseignants/lieux-enseignement-de-lacupuncture-medicale/"
+            },
+            {
+              "title": "Centre d'évaluation et de traitement de la douleur (CETD) adultes",
+              "publisher": "CHU de Rennes",
+              "url": "https://www.chu-rennes.fr/je-cherche/prise-en-charge-specifique/centre-devaluation-et-de-traitement-de-la-douleur-cetd-adultes-442.html"
+            },
+            {
+              "title": "L'acupuncture en gynécologie-obstétrique",
+              "publisher": "Centre hospitalier de Narbonne",
+              "url": "https://www.ch-narbonne.fr/gynecologie-obstetrique-maternite-secteur-naissance-acupuncture/"
+            }
+          ]
+        },
+        {
+          "text": "Dans les années 1970, Bruce Pomeranz a montré chez l'animal que la naloxone bloque l'analgésie par acupuncture, impliquant les endorphines (Pomeranz et Chiu, Life Sciences, 1976).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Frontiers in Pharmacology (2021) – review citing Pomeranz & Chiu 1976",
+              "publisher": "Frontiers in Pharmacology",
+              "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.680198/full"
+            },
+            {
+              "title": "Mechanisms of Electroacupuncture-Induced Analgesia on Neuropathic Pain in Animal Model",
+              "publisher": "Evidence-Based Complementary and Alternative Medicine (PMC)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3747484/"
+            }
+          ]
+        },
+        {
+          "text": "Ni la dissection, ni l'imagerie médicale, ni la microscopie n'ont mis en évidence de façon reproductible des structures anatomiques correspondant aux méridiens ou aux points d'acupuncture.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Acupuncture Points and Meridians Do Not Exist",
+              "publisher": "Scientific Review of Alternative Medicine (Center for Inquiry archives)",
+              "url": "https://archives.centerforinquiry.org/sram/acupuncture-points-and-meridians-do-not-exist/"
+            },
+            {
+              "title": "Meridian (Chinese medicine)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)"
+            }
+          ]
+        },
+        {
+          "text": "En 1985, Pierre de Vernejoul a publié une étude par traceur radioactif injecté sur des points d'acupuncture, affirmant que le traceur suivait les méridiens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Etude des méridiens d'acupuncture par les traceurs radioactifs",
+              "publisher": "Pascal-Francis (INIST-CNRS)",
+              "url": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=8694816"
+            },
+            {
+              "title": "[Study of acupuncture meridians using radioactive tracers]",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3008958/"
+            }
+          ]
+        },
+        {
+          "text": "En 1988, une équipe française (Simon et al.) a publié dans La Presse médicale une reprise de la méthode concluant que la migration du traceur s'explique par la circulation lymphatique et veineuse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Acupuncture meridians demythified. A study using the radioactive tracer method",
+              "publisher": "OSTI / ETDEWEB",
+              "url": "https://www.osti.gov/etdeweb/biblio/7039612"
+            },
+            {
+              "title": "[Acupuncture meridians demythified. Contribution of radiotracer methodology]",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2841660/"
+            }
+          ]
+        },
+        {
+          "text": "L'historien Paul Unschuld souligne que les textes chinois anciens décrivent des vaisseaux où circulent le sang et des souffles, et que les traductions « méridien » et « énergie » se sont imposées en Occident au XXe siècle, notamment via Soulié de Morant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Meridian (Chinese medicine)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)"
+            },
+            {
+              "title": "The Forefather of Acupuncture Energetics, a Charlatan?",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/the-forefather-of-acupuncture-energetics-a-charlatan/"
+            }
+          ]
+        },
+        {
+          "text": "Parmi les neuf aiguilles décrites dans la médecine chinoise ancienne (Lingshu), plusieurs servaient à inciser ou à saigner ; les aiguilles fines à usage unique sont une invention récente.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Historical Facts of Acupuncture and Traditional Chinese Veterinary Medicine—A Letter to the Editor",
+              "publisher": "Animals (MDPI, PMC)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7401525/"
+            },
+            {
+              "title": "Examination of surface conditions and other physical properties of commonly used stainless steel acupuncture needles",
+              "publisher": "Acupuncture in Medicine (PMC)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3995252/"
+            }
+          ]
+        },
+        {
+          "text": "En 1822, un édit de l'empereur Daoguang a exclu l'acupuncture de l'Institut médical impérial.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'interdiction de l'acupuncture en 1822 par l'empereur Daoguang et l'instrumentalisation de l'histoire",
+              "publisher": "Acupuncture & Moxibustion (GERA), 2018",
+              "url": "https://gera.fr/wp-content/uploads/2020/08/nguyen-173500.pdf"
+            },
+            {
+              "title": "1822 in China",
+              "publisher": "Wikipedia (citant Bridie Andrews)",
+              "url": "https://en.wikipedia.org/wiki/1822_in_China"
+            }
+          ]
+        },
+        {
+          "text": "Au début du XXe siècle, les élites médicales chinoises se sont largement tournées vers la médecine occidentale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bridie Andrews, The Making of Modern Chinese Medicine; Sean Hsiang-lin Lei, Neither Donkey nor Horse (review)",
+              "publisher": "Journal of the History of Medicine and Allied Sciences (PMC)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4986214/"
+            },
+            {
+              "title": "Retconning the story of traditional Chinese medicine",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/retconning-traditional-chinese-medicine/"
+            }
+          ]
+        },
+        {
+          "text": "Dans les années 1950, la République populaire de Chine, en manque de médecins, a promu une médecine traditionnelle chinoise unifiée et standardisée, présentée comme un trésor national, version ensuite exportée en Occident.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Retconning the story of traditional Chinese medicine",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/retconning-traditional-chinese-medicine/"
+            },
+            {
+              "title": "Chinese Medicine in Early Communist China, 1945–1963: A Medicine of Revolution (review)",
+              "publisher": "Social History of Medicine (Oxford University Press)",
+              "url": "https://academic.oup.com/shm/article-abstract/19/2/338/2259085"
+            }
+          ]
+        },
+        {
+          "text": "La mémoire populaire présente souvent l'opération de James Reston comme réalisée sous acupuncture, alors que les aiguilles ne sont intervenues qu'après l'intervention.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "James Reston",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/James_Reston"
+            },
+            {
+              "title": "Acupuncture Anesthesia: A Proclamation from Chairman Mao (Part I)",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/acupuncture-anesthesia-a-proclamation-of-chairman-mao-part-i/"
+            }
+          ]
+        },
+        {
+          "text": "Les opérations sous « anesthésie par acupuncture » montrées aux visiteurs occidentaux dans les années 1970 s'accompagnaient de sédatifs et d'anesthésiques locaux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Acupuncture: Nonsense with Needles",
+              "publisher": "Quackwatch (Arthur Taub)",
+              "url": "https://quackwatch.org/acupuncture/general/taub/"
+            },
+            {
+              "title": "Acupuncture Anesthesia: a Proclamation from Chairman Mao (Part IV)",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/acupuncture-anesthesia-a-proclamation-from-chairman-mao-part-iv/"
+            }
+          ]
+        },
+        {
+          "text": "L'auriculothérapie a été élaborée dans les années 1950 par le médecin lyonnais Paul Nogier.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Paul Nogier",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Paul_Nogier"
+            },
+            {
+              "title": "Auriculotherapy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Auriculotherapy"
+            }
+          ]
+        },
+        {
+          "text": "La saignée a été pratiquée en médecine pendant plus de deux millénaires et affaiblissait les malades.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bloodletting",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bloodletting"
+            },
+            {
+              "title": "Bloodletting Instruments in the National Museum of History and Technology",
+              "publisher": "Smithsonian Institution (Project Gutenberg)",
+              "url": "https://www.gutenberg.org/files/33102/33102-h/33102-h.htm"
+            }
+          ]
+        },
+        {
+          "text": "Streitberger et Kleinhenz ont présenté en 1998 dans The Lancet une aiguille placebo à pointe émoussée qui se rétracte dans le manche sans pénétrer la peau.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Placebo Acupuncture Devices: Considerations for Acupuncture Research",
+              "publisher": "Evidence-Based Complementary and Alternative Medicine (PMC)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3690239"
+            },
+            {
+              "title": "Placebo needle for acupuncture",
+              "publisher": "The Lancet",
+              "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)61551-6/fulltext"
+            }
+          ]
+        },
+        {
+          "text": "Linde et al., JAMA 2005 : chez 302 patients migraineux, acupuncture et acupuncture minimale sur des non-points font mieux que la liste d'attente, sans différence significative entre elles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Acupuncture for Patients With Migraine: A Randomized Controlled Trial",
+              "publisher": "JAMA",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/200822"
+            },
+            {
+              "title": "Acupuncture for patients with migraine: a randomized controlled trial",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15870415/"
+            }
+          ]
+        },
+        {
+          "text": "Essai GERAC sur la lombalgie chronique (Haake et al., Archives of Internal Medicine 2007), plus de 1 100 patients : vraie et fausse acupuncture font mieux que le traitement conventionnel, sans différence significative entre elles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "German Acupuncture Trials (GERAC) for Chronic Low Back Pain",
+              "publisher": "Archives of Internal Medicine (JAMA Network)",
+              "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/413107"
+            },
+            {
+              "title": "Haake M, Muller HH et al. German Acupuncture Trials (GERAC) for Chronic Low Back Pain",
+              "publisher": "Colorado Department of Labor and Employment (copie de l'article)",
+              "url": "https://cdle.colorado.gov/sites/cdle/files/Haake_2007_0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Cherkin et al., Archives of Internal Medicine 2009 : 638 adultes lombalgiques ; acupuncture personnalisée, standardisée et simulée par cure-dent dans un tube guide font mieux que les soins habituels, la simulation étant aussi efficace que la vraie acupuncture.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Randomized Trial Comparing Acupuncture, Simulated Acupuncture, and Usual Care for Chronic Low Back Pain",
+              "publisher": "Archives of Internal Medicine (JAMA Network)",
+              "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414934"
+            },
+            {
+              "title": "Real And Simulated Acupuncture Appear More Effective Than Usual Care For Back Pain",
+              "publisher": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2009/05/090511164228.htm"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "Médecine clinique et biostatistique (essais contrôlés contre placebo, méta-analyses sur la douleur chronique), avec la pharmacologie de l'analgésie opioïde et placebo",
+        "approximations": [
+          {
+            "excerpt": "Une aiguille à peine plus épaisse qu'un cheveu, plantée dans le creux entre ton pouce et ton index, et c'est ta tête qui se dénoue.",
+            "note": "Comparaison de taille imagée, sans conséquence pour l'argument ni pour la santé."
+          },
+          {
+            "excerpt": "Le texte fondateur de cette vision, c'est le Huangdi Neijing, dont le titre signifie Classique interne de l'Empereur Jaune, compilé il y a plus de deux mille ans.",
+            "note": "Datation arrondie d'un texte compilé sur une longue période ; l'argument ne dépend pas de la date exacte."
+          },
+          {
+            "excerpt": "Sur le trajet des méridiens se trouvent les points : un peu plus de trois cent soixante, dont l'Organisation mondiale de la santé a standardisé l'emplacement en 2008.",
+            "note": "Décompte arrondi des points (361 dans la nomenclature de l'OMS), sans enjeu sanitaire."
+          },
+          {
+            "excerpt": "En 2007, l'un des essais allemands GERAC suit plus de mille cent patients souffrant de lombalgie chronique.",
+            "note": "Effectif arrondi de l'essai ; le résultat discuté ne dépend pas du nombre exact de participants."
+          },
+          {
+            "excerpt": "Objection : en 2012, une méta-analyse dirigée par Andrew Vickers, sur les données de près de dix-huit mille patients, conclut que la vraie acupuncture fait mieux que la fausse.",
+            "note": "Effectif arrondi (environ 17 900 patients), qui sert seulement à souligner l'ampleur de la méta-analyse."
+          },
+          {
+            "excerpt": "Et même si tout cela avait trois mille ans, ça ne prouverait rien : la saignée a duré plus de deux millénaires, et elle affaiblissait les malades qu'elle prétendait guérir.",
+            "note": "Durées historiques arrondies, au service d'un argument logique (l'ancienneté ne prouve rien) qui ne dépend pas de leur précision."
+          },
+          {
+            "excerpt": "Plus de deux mille ans de cartographie du qi, à égalité avec un accessoire de restaurant.",
+            "note": "Ancienneté arrondie employée de façon rhétorique ; sa valeur exacte est sans importance."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY",
+          "own": true
+        },
+        {
+          "title": "Que vaut vraiment l'ACUPUNCTURE -2- (les preuves scientifiques) [PSNC]",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=zbyvHe1J3CE",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+        "url": "https://www.youtube.com/watch?v=aIAywoU0Png"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a",
       "title": "Moïse, les dix plaies et la sortie d'Égypte : l'archéologie a-t-elle retrouvé l'Exode ?",
@@ -457,7 +981,13 @@
         "title": "Qui a vraiment écrit les Évangiles ? Ce que l'on sait de Matthieu, Marc, Luc et Jean",
         "url": "https://www.youtube.com/watch?v=qlG4FebMRmg"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Quarante ans dans le Sinaï : qu'a retrouvé l'archéologie ?",
+          "url": "https://www.youtube.com/watch?v=x7g-CTdtRRs",
+          "publishedAt": "2026-10-06T17:39:02.559Z"
+        }
+      ],
       "corrections": []
     },
     {

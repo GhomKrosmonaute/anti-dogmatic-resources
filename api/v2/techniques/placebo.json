@@ -12,6 +12,48 @@
   "taughtBy": [],
   "examples": [
     {
+      "id": "l-acupuncture-a-l-epreuve-des-faits-3acc",
+      "title": "L'acupuncture, ça marche vraiment ? Méridiens, énergie qi et ce qu'en dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-06T17:45:15.571Z",
+      "durationSeconds": 752,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "En piquant des points précis situés sur les méridiens, l'acupuncture rééquilibre la circulation du qi et soigne : les patients qui vont mieux en sont la preuve.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hHWFd5ai2MI",
+        "url": "https://www.youtube.com/watch?v=hHWFd5ai2MI",
+        "thumbnail": "https://i.ytimg.com/vi/hHWFd5ai2MI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-acupuncture-a-l-epreuve-des-faits-3acc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-acupuncture-a-l-epreuve-des-faits-3acc.json"
+      }
+    },
+    {
       "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
       "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
       "format": "video",
