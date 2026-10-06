@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a",
+      "title": "Moïse, les dix plaies et la sortie d'Égypte : l'archéologie a-t-elle retrouvé l'Exode ?",
+      "format": "video",
+      "publishedAt": "2026-10-06T16:15:11.028Z",
+      "durationSeconds": 697,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Moïse a réellement fait sortir d'Égypte le peuple hébreu réduit en esclavage : après dix plaies, six cent mille hommes avec leurs familles ont traversé la mer et vécu quarante ans dans le désert avant d'entrer en Canaan.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "8S1ZlulD8OA",
+        "url": "https://www.youtube.com/watch?v=8S1ZlulD8OA",
+        "thumbnail": "https://i.ytimg.com/vi/8S1ZlulD8OA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a.json"
+      }
+    },
+    {
       "id": "les-premiers-de-cordee-et-la-theorie-du-4091",
       "title": "Premiers de cordée et ruissellement : la réussite des plus riches profite-t-elle à tous ?",
       "format": "video",

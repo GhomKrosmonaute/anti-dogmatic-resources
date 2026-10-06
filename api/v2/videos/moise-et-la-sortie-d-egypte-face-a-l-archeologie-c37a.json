@@ -1,0 +1,457 @@
+{
+  "version": 2,
+  "id": "moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a",
+  "title": "Moïse, les dix plaies et la sortie d'Égypte : l'archéologie a-t-elle retrouvé l'Exode ?",
+  "format": "video",
+  "publishedAt": "2026-10-06T16:15:11.028Z",
+  "durationSeconds": 697,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Moïse a réellement fait sortir d'Égypte le peuple hébreu réduit en esclavage : après dix plaies, six cent mille hommes avec leurs familles ont traversé la mer et vécu quarante ans dans le désert avant d'entrer en Canaan.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Tel qu'il est raconté, l'Exode n'a pas eu lieu : aucune source égyptienne n'en parle, le Sinaï et Kadès-Barnéa n'ont livré aucune trace d'occupation à la fin de l'âge du bronze, et le texte contient des anachronismes du premier millénaire avant notre ère. Les premiers Israélites apparaissent en Canaan comme une population issue des Cananéens ; un petit noyau venu d'Égypte reste possible mais non démontré."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "8S1ZlulD8OA",
+    "url": "https://www.youtube.com/watch?v=8S1ZlulD8OA",
+    "thumbnail": "https://i.ytimg.com/vi/8S1ZlulD8OA/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a.json"
+  },
+  "facts": [
+    {
+      "text": "Exode 12:37 indique que les enfants d'Israël partirent de Ramsès pour Succoth au nombre d'environ six cent mille hommes de pied, sans les enfants.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Exodus 12:37 KJV",
+          "publisher": "King James Bible Online",
+          "url": "https://www.kingjamesbibleonline.org/Exodus-12-37/"
+        }
+      ]
+    },
+    {
+      "text": "Selon Genèse 46:27 et Exode 1:5, la famille de Jacob installée en Égypte compte soixante-dix personnes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Genesis 46:27",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/genesis/46-27.htm"
+        },
+        {
+          "title": "Exodus 1:5",
+          "publisher": "Bible Study Tools",
+          "url": "https://www.biblestudytools.com/exodus/1-5.html"
+        }
+      ]
+    },
+    {
+      "text": "Exode 1:11 fait bâtir aux Hébreux les villes-entrepôts de Pithom et de Ramsès, et Exode 1:22 ordonne de jeter au Nil les garçons nouveau-nés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Exodus 1:11 ESV",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/esv/exodus/1-11.htm"
+        },
+        {
+          "title": "Exodus 1:22 KJV",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/kjv/exodus/1-22.htm"
+        }
+      ]
+    },
+    {
+      "text": "Exode 7 à 12 décrit dix plaies dans l'ordre : sang, grenouilles, poux, mouches, mortalité du bétail, ulcères, grêle, sauterelles, ténèbres, mort des premiers-nés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Plagues of Egypt",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Plagues_of_Egypt"
+        }
+      ]
+    },
+    {
+      "text": "La Mishna, traité Pessahim 10:5, prescrit qu'à chaque génération chacun doit se voir comme s'il était lui-même sorti d'Égypte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mishnah Pesachim 10:5 (translation)",
+          "publisher": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Translation:Mishnah/Seder_Moed/Tractate_Pesachim/Chapter_10/5"
+        }
+      ]
+    },
+    {
+      "text": "Les Évangiles placent la Passion au moment de la Pâque, et Paul écrit en 1 Corinthiens 5:7 que le Christ, notre Pâque, a été immolé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "1 Corinthians 5:7 ESV",
+          "publisher": "Biblia (Faithlife)",
+          "url": "https://biblia.com/bible/esv/1-corinthians/5/7"
+        },
+        {
+          "title": "Was Jesus' Last Supper a Seder?",
+          "publisher": "Biblical Archaeology Society",
+          "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/was-jesus-last-supper-a-seder/"
+        }
+      ]
+    },
+    {
+      "text": "Moïse (Moussa) est le personnage le plus souvent nommé dans le Coran, plus de cent trente fois.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Musa - Ontology of Quranic Concepts",
+          "publisher": "Quranic Arabic Corpus (University of Leeds)",
+          "url": "https://corpus.quran.com/concept.jsp?id=musa"
+        },
+        {
+          "title": "Moses in Islam",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Moses_in_Islam"
+        }
+      ]
+    },
+    {
+      "text": "La sourate 7, verset 133, énumère l'inondation, les sauterelles, les poux, les grenouilles et le sang envoyés au peuple de Pharaon.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Surah Al-A'raf 7:133",
+          "publisher": "Quran.com",
+          "url": "https://quran.com/7/133?translations=101%2C85%2C84%2C21%2C20%2C19%2C17%2C22%2C18%2C95"
+        }
+      ]
+    },
+    {
+      "text": "Les Hyksos, souverains d'origine asiatique, ont régné sur le nord de l'Égypte vers 1650-1550 av. J.-C. depuis Avaris (Tell el-Dab'a), dont les fouilles de Manfred Bietak ont révélé une culture matérielle largement cananéenne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hyksos",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hyksos"
+        },
+        {
+          "title": "Exploratory palynological studies at the Tell el-Daba'a-Avaris archaeological site",
+          "publisher": "PubMed Central (NIH)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5802438/"
+        }
+      ]
+    },
+    {
+      "text": "Flavius Josèphe, dans Contre Apion (livre I), en s'appuyant sur Manéthon, identifie les Hyksos aux ancêtres des Juifs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Josephus: Against Apion I",
+          "publisher": "University of Chicago (LacusCurtius/Penelope)",
+          "url": "https://penelope.uchicago.edu/josephus/apion-1.html"
+        },
+        {
+          "title": "Flavius Josephus, Against Apion, Book I, section 103",
+          "publisher": "Perseus Digital Library (Tufts University)",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0216%3Abook%3D1%3Asection%3D103"
+        }
+      ]
+    },
+    {
+      "text": "Les lettres d'Amarna (XIVe siècle av. J.-C.) contiennent des plaintes de rois cananéens contre les Hapiru.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Amarna letter EA 290",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amarna_letter_EA_290"
+        }
+      ]
+    },
+    {
+      "text": "Le papyrus Ipuwer (Leyde I 344) est une lamentation où l'on lit que le fleuve est du sang ; sa composition est généralement datée du Moyen Empire et il ne mentionne ni Hébreux ni Moïse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ipuwer Papyrus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ipuwer_Papyrus"
+        },
+        {
+          "title": "The Admonitions of Ipuwer",
+          "publisher": "World History Encyclopedia",
+          "url": "https://www.worldhistory.org/article/981/the-admonitions-of-ipuwer/"
+        }
+      ]
+    },
+    {
+      "text": "La stèle de Mérenptah, fils de Ramsès II, découverte par Flinders Petrie en 1896 et datée vers 1208 av. J.-C., contient la plus ancienne mention connue d'Israël hors de la Bible et ne mentionne aucune sortie d'Égypte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Merneptah Stele",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Merneptah_Stele"
+        },
+        {
+          "title": "The Merneptah Stele",
+          "publisher": "Museum of the Bible",
+          "url": "https://www.museumofthebible.org/book-minute/the-merneptah-stele"
+        }
+      ]
+    },
+    {
+      "text": "1 Rois 6:1 place la sortie d'Égypte 480 ans avant le début de la construction du Temple de Salomon, soit vers 1446 av. J.-C. dans la chronologie traditionnelle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "1 Kings 6:1 KJV",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/kjv/1_kings/6-1.htm"
+        },
+        {
+          "title": "Biblical literalist chronology",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Biblical_literalist_chronology"
+        }
+      ]
+    },
+    {
+      "text": "Aucun texte égyptien connu ne mentionne Moïse, des esclaves hébreux, les dix plaies ou une armée engloutie dans la mer.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Aucun texte égyptien du IIe millénaire ne mentionne l'Exode ni les Israélites en Égypte (les « Asiatiques » attestés ne peuvent leur être rattachés), mais l'Aegyptiaca de Manéthon (IIIe s. av. J.-C.), cité par Josèphe, nomme bien Moïse : la formule doit donc être restreinte aux sources contemporaines. Correction proposée : Aucun texte égyptien contemporain des faits supposés ne mentionne Moïse, des esclaves hébreux, les dix plaies ou une armée engloutie dans la mer ; seul le prêtre Manéthon, au IIIe siècle av. J.-C., évoque un Osarseph devenu « Moïse ",
+      "sources": [
+        {
+          "title": "The Exodus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Exodus"
+        },
+        {
+          "title": "Osarseph",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Osarseph"
+        }
+      ]
+    },
+    {
+      "text": "Le papyrus Anastasi V conserve le rapport d'un officier poursuivant deux serviteurs en fuite à la frontière orientale de l'Égypte, à la fin du XIIIe siècle av. J.-C.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Papyrus Anastasi V, c. 1200 BCE",
+          "publisher": "Center for Online Judaic Studies",
+          "url": "https://cojs.org/papyrus_anastasi_v-_c-_1200_bce/"
+        },
+        {
+          "title": "Papyrus Anastasi V",
+          "publisher": "Ancient Egypt Online",
+          "url": "https://ancientegyptonline.co.uk/papyrus-anastasi-v/"
+        }
+      ]
+    },
+    {
+      "text": "Le papyrus Anastasi VI enregistre, sous Mérenptah, le passage de tribus de bergers shasou d'Édom vers les bassins de Per-Atoum, souvent identifiée à Pithom.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Papyrus Anastasi VI",
+          "publisher": "Intertextual.bible",
+          "url": "https://intertextual.bible/book/papyrus-anastasi-vi/chapter/all"
+        },
+        {
+          "title": "Papyrus Anastasi 4 and 6: Shasu, Pithom, tribes of Edom",
+          "publisher": "bible.ca",
+          "url": "https://www.bible.ca/manuscripts/bible-inscriptions-archeology-edomites-Papyrus-Egyptian-Anastasi-VI-Shasu-tribes-of-Edom-Pharaoh-Merneptah-Succoth-1205bc.htm"
+        },
+        {
+          "title": "Pithom",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pithom"
+        }
+      ]
+    },
+    {
+      "text": "Six cent mille hommes avec femmes et enfants représentent environ deux millions de personnes, alors que Karl Butzer estimait la population de l'Égypte du Nouvel Empire à environ trois millions d'habitants.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ancient Egypt Population Estimates: Slaves and Citizens",
+          "publisher": "TheTorah.com",
+          "url": "https://www.thetorah.com/article/ancient-egypt-population-estimates-slaves-and-citizens"
+        },
+        {
+          "title": "The Exodus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Exodus"
+        }
+      ]
+    },
+    {
+      "text": "Colin Humphreys a proposé (Vetus Testamentum, 1998) de lire le mot hébreu élef comme une unité militaire plutôt que comme mille, ce qui réduit les effectifs à quelques milliers d'hommes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Number of People in the Exodus from Egypt: Decoding Mathematically the Very Large Numbers in Numbers I and XXVI",
+          "publisher": "Brill (Vetus Testamentum)",
+          "url": "https://brill.com/view/journals/vt/48/2/article-p196_3.xml?language=en"
+        },
+        {
+          "title": "The Number of People in the Exodus from Egypt (Humphreys, 1998)",
+          "publisher": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/paper/The-Number-of-People-in-the-Exodus-from-Egypt:-the-Humphreys/8e4be36bae17c2f2a8d46530d36e197f09ed0f90"
+        }
+      ]
+    },
+    {
+      "text": "En Nombres 1, la somme des effectifs des douze tribus donne 603 550 (Nombres 1:46), total qui n'est exact que si élef vaut mille, les centaines s'ajoutant aux milliers.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Numbers 1:46",
+          "publisher": "Bible Hub",
+          "url": "https://biblehub.com/numbers/1-46.htm"
+        },
+        {
+          "title": "The Number of People in the Exodus from Egypt (Humphreys, 1998)",
+          "publisher": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/paper/The-Number-of-People-in-the-Exodus-from-Egypt:-the-Humphreys/8e4be36bae17c2f2a8d46530d36e197f09ed0f90"
+        }
+      ]
+    },
+    {
+      "text": "Les Hyksos ont été chassés d'Égypte vers 1550 av. J.-C. par le pharaon Ahmôsis Ier.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ahmose I",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ahmose_I"
+        }
+      ]
+    },
+    {
+      "text": "Le terme Hapiru désigne dans les textes du Proche-Orient ancien une catégorie sociale (déracinés, mercenaires, hors-la-loi) et non un peuple.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "ʿApiru",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%CA%BFApiru"
+        },
+        {
+          "title": "Habiru (Habiri)",
+          "publisher": "Encyclopedia.com (New Catholic Encyclopedia)",
+          "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/habiru-habiri"
+        }
+      ]
+    },
+    {
+      "text": "Les prospections archéologiques du Sinaï ont repéré des campements du IIIe millénaire av. J.-C., mais aucune trace d'occupation de la fin de l'âge du bronze.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Finkelstein et Silberman relèvent des traces pastorales du IIIe millénaire et des périodes hellénistique et byzantine, mais aucune au XIIIe siècle ; en revanche, des forts égyptiens du Nouvel Empire (Tell el-Borg, Haruba) attestent une occupation du nord du Sinaï à la fin de l'âge du bronze. Correction proposée : Les prospections archéologiques du Sinaï ont repéré des campements pastoraux du IIIe millénaire av. J.-C., mais aucune trace de campements de nomades de la fin de l'âge du bronze ; les seuls vestiges de cette époque sont les forteresses égypt",
+      "sources": [
+        {
+          "title": "Extracts: The Bible Unearthed (Finkelstein & Silberman)",
+          "publisher": "Park Hill Books",
+          "url": "https://parkhillbooks.com/extracts-the-bible-unearthed-finkelstein/"
+        },
+        {
+          "title": "North Sinai Archaeological Project, Tell el-Borg excavations",
+          "publisher": "Harvard University (White-Levy Program)",
+          "url": "https://whitelevy.fas.harvard.edu/north-sinai-archaeological-project-tell-el-borg-excavations"
+        }
+      ]
+    },
+    {
+      "text": "Deutéronome 1:46 fait séjourner longtemps les Hébreux à Kadès ; Ein el-Qudeirat, identifié à Kadès-Barnéa et fouillé par Rudolph Cohen de 1976 à 1982, n'a livré que des vestiges de l'âge du fer.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Deutéronome 1:46 et les fouilles de Cohen (1976-1982) sont confirmés et rien n'y est antérieur au Xe siècle, mais l'occupation s'est poursuivie environ deux siècles après la dernière forteresse (époque perse) et quelques tessons de céramique de Qurayyah (XIIe-XIe s.) y ont été trouvés : la formule « que des vestiges de l'âge du fer » est donc trop absolue. Correction proposée : Deutéronome 1:46 fait séjourner longtemps les Hébreux à Kadès ; Ein el-Qudeirat, identifié à Kadès-Barnéa et fouillé par Rudolph Cohen de 1976 à 1982, n'a livré aucune construc",
+      "sources": [
+        {
+          "title": "Deuteronomy 1:46 KJV",
+          "publisher": "King James Bible Online",
+          "url": "https://www.kingjamesbibleonline.org/Deuteronomy-1-46/"
+        },
+        {
+          "title": "Tell el-Qudeirat",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tell_el-Qudeirat"
+        },
+        {
+          "title": "Wilderness Wanderings: Where is Kadesh?",
+          "publisher": "Biblical Archaeology Society",
+          "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/wilderness-wanderings-where-is-kadesh/"
+        }
+      ]
+    },
+    {
+      "text": "À la fin de l'âge du bronze, Canaan était sous domination égyptienne, avec des garnisons notamment à Gaza et à Beth-Shéan.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gaza City",
+          "publisher": "Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/Gaza_City"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": {
+    "title": "Qui a vraiment écrit les Évangiles ? Ce que l'on sait de Matthieu, Marc, Luc et Jean",
+    "url": "https://www.youtube.com/watch?v=qlG4FebMRmg"
+  },
+  "shorts": [],
+  "corrections": []
+}
