@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup",
+      "definition": "Un texte vague est relu après une découverte pour y voir une prédiction.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/relecture-a-posteriori/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/relecture-a-posteriori.json"
+      }
+    },
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée",
+      "definition": "On invoque la NASA, un prix Nobel ou « des scientifiques » pour une affirmation qu'ils n'ont pas faite.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/caution-scientifique/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/caution-scientifique.json"
+      }
+    },
+    {
+      "id": "numerologie",
+      "name": "Les coïncidences comptées",
+      "definition": "On compte des mots, des lettres ou des dates jusqu'à trouver un nombre qui « tombe juste ».",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/numerologie/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/numerologie.json"
+      }
+    },
+    {
+      "id": "chaine-de-transmission",
+      "name": "La chaîne de témoins comme preuve",
+      "definition": "La réputation d'une chaîne de narrateurs suffirait à garantir qu'un fait a eu lieu.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/chaine-de-transmission/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/chaine-de-transmission.json"
+      }
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité",
+      "definition": "C'est vrai parce qu'un savant, un texte ou une institution respectés le disent.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/argument-autorite/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/argument-autorite.json"
+      }
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable",
+      "definition": "Une guérison, une vision ou une conversion racontée tient lieu de preuve.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/temoignage-inverifiable/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/temoignage-inverifiable.json"
+      }
+    },
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède",
+      "definition": "On se sent mieux après le traitement, donc le traitement marche.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/placebo/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/placebo.json"
+      }
+    },
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve",
+      "definition": "« Prouve-moi que c'est faux » : c'est au sceptique de démontrer, plus à celui qui affirme.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/charge-de-la-preuve/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/charge-de-la-preuve.json"
+      }
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout",
+      "definition": "Aucune observation ne pourrait jamais la contredire : chaque échec reçoit une excuse.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/infalsifiabilite/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/infalsifiabilite.json"
+      }
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables",
+      "definition": "On retient les réussites et on oublie les échecs.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/selection-des-cas/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/selection-des-cas.json"
+      }
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté",
+      "definition": "Si c'est pratiqué depuis des siècles ou par des millions de gens, c'est que ça marche.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/appel-a-l-anciennete/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/appel-a-l-anciennete.json"
+      }
+    },
+    {
+      "id": "faux-dilemme",
+      "name": "Le faux dilemme",
+      "definition": "On réduit les choix à deux options, dont l'une est présentée comme absurde.",
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/techniques/faux-dilemme/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/techniques/faux-dilemme.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "version": 2,
+  "id": "le-chemin-de-vie-en-numerologie-2d23",
+  "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
+  "format": "video",
+  "publishedAt": "2026-10-05T20:00:10.317Z",
+  "durationSeconds": 712,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Le chemin de vie n'a rien de pythagoricien : la méthode date du début du XXe siècle. Elle s'applique à un calendrier fixé par Rome, un pape et des gouvernements, au point qu'une même personne, comme George Washington, peut avoir deux chemins de vie. Le calcul se ramène au reste d'une division par neuf, et ses portraits conviennent à tout le monde par effet Barnum, comme Forer l'a montré en 1949."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "numerologie",
+      "name": "Les coïncidences comptées"
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "G1IOo80G-P8",
+    "url": "https://www.youtube.com/watch?v=G1IOo80G-P8",
+    "thumbnail": "https://i.ytimg.com/vi/G1IOo80G-P8/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chemin-de-vie-en-numerologie-2d23.json"
+  },
+  "facts": [
+    {
+      "text": "En numérologie, le chemin de vie se calcule en additionnant les chiffres de la date de naissance et en réduisant le total à un chiffre de 1 à 9, sauf pour les nombres maîtres 11, 22 et 33.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life Path Number — Calculator, Meanings & Guide",
+          "publisher": "World Numerology",
+          "url": "https://www.worldnumerology.com/numerology-life-path/"
+        },
+        {
+          "title": "Life Path Number: Calculator, Formula, and Meanings 1–9, 11, 22, and 33",
+          "publisher": "The Great Almanac",
+          "url": "https://www.thegreatalmanac.com/numerology/life-path-number"
+        }
+      ]
+    },
+    {
+      "text": "Pour le 14 juillet 1989, la somme des chiffres vaut 39, qui se réduit à 12 puis à 3 ; la réduction séparée du jour, du mois et de l'année donne aussi 3.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life Path Number — Calculator, Meanings & Guide",
+          "publisher": "World Numerology",
+          "url": "https://www.worldnumerology.com/numerology-life-path/"
+        }
+      ]
+    },
+    {
+      "text": "Les manuels de numérologie associent les nombres de 1 à 9 à des profils (1 pionnier, 4 bâtisseur, 7 chercheur, 9 humaniste…) et décrivent 11, 22 et 33 comme des nombres maîtres.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life Path Number: Meanings 1-9 + Calculator",
+          "publisher": "Your Path Numbers",
+          "url": "https://www.yourpathnumbers.com/en/blog/life-path-meanings-1-9"
+        },
+        {
+          "title": "Life Path Number: Calculator, Formula, and Meanings 1–9, 11, 22, and 33",
+          "publisher": "The Great Almanac",
+          "url": "https://www.thegreatalmanac.com/numerology/life-path-number"
+        }
+      ]
+    },
+    {
+      "text": "Selon Aristote (Métaphysique, livre A, chapitre 5), les pythagoriciens tenaient les principes des nombres pour les principes de toutes choses.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Metaphysics by Aristotle, Book I (trad. W. D. Ross)",
+          "publisher": "The Internet Classics Archive (MIT)",
+          "url": "http://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+        },
+        {
+          "title": "Pythagoreanism",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pythagoreanism/"
+        }
+      ]
+    },
+    {
+      "text": "On attribue aux pythagoriciens la découverte que l'octave et la quinte correspondent aux rapports 2:1 et 3:2.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pythagoras",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pythagoras/"
+        }
+      ]
+    },
+    {
+      "text": "Pythagore n'a laissé aucun écrit ; ses principales biographies, par Porphyre et Jamblique, datent de plus de sept siècles après sa mort et lui prêtent des miracles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pythagoras",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pythagoras/"
+        },
+        {
+          "title": "Pythagoras",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pythagoras"
+        }
+      ]
+    },
+    {
+      "text": "Dans Weisheit und Wissenschaft (1962), Walter Burkert a montré qu'une grande partie de la science attribuée à Pythagore lui a été prêtée après coup.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Other Lives: The Truth about Pythagoras",
+          "publisher": "London Review of Books",
+          "url": "https://www.lrb.co.uk/the-paper/v29/n04/m.f.-burnyeat/other-lives"
+        },
+        {
+          "title": "Walter Burkert, Lore and science in ancient Pythagoreanism",
+          "publisher": "PhilPapers",
+          "url": "https://philpapers.org/rec/BURLAS"
+        }
+      ]
+    },
+    {
+      "text": "Les Grecs anciens notaient les nombres avec des lettres ; les chiffres indo-arabes, venus d'Inde par le monde arabe, se diffusent en Europe à partir du Liber Abaci de Fibonacci (1202).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Liber abaci",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Liber-abaci"
+        },
+        {
+          "title": "Greek number systems",
+          "publisher": "MacTutor History of Mathematics (University of St Andrews)",
+          "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Greek_numbers/"
+        }
+      ]
+    },
+    {
+      "text": "Le calendrier julien entre en vigueur en 45 av. J.-C. et le calendrier grégorien en 1582 ; Pythagore est mort vers 495 av. J.-C.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Julian calendar",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Julian_calendar"
+        },
+        {
+          "title": "Pythagoras",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pythagoras/"
+        }
+      ]
+    },
+    {
+      "text": "La numérologie moderne apparaît aux États-Unis au début du XXe siècle avec L. Dow Balliett, puis Juno Jordan ; la réduction des dates de naissance, les portraits de personnalité et les nombres maîtres sont absents des sources pythagoriciennes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "L. Dow Balliett: The Founder of Modern Numerology (1847–1929)",
+          "publisher": "Numerologist.com",
+          "url": "https://numerologist.com/numerology/balliett"
+        },
+        {
+          "title": "Numerology or What Pythagoras Wrought (Underwood Dudley)",
+          "publisher": "American Mathematical Society",
+          "url": "https://bookstore.ams.org/view?ProductCode=SPEC%2F19"
+        },
+        {
+          "title": "Pythagoras",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pythagoras/"
+        }
+      ]
+    },
+    {
+      "text": "En 1949, Bertram Forer a remis à 39 étudiants un même portrait présenté comme personnalisé, tiré en grande partie d'un livre d'astrologie ; la note moyenne de justesse, sur 5, a dépassé 4.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. La démonstration a eu lieu en 1948 et l'article est paru en janvier 1949 (J. Abnorm. Soc. Psychol. 44:118-123) ; les 39 étudiants, le livre d'astrologie de kiosque et la moyenne (4,26 ou 4,30 sur 5) sont exacts. Correction proposée : En 1948 (étude publiée en 1949), Bertram Forer a remis à 39 étudiants un même portrait présenté comme personnalisé, tiré en grande partie d'un livre d'astrologie ; la note moyenne de justesse, sur 5, a dépassé 4.",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
+          "publisher": "Journal of Abnormal and Social Psychology (via ResearchGate)",
+          "url": "https://www.researchgate.net/publication/5739334_The_fallacy_of_personal_validation_a_classroom_demonstration_of_gullibility"
+        }
+      ]
+    },
+    {
+      "text": "Le portrait de Forer contenait les phrases « You have a great deal of unused capacity which you have not turned to your advantage » et « At times you are extroverted, affable, sociable, while at other times you are introverted, wary, reserved ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
+          "publisher": "Journal of Abnormal and Social Psychology (via ResearchGate)",
+          "url": "https://www.researchgate.net/publication/5739334_The_fallacy_of_personal_validation_a_classroom_demonstration_of_gullibility"
+        }
+      ]
+    },
+    {
+      "text": "Paul Meehl a donné à ce phénomène le nom d'« effet Barnum » en 1956.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "The Science Behind the Barnum Effect",
+          "publisher": "The Decision Lab",
+          "url": "https://thedecisionlab.com/insights/business/the-science-behind-the-barnum-effect"
+        }
+      ]
+    },
+    {
+      "text": "Shawn Carlson a publié dans Nature, en 1985, un test de l'astrologie en double aveugle : les astrologues devaient choisir parmi trois profils de personnalité celui qui correspondait à chaque thème natal, et n'ont pas fait mieux que le hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/318419a0"
+        },
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        }
+      ]
+    },
+    {
+      "text": "Septembre, de septem, était le septième mois de l'ancien calendrier romain, qui commençait en mars.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "September",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/September"
+        },
+        {
+          "title": "September (Roman month)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/September_(Roman_month)"
+        }
+      ]
+    },
+    {
+      "text": "Le décompte des années à partir de la naissance de Jésus a été établi au VIe siècle par le moine Denys le Petit.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Anno Domini",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anno_Domini"
+        },
+        {
+          "title": "Dionysius Exiguus",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Dionysius-Exiguus"
+        }
+      ]
+    },
+    {
+      "text": "Par la bulle Inter gravissimas (1582), Grégoire XIII supprime dix jours pour corriger la dérive du calendrier julien : en Italie et en Espagne, le jeudi 4 octobre 1582 est suivi du vendredi 15 octobre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Inter gravissimas",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Inter_gravissimas"
+        },
+        {
+          "title": "1582",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1582"
+        }
+      ]
+    },
+    {
+      "text": "Thérèse d'Avila est morte dans la nuit du 4 au 15 octobre 1582, au moment du passage au calendrier grégorien.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Teresa of Ávila",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+        },
+        {
+          "title": "Memorial of St. Teresa of Avila, virgin and doctor",
+          "publisher": "Catholic Culture",
+          "url": "https://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm?date=2012-10-15"
+        }
+      ]
+    },
+    {
+      "text": "La Grande-Bretagne et ses colonies adoptent le calendrier grégorien en 1752.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Calendar (New Style) Act 1750",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750"
+        },
+        {
+          "title": "George Washington's Birthday",
+          "publisher": "U.S. National Archives",
+          "url": "https://www.archives.gov/legislative/features/washington"
+        }
+      ]
+    },
+    {
+      "text": "George Washington est né le 11 février 1731 selon le calendrier julien alors en usage, soit le 22 février 1732 dans le calendrier grégorien, l'année légale anglaise commençant alors le 25 mars.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "George Washington's Birthday",
+          "publisher": "U.S. National Archives",
+          "url": "https://www.archives.gov/legislative/features/washington"
+        }
+      ]
+    },
+    {
+      "text": "Avec la date du 11 février 1731, le chemin de vie calculé vaut 7 ; avec celle du 22 février 1732, il vaut 1.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life Path Number — Calculator, Meanings & Guide",
+          "publisher": "World Numerology",
+          "url": "https://www.worldnumerology.com/numerology-life-path/"
+        }
+      ]
+    },
+    {
+      "text": "Le calendrier officiel de l'Iran est le calendrier persan (hégirien solaire), utilisé pour l'état civil.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Solar Hijri calendar",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Solar_Hijri_calendar"
+        },
+        {
+          "title": "Iranian calendars",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Iranian_calendars"
+        }
+      ]
+    },
+    {
+      "text": "La racine numérique d'un entier positif égale le reste de sa division par 9, avec 9 à la place de 0 ; 14 + 7 + 1989 = 2010, dont le reste par 9 est 3. En base 8, elle ne pourrait prendre que 7 valeurs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Digital root",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Digital_root"
+        }
+      ]
+    },
+    {
+      "text": "Pour le 18 septembre 1991, l'addition de tous les chiffres donne 38 puis 11, alors que réduire d'abord le jour, le mois et l'année donne 20 puis 2.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life Path Number — Calculator, Meanings & Guide",
+          "publisher": "World Numerology",
+          "url": "https://www.worldnumerology.com/numerology-life-path/"
+        }
+      ]
+    },
+    {
+      "text": "En numérologie, quand un portrait ne correspond pas, on l'explique par le côté négatif du nombre, par d'autres nombres de la personne ou par des dettes karmiques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Karmic Meaning in Numerology: Debt, Lessons & Past Lives",
+          "publisher": "Numerologist.com",
+          "url": "https://numerologist.com/numerology/karmic-numerology-guide"
+        },
+        {
+          "title": "Shadow Traits by Number: Life Path, Expression & Soul Urge",
+          "publisher": "Numerologist.com",
+          "url": "https://numerologist.com/numerology/the-shadow-sides-of-each-number"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Les Biais de Confirmation - La Tronche en Biais #5",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=6cxEu-OP5mM",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
+    "url": "https://www.youtube.com/watch?v=EaKHThIwLtk"
+  },
+  "shorts": [],
+  "corrections": []
+}

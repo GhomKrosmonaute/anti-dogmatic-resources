@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "id": "systeme",
+  "name": "Le système",
+  "description": "travail, argent, institutions, médias, politique, méritocratie, bureaucratie",
+  "items": [
+    {
+      "id": "ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff",
+      "title": "Où va vraiment l'argent que tu déposes à la banque ? Le système bancaire expliqué",
+      "format": "video",
+      "publishedAt": "2026-10-05T14:45:09.542Z",
+      "durationSeconds": 682,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand tu déposes ton argent à la banque, elle en garde une partie en réserve et prête le reste à d'autres clients ; et la monnaie vaut quelque chose parce qu'elle repose sur une richesse bien réelle.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "3pjP8BcdJJc",
+        "url": "https://www.youtube.com/watch?v=3pjP8BcdJJc",
+        "thumbnail": "https://i.ytimg.com/vi/3pjP8BcdJJc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff.json"
+      }
+    },
+    {
+      "id": "quand-on-veut-on-peut-451d",
+      "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T06:15:11.250Z",
+      "durationSeconds": 723,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand on veut, on peut : avec assez de volonté et de travail, n'importe qui peut réussir, quelle que soit son origine.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "zEChYJZZYGM",
+        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM",
+        "thumbnail": "https://i.ytimg.com/vi/zEChYJZZYGM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quand-on-veut-on-peut-451d.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "version": 2,
+  "id": "transits-planetaires-et-retrogradations-191e",
+  "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+  "format": "short",
+  "publishedAt": "2026-10-04T11:30:03.912Z",
+  "durationSeconds": 132,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Une rétrogradation n'est qu'un effet de perspective : aucune planète ne recule. Testée en double aveugle, notamment par Shawn Carlson dans Nature en 1985 avec un protocole approuvé par des astrologues, la lecture astrologique ne fait pas mieux que le hasard. L'impression que ça marche vient de l'effet Barnum, du biais de confirmation et de la prophétie autoréalisatrice."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": {
+    "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+    "channel": "La Télé de Lilou Macé",
+    "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+    "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY",
+    "passages": [
+      {
+        "text": "Je retrouve Sandrine Verrycken, que j'interviewe depuis plus de dix ans, à un moment où on sent tous que les choses s'accélèrent et qu'on aimerait un peu d'oxygène sur ce qui vient."
+      }
+    ]
+  },
+  "series": null,
+  "youtube": {
+    "id": "ghN7-UhF828",
+    "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
+    "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
+  },
+  "facts": [
+    {
+      "text": "En astrologie, Vénus est associée à l'amour ; sa rétrogradation est présentée comme une période où les ex reviennent et où l'on déconseille de s'engager, Mercure rétrograde comme une période de communication brouillée, et les transits de Pluton et d'Uranus comme des moments de rencontres « karmiques ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Venus Retrograde 2026: Dates, Meaning & How It Affects Love, Money, and Relationships",
+          "publisher": "The Old Farmer's Almanac",
+          "url": "https://www.almanac.com/venus-retrograde"
+        },
+        {
+          "title": "Mercury Retrograde 2026: Dates, Meaning, and What to Do",
+          "publisher": "The Old Farmer's Almanac",
+          "url": "https://www.almanac.com/content/mercury-retrograde-dates"
+        },
+        {
+          "title": "Transit Pluto in aspect to Venus: Nothing will ever be the same",
+          "publisher": "Look Up The Stars",
+          "url": "https://www.lookupthestars.com/post/transit-pluto-in-aspect-to-venus-nothing-will-ever-be-the-same"
+        }
+      ]
+    },
+    {
+      "text": "L'effet Barnum désigne la tendance à juger juste et personnelle une description vague qui s'applique à presque tout le monde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "Barnum effect",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/psychology/barnum-effect"
+        }
+      ]
+    },
+    {
+      "text": "En 1949, le psychologue Bertram Forer a fait noter à ses étudiants un portrait présenté comme personnalisé mais identique pour tous ; la note moyenne de justesse a été de 4,26 sur 5.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Forer effect",
+          "publisher": "The Skeptic's Dictionary",
+          "url": "https://www.skepdic.com/forer.html"
+        },
+        {
+          "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
+          "publisher": "Journal of Abnormal and Social Psychology (via ResearchGate)",
+          "url": "https://www.researchgate.net/publication/5739334_The_fallacy_of_personal_validation_a_classroom_demonstration_of_gullibility"
+        },
+        {
+          "title": "The Barnum/Forer Effect: Why Personality Tests And Horoscopes Feel So Accurate",
+          "publisher": "Atticus Li",
+          "url": "https://atticusli.com/replication-crisis/forer-barnum-effect/"
+        }
+      ]
+    },
+    {
+      "text": "Le mouvement rétrograde d'une planète n'est qu'apparent : on l'observe quand la Terre dépasse une planète extérieure comme Mars sur son orbite, ou quand Vénus, plus rapide, dépasse la Terre ; aucune planète ne recule réellement sur son orbite.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Apparent retrograde motion",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+        },
+        {
+          "title": "What does retrograde mean for the planets?",
+          "publisher": "Astronomy Magazine",
+          "url": "https://www.astronomy.com/science/what-does-it-mean-for-venus-and-mercury-to-be-in-retrograde/"
+        }
+      ]
+    },
+    {
+      "text": "En 1985, Shawn Carlson a publié dans la revue Nature (« A double-blind test of astrology ») un test en double aveugle dont le protocole avait été approuvé à l'avance par des astrologues.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/318419a0"
+        },
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        },
+        {
+          "title": "Astrology and science",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Astrology_and_science"
+        }
+      ]
+    },
+    {
+      "text": "Dans le test de Carlson, les astrologues devaient associer chaque thème natal au bon profil de personnalité parmi trois ; ils ont choisi le bon environ une fois sur trois, soit le niveau du hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "NCGR/Berkeley Double-Blind Test",
+          "publisher": "Astrodivination",
+          "url": "https://www.astrodivination.com/moa/ncgrberk.htm"
+        },
+        {
+          "title": "Astrology and science",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Astrology_and_science"
+        }
+      ]
+    },
+    {
+      "text": "Le biais de confirmation conduit à retenir les observations qui confirment une croyance et à négliger celles qui la contredisent.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Confirmation bias",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/confirmation-bias"
+        }
+      ]
+    },
+    {
+      "text": "Une prophétie autoréalisatrice est une attente qui provoque les comportements qui finissent par la réaliser.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Self-fulfilling prophecy",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/self-fulfilling-prophecy/"
+        }
+      ]
+    },
+    {
+      "text": "Les tests contrôlés en double aveugle publiés n'ont pas montré que l'astrologie prédit mieux que le hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrology and science",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Astrology_and_science"
+        },
+        {
+          "title": "Is Astrology Relevant to Consciousness and Psi?",
+          "publisher": "Journal of Consciousness Studies (Imprint Academic)",
+          "url": "https://www.ingentaconnect.com/content/imp/jcs/2003/00000010/f0020006/art00010"
+        },
+        {
+          "title": "A double-blind test of astrology",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/318419a0"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": [
+      {
+        "excerpt": "Résultat : environ une fois sur trois.",
+        "note": "Ce taux arrondi correspond au résultat de Carlson (environ 34 % de premiers choix corrects pour trois profils proposés). L'argument repose seulement sur le fait que ce score se confond avec celui du hasard, pas sur sa valeur exacte. Il ne dit rien sur la santé, et la vérification factuelle contrôlera le chiffre publié."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

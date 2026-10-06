@@ -1,0 +1,504 @@
+{
+  "version": 2,
+  "id": "la-hijama-guerit-elle-vraiment-d33e",
+  "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+  "format": "video",
+  "publishedAt": "2026-10-01T17:30:10.000Z",
+  "durationSeconds": 628,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": null,
+  "technique": null,
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "aIAywoU0Png",
+    "url": "https://www.youtube.com/watch?v=aIAywoU0Png",
+    "thumbnail": "https://i.ytimg.com/vi/aIAywoU0Png/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-hijama-guerit-elle-vraiment-d33e/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-hijama-guerit-elle-vraiment-d33e.json"
+  },
+  "facts": [
+    {
+      "text": "Le Sahih al-Bukhari contient un livre consacré à la médecine (Kitab al-Tibb) et les sunnites le considèrent comme le recueil le plus authentique après le Coran.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Medicine - كتاب الطب - Sahih al-Bukhari",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari/76"
+        },
+        {
+          "title": "Sahih al-Bukhari",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sahih_al-Bukhari"
+        }
+      ]
+    },
+    {
+      "text": "Pour des millions de musulmans, la hijama est une sunna, c'est-à-dire une pratique suivie et recommandée par le Prophète.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "La saignée (hijama), une médecine ancestrale, compte de plus en plus d'adeptes",
+          "publisher": "La Vie éco",
+          "url": "https://www.lavieeco.com/influences/societe/la-saignee-hijama-une-medecine-ancestrale-compte-de-plus-en-plus-dadeptes/"
+        },
+        {
+          "title": "Prophetic medicine",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prophetic_medicine"
+        }
+      ]
+    },
+    {
+      "text": "Hadith d'Ibn Abbas (Sahih al-Bukhari 5680-5681) : la guérison se trouve dans trois choses, une gorgée de miel, l'incision du ventouseur et la cautérisation par le feu, et le Prophète interdit la cautérisation à sa communauté.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 5680 - Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari:5680"
+        },
+        {
+          "title": "Sahih Al Bukhari 5680 Hadith Arabic & English Translation",
+          "publisher": "ProphetMuhammad.com",
+          "url": "https://www.prophetmuhammad.com/bukhari/5680"
+        }
+      ]
+    },
+    {
+      "text": "Hadith d'Anas ibn Malik (Sahih al-Bukhari 5696) : le meilleur des remèdes que vous utilisez est la hijama, avec le costus marin (al-qust al-bahri), une racine aromatique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 5696 - Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari/76/18"
+        },
+        {
+          "title": "Hadith 5696 of the book of medicine by sahih al bukhari",
+          "publisher": "IslamicFinder",
+          "url": "https://www.islamicfinder.org/hadith/bukhari/medicine/5696/"
+        }
+      ]
+    },
+    {
+      "text": "Selon les hadiths, le Prophète s'est fait poser des ventouses en état de sacralisation (ihram) et pendant le jeûne (notamment Sahih al-Bukhari 1938).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 1938 - Fasting",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari/30/45"
+        },
+        {
+          "title": "Sahih al-Bukhari 1938",
+          "publisher": "Amrayn",
+          "url": "https://amrayn.com/bukhari:1938"
+        }
+      ]
+    },
+    {
+      "text": "Le Prophète a rémunéré son ventouseur Abou Tayba, qui exerçait ce métier (Sahih al-Bukhari 2102 et 5696).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 2102 - Sales and Trade",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari:2102"
+        },
+        {
+          "title": "Sahih al-Bukhari 5696 - Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari/76/18"
+        }
+      ]
+    },
+    {
+      "text": "Hadith du voyage nocturne : chaque assemblée d'anges aurait dit au Prophète « ordonne à ta communauté la hijama » (Sunan Ibn Majah 3477 ; Jami' at-Tirmidhi 2052).",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Dans Ibn Majah 3477 (Ibn Abbas), les anges disent « Ô Muhammad, recours à la hijama » ; la formule « ordonne à ta communauté » vient de Tirmidhi 2052 (Ibn Mas'oud) et d'Ibn Majah 3479 (Anas), et Darussalam classe ces versions comme faibles (da'if). Correction proposée : Hadith du voyage nocturne : chaque assemblée d'anges aurait dit au Prophète « Ô Muhammad, recours à la hijama » (Sunan Ibn Majah 3477) ou « ordonne à ta communauté la hijama » (Jami' at-Tirmidhi 2052 ; Sunan Ibn Majah 3479).",
+      "sources": [
+        {
+          "title": "Sunan Ibn Majah 3477 - Chapters on Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/ibnmajah:3477"
+        },
+        {
+          "title": "Sunan Ibn Majah - Chapters on Medicine (3476-3485)",
+          "publisher": "Ahadith.co.uk",
+          "url": "https://ahadith.co.uk/chapter.php?page=5&cid=190&rows=10"
+        },
+        {
+          "title": "Jami at-Tirmidhi - Chapters on Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/tirmidhi/28"
+        }
+      ]
+    },
+    {
+      "text": "Selon Anas, le Prophète se faisait poser des ventouses sur les deux veines latérales du cou (al-akhda'ayn) et sur le kahil, le haut du dos (Sunan Abi Dawud 3860 ; Jami' at-Tirmidhi 2051).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sunan Abi Dawud - Medicine (Kitab Al-Tibb)",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/abudawud/29"
+        },
+        {
+          "title": "Tirmidhi 2051",
+          "publisher": "Hadith Unlocked",
+          "url": "https://hadithunlocked.com/tirmidhi:2051"
+        }
+      ]
+    },
+    {
+      "text": "Le Prophète s'est fait poser des ventouses sur la tête à cause d'une douleur (Sahih al-Bukhari 5700-5701).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 5700, 5701 - Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari/76/21"
+        },
+        {
+          "title": "Sahih Al-Bukhari Hadith 5701",
+          "publisher": "Alim.org",
+          "url": "https://www.alim.org/hadith/sahih-bukhari/7/76/5701/"
+        }
+      ]
+    },
+    {
+      "text": "Sunan Abi Dawud 3861 : se faire poser des ventouses le 17, le 19 et le 21 du mois lunaire serait une guérison contre toute maladie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sunan Abi Dawud 3861 - Medicine (Kitab Al-Tibb)",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/abudawud:3861"
+        },
+        {
+          "title": "None of the hadiths about the timing of cupping are saheeh",
+          "publisher": "Islam Question & Answer",
+          "url": "https://islamqa.info/en/answers/128170"
+        }
+      ]
+    },
+    {
+      "text": "Sunan Ibn Majah 3487 (d'après Ibn Omar) : la hijama à jeun est la meilleure, elle augmente l'intelligence et la mémoire, et certains jours de la semaine sont recommandés et d'autres déconseillés ; l'authenticité de ce hadith est discutée par les spécialistes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sunan Ibn Majah - Chapters on Medicine (3486-3495)",
+          "publisher": "Ahadith.co.uk",
+          "url": "https://ahadith.co.uk/chapter.php?page=6&cid=190"
+        },
+        {
+          "title": "Sunan Ibn Majah - Chapters on Medicine",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/ibnmajah/31"
+        },
+        {
+          "title": "Cupping Hijamah FAQs",
+          "publisher": "Jamiatul Ulama South Africa",
+          "url": "https://jamiat.org.za/cupping-hijamah-faqs/"
+        }
+      ]
+    },
+    {
+      "text": "Les praticiens de la hijama en France, en Belgique et au Maghreb mettent en avant des bienfaits allégués : évacuation du sang vicié et des toxines, immunité, migraines, mal de dos, tensions musculaires, tension artérielle, infertilité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Un interne en médecine, un infirmier et un aide-soignant jugés pour avoir pratiqué la « thérapie des ventouses » illégalement",
+          "publisher": "Egora",
+          "url": "https://www.egora.fr/actus-pro/judiciaire/un-interne-en-medecine-un-infirmier-et-un-aide-soignant-juges-pour-avoir"
+        },
+        {
+          "title": "La saignée (hijama), une médecine ancestrale, compte de plus en plus d'adeptes",
+          "publisher": "La Vie éco",
+          "url": "https://www.lavieeco.com/influences/societe/la-saignee-hijama-une-medecine-ancestrale-compte-de-plus-en-plus-dadeptes/"
+        },
+        {
+          "title": "Les Maladies et Troubles que la Hijama Peut Traiter",
+          "publisher": "Hijamatherapie.com",
+          "url": "https://www.hijamatherapie.com/maladies-troubles-que-la-hijama-peut-traiter/"
+        }
+      ]
+    },
+    {
+      "text": "La « théorie de Taibah » a été proposée en 2013 par Salah Mohamed El Sayed et ses collègues de l'université Taibah (Médine) ; elle compare la hijama à une filtration de type rénal qui évacuerait des substances nocives (El Sayed SM et al., Alternative & Integrative Medicine, 2013).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Al-hijamah and oral honey for treating thalassemia, conditions of iron overload, and hyperferremia",
+          "publisher": "PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4222535/"
+        },
+        {
+          "title": "Medical and Scientific Bases of Wet Cupping Therapy (Al-hijamah): in Light of Modern Medicine and Prophetic Medicine",
+          "publisher": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/paper/Medical-and-Scientific-Bases-of-Wet-Cupping-Therapy-Sm-Hs/83386baec5cc1a0edbd6b9db4145def86ef7d7b1"
+        }
+      ]
+    },
+    {
+      "text": "Des essais cliniques sur les ventouses publiés en Iran et en Allemagne rapportent une diminution des douleurs au dos ou à la nuque (par exemple Farhadi et al. 2009 ; Lauche et al. 2011).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The influence of a series of five dry cupping treatments on pain and mechanical thresholds in patients with chronic non-specific neck pain - a randomised controlled pilot study",
+          "publisher": "BMC Complementary and Alternative Medicine",
+          "url": "https://bmccomplementmedtherapies.biomedcentral.com/articles/10.1186/1472-6882-11-63"
+        },
+        {
+          "title": "Evaluation of Wet Cupping Therapy: Systematic Review of Randomized Clinical Trials",
+          "publisher": "Journal of Alternative and Complementary Medicine",
+          "url": "https://journals.sagepub.com/doi/abs/10.1089/acm.2016.0193?cf-mal-redirected=true"
+        }
+      ]
+    },
+    {
+      "text": "La ventouse est mentionnée dans le corpus hippocratique, et Galien (IIe siècle) l'employait pour retirer du sang.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cupping: An Alternative Surgical Procedure Used by Hippocratic Physicians (J Altern Complement Med 2008)",
+          "publisher": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/23390565_Cupping_An_Alternative_Surgical_Procedure_Used_by_Hippocratic_Physicians"
+        },
+        {
+          "title": "Cupping therapy: A prudent remedy for a plethora of medical ailments",
+          "publisher": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26151023/"
+        }
+      ]
+    },
+    {
+      "text": "La médecine humorale reposait sur quatre humeurs (sang, phlegme, bile jaune, bile noire) ; la lancette, les sangsues et la ventouse scarifiée servaient à retirer l'humeur jugée en excès.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bloodletting",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bloodletting"
+        },
+        {
+          "title": "The history of bloodletting",
+          "publisher": "British Columbia Medical Journal",
+          "url": "https://bcmj.org/premise/history-bloodletting"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Arabie du VIIe siècle, ventouseur (hajjam) était déjà un métier rémunéré, comme le montre le hadith d'Abou Tayba.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 2102 - Sales and Trade",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari:2102"
+        },
+        {
+          "title": "Bukhari 2278 — The wages of one who has the profession of cupping",
+          "publisher": "Tohed",
+          "url": "https://en.tohed.com/hadith/bukhari/2278/"
+        }
+      ]
+    },
+    {
+      "text": "Ibn Qayyim al-Jawziyya (XIVe siècle), dans al-Tibb al-Nabawi (extrait de Zad al-Ma'ad), écrit que la hijama est plus profitable dans les pays et les saisons chauds et la saignée veineuse dans les pays froids, parce que le sang y serait plus fluide et plus proche de la surface du corps.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "زاد المعاد - فصل منافع الحجامة",
+          "publisher": "Islamweb",
+          "url": "https://www.islamweb.net/ar/library/content/127/734/%D9%81%D8%B5%D9%84-%D9%85%D9%86%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D9%85%D8%A9"
+        },
+        {
+          "title": "Cauterization and Cupping",
+          "publisher": "WordPress (English translation text)",
+          "url": "https://sushizombie.wordpress.com/2015/02/07/cauterization-and-cupping/"
+        }
+      ]
+    },
+    {
+      "text": "Ce raisonnement relève de la médecine humorale de Galien et d'Avicenne (Canon de la médecine).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Prophetic medicine",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prophetic_medicine"
+        },
+        {
+          "title": "زاد المعاد - فصل منافع الحجامة",
+          "publisher": "Islamweb",
+          "url": "https://www.islamweb.net/ar/library/content/127/734/%D9%81%D8%B5%D9%84-%D9%85%D9%86%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D9%85%D8%A9"
+        }
+      ]
+    },
+    {
+      "text": "En décembre 1799, George Washington, atteint d'une grave infection de la gorge, a été saigné plusieurs fois en moins d'une journée, soit environ 2,4 litres selon l'estimation la plus citée ; il est mort le 14 décembre 1799 au soir.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dec. 14, 1799: The excruciating final hours of President George Washington",
+          "publisher": "PBS NewsHour",
+          "url": "https://pbs.org/newshour/health/dec-14-1799-excruciating-final-hours-president-george-washington"
+        },
+        {
+          "title": "The Death of George Washington",
+          "publisher": "George Washington's Mount Vernon",
+          "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/the-death-of-george-washington"
+        }
+      ]
+    },
+    {
+      "text": "Dans les années 1820 et 1830, François Broussais a fait des sangsues un traitement presque universel en France, qui en importait des dizaines de millions par an (environ 41 millions en 1833, chiffre souvent cité).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bloodletting",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bloodletting"
+        },
+        {
+          "title": "Leeches: An Early Nineteenth-century Obsession",
+          "publisher": "The Old Operating Theatre Museum",
+          "url": "https://oldoperatingtheatre.com/leeches-an-early-nineteenth-century-obsession/"
+        }
+      ]
+    },
+    {
+      "text": "Pierre Charles Alexandre Louis, Recherches sur les effets de la saignée dans quelques maladies inflammatoires (Paris, 1835) : chez les malades atteints de pneumonie, la saignée précoce n'améliorait pas l'évolution, et son influence était « beaucoup moindre qu'on ne se l'imagine communément ».",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. La citation est exacte, mais Louis conclut lui-même que la saignée a « une heureuse influence » et que les malades saignés dans les quatre premiers jours guérissaient quatre à cinq jours plus tôt ; seule la mortalité, plus élevée chez eux, plaide contre la saignée précoce. Correction proposée : Pierre Charles Alexandre Louis, Recherches sur les effets de la saignée dans quelques maladies inflammatoires (Paris, 1835) : chez les malades atteints de pneumonie, la saignée ne « jugulait » pas la maladie ; Louis lui reconnaissait une « heureuse influence » ",
+      "sources": [
+        {
+          "title": "Recherches sur les effets de la saignée/Chapitre II",
+          "publisher": "Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Recherches_sur_les_effets_de_la_saign%C3%A9e/Chapitre_II"
+        },
+        {
+          "title": "Pierre-Charles-Alexandre Louis and the evaluation of bloodletting",
+          "publisher": "The James Lind Library",
+          "url": "https://www.jameslindlibrary.org/articles/pierre-charles-alexandre-louis-and-the-evaluation-of-bloodletting/"
+        }
+      ]
+    },
+    {
+      "text": "L'abandon de la saignée systématique s'est étalé sur plusieurs décennies après les travaux de Louis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bloodletting",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bloodletting"
+        },
+        {
+          "title": "The history of bloodletting",
+          "publisher": "British Columbia Medical Journal",
+          "url": "https://bcmj.org/premise/history-bloodletting"
+        }
+      ]
+    },
+    {
+      "text": "Aujourd'hui, la saignée thérapeutique (phlébotomie) est réservée à des indications précises, comme l'hémochromatose, une surcharge en fer.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The history of bloodletting",
+          "publisher": "British Columbia Medical Journal",
+          "url": "https://bcmj.org/premise/history-bloodletting"
+        },
+        {
+          "title": "Current approaches to the management of hemochromatosis",
+          "publisher": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17124037/"
+        }
+      ]
+    },
+    {
+      "text": "Le foie et les reins assurent la transformation et l'élimination des déchets de l'organisme ; dans le discours « détox », le mot « toxines » ne désigne aucune substance identifiée et mesurée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Debunking detox",
+          "publisher": "Sense about Science",
+          "url": "https://senseaboutscience.org/activities/debunking-detox/"
+        },
+        {
+          "title": "Detoxification (alternative medicine)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Detoxification_(alternative_medicine)"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "médecine clinique et évaluation des traitements (physiologie du sang, essais cliniques, biostatistique, effet placebo)",
+    "approximations": [
+      {
+        "excerpt": "Pour des millions de musulmans, ce n'est pas une médecine douce parmi d'autres : c'est une sunna, une pratique que le Prophète a suivie et recommandée.",
+        "note": "« Des millions » est un ordre de grandeur sur le nombre de pratiquants. Il ne dit rien de la santé et l'argument n'en dépend pas."
+      },
+      {
+        "excerpt": "Pour les défenseurs de la hijama, la boucle est bouclée : ce que le Prophète recommandait il y a quatorze siècles, la science moderne est en train de le confirmer.",
+        "note": "« Quatorze siècles » arrondit l'intervalle depuis le VIIe siècle, environ 1 400 ans. Sa précision ne change rien au propos."
+      },
+      {
+        "excerpt": "Quatorze siècles après, la promesse attend toujours sa preuve.",
+        "note": "Même arrondi de l'intervalle depuis le VIIe siècle, purement rhétorique."
+      },
+      {
+        "excerpt": "Dans les années 1820 et 1830, en France, le médecin François Broussais fait des sangsues un traitement presque universel, et le pays en importe des dizaines de millions par an.",
+        "note": "« Des dizaines de millions » est un ordre de grandeur des importations de sangsues (plusieurs dizaines de millions certaines années). C'est un chiffre économique et illustratif, sans lien avec une dose ou un risque."
+      },
+      {
+        "excerpt": "En 2012, une revue parue dans PLoS One recense plus d'une centaine d'essais randomisés, en grande majorité menés en Chine, avec un risque de biais généralement élevé.",
+        "note": "« Plus d'une centaine » arrondit le nombre d'essais recensés, environ 135. L'argument porte sur leur origine et leur qualité, pas sur leur nombre exact."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [
+    {
+      "title": "Hijama : quelle toxine sort vraiment avec le sang noir ?",
+      "url": "https://www.youtube.com/watch?v=H7rN4iE8_1Y",
+      "publishedAt": "2026-10-01T18:40:51.869Z"
+    }
+  ],
+  "corrections": []
+}

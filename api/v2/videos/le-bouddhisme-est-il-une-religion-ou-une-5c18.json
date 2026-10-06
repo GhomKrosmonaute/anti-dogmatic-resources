@@ -1,0 +1,474 @@
+{
+  "version": 2,
+  "id": "le-bouddhisme-est-il-une-religion-ou-une-5c18",
+  "title": "Le bouddhisme est-il une religion ou une philosophie ? Ce qu'enseignait vraiment le Bouddha",
+  "format": "video",
+  "publishedAt": "2026-10-06T09:00:09.143Z",
+  "durationSeconds": 700,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Le bouddhisme n'est pas vraiment une religion mais une philosophie : une sagesse sans dieu ni dogme, qui invite à tout vérifier par soi-même et que la science confirme, de la méditation au karma.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Le bouddhisme n'a pas de dieu créateur, et la méditation a des effets mesurables mais modestes. Pourtant, le canon pali fait de la renaissance, du karma qui mûrit de vie en vie, des dieux et des enfers le contenu même de l'éveil du Bouddha, et aucune de ces doctrines n'a été confirmée par la science. Quant au Kalama Sutta, présenté comme une charte du libre examen, il se termine sur un pari sur l'au-delà."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    },
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "l4ANI17qsCc",
+    "url": "https://www.youtube.com/watch?v=l4ANI17qsCc",
+    "thumbnail": "https://i.ytimg.com/vi/l4ANI17qsCc/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-bouddhisme-est-il-une-religion-ou-une-5c18/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-bouddhisme-est-il-une-religion-ou-une-5c18.json"
+  },
+  "facts": [
+    {
+      "text": "Selon la tradition, Siddhartha Gautama, le Bouddha, a vécu il y a environ vingt-cinq siècles dans le nord de l'Inde et a renoncé à une vie princière.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life of Gautama Buddha and the origin of Buddhism",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/summary/Buddha-founder-of-Buddhism"
+        }
+      ]
+    },
+    {
+      "text": "L'enseignement fondamental du Bouddha est formulé en quatre nobles vérités (la souffrance, son origine dans le désir, sa cessation, le chemin) et dans le noble sentier octuple.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion (SN 56.11)",
+          "publisher": "Access to Insight",
+          "url": "https://accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html"
+        }
+      ]
+    },
+    {
+      "text": "Le bouddhisme n'admet pas de dieu créateur.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Vasubandhu",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/vasubandhu/"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Anguttara Nikaya 3.65 (Kalama Sutta), le Bouddha conseille aux Kalamas de ne se fier ni à la tradition, ni aux écritures, ni à la logique, ni à l'autorité d'un maître, et d'abandonner ce qu'ils savent par eux-mêmes être malsain et source de souffrance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Kalama Sutta: To the Kalamas (AN 3.65), trad. Thanissaro Bhikkhu",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html"
+        },
+        {
+          "title": "Kalama Sutta: The Instruction to the Kalamas (AN 3.65), trad. Soma Thera",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html"
+        }
+      ]
+    },
+    {
+      "text": "Jon Kabat-Zinn a créé en 1979, à l'école de médecine de l'université du Massachusetts, un programme de réduction du stress fondé sur la pleine conscience, d'une durée de huit semaines (MBSR).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mindfulness-Based Stress Reduction (MBSR)",
+          "publisher": "UMass Memorial Health – Center for Mindfulness",
+          "url": "https://www.ummhealth.org/services-treatments/center-mindfulness/mindfulness-programs/mbsr"
+        },
+        {
+          "title": "Mindfulness-based stress reduction",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction"
+        }
+      ]
+    },
+    {
+      "text": "La pleine conscience est enseignée dans des hôpitaux, des écoles et des entreprises.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mindfulness-based stress reduction",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction"
+        },
+        {
+          "title": "Mindful Nation UK Report on Mental Health in Public Policy",
+          "publisher": "Mindful",
+          "url": "https://www.mindful.org/mindful-nation-uk-report-on-mental-health-in-public-policy/"
+        }
+      ]
+    },
+    {
+      "text": "Depuis la fin des années 1980 (dialogues Mind and Life, à partir de 1987), le dalaï-lama rencontre régulièrement des neuroscientifiques et des physiciens.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mind & Life Dialogues & Conversations",
+          "publisher": "Mind & Life Institute",
+          "url": "https://www.mindandlife.org/events/mind-and-life-dialogues/"
+        },
+        {
+          "title": "35th anniversary year of Mind and Life",
+          "publisher": "Mind & Life Institute",
+          "url": "https://www.mindandlife.org/about/celebrating-35-years/"
+        }
+      ]
+    },
+    {
+      "text": "Dans « The Universe in a Single Atom » (2005), le dalaï-lama écrit que si l'analyse scientifique démontrait de manière concluante que certaines affirmations du bouddhisme sont fausses, il faudrait accepter les découvertes de la science et abandonner ces affirmations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "What Is a Buddhist Perspective on Scientific Discoveries About the Nature of the Universe?",
+          "publisher": "Big Questions Online (Chris Impey)",
+          "url": "https://bigquestionsonline.com/2015/03/31/what-buddhist-perspective-scientific-discoveries-about-nature-universe/"
+        },
+        {
+          "title": "Science Buddhism Quotes",
+          "publisher": "Goodreads",
+          "url": "https://www.goodreads.com/quotes/tag/science-buddhism"
+        }
+      ]
+    },
+    {
+      "text": "Le bouddhisme nie l'existence d'un moi permanent (anatta), et la tradition compare la renaissance à une flamme transmise d'une lampe à l'autre (Milindapañha).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mil 3.5.5: Rebirth and transmigration",
+          "publisher": "SuttaCentral",
+          "url": "https://legacy.suttacentral.net/en/mil3.5.5"
+        },
+        {
+          "title": "Buddhism in Translations – § 47. Rebirth Is Not Transmigration",
+          "publisher": "Sacred-texts (H. C. Warren)",
+          "url": "https://www.sacred-texts.com/bud/bits/bits047.htm"
+        }
+      ]
+    },
+    {
+      "text": "La formule populaire « ne crois rien, même si c'est moi qui l'ai dit, à moins que cela ne s'accorde avec ta raison » ne figure pas sous cette forme dans le Kalama Sutta.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lost in Quotation",
+          "publisher": "Access to Insight (Thanissaro Bhikkhu)",
+          "url": "https://www.accesstoinsight.org/lib/authors/thanissaro/lostinquotation.html"
+        },
+        {
+          "title": "“Believe nothing, no matter where you read it…”",
+          "publisher": "Fake Buddha Quotes",
+          "url": "https://fakebuddhaquotes.com/believe-nothing-no-matter-where-you-read-it/"
+        }
+      ]
+    },
+    {
+      "text": "Dans le Kalama Sutta, les Kalamas ne sont pas disciples du Bouddha ; celui-ci les amène à reconnaître que l'avidité, la haine et l'aveuglement mènent au mal et à la souffrance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Look at the Kalama Sutta",
+          "publisher": "Access to Insight (Bhikkhu Bodhi)",
+          "url": "https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html"
+        },
+        {
+          "title": "Kalama Sutta: The Instruction to the Kalamas (AN 3.65), trad. Soma Thera",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html"
+        }
+      ]
+    },
+    {
+      "text": "Le Kalama Sutta se termine sur quatre assurances. La première est la possibilité de renaître dans un monde céleste s'il existe un autre monde et si les actes portent fruit ; la deuxième envisage qu'il n'y ait pas d'autre monde et promet de vivre heureux ici et maintenant.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Kalama Sutta: The Instruction to the Kalamas (AN 3.65), trad. Soma Thera",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html"
+        },
+        {
+          "title": "Kalama Sutta: To the Kalamas (AN 3.65), trad. Thanissaro Bhikkhu",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html"
+        }
+      ]
+    },
+    {
+      "text": "Dans son essai « A Look at the Kalama Sutta », Bhikkhu Bodhi critique la lecture qui, à partir d'un passage sorti de son contexte, fait du Bouddha un empiriste rejetant toute doctrine et toute foi.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Look at the Kalama Sutta",
+          "publisher": "Access to Insight (Bhikkhu Bodhi)",
+          "url": "https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html"
+        }
+      ]
+    },
+    {
+      "text": "Le Majjhima Nikaya (notamment les suttas 4 et 36) décrit la nuit de l'éveil en trois veilles : le souvenir de ses vies antérieures, puis la vision des êtres qui meurent et renaissent selon leurs actes, puis la destruction des souillures.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bhaya-bherava Sutta: Fear & Terror (MN 4)",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/mn/mn.004.than.html"
+        },
+        {
+          "title": "Maha-Saccaka Sutta (MN 36)",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/mn/mn.036.than.html"
+        }
+      ]
+    },
+    {
+      "text": "Dans le Samyutta Nikaya 6.1, le dieu Brahma Sahampati apparaît devant le Bouddha et lui demande d'enseigner.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ayacana Sutta: The Request (SN 6.1)",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/sn/sn06/sn06.001.than.html"
+        }
+      ]
+    },
+    {
+      "text": "Dans le Majjhima Nikaya 130 (Devaduta Sutta), les gardiens des enfers du roi Yama enfoncent des pieux de fer brûlant dans les mains, les pieds et la poitrine du condamné.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "MN 130 The Deva Messengers",
+          "publisher": "dhammatalks.org (Thanissaro Bhikkhu)",
+          "url": "https://www.dhammatalks.org/suttas/MN/MN130.html"
+        },
+        {
+          "title": "130 Devadūta Sutta: The Divine Messengers",
+          "publisher": "Wisdom Publications (Ñāṇamoli & Bodhi)",
+          "url": "https://wisdomexperience.org/ebook/the-middle-length-discourses-of-the-buddha/part-three-the-final-fifty-discourses-uparipa%E1%B9%87%E1%B9%87asapa%E1%B8%B7i/3-the-division-on-voidness-sunnatavagga/130-devaduta-sutta-the-divine-messengers/"
+        }
+      ]
+    },
+    {
+      "text": "Une dent attribuée au Bouddha est vénérée au temple de la Dent, à Kandy (Sri Lanka). Les pays bouddhistes ont des temples, des moines et des offrandes destinées à accumuler du mérite.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sri Dalada Maligawa",
+          "publisher": "Temple of the Sacred Tooth Relic, Kandy",
+          "url": "https://sridaladamaligawa.lk/"
+        },
+        {
+          "title": "Temple of the Tooth",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Temple_of_the_Tooth"
+        }
+      ]
+    },
+    {
+      "text": "Dans le Majjhima Nikaya 135 (Cula-kammavibhanga Sutta), le Bouddha explique ainsi les différences entre les êtres par leurs actes d'une vie antérieure : une renaissance malheureuse ou une vie courte pour qui a tué, la maladie pour qui a fait souffrir, la laideur pour qui s'est mis en colère, la pauvreté pour qui n'a pas donné aux moines et aux brahmanes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cula-kammavibhanga Sutta: The Shorter Exposition of Kamma (MN 135)",
+          "publisher": "Access to Insight (Ñāṇamoli)",
+          "url": "https://www.accesstoinsight.org/tipitaka/mn/mn.135.nymo.html"
+        },
+        {
+          "title": "MN 135 The Shorter Analysis of Action",
+          "publisher": "dhammatalks.org (Thanissaro Bhikkhu)",
+          "url": "https://www.dhammatalks.org/suttas/MN/MN135.html"
+        }
+      ]
+    },
+    {
+      "text": "L'Anguttara Nikaya 6.63 affirme que l'intention est le karma. Il énumère ensuite les karmas qui mûrissent en enfer, chez les animaux, chez les esprits affamés, chez les humains et chez les dieux, et précise que leur fruit peut venir dans une vie ultérieure.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Nibbedhika Sutta: Penetrative (AN 6.63)",
+          "publisher": "Access to Insight (Thanissaro Bhikkhu)",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html"
+        },
+        {
+          "title": "AN 6.63: Penetrative (trad. Sujato)",
+          "publisher": "The Buddha's Words",
+          "url": "https://thebuddhaswords.net/an/an6.63.html"
+        }
+      ]
+    },
+    {
+      "text": "L'Anguttara Nikaya 4.77 range les résultats du karma parmi les quatre « impensables », sur lesquels spéculer mènerait à la folie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Acintita Sutta: Unconjecturable (AN 4.77)",
+          "publisher": "Access to Insight",
+          "url": "https://www.accesstoinsight.org/tipitaka/an/an04/an04.077.than.html"
+        }
+      ]
+    },
+    {
+      "text": "Dans « The Universe in a Single Atom », le dalaï-lama admet que la cosmologie de l'Abhidharma, avec le mont Meru au centre du monde, doit être abandonnée.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Le texte (p. 80) dit « Buddhism must abandon many aspects of the Abhidharma cosmology » : de nombreux aspects, pas la cosmologie entière. Correction proposée : Dans « The Universe in a Single Atom », le dalaï-lama estime que le bouddhisme doit abandonner de nombreux aspects de la cosmologie de l'Abhidharma, celle qui place le mont Meru au centre du monde.",
+      "sources": [
+        {
+          "title": "Remaking Cosmology in Tibet",
+          "publisher": "Journal of the History of Ideas Blog",
+          "url": "https://www.jhiblog.org/2021/02/01/remaking-cosmology-in-tibet/"
+        },
+        {
+          "title": "What Is a Buddhist Perspective on Scientific Discoveries About the Nature of the Universe?",
+          "publisher": "Big Questions Online (Chris Impey)",
+          "url": "https://bigquestionsonline.com/2015/03/31/what-buddhist-perspective-scientific-discoveries-about-nature-universe/"
+        }
+      ]
+    },
+    {
+      "text": "L'Abhidharmakosha de Vasubandhu (IVe-Ve siècle) décrit un monde organisé autour du mont Meru.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Vasubandhu",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/vasubandhu/"
+        },
+        {
+          "title": "Mount Meru (Buddhism)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mount_Meru_(Buddhism)"
+        }
+      ]
+    },
+    {
+      "text": "En 1953, l'ablation chirurgicale d'une grande partie des deux hippocampes a rendu Henry Molaison (le patient H.M.) incapable de former de nouveaux souvenirs conscients durables.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Henry Molaison",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Henry_Molaison"
+        },
+        {
+          "title": "The legacy of patient H.M. for neuroscience (Squire, Neuron, 2009)",
+          "publisher": "PubMed / NIH",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19146808/"
+        }
+      ]
+    },
+    {
+      "text": "La maladie d'Alzheimer détruit progressivement les souvenirs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Alzheimer's Disease Fact Sheet",
+          "publisher": "National Institute on Aging (NIH)",
+          "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+        }
+      ]
+    },
+    {
+      "text": "Les cas réunis par le psychiatre Ian Stevenson (université de Virginie) proviennent surtout de cultures qui croient à la renaissance, et dans de nombreux cas les familles s'étaient déjà rencontrées avant l'enquête.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ian Stevenson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ian_Stevenson"
+        },
+        {
+          "title": "Criticisms of Reincarnation Case Studies",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/criticisms-reincarnation-case-studies/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "neurosciences de la mémoire et recherche clinique sur la méditation (essais, méta-analyses, effets indésirables)",
+    "threshold": 6.6,
+    "passages": 8,
+    "approximations": [
+      {
+        "excerpt": "Il y a environ vingt-cinq siècles, dans le nord de l'Inde, un prince nommé Siddhartha Gautama quitte son palais, selon la tradition, pour comprendre une seule chose : pourquoi nous souffrons.",
+        "note": "La datation du Bouddha est discutée (Ve ou IVe siècle avant notre ère, soit 24 à 25 siècles). « Environ » assume l'ordre de grandeur, et l'argument n'en dépend pas."
+      },
+      {
+        "excerpt": "Des années plus tard, assis sous un arbre, il atteint l'éveil.",
+        "note": "La tradition parle d'environ six ans. Cette durée vague est sans incidence sur le propos."
+      },
+      {
+        "excerpt": "Depuis la fin des années quatre-vingt, le dalaï-lama rencontre régulièrement des neuroscientifiques et des physiciens.",
+        "note": "Les dialogues Mind and Life commencent en 1987. Cette datation à la décennie près suffit au propos."
+      },
+      {
+        "excerpt": "Et si tu veux voir pourquoi vingt-cinq siècles de sagesse ne garantissent rien, du Bouddha aux remèdes de nos ancêtres, c'est dans cette vidéo.",
+        "note": "C'est le même ordre de grandeur que pour la datation du Bouddha, employé comme formule rhétorique. Aucune précision n'est attendue."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Que vaut vraiment La MEDITATION de Pleine Conscience ? [PSNC]",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=12SExERmh2Q",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
+    "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY"
+  },
+  "shorts": [],
+  "corrections": []
+}

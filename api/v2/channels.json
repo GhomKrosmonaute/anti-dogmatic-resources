@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "la-tele-de-lilou-mace-54c7",
+      "name": "La Télé de Lilou Macé",
+      "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
+      "subscribers": 327000,
+      "answers": 2,
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/la-tele-de-lilou-mace-54c7.json"
+      }
+    },
+    {
+      "id": "coffeebird-official-6800",
+      "name": "Coffeebird_official",
+      "url": "https://www.youtube.com/channel/UCmkxA7DNnj4HCFLeUHgCjmg",
+      "subscribers": null,
+      "answers": 1,
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/coffeebird-official-6800.json"
+      }
+    }
+  ]
+}

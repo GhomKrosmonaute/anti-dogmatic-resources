@@ -1,0 +1,356 @@
+{
+  "version": 2,
+  "id": "pseudo-sciences",
+  "name": "Pseudo-sciences et charlatans",
+  "description": "astrologie, voyance, numérologie, tarot, médecines alternatives, bullshit quantique, lithothérapie, développement personnel",
+  "items": [
+    {
+      "id": "le-chemin-de-vie-en-numerologie-2d23",
+      "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T20:00:10.317Z",
+      "durationSeconds": 712,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "G1IOo80G-P8",
+        "url": "https://www.youtube.com/watch?v=G1IOo80G-P8",
+        "thumbnail": "https://i.ytimg.com/vi/G1IOo80G-P8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chemin-de-vie-en-numerologie-2d23.json"
+      }
+    },
+    {
+      "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+      "format": "short",
+      "publishedAt": "2026-10-05T18:15:04.019Z",
+      "durationSeconds": 134,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
+      },
+      "series": null,
+      "youtube": {
+        "id": "jUXA-3UNzBE",
+        "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
+        "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
+      }
+    },
+    {
+      "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
+      "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",
+      "format": "short",
+      "publishedAt": "2026-10-04T16:30:16.605Z",
+      "durationSeconds": 120,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n'y a personne.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": {
+        "title": "Sa Tesla détecte des gens alors qu'il n'y a personne dans le cimetière. partie2",
+        "channel": "Coffeebird_official",
+        "url": "https://www.youtube.com/watch?v=x9YOtsGnpwE"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ve29Mi2odq4",
+        "url": "https://www.youtube.com/watch?v=ve29Mi2odq4",
+        "thumbnail": "https://i.ytimg.com/vi/ve29Mi2odq4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8.json"
+      }
+    },
+    {
+      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T16:30:11.972Z",
+      "durationSeconds": 651,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xe7folt44Ko",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
+        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+      }
+    },
+    {
+      "id": "transits-planetaires-et-retrogradations-191e",
+      "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+      "format": "short",
+      "publishedAt": "2026-10-04T11:30:03.912Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ghN7-UhF828",
+        "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
+        "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
+      }
+    },
+    {
+      "id": "comment-l-homeopathie-est-censee-agir-6e3b",
+      "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
+      "format": "video",
+      "publishedAt": "2026-10-01T18:15:07.563Z",
+      "durationSeconds": 712,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lBDAu7W8rgs",
+        "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
+        "thumbnail": "https://i.ytimg.com/vi/lBDAu7W8rgs/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-l-homeopathie-est-censee-agir-6e3b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-l-homeopathie-est-censee-agir-6e3b.json"
+      }
+    },
+    {
+      "id": "la-hijama-guerit-elle-vraiment-d33e",
+      "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+      "format": "video",
+      "publishedAt": "2026-10-01T17:30:10.000Z",
+      "durationSeconds": 628,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "aIAywoU0Png",
+        "url": "https://www.youtube.com/watch?v=aIAywoU0Png",
+        "thumbnail": "https://i.ytimg.com/vi/aIAywoU0Png/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-hijama-guerit-elle-vraiment-d33e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-hijama-guerit-elle-vraiment-d33e.json"
+      }
+    },
+    {
+      "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T08:00:11.446Z",
+      "durationSeconds": 666,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "oeFiHgkt4wU",
+        "url": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
+        "thumbnail": "https://i.ytimg.com/vi/oeFiHgkt4wU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-les-pierres-et-les-cristaux-agissent-ils-dca9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-les-pierres-et-les-cristaux-agissent-ils-dca9.json"
+      }
+    },
+    {
+      "id": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:45:08.004Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hGHuqnHvlmg",
+        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+        "thumbnail": "https://i.ytimg.com/vi/hGHuqnHvlmg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
+      }
+    }
+  ]
+}

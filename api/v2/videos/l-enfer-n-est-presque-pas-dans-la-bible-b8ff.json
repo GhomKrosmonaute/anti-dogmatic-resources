@@ -1,0 +1,414 @@
+{
+  "version": 2,
+  "id": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
+  "title": "L'enfer existe-t-il dans la Bible ? Ce que disent vraiment le Shéol et la Géhenne",
+  "format": "video",
+  "publishedAt": "2026-10-01T19:45:09.227Z",
+  "durationSeconds": 680,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "La Bible enseigne clairement que les damnés subiront après la mort un supplice éternel dans le feu de l'enfer.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "La Bible contient bien quelques versets de feu et de châtiment, mais le Shéol hébreu est un séjour commun des morts sans torture, la Géhenne une vallée réelle de Jérusalem, et le Nouveau Testament hésite entre destruction, tourment et réconciliation. La doctrine d'un supplice éternel unifié a été fixée par des théologiens et des conciles entre le Ve et le XVe siècle, puis mise en images par Dante."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "Zh3i--DO7tc",
+    "url": "https://www.youtube.com/watch?v=Zh3i--DO7tc",
+    "thumbnail": "https://i.ytimg.com/vi/Zh3i--DO7tc/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-enfer-n-est-presque-pas-dans-la-bible-b8ff/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-enfer-n-est-presque-pas-dans-la-bible-b8ff.json"
+  },
+  "facts": [
+    {
+      "text": "Marc 9,43 : mieux vaut entrer manchot dans la vie que d'aller dans la géhenne, dans le feu qui ne s'éteint point (traduction Louis Segond).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Marc 9 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Mark+9&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Matthieu 25,46 : « ceux-ci iront au châtiment éternel, mais les justes à la vie éternelle ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Matthieu 25,46 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Marc+9%3A43-48%3BMatthieu+25%3A46%3BLuc+16%3A23-24%3BApocalypse+20%3A10-14&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Luc 16,19-31 : le riche et Lazare ; le riche est dans l'Hadès (16,23) et dit « je souffre cruellement dans cette flamme » (16,24).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Matthieu 25,46 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Marc+9%3A43-48%3BMatthieu+25%3A46%3BLuc+16%3A23-24%3BApocalypse+20%3A10-14&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Apocalypse 20,10 : le diable est jeté dans l'étang de feu et de soufre et tourmenté jour et nuit aux siècles des siècles ; en 20,14, la mort et le séjour des morts y sont jetés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Matthieu 25,46 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Marc+9%3A43-48%3BMatthieu+25%3A46%3BLuc+16%3A23-24%3BApocalypse+20%3A10-14&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Le Catéchisme de l'Église catholique, publié en 1992, affirme au §1035 l'existence de l'enfer et son éternité, ainsi que le « feu éternel ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Catéchisme de l'Église catholique, §1035",
+          "publisher": "Saint-Siège (vatican.va)",
+          "url": "https://www.vatican.va/archive/FRA0013/__P2J.HTM"
+        },
+        {
+          "title": "Fidei Depositum (11 octobre 1992)",
+          "publisher": "Saint-Siège (vatican.va)",
+          "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html"
+        }
+      ]
+    },
+    {
+      "text": "La Confession de foi de Westminster (1646), chapitre 33, annonce aux méchants des tourments éternels.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Westminster Confession - Of the Last Judgment - Chapt 33",
+          "publisher": "creeds.net",
+          "url": "https://www.creeds.net/Westminster/c33.htm"
+        },
+        {
+          "title": "Westminster Confession of Faith",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith"
+        }
+      ]
+    },
+    {
+      "text": "C. S. Lewis écrit dans The Problem of Pain (1940) que les portes de l'enfer sont verrouillées de l'intérieur.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "C.S. Lewis on Heaven and Hell",
+          "publisher": "C.S. Lewis Institute",
+          "url": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/"
+        },
+        {
+          "title": "Lewis's Reflections on Hell",
+          "publisher": "Modern Reformation",
+          "url": "https://www.modernreformation.org/resources/articles/lewiss-reflections-on-hell"
+        }
+      ]
+    },
+    {
+      "text": "Isaïe 14,9-11 : le séjour des morts s'émeut pour accueillir le roi de Babylone ; « sous toi est une couche de vers ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ésaïe 14,9-11 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+14%3A9-11&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Daniel 12,2 : « plusieurs de ceux qui dorment dans la poussière de la terre se réveilleront, les uns pour la vie éternelle, et les autres pour l'opprobre, pour la honte éternelle ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Daniel 12,2 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Daniel+12%3A2&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Isaïe 66,24 parle des cadavres des rebelles dont le ver ne mourra point et dont le feu ne s'éteindra point ; Marc 9,48 reprend ce verset.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ésaïe 66,24 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+66%3A24%3BGenesis+37%3A35%3BGenesis+32%3A28&version=LSG"
+        },
+        {
+          "title": "Matthieu 25,46 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Marc+9%3A43-48%3BMatthieu+25%3A46%3BLuc+16%3A23-24%3BApocalypse+20%3A10-14&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Le mot Géhenne vient de l'hébreu Gê Hinnom, la vallée de Hinnom, ravin qui borde la vieille ville de Jérusalem.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gehenna",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gehenna"
+        }
+      ]
+    },
+    {
+      "text": "Le mot Shéol apparaît environ soixante-cinq fois dans la Bible hébraïque.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "H7585 - sheol - Strong's Hebrew Lexicon",
+          "publisher": "Blue Letter Bible",
+          "url": "https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/"
+        },
+        {
+          "title": "Sheol",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sheol"
+        }
+      ]
+    },
+    {
+      "text": "Genèse 37,35 : Jacob déclare qu'il descendra en pleurant vers son fils au séjour des morts (Shéol) ; Jacob reçoit le nom d'Israël en Genèse 32,28.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ésaïe 66,24 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+66%3A24%3BGenesis+37%3A35%3BGenesis+32%3A28&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Job 3,17-19 décrit la mort comme le lieu où les méchants ne s'agitent plus, où petits et grands sont réunis et où l'esclave n'est plus soumis à son maître.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Job 3,17-19 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Job+3%3A17-19%3BEccl%C3%A9siaste+9%3A10%3BPsaumes+6%3A5-6%3BJ%C3%A9r%C3%A9mie+7%3A31%3B2+Rois+23%3A10&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Ecclésiaste 9,10 : il n'y a ni œuvre, ni pensée, ni science, ni sagesse dans le séjour des morts.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Job 3,17-19 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Job+3%3A17-19%3BEccl%C3%A9siaste+9%3A10%3BPsaumes+6%3A5-6%3BJ%C3%A9r%C3%A9mie+7%3A31%3B2+Rois+23%3A10&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Psaume 6,6 (6,5 dans certaines numérotations) : « qui te louera dans le séjour des morts ? ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Job 3,17-19 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Job+3%3A17-19%3BEccl%C3%A9siaste+9%3A10%3BPsaumes+6%3A5-6%3BJ%C3%A9r%C3%A9mie+7%3A31%3B2+Rois+23%3A10&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "La Vulgate rend souvent Shéol par infernus, mot latin signifiant « d'en bas », « inférieur ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hell",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/07207a.htm"
+        },
+        {
+          "title": "Lewis & Short, A Latin Dictionary, infernus",
+          "publisher": "Perseus Digital Library (Tufts University)",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry%3Dinfernus"
+        }
+      ]
+    },
+    {
+      "text": "La Bible du roi Jacques (1611) traduit Shéol par « hell » 31 fois et par « grave » 31 fois (et par « pit » 3 fois).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "H7585 - sheol - Strong's Hebrew Lexicon",
+          "publisher": "Blue Letter Bible",
+          "url": "https://www.blueletterbible.org/lexicon/h7585/kjv/wlc/0-1/"
+        },
+        {
+          "title": "Sheol",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sheol"
+        }
+      ]
+    },
+    {
+      "text": "Jérémie 7,31 : à Topheth, dans la vallée de Ben-Hinnom, on brûlait au feu des fils et des filles, ce que Dieu déclare n'avoir pas ordonné.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Job 3,17-19 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Job+3%3A17-19%3BEccl%C3%A9siaste+9%3A10%3BPsaumes+6%3A5-6%3BJ%C3%A9r%C3%A9mie+7%3A31%3B2+Rois+23%3A10&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "2 Rois 23,10 : le roi Josias souilla Topheth pour que personne n'y fasse plus passer son fils ou sa fille par le feu en l'honneur de Moloch.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Job 3,17-19 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Job+3%3A17-19%3BEccl%C3%A9siaste+9%3A10%3BPsaumes+6%3A5-6%3BJ%C3%A9r%C3%A9mie+7%3A31%3B2+Rois+23%3A10&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "L'idée d'une décharge brûlant en permanence dans la Géhenne n'a pas d'appui archéologique ; sa première attestation connue est chez David Kimhi, vers 1200.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gehenna",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gehenna"
+        },
+        {
+          "title": "Gehenna: The History, Development and Usage of a Common Image for Hell",
+          "publisher": "Rethinking Hell",
+          "url": "https://rethinkinghell.com/2018/01/23/gehenna-the-history-development-and-usage-of-a-common-image-for-hell/"
+        }
+      ]
+    },
+    {
+      "text": "Lloyd R. Bailey a publié en 1986 « Gehenna: The Topography of Hell » (Biblical Archaeologist), où il conteste la thèse de la décharge.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Gehenna",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gehenna"
+        },
+        {
+          "title": "Gehenna: The History, Development and Usage of a Common Image for Hell",
+          "publisher": "Rethinking Hell",
+          "url": "https://rethinkinghell.com/2018/01/23/gehenna-the-history-development-and-usage-of-a-common-image-for-hell/"
+        }
+      ]
+    },
+    {
+      "text": "Le Livre des Veilleurs (1 Hénoch 1-36), daté d'environ le IIIe siècle avant notre ère, décrit en 1 Hénoch 26-27 une vallée maudite réservée aux maudits pour toujours.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Book of Enoch (Charles)/Chapter 27",
+          "publisher": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_27"
+        },
+        {
+          "title": "Book of Enoch: Summary, Who Wrote It, When Written",
+          "publisher": "Bart Ehrman",
+          "url": "https://www.bartehrman.com/book-of-enoch/"
+        }
+      ]
+    },
+    {
+      "text": "La rédaction finale du livre de Daniel est datée par la recherche critique d'environ 165 avant notre ère, pendant la persécution d'Antiochos IV Épiphane.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Daniel - Introduction",
+          "publisher": "United States Conference of Catholic Bishops",
+          "url": "https://bible.usccb.org/bible/daniel/0"
+        },
+        {
+          "title": "Book of Daniel",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Book_of_Daniel"
+        }
+      ]
+    },
+    {
+      "text": "De nombreux historiens attribuent en partie l'émergence du jugement des morts dans le judaïsme à des influences perses et grecques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "ESCHATOLOGY i. In Zoroastrianism and Zoroastrian Influence",
+          "publisher": "Encyclopaedia Iranica",
+          "url": "https://www.iranicaonline.org/articles/eschatology-i/"
+        },
+        {
+          "title": "Afterlife and Resurrection Beliefs in the Second Temple Period",
+          "publisher": "Bible and Interpretation (University of Arizona)",
+          "url": "https://bibleinterp.arizona.edu/articles/afterlife-and-resurrection-beliefs-second-temple-period"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

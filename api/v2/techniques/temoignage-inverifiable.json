@@ -1,0 +1,208 @@
+{
+  "version": 2,
+  "id": "temoignage-inverifiable",
+  "name": "Le témoignage invérifiable",
+  "definition": "Une guérison, une vision ou une conversion racontée tient lieu de preuve.",
+  "signs": [
+    "rien ne permet de vérifier le récit",
+    "seuls les cas réussis sont racontés",
+    "l'émotion remplace les données"
+  ],
+  "question": "Tant de gens disent avoir été guéris : peuvent-ils tous se tromper ?",
+  "taughtBy": [
+    {
+      "id": "guerisons-miraculeuses-experiences-de-mort-4f09",
+      "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T17:45:08.682Z",
+      "durationSeconds": 684,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "temoignage-inverifiable",
+        "name": "Le témoignage invérifiable"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "6ZEHqdNAHRY",
+        "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+        "thumbnail": "https://i.ytimg.com/vi/6ZEHqdNAHRY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/guerisons-miraculeuses-experiences-de-mort-4f09.json"
+      }
+    }
+  ],
+  "examples": [
+    {
+      "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
+      "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",
+      "format": "video",
+      "publishedAt": "2026-10-05T15:45:09.131Z",
+      "durationSeconds": 713,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Notre volonté est libre : au moment de choisir, nous aurions pu vouloir et faire autrement, et nous le savons sans preuve, par l'expérience intime que nous en avons.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pIoZtbVyQXY",
+        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
+        "thumbnail": "https://i.ytimg.com/vi/pIoZtbVyQXY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-libre-arbitre-existe-t-il-vraiment-e244/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-libre-arbitre-existe-t-il-vraiment-e244.json"
+      }
+    },
+    {
+      "id": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
+      "title": "Pourquoi les sceptiques s'attaquent-ils à la foi ? Zététique et The Satanic Temple",
+      "format": "video",
+      "publishedAt": "2026-10-05T00:00:11.813Z",
+      "durationSeconds": 672,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Croire ne fait de mal à personne : chacun ses croyances, et les remettre en question ne sert à rien.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "GgT4uql9Vv4",
+        "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
+        "thumbnail": "https://i.ytimg.com/vi/GgT4uql9Vv4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-combattre-la-pseudoscience-et-la-religion-e698/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-combattre-la-pseudoscience-et-la-religion-e698.json"
+      }
+    },
+    {
+      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T16:30:11.972Z",
+      "durationSeconds": 651,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xe7folt44Ko",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
+        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+      }
+    },
+    {
+      "id": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
+      "title": "Les djinns peuvent-ils entrer dans le corps ? Possession et roqya selon le Coran et la Sunna",
+      "format": "video",
+      "publishedAt": "2026-10-03T20:15:09.061Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran et la Sunna enseignent que les djinns peuvent entrer dans le corps humain et le posséder, et la roqya permet de les en chasser.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "FNNHc_mRp8I",
+        "url": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
+        "thumbnail": "https://i.ytimg.com/vi/FNNHc_mRp8I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732.json"
+      }
+    }
+  ]
+}

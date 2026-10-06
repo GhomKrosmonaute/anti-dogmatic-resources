@@ -1,0 +1,467 @@
+{
+  "version": 2,
+  "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
+  "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
+  "format": "video",
+  "publishedAt": "2026-10-03T19:00:08.625Z",
+  "durationSeconds": 654,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "selection-des-cas",
+    "name": "Le tri des cas favorables"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "-tKV9kTwxOY",
+    "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
+    "thumbnail": "https://i.ytimg.com/vi/-tKV9kTwxOY/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-tant-de-prieres-semblent-exaucees-9cfc/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-tant-de-prieres-semblent-exaucees-9cfc.json"
+  },
+  "facts": [
+    {
+      "text": "Le verset 186 de la sourate Al-Baqara (Coran 2:186) affirme que Dieu est proche et répond à l'appel de celui qui l'invoque.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Surah Al-Baqarah 2:186",
+          "publisher": "Quran.com",
+          "url": "https://quran.com/2/186"
+        }
+      ]
+    },
+    {
+      "text": "Un hadith rapporté par al-Bukhari et Muslim enseigne que Dieu descend au ciel le plus proche pendant le dernier tiers de la nuit et demande qui l'invoque pour l'exaucer.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 1145",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari:1145"
+        },
+        {
+          "title": "Sahih Muslim 758a",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/muslim:758a"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Évangile selon Matthieu (7:7), Jésus dit : « Demandez, et l'on vous donnera ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Évangile selon saint Matthieu, chapitre 7",
+          "publisher": "AELF",
+          "url": "https://www.aelf.org/bible/Mt/7"
+        }
+      ]
+    },
+    {
+      "text": "Selon un hadith rapporté par al-Bukhari, le rêve du croyant est une part sur quarante-six de la prophétie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sahih al-Bukhari 6987 - Interpretation of Dreams",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/bukhari:6987"
+        }
+      ]
+    },
+    {
+      "text": "La basilique Notre-Dame-de-la-Garde à Marseille abrite de nombreux ex-voto : plaques de marbre de remerciement, tableaux de navires dans la tempête et maquettes de bateaux suspendues sous les voûtes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Basilique Notre-Dame de la Garde à Marseille",
+          "publisher": "Panorama de l'art (Réunion des musées nationaux)",
+          "url": "https://panoramadelart.com/analyse/basilique-notre-dame-de-la-garde-marseille"
+        },
+        {
+          "title": "Les ex-voto : une dévotion intemporelle",
+          "publisher": "Site officiel de la Basilique Notre-Dame de la Garde",
+          "url": "http://www.notredamedelagarde.com/Les-ex-voto-une-devotion.html"
+        }
+      ]
+    },
+    {
+      "text": "Au sanctuaire d'Asclépios à Épidaure, des stèles du IVe siècle avant notre ère consignaient des récits de guérisons attribuées au dieu.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Asclepieion",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Asclepieion"
+        },
+        {
+          "title": "Asclepian iamata and narratologies of healing",
+          "publisher": "CAMWS",
+          "url": "https://camws.org/sites/default/files/meeting2021/abstracts/2418AsclepiusNarrativeMedicine.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Au Mexique, des générations de fidèles ont peint des ex-voto (retablos) sur des plaques de métal pour remercier un saint.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Joy and Suffering: Mexican Folk Retablos from the Permanent Collection",
+          "publisher": "El Paso Museum of Art",
+          "url": "https://epma.art/art/exhibitions/joy-and-suffering-mexican-folk-retablos-from-the-permanent-collection"
+        }
+      ]
+    },
+    {
+      "text": "Dans De natura deorum (livre III), Cicéron rapporte que Diagoras, surnommé l'Athée, à Samothrace, répondit à un ami qui lui montrait les tableaux votifs des marins rescapés qu'on n'avait jamais peint ceux qui avaient fait naufrage et péri en mer.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cicero, De Natura Deorum III",
+          "publisher": "The Latin Library",
+          "url": "https://www.thelatinlibrary.com/cicero/nd3.shtml"
+        },
+        {
+          "title": "Diagoras of Melos",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diagoras_of_Melos"
+        }
+      ]
+    },
+    {
+      "text": "Dans le Novum Organum (1620, livre I, aphorisme 46), Francis Bacon reprend l'anecdote de Diagoras et y voit le mécanisme de toute superstition (astrologie, rêves, présages, jugements divins) : on remarque les cas où l'événement se réalise et on néglige ceux où il échoue, même s'ils sont plus fréquents.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Novum Organum, Book I (Spedding translation)",
+          "publisher": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Novum_Organum/Book_I_(Spedding)"
+        },
+        {
+          "title": "Francis Bacon's comments on the power of negative observations in his Novum Organum",
+          "publisher": "The James Lind Library",
+          "url": "https://www.jameslindlibrary.org/articles/francis-bacons-comments-on-the-power-of-negative-observations-in-his-novum-organum-first-published-in-1620/"
+        }
+      ]
+    },
+    {
+      "text": "Amos Tversky et Daniel Kahneman ont décrit l'heuristique de disponibilité en 1973 (Cognitive Psychology).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Tversky, A. and Kahneman, D. (1973) Availability: A Heuristic for Judging Frequency and Probability. Cognitive Psychology, 5, 207-232",
+          "publisher": "Scientific Research Publishing (référence bibliographique)",
+          "url": "https://www.scirp.org/reference/referencespapers?referenceid=2389445"
+        }
+      ]
+    },
+    {
+      "text": "En 1960, Peter Wason a publié la tâche dite 2-4-6, montrant que les participants cherchent des cas qui confirment leur hypothèse plutôt que des cas qui pourraient la réfuter.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reasoning, Biases and Dual Processes: The Lasting Impact of Wason (1960)",
+          "publisher": "Quarterly Journal of Experimental Psychology (SAGE)",
+          "url": "https://journals.sagepub.com/doi/abs/10.1080/17470218.2014.914547"
+        },
+        {
+          "title": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task",
+          "publisher": "Scientific Research Publishing (référence bibliographique)",
+          "url": "https://www.scirp.org/reference/referencespapers?referenceid=462236"
+        }
+      ]
+    },
+    {
+      "text": "Francis Galton a décrit la régression vers la moyenne au XIXe siècle (notamment en 1886).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Offprint of \"Regression towards Mediocrity in Hereditary Stature\"",
+          "publisher": "Wellcome Collection",
+          "url": "https://wellcomecollection.org/works/sf54qjj5"
+        },
+        {
+          "title": "Galton's data on the heights of parents and their children",
+          "publisher": "HistData (R package documentation)",
+          "url": "https://friendly.github.io/HistData/reference/Galton.html"
+        }
+      ]
+    },
+    {
+      "text": "L'effet placebo s'observe surtout sur des symptômes subjectifs comme la douleur ou l'anxiété.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Placebo interventions for all clinical conditions",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/CD003974/COMMUN_placebo-interventions-for-all-clinical-conditions"
+        }
+      ]
+    },
+    {
+      "text": "Les rémissions spontanées de maladies graves sont rares mais documentées dans la littérature médicale.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The spontaneous remission of cancer: Current insights and therapeutic significance",
+          "publisher": "PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/"
+        }
+      ]
+    },
+    {
+      "text": "En 1872, Francis Galton a publié « Statistical Inquiries into the Efficacy of Prayer » dans la Fortnightly Review : les souverains, pour lesquels on priait publiquement chaque dimanche, ne vivaient pas plus longtemps que les autres classes aisées et apparaissaient même comme les moins longévifs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Statistical Inquiries into the Efficacy of Prayer",
+          "publisher": "galton.org (texte de la Fortnightly Review, 1872)",
+          "url": "https://galton.org/essays/1870-1879/galton-1872-fortnightly-review-efficacy-prayer.html"
+        },
+        {
+          "title": "Prayer-Gage Debate, The",
+          "publisher": "Schaff-Herzog Encyclopedia (CCEL)",
+          "url": "https://www.ccel.org/s/schaff/encyc/encyc09/htm/iv.iv.xv.htm"
+        }
+      ]
+    },
+    {
+      "text": "L'étude STEP (Benson et al., American Heart Journal, 2006) a porté sur plus de 1 800 patients ayant subi un pontage coronarien ; la prière d'intercession par des communautés chrétiennes n'a eu aucun effet sur les complications.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients",
+          "publisher": "Mayo Clinic / American Heart Journal",
+          "url": "https://mayoclinic.elsevierpure.com/en/publications/study-of-the-therapeutic-effects-of-intercessory-prayer-step-in-c/"
+        },
+        {
+          "title": "Prayers don't help heart surgery patients",
+          "publisher": "Harvard Gazette",
+          "url": "https://news.harvard.edu/gazette/story/2006/04/prayers-dont-help-heart-surgery-patients-2/"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'étude STEP, les patients certains d'être l'objet de prières ont présenté un peu plus de complications que ceux qui n'en étaient pas certains.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients",
+          "publisher": "Mayo Clinic / American Heart Journal",
+          "url": "https://mayoclinic.elsevierpure.com/en/publications/study-of-the-therapeutic-effects-of-intercessory-prayer-step-in-c/"
+        },
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer - STEP",
+          "publisher": "American College of Cardiology",
+          "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2010/02/23/19/21/step"
+        }
+      ]
+    },
+    {
+      "text": "Un hadith rapporté dans le Musnad d'Ahmad (d'après Abou Saïd al-Khudri) affirme que toute invocation sans péché ni rupture des liens de parenté obtient l'une de trois choses : un exaucement rapide, une réserve pour l'au-delà, ou un mal équivalent écarté.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "No Muslim invokes Allah with a supplication that does not involve sin or severing ties of kinship...",
+          "publisher": "Encyclopedia of Translated Prophetic Hadiths (HadeethEnc)",
+          "url": "https://hadeethenc.com/en/browse/hadith/5100"
+        },
+        {
+          "title": "Musnad Ahmad 11133 — Musnad of Abu Sa'id al-Khudri",
+          "publisher": "Tohed",
+          "url": "https://en.tohed.com/hadith/musnad-ahmad/11133/"
+        }
+      ]
+    },
+    {
+      "text": "En 2001, Christopher French (Goldsmiths, Université de Londres) a présenté une expérience où quatre-vingts volontaires méditaient avec de vrais cristaux de quartz ou des imitations en verre ; les sensations rapportées étaient comparables et dépendaient de la croyance et de la suggestion plutôt que de la pierre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Crystal Healing",
+          "publisher": "Science-Based Medicine",
+          "url": "https://sciencebasedmedicine.org/crystal-healing/"
+        },
+        {
+          "title": "Crystal healing: Stone-cold facts about gemstone treatments",
+          "publisher": "Live Science",
+          "url": "https://www.livescience.com/40347-crystal-healing.html"
+        }
+      ]
+    },
+    {
+      "text": "Persi Diaconis et Frederick Mosteller ont formulé en 1989 la « loi des très grands nombres » dans « Methods for Studying Coincidences » (Journal of the American Statistical Association).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Methods for Studying Coincidences",
+          "publisher": "Journal of the American Statistical Association (copie University of Minnesota)",
+          "url": "http://users.stat.umn.edu/~rend0020/Teaching/STAT8801-2011Spring/articles/coincidences/coincidences-mosteller.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Dans Innumeracy (1988), John Allen Paulos a nommé « effet Jeane Dixon » la tendance à célébrer quelques prédictions justes en oubliant les nombreuses prédictions fausses.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jeane Dixon",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jeane_Dixon"
+        },
+        {
+          "title": "Innumeracy by John Allen Paulos (notes)",
+          "publisher": "Novel Investor",
+          "url": "https://novelinvestor.com/notes/innumeracy-by-john-allen-paulos/"
+        }
+      ]
+    },
+    {
+      "text": "En 1956, dans le magazine Parade, Jeane Dixon a annoncé que l'élection présidentielle américaine de 1960 serait gagnée par un démocrate qui mourrait en fonction.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jeane Dixon",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jeane_Dixon"
+        },
+        {
+          "title": "Jeane Dixon and the Jeane Dixon effect",
+          "publisher": "The Skeptic's Dictionary",
+          "url": "https://www.skepdic.com/dixon.html"
+        }
+      ]
+    },
+    {
+      "text": "Jeane Dixon avait prédit que les Soviétiques poseraient les premiers un homme sur la Lune.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Jeane Dixon",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jeane_Dixon"
+        },
+        {
+          "title": "Jeane Dixon and the Jeane Dixon effect",
+          "publisher": "The Skeptic's Dictionary",
+          "url": "https://www.skepdic.com/dixon.html"
+        }
+      ]
+    },
+    {
+      "text": "Depuis les apparitions de 1858, l'Église catholique a reconnu environ soixante-dix guérisons miraculeuses à Lourdes, après que des instances médicales les ont déclarées inexpliquées en l'état des connaissances.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miraculous healings",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.com/en/miraculous-healings/"
+        },
+        {
+          "title": "Une Italienne reconnue comme la 72e miraculée de Lourdes",
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/fr/eglise/news/2025-04/lourdes-miraculee-italienne-pelerinage-eglise-maladie-guerisson.html"
+        }
+      ]
+    },
+    {
+      "text": "Des millions de malades et de pèlerins se sont rendus à Lourdes depuis plus d'un siècle et demi, et la très grande majorité des malades n'y ont pas été guéris.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miraculous healings",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.com/en/miraculous-healings/"
+        },
+        {
+          "title": "France's Sanctuary of Our Lady of Lourdes: Where 72 medical miracles have been recognized by church officials",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/sanctuary-of-our-lady-of-lourdes-miracles-cures-60-minutes-transcript/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "épidémiologie et biostatistique (avec des notions de médecine clinique : effet placebo, rémissions spontanées, essais contrôlés)",
+    "threshold": 6.6,
+    "passages": 12,
+    "approximations": [
+      {
+        "excerpt": "Des millions de malades et de pèlerins sont venus à Lourdes depuis plus d'un siècle et demi, et l'immense majorité est repartie comme elle était venue.",
+        "note": "C'est un ordre de grandeur de la fréquentation. L'argument du dénominateur tient quel que soit le nombre exact, du moment qu'il se compte en millions."
+      },
+      {
+        "excerpt": "Depuis les apparitions de 1858, l'Église catholique a officiellement reconnu environ soixante-dix guérisons miraculeuses à Lourdes, après que des médecins les ont déclarées inexpliquées en l'état des connaissances.",
+        "note": "Le décompte officiel est arrondi (il évolue au fil des reconnaissances). Une différence de quelques unités ne change rien au rapport avec les millions de pèlerins."
+      },
+      {
+        "excerpt": "En 2006, l'American Heart Journal publie l'étude STEP, dirigée par Herbert Benson sur plus de mille huit cents patients opérés d'un pontage coronarien.",
+        "note": "L'effectif est arrondi (un peu plus de 1 800 patients). L'argument repose sur l'absence de différence entre les groupes, pas sur l'effectif exact."
+      },
+      {
+        "excerpt": "Sauf que ce mur de remerciements repose sur un mécanisme précis, le tri des cas favorables, et quelqu'un l'a repéré il y a plus de deux mille ans.",
+        "note": "La datation est approximative (Diagoras au Ve siècle av. J.-C., rapporté par Cicéron au Ier siècle av. J.-C.). Seule compte l'ancienneté de l'observation."
+      },
+      {
+        "excerpt": "Dans le sanctuaire d'Asclépios à Épidaure, au quatrième siècle avant notre ère, on gravait déjà sur des stèles le récit des guérisons obtenues.",
+        "note": "La datation est donnée au siècle près. Elle sert seulement à illustrer l'ancienneté des ex-voto."
+      },
+      {
+        "excerpt": "Sur les murs des chapelles, des milliers de plaques disent merci : et si tous ces gens avaient raison, et que quelqu'un, quelque part, écoutait vraiment ?",
+        "note": "C'est un ordre de grandeur rhétorique. Aucun décompte précis n'est nécessaire à l'argument."
+      },
+      {
+        "excerpt": "Pour beaucoup de croyants, balayer tout cela, ce serait traiter des millions de personnes de menteurs ou d'idiots.",
+        "note": "C'est un ordre de grandeur rhétorique, qui exprime le point de vue des croyants. Le raisonnement n'en dépend pas."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [
+    {
+      "title": "Pourquoi un mur d'ex-voto ne prouve rien : Cicéron l'avait compris",
+      "url": "https://www.youtube.com/watch?v=IZqkbQttNHQ",
+      "publishedAt": "2026-10-03T20:11:35.929Z"
+    },
+    {
+      "title": "70 miracles à Lourdes : la question que personne ne pose",
+      "url": "https://www.youtube.com/watch?v=O26z3rDbzSA",
+      "publishedAt": "2026-10-04T02:11:41.663Z"
+    }
+  ],
+  "corrections": []
+}

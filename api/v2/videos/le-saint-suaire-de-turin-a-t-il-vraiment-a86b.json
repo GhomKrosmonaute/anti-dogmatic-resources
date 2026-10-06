@@ -1,0 +1,509 @@
+{
+  "version": 2,
+  "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+  "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
+  "format": "video",
+  "publishedAt": "2026-10-03T21:00:09.277Z",
+  "durationSeconds": 671,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Le Saint Suaire de Turin est le linceul qui a enveloppé le corps de Jésus, et son image, que la science ne sait ni expliquer ni reproduire, s'est formée de façon surnaturelle au moment de la résurrection.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Le linge n'apparaît qu'au milieu du XIVe siècle à Lirey. Dès 1389, l'évêque de Troyes affirme qu'un artiste a reconnu l'avoir peint, et Clément VII impose en 1390 qu'on le présente comme une peinture. La datation au carbone 14 publiée dans Nature en 1989 par trois laboratoires indépendants place le lin entre 1260 et 1390, et l'image a été reproduite avec des moyens médiévaux."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "liUjpvYCsuU",
+    "url": "https://www.youtube.com/watch?v=liUjpvYCsuU",
+    "thumbnail": "https://i.ytimg.com/vi/liUjpvYCsuU/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-saint-suaire-de-turin-a-t-il-vraiment-a86b/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-saint-suaire-de-turin-a-t-il-vraiment-a86b.json"
+  },
+  "facts": [
+    {
+      "text": "Le Suaire de Turin est conservé dans la cathédrale Saint-Jean-Baptiste de Turin.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "What it is - Santa Sindone",
+          "publisher": "Archidiocèse de Turin (sindone.org)",
+          "url": "https://sindone.org/en/home-english/the-shroud/what-it-is/"
+        },
+        {
+          "title": "Shroud of Turin summary",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/summary/Shroud-of-Turin"
+        }
+      ]
+    },
+    {
+      "text": "Le Suaire est un drap de lin d'environ 4,4 m sur 1,1 m, tissé en sergé à chevrons.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "What it is - Santa Sindone",
+          "publisher": "Archidiocèse de Turin (sindone.org)",
+          "url": "https://sindone.org/en/home-english/the-shroud/what-it-is/"
+        },
+        {
+          "title": "Shroud of Turin summary",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/summary/Shroud-of-Turin"
+        }
+      ]
+    },
+    {
+      "text": "Le drap porte l'image de face et de dos d'un homme nu, barbu, aux cheveux longs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shroud of Turin",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+        },
+        {
+          "title": "What it is - Santa Sindone",
+          "publisher": "Archidiocèse de Turin (sindone.org)",
+          "url": "https://sindone.org/en/home-english/the-shroud/what-it-is/"
+        }
+      ]
+    },
+    {
+      "text": "En mai 1898, Secondo Pia, avocat et photographe amateur, photographie le Suaire pendant une exposition publique et découvre sur la plaque négative un visage d'aspect positif.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Secondo Pia",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+        },
+        {
+          "title": "A Critical Study of the Lirey Documents (L. Fossati)",
+          "publisher": "Shroud Spectrum International / shroud.com",
+          "url": "https://www.shroud.com/pdfs/ssi41part3.pdf"
+        }
+      ]
+    },
+    {
+      "text": "L'image présente sur le dos et les jambes des dizaines de petites marques que les partisans de l'authenticité attribuent au flagrum romain lesté de plomb, des coulées de sang sur le crâne et une plaie au flanc.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Scourge bloodstains on the Turin Shroud: an evidence for different instruments used (Faccini)",
+          "publisher": "shroud.com (Ohio Shroud Conference 2008)",
+          "url": "https://www.shroud.com/pdfs/ohiofaccini.pdf"
+        },
+        {
+          "title": "The Mystery of the Holy Shroud of Turin",
+          "publisher": "Christendom College Graduate School",
+          "url": "https://graduate.christendom.edu/shroud/"
+        }
+      ]
+    },
+    {
+      "text": "La plaie de clou visible sur l'image se situe au niveau du poignet et non de la paume.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Further experiments and remarks regarding the possible formation of blood stains on the Turin Shroud: stains attributed to the nailing of the hands",
+          "publisher": "International Journal of Legal Medicine (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11164752/"
+        },
+        {
+          "title": "Pierre Barbet Revisited (F. Zugibe)",
+          "publisher": "shroud.com",
+          "url": "https://www.shroud.com/zugibe.htm"
+        }
+      ]
+    },
+    {
+      "text": "Dans les années 1930, le chirurgien français Pierre Barbet a mené des expériences sur des cadavres et conclu qu'une main clouée par la paume ne pouvait pas soutenir le poids du corps.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pierre Barbet Revisited (F. Zugibe)",
+          "publisher": "shroud.com",
+          "url": "https://www.shroud.com/zugibe.htm"
+        },
+        {
+          "title": "The cadaver crucifixion experiments",
+          "publisher": "Strange Remains",
+          "url": "https://strangeremains.com/2015/04/03/the-cadaver-crucifixion-experiments/"
+        }
+      ]
+    },
+    {
+      "text": "John Heller et Alan Adler, associés au STURP, ont conclu que les taches rouges du Suaire contiennent du sang.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Blood on the shroud of Turin (Heller & Adler, Applied Optics, 1980)",
+          "publisher": "Applied Optics / Semantic Scholar",
+          "url": "https://www.semanticscholar.org/paper/1f8870d98c21e0f21c0f408efc112fde1a3c486f"
+        },
+        {
+          "title": "A Summary of STURP's Conclusions",
+          "publisher": "shroud.com (STURP)",
+          "url": "https://www.shroud.com/78conclu.htm"
+        }
+      ]
+    },
+    {
+      "text": "En octobre 1978, le Shroud of Turin Research Project (STURP), comprenant des chercheurs de Los Alamos et du Jet Propulsion Laboratory, a examiné le Suaire pendant environ 120 heures (photographie, rayons X, ultraviolets, prélèvements par rubans adhésifs).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The STURP Team—Hi-Tech Problem Solvers Tackle the Shroud's Mysteries",
+          "publisher": "Biblical Archaeology Society",
+          "url": "https://library.biblicalarchaeology.org/sidebar/the-sturp-team-hi-tech-problem-solvers-tackle-the-shrouds-mysteries/"
+        },
+        {
+          "title": "Shroud of Turin Research Project",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+        }
+      ]
+    },
+    {
+      "text": "Le STURP n'a trouvé ni traces de pinceau ni peinture ou teinture expliquant l'image, et a conclu que la coloration ne touche que la surface la plus externe des fibres de lin.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Summary of STURP's Conclusions",
+          "publisher": "shroud.com (STURP)",
+          "url": "https://www.shroud.com/78conclu.htm"
+        },
+        {
+          "title": "The Shroud of Turin: An Overview of the Archaeological Scientific Studies",
+          "publisher": "MDPI Textiles",
+          "url": "https://www.mdpi.com/2673-7248/5/1/8"
+        },
+        {
+          "title": "A Comprehensive Examination of the Various Stains and Images on the Shroud of Turin",
+          "publisher": "ACS Advances in Chemistry",
+          "url": "https://pubs.acs.org/doi/10.1021/ba-1984-0205.ch022"
+        }
+      ]
+    },
+    {
+      "text": "John Jackson et Eric Jumper ont analysé une photo du Suaire avec l'analyseur VP-8, qui en a tiré un relief tridimensionnel cohérent.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The STURP Team—Hi-Tech Problem Solvers Tackle the Shroud's Mysteries",
+          "publisher": "Biblical Archaeology Society",
+          "url": "https://library.biblicalarchaeology.org/sidebar/the-sturp-team-hi-tech-problem-solvers-tackle-the-shrouds-mysteries/"
+        },
+        {
+          "title": "A Summary of STURP's Conclusions",
+          "publisher": "shroud.com (STURP)",
+          "url": "https://www.shroud.com/78conclu.htm"
+        }
+      ]
+    },
+    {
+      "text": "Le rapport final du STURP (1981) conclut que l'image est celle d'un homme réel flagellé et crucifié, qu'elle n'est pas l'œuvre d'un artiste et que son mode de formation reste un mystère.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Summary of STURP's Conclusions",
+          "publisher": "shroud.com (STURP)",
+          "url": "https://www.shroud.com/78conclu.htm"
+        },
+        {
+          "title": "Shroud of Turin Research Project",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+        }
+      ]
+    },
+    {
+      "text": "En 2011, des physiciens de l'ENEA (Italie) ont tenté de reproduire la coloration du Suaire au laser ultraviolet, sans reproduire l'image complète.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Was Holy Shroud created in a flash? Italian researchers resurrect claim",
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/science/cosmic-log/was-holy-shroud-created-flash-italian-researchers-resurrect-claim-flna6c10402695"
+        },
+        {
+          "title": "Shroud-like coloration of linen by nanosecond laser pulses in the vacuum ultraviolet",
+          "publisher": "ResearchGate (Di Lazzaro et al.)",
+          "url": "https://www.researchgate.net/publication/262201333_Shroud-like_coloration_of_linen_by_nanosecond_laser_pulses_in_the_vacuum_ultraviolet"
+        }
+      ]
+    },
+    {
+      "text": "Le Suaire n'apparaît dans aucun document certain avant le milieu du XIVe siècle ; sa première localisation connue est la collégiale de Lirey, près de Troyes, fondée par Geoffroy de Charny vers 1353.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "History of the Shroud of Turin",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+        },
+        {
+          "title": "Shroud (Catholic Encyclopedia)",
+          "publisher": "New Advent / Catholic Encyclopedia",
+          "url": "https://www.newadvent.org/cathen/13762a.htm"
+        }
+      ]
+    },
+    {
+      "text": "Une enseigne de pèlerinage retrouvée dans la Seine à Paris, conservée au musée de Cluny, montre le linge déployé avec les armoiries des Charny et des Vergy.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Critical Study of the Lirey Documents (L. Fossati)",
+          "publisher": "Shroud Spectrum International / shroud.com",
+          "url": "https://www.shroud.com/pdfs/ssi41part3.pdf"
+        },
+        {
+          "title": "History of the Shroud of Turin",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+        }
+      ]
+    },
+    {
+      "text": "Les partisans de l'authenticité rattachent au Suaire des récits antérieurs d'images du Christ à Édesse (Mandylion) et à Constantinople, sans lien documentaire certain avec ce linge précis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Nicolotti, From the Mandylion of Edessa to the Shroud of Turin (review)",
+          "publisher": "The Medieval Review (Indiana University)",
+          "url": "https://scholarworks.iu.edu/journals/index.php/tmr/article/view/20176"
+        },
+        {
+          "title": "Rezension von: From the Mandylion of Edessa to the Shroud of Turin",
+          "publisher": "sehepunkte",
+          "url": "https://www.sehepunkte.de/2015/05/26274.html"
+        }
+      ]
+    },
+    {
+      "text": "En 1389, Pierre d'Arcis, évêque de Troyes, rédige un mémoire destiné à Clément VII affirmant que son prédécesseur Henri de Poitiers avait enquêté environ trente-quatre ans plus tôt et établi que le linge avait été peint avec artifice, ce qu'avait attesté l'artiste qui l'avait peint : une œuvre humaine, ni faite ni accordée par miracle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Memorandum of Pierre d'Arcis, Bishop of Troyes, to the Avignon Pope Clement VII (trad. H. Thurston)",
+          "publisher": "priory-of-sion.com (texte de Thurston, 1903)",
+          "url": "https://www.priory-of-sion.com/biblios/links/memorandum.html"
+        },
+        {
+          "title": "History of the Shroud of Turin",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+        }
+      ]
+    },
+    {
+      "text": "Le mémoire de Pierre d'Arcis accuse le doyen de Lirey d'avoir fait simuler des guérisons par des personnes payées pour attirer les offrandes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Memorandum of Pierre d'Arcis, Bishop of Troyes, to the Avignon Pope Clement VII (trad. H. Thurston)",
+          "publisher": "priory-of-sion.com (texte de Thurston, 1903)",
+          "url": "https://www.priory-of-sion.com/biblios/links/memorandum.html"
+        },
+        {
+          "title": "History of the Shroud of Turin",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+        }
+      ]
+    },
+    {
+      "text": "Les défenseurs de l'authenticité objectent que le mémoire de Pierre d'Arcis est un brouillon non daté et non signé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Critical Study of the Lirey Documents (L. Fossati)",
+          "publisher": "Shroud Spectrum International / shroud.com",
+          "url": "https://www.shroud.com/pdfs/ssi41part3.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Clément VII, pape d'Avignon pendant le Grand Schisme (aujourd'hui compté comme antipape par l'Église catholique), impose le silence à Pierre d'Arcis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bull of Pope Clement VII Regulating the Lirey Shroud Exhibitions",
+          "publisher": "shroud-of-turin.com",
+          "url": "https://www.shroud-of-turin.com/timeline/1390-bull-pope-clement-vii-regulating-lirey-shroud-exhibitions/"
+        },
+        {
+          "title": "A Critical Study of the Lirey Documents (L. Fossati)",
+          "publisher": "Shroud Spectrum International / shroud.com",
+          "url": "https://www.shroud.com/pdfs/ssi41part3.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Par une bulle du 6 janvier 1390, Clément VII autorise les expositions à Lirey sans cierges, torches ni solennités, à condition d'annoncer à haute et intelligible voix que ce n'est pas le vrai suaire du Christ mais une peinture ou un tableau fait à la figure ou en représentation du suaire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Critical Study of the Lirey Documents (L. Fossati)",
+          "publisher": "Shroud Spectrum International / shroud.com",
+          "url": "https://www.shroud.com/pdfs/ssi41part3.pdf"
+        },
+        {
+          "title": "Bull of Pope Clement VII Regulating the Lirey Shroud Exhibitions",
+          "publisher": "shroud-of-turin.com",
+          "url": "https://www.shroud-of-turin.com/timeline/1390-bull-pope-clement-vii-regulating-lirey-shroud-exhibitions/"
+        }
+      ]
+    },
+    {
+      "text": "L'Église catholique n'a jamais déclaré officiellement l'authenticité du Suaire ; Benoît XVI et François l'ont qualifié d'icône.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Meditation of the Holy Father, Veneration of the Holy Shroud (2 May 2010)",
+          "publisher": "Vatican",
+          "url": "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/may/documents/hf_ben-xvi_spe_20100502_meditazione-torino.html"
+        },
+        {
+          "title": "Exposition of the Holy Shroud - Video Message of Pope Francis (30 March 2013)",
+          "publisher": "Vatican",
+          "url": "https://www.vatican.va/content/francesco/en/messages/pont-messages/2013/documents/papa-francesco_20130330_videomessaggio-sindone.html"
+        },
+        {
+          "title": "Shroud of Turin goes on TV display amid new research; Pope Francis calls it 'icon,' not relic",
+          "publisher": "Fox News (AP)",
+          "url": "https://www.foxnews.com/world/shroud-of-turin-goes-on-tv-display-amid-new-research-pope-francis-calls-it-icon-not-relic"
+        }
+      ]
+    },
+    {
+      "text": "En 1998 à Turin, Jean-Paul II a déclaré que la question n'étant pas de foi, l'Église n'a pas de compétence spécifique pour se prononcer et confie aux scientifiques le soin de poursuivre les recherches.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Address at the Cathedral of Turin before the Shroud (24 May 1998)",
+          "publisher": "Vatican",
+          "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+        }
+      ]
+    },
+    {
+      "text": "Le 21 avril 1988, un échantillon a été prélevé dans un coin du Suaire et réparti entre trois laboratoires (Oxford, ETH Zurich, Université d'Arizona à Tucson), avec des échantillons témoins d'âge connu.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Radiocarbon dating of the Shroud of Turin",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+        },
+        {
+          "title": "Radiocarbon dating of the Shroud of Turin",
+          "publisher": "University of Arizona",
+          "url": "https://experts.arizona.edu/en/publications/radiocarbon-dating-of-the-shroud-of-turin/"
+        }
+      ]
+    },
+    {
+      "text": "Damon P. E. et al., « Radiocarbon dating of the Shroud of Turin », Nature 337, 16 février 1989 : le lin est daté entre 1260 et 1390 avec 95 % de confiance, et les auteurs écrivent que les résultats fournissent une preuve concluante que le lin est médiéval.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Radiocarbon dating of the Shroud of Turin",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/337611a0"
+        },
+        {
+          "title": "Radiocarbon dating of the Shroud of Turin",
+          "publisher": "University of Arizona",
+          "url": "https://experts.arizona.edu/en/publications/radiocarbon-dating-of-the-shroud-of-turin/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "physique nucléaire appliquée : datation par le carbone 14 (radiocarbone)",
+    "approximations": [
+      {
+        "excerpt": "Dans la cathédrale de Turin, on conserve un drap de lin d'environ quatre mètres quarante sur un mètre dix, tissé en chevrons.",
+        "note": "Les dimensions sont arrondies (environ 4,42 m sur 1,13 m selon les mesures), et aucun argument n'en dépend."
+      },
+      {
+        "excerpt": "Sur le dos et les jambes, des dizaines de petites marques que beaucoup rapprochent du fouet romain lesté de plomb.",
+        "note": "Le nombre de marques est donné en ordre de grandeur (une centaine selon certains décomptes) et n'intervient dans aucun raisonnement."
+      },
+      {
+        "excerpt": "Pendant environ cent vingt heures, ils le photographient, le passent aux rayons X, aux ultraviolets, et prélèvent des fibres avec des rubans adhésifs.",
+        "note": "La durée de l'examen du STURP est arrondie et ne sert qu'à décrire le contexte."
+      },
+      {
+        "excerpt": "Sa première maison connue, c'est Lirey, en Champagne, près de Troyes, où le chevalier Geoffroy de Charny fonde une collégiale vers 1353.",
+        "note": "La date est donnée à quelques années près. Le raisonnement exige seulement qu'elle tombe dans l'intervalle 1260-1390, ce qui est le cas."
+      },
+      {
+        "excerpt": "Il y raconte que son prédécesseur, Henri de Poitiers, avait enquêté environ trente-quatre ans plus tôt sur ce drap.",
+        "note": "L'écart est approximatif, comme l'indique « environ ». Il situe l'enquête vers 1355 sans que le raisonnement dépende de l'année exacte."
+      },
+      {
+        "excerpt": "Au chapitre 19 de Jean, verset 39, Nicodème apporte environ cent livres de myrrhe et d'aloès, une trentaine de kilos d'aromates.",
+        "note": "La conversion de la livre romaine (environ 327 g) en une trentaine de kilos est un ordre de grandeur. L'argument porte sur l'abondance des aromates, pas sur leur masse exacte."
+      },
+      {
+        "excerpt": "Le Suaire de Turin est probablement l'une des œuvres d'art les plus réussies du quatorzième siècle, et le vrai mystère n'est pas son image : c'est qu'on pose encore la question plus de six siècles après la réponse.",
+        "note": "« Plus de six siècles » arrondit l'écart entre 1390 et aujourd'hui, et cette durée ne sert pas l'argumentation."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

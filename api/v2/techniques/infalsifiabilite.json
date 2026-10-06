@@ -1,0 +1,842 @@
+{
+  "version": 2,
+  "id": "infalsifiabilite",
+  "name": "L'affirmation à l'épreuve de tout",
+  "definition": "Aucune observation ne pourrait jamais la contredire : chaque échec reçoit une excuse.",
+  "signs": [
+    "chaque échec a son explication (« c'était la nuit », « tu n'avais pas assez la foi »)",
+    "la thèse s'adapte à tous les résultats",
+    "elle ne prédit rien qu'on pourrait vérifier"
+  ],
+  "question": "Pourquoi certaines croyances résistent-elles à toutes les preuves ?",
+  "taughtBy": [
+    {
+      "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+      "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T22:30:11.248Z",
+      "durationSeconds": 661,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "infalsifiabilite",
+        "name": "L'affirmation à l'épreuve de tout"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "wIGW-ulElfk",
+        "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+        "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
+      }
+    }
+  ],
+  "examples": [
+    {
+      "id": "le-bouddhisme-est-il-une-religion-ou-une-5c18",
+      "title": "Le bouddhisme est-il une religion ou une philosophie ? Ce qu'enseignait vraiment le Bouddha",
+      "format": "video",
+      "publishedAt": "2026-10-06T09:00:09.143Z",
+      "durationSeconds": 700,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le bouddhisme n'est pas vraiment une religion mais une philosophie : une sagesse sans dieu ni dogme, qui invite à tout vérifier par soi-même et que la science confirme, de la méditation au karma.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "l4ANI17qsCc",
+        "url": "https://www.youtube.com/watch?v=l4ANI17qsCc",
+        "thumbnail": "https://i.ytimg.com/vi/l4ANI17qsCc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-bouddhisme-est-il-une-religion-ou-une-5c18/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-bouddhisme-est-il-une-religion-ou-une-5c18.json"
+      }
+    },
+    {
+      "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+      "format": "short",
+      "publishedAt": "2026-10-05T18:15:04.019Z",
+      "durationSeconds": 134,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
+      },
+      "series": null,
+      "youtube": {
+        "id": "jUXA-3UNzBE",
+        "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
+        "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
+      }
+    },
+    {
+      "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
+      "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",
+      "format": "video",
+      "publishedAt": "2026-10-05T15:45:09.131Z",
+      "durationSeconds": 713,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Notre volonté est libre : au moment de choisir, nous aurions pu vouloir et faire autrement, et nous le savons sans preuve, par l'expérience intime que nous en avons.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pIoZtbVyQXY",
+        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
+        "thumbnail": "https://i.ytimg.com/vi/pIoZtbVyQXY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-libre-arbitre-existe-t-il-vraiment-e244/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-libre-arbitre-existe-t-il-vraiment-e244.json"
+      }
+    },
+    {
+      "id": "l-univers-n-a-pas-ete-fait-pour-toi-fd61",
+      "title": "L'univers a-t-il été fait pour nous ? Le troublant mystère du réglage fin",
+      "format": "video",
+      "publishedAt": "2026-10-04T19:45:08.969Z",
+      "durationSeconds": 699,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'univers a été fait pour l'être humain : ses lois sont réglées pour nous, et les dieux, les astres et le cosmos s'intéressent à nos vies.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "5-lp18BDj2I",
+        "url": "https://www.youtube.com/watch?v=5-lp18BDj2I",
+        "thumbnail": "https://i.ytimg.com/vi/5-lp18BDj2I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-univers-n-a-pas-ete-fait-pour-toi-fd61.json"
+      }
+    },
+    {
+      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T16:30:11.972Z",
+      "durationSeconds": 651,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xe7folt44Ko",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
+        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+      }
+    },
+    {
+      "id": "quand-on-veut-on-peut-451d",
+      "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T06:15:11.250Z",
+      "durationSeconds": 723,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand on veut, on peut : avec assez de volonté et de travail, n'importe qui peut réussir, quelle que soit son origine.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "zEChYJZZYGM",
+        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM",
+        "thumbnail": "https://i.ytimg.com/vi/zEChYJZZYGM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quand-on-veut-on-peut-451d.json"
+      }
+    },
+    {
+      "id": "tout-arrive-pour-une-raison-3a38",
+      "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
+      "format": "video",
+      "publishedAt": "2026-10-04T04:30:11.892Z",
+      "durationSeconds": 696,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "EaKHThIwLtk",
+        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
+        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
+      }
+    },
+    {
+      "id": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
+      "title": "Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)",
+      "format": "video",
+      "publishedAt": "2026-10-04T00:45:10.638Z",
+      "durationSeconds": 688,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Jésus n'a été ni tué ni crucifié : Dieu a donné son apparence à un autre homme, crucifié à sa place, et l'a élevé vivant auprès de Lui.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "a8OZPpeJk_A",
+        "url": "https://www.youtube.com/watch?v=a8OZPpeJk_A",
+        "thumbnail": "https://i.ytimg.com/vi/a8OZPpeJk_A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/jesus-a-t-il-vraiment-ete-crucifie-ef5c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/jesus-a-t-il-vraiment-ete-crucifie-ef5c.json"
+      }
+    },
+    {
+      "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+      "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-03T21:00:09.277Z",
+      "durationSeconds": 671,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Saint Suaire de Turin est le linceul qui a enveloppé le corps de Jésus, et son image, que la science ne sait ni expliquer ni reproduire, s'est formée de façon surnaturelle au moment de la résurrection.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "liUjpvYCsuU",
+        "url": "https://www.youtube.com/watch?v=liUjpvYCsuU",
+        "thumbnail": "https://i.ytimg.com/vi/liUjpvYCsuU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-saint-suaire-de-turin-a-t-il-vraiment-a86b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-saint-suaire-de-turin-a-t-il-vraiment-a86b.json"
+      }
+    },
+    {
+      "id": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
+      "title": "Les djinns peuvent-ils entrer dans le corps ? Possession et roqya selon le Coran et la Sunna",
+      "format": "video",
+      "publishedAt": "2026-10-03T20:15:09.061Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran et la Sunna enseignent que les djinns peuvent entrer dans le corps humain et le posséder, et la roqya permet de les en chasser.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "FNNHc_mRp8I",
+        "url": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
+        "thumbnail": "https://i.ytimg.com/vi/FNNHc_mRp8I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732.json"
+      }
+    },
+    {
+      "id": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
+      "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle scientifique du Coran (78:6-7)",
+      "format": "video",
+      "publishedAt": "2026-10-03T17:30:09.246Z",
+      "durationSeconds": 616,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Quatorze siècles avant la géologie moderne, le Coran annonçait que les montagnes sont des piquets aux racines profondes qui stabilisent la Terre et l'empêchent de trembler.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "eFne8S6CLsU",
+        "url": "https://www.youtube.com/watch?v=eFne8S6CLsU",
+        "thumbnail": "https://i.ytimg.com/vi/eFne8S6CLsU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-montagnes-des-piquets-qui-empechent-la-terre-7c57/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-montagnes-des-piquets-qui-empechent-la-terre-7c57.json"
+      }
+    },
+    {
+      "id": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
+      "title": "Le Coran a-t-il annoncé l'expansion de l'univers avant Hubble ? Sourate 51, verset 47",
+      "format": "video",
+      "publishedAt": "2026-10-02T08:30:11.866Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit l'expansion de l'univers dans le verset « Nous avons construit le ciel avec puissance et Nous l'étendons sans cesse » (sourate 51, verset 47), treize siècles avant Lemaître et Hubble.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "A292EREGGsc",
+        "url": "https://www.youtube.com/watch?v=A292EREGGsc",
+        "thumbnail": "https://i.ytimg.com/vi/A292EREGGsc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a.json"
+      }
+    },
+    {
+      "id": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
+      "title": "L'enfer existe-t-il dans la Bible ? Ce que disent vraiment le Shéol et la Géhenne",
+      "format": "video",
+      "publishedAt": "2026-10-01T19:45:09.227Z",
+      "durationSeconds": 680,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "La Bible enseigne clairement que les damnés subiront après la mort un supplice éternel dans le feu de l'enfer.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Zh3i--DO7tc",
+        "url": "https://www.youtube.com/watch?v=Zh3i--DO7tc",
+        "thumbnail": "https://i.ytimg.com/vi/Zh3i--DO7tc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-enfer-n-est-presque-pas-dans-la-bible-b8ff/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-enfer-n-est-presque-pas-dans-la-bible-b8ff.json"
+      }
+    },
+    {
+      "id": "le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47",
+      "title": "Le prophète Muhammad est-il annoncé dans la Bible ? Les 3 versets que tout le monde cite",
+      "format": "video",
+      "publishedAt": "2026-10-01T07:15:08.668Z",
+      "durationSeconds": 689,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le prophète Muhammad est annoncé dans la Bible : Deutéronome 18,18, l'Évangile de Jean (le « consolateur ») et le Cantique des cantiques 5,16 (« vekoullo mahamaddim », « il est tout entier Muhammad ») prédisent sa venue, et la Bible aurait été falsifiée là où elle le contredit.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "-POyAhjxO2E",
+        "url": "https://www.youtube.com/watch?v=-POyAhjxO2E",
+        "thumbnail": "https://i.ytimg.com/vi/-POyAhjxO2E/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47.json"
+      }
+    },
+    {
+      "id": "physique-quantique-et-loi-de-l-attraction-cb5e",
+      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:45:08.004Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hGHuqnHvlmg",
+        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+        "thumbnail": "https://i.ytimg.com/vi/hGHuqnHvlmg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
+      }
+    },
+    {
+      "id": "le-pari-de-pascal-55c1",
+      "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
+      "format": "video",
+      "publishedAt": "2026-09-25T08:30:12.640Z",
+      "durationSeconds": 444,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "IMmyIhAADD4",
+        "url": "https://www.youtube.com/watch?v=IMmyIhAADD4",
+        "thumbnail": "https://i.ytimg.com/vi/IMmyIhAADD4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
+      }
+    },
+    {
+      "id": "le-fardeau-de-la-preuve-19ef",
+      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+      "format": "video",
+      "publishedAt": "2026-09-25T07:02:41.865Z",
+      "durationSeconds": 467,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": {
+        "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1DqgdLPjCi4",
+        "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+        "thumbnail": "https://i.ytimg.com/vi/1DqgdLPjCi4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
+      }
+    },
+    {
+      "id": "sans-dieu-tout-est-permis-9230",
+      "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+      "format": "video",
+      "publishedAt": "2026-09-25T05:40:52.683Z",
+      "durationSeconds": 512,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xr-j1jeo9YU",
+        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
+        "thumbnail": "https://i.ytimg.com/vi/xr-j1jeo9YU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
+      }
+    },
+    {
+      "id": "omniscience-divine-contre-libre-arbitre-9957",
+      "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",
+      "format": "video",
+      "publishedAt": "2026-09-25T05:01:32.451Z",
+      "durationSeconds": 516,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'omniscience divine, c'est-à-dire la connaissance infaillible de tous les actes futurs, est compatible avec la liberté humaine et la responsabilité morale.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "SZCHk7cjrec",
+        "url": "https://www.youtube.com/watch?v=SZCHk7cjrec",
+        "thumbnail": "https://i.ytimg.com/vi/SZCHk7cjrec/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/omniscience-divine-contre-libre-arbitre-9957/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/omniscience-divine-contre-libre-arbitre-9957.json"
+      }
+    }
+  ]
+}

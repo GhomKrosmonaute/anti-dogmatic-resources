@@ -1,0 +1,552 @@
+{
+  "version": 2,
+  "id": "selection-des-cas",
+  "name": "Le tri des cas favorables",
+  "definition": "On retient les réussites et on oublie les échecs.",
+  "signs": [
+    "aucune donnée sur les échecs",
+    "les prophéties ratées sont passées sous silence",
+    "les exemples sont choisis après coup"
+  ],
+  "question": "Pourquoi les prophéties semblent-elles toujours se réaliser ?",
+  "taughtBy": [
+    {
+      "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
+      "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
+      "format": "video",
+      "publishedAt": "2026-10-03T19:00:08.625Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "selection-des-cas",
+        "name": "Le tri des cas favorables"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "-tKV9kTwxOY",
+        "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
+        "thumbnail": "https://i.ytimg.com/vi/-tKV9kTwxOY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-tant-de-prieres-semblent-exaucees-9cfc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-tant-de-prieres-semblent-exaucees-9cfc.json"
+      }
+    }
+  ],
+  "examples": [
+    {
+      "id": "le-chemin-de-vie-en-numerologie-2d23",
+      "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T20:00:10.317Z",
+      "durationSeconds": 712,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "G1IOo80G-P8",
+        "url": "https://www.youtube.com/watch?v=G1IOo80G-P8",
+        "thumbnail": "https://i.ytimg.com/vi/G1IOo80G-P8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chemin-de-vie-en-numerologie-2d23.json"
+      }
+    },
+    {
+      "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
+      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
+      "format": "short",
+      "publishedAt": "2026-10-05T18:15:04.019Z",
+      "durationSeconds": 134,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
+      },
+      "series": null,
+      "youtube": {
+        "id": "jUXA-3UNzBE",
+        "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
+        "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
+      }
+    },
+    {
+      "id": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
+      "title": "Pourquoi les sceptiques s'attaquent-ils à la foi ? Zététique et The Satanic Temple",
+      "format": "video",
+      "publishedAt": "2026-10-05T00:00:11.813Z",
+      "durationSeconds": 672,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Croire ne fait de mal à personne : chacun ses croyances, et les remettre en question ne sert à rien.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "GgT4uql9Vv4",
+        "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
+        "thumbnail": "https://i.ytimg.com/vi/GgT4uql9Vv4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-combattre-la-pseudoscience-et-la-religion-e698/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-combattre-la-pseudoscience-et-la-religion-e698.json"
+      }
+    },
+    {
+      "id": "l-univers-n-a-pas-ete-fait-pour-toi-fd61",
+      "title": "L'univers a-t-il été fait pour nous ? Le troublant mystère du réglage fin",
+      "format": "video",
+      "publishedAt": "2026-10-04T19:45:08.969Z",
+      "durationSeconds": 699,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'univers a été fait pour l'être humain : ses lois sont réglées pour nous, et les dieux, les astres et le cosmos s'intéressent à nos vies.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "5-lp18BDj2I",
+        "url": "https://www.youtube.com/watch?v=5-lp18BDj2I",
+        "thumbnail": "https://i.ytimg.com/vi/5-lp18BDj2I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-univers-n-a-pas-ete-fait-pour-toi-fd61.json"
+      }
+    },
+    {
+      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T16:30:11.972Z",
+      "durationSeconds": 651,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xe7folt44Ko",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
+        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+      }
+    },
+    {
+      "id": "transits-planetaires-et-retrogradations-191e",
+      "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+      "format": "short",
+      "publishedAt": "2026-10-04T11:30:03.912Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ghN7-UhF828",
+        "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
+        "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
+      }
+    },
+    {
+      "id": "quand-on-veut-on-peut-451d",
+      "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T06:15:11.250Z",
+      "durationSeconds": 723,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Quand on veut, on peut : avec assez de volonté et de travail, n'importe qui peut réussir, quelle que soit son origine.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "zEChYJZZYGM",
+        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM",
+        "thumbnail": "https://i.ytimg.com/vi/zEChYJZZYGM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quand-on-veut-on-peut-451d.json"
+      }
+    },
+    {
+      "id": "tout-arrive-pour-une-raison-3a38",
+      "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
+      "format": "video",
+      "publishedAt": "2026-10-04T04:30:11.892Z",
+      "durationSeconds": 696,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "EaKHThIwLtk",
+        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
+        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
+      }
+    },
+    {
+      "id": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
+      "title": "Le Coran a-t-il annoncé l'expansion de l'univers avant Hubble ? Sourate 51, verset 47",
+      "format": "video",
+      "publishedAt": "2026-10-02T08:30:11.866Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit l'expansion de l'univers dans le verset « Nous avons construit le ciel avec puissance et Nous l'étendons sans cesse » (sourate 51, verset 47), treize siècles avant Lemaître et Hubble.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "A292EREGGsc",
+        "url": "https://www.youtube.com/watch?v=A292EREGGsc",
+        "thumbnail": "https://i.ytimg.com/vi/A292EREGGsc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a.json"
+      }
+    },
+    {
+      "id": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
+      "title": "Le fer est-il descendu du ciel ? Le miracle scientifique de la sourate Al-Hadid (Coran 57:25)",
+      "format": "video",
+      "publishedAt": "2026-10-02T07:30:09.838Z",
+      "durationSeconds": 638,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit le fer comme « descendu » du ciel, ce qui prouve qu'il vient de l'espace, ce que la science a confirmé",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "obm6HRxW244",
+        "url": "https://www.youtube.com/watch?v=obm6HRxW244",
+        "thumbnail": "https://i.ytimg.com/vi/obm6HRxW244/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fer-est-il-vraiment-descendu-du-ciel-af91/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fer-est-il-vraiment-descendu-du-ciel-af91.json"
+      }
+    },
+    {
+      "id": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
+      "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
+      "format": "video",
+      "publishedAt": "2026-10-01T02:00:10.451Z",
+      "durationSeconds": 634,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "I1oCBdRo6js",
+        "url": "https://www.youtube.com/watch?v=I1oCBdRo6js",
+        "thumbnail": "https://i.ytimg.com/vi/I1oCBdRo6js/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31.json"
+      }
+    },
+    {
+      "id": "comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28",
+      "title": "Comment le Coran a-t-il été préservé depuis le Prophète ? De la révélation au mushaf d'Uthman",
+      "format": "video",
+      "publishedAt": "2026-10-01T00:27:21.037Z",
+      "durationSeconds": 706,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran récité aujourd'hui est exactement celui que récitait le Prophète : il a été préservé sans la moindre altération, lettre pour lettre, depuis quatorze siècles, par la mémoire et l'écriture, sous la protection de Dieu (sourate 15, verset 9).",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "zoeVEThgAmc",
+        "url": "https://www.youtube.com/watch?v=zoeVEThgAmc",
+        "thumbnail": "https://i.ytimg.com/vi/zoeVEThgAmc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28.json"
+      }
+    }
+  ]
+}
