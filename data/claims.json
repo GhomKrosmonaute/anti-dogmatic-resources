@@ -1,9 +1,395 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-07T11:16:11.679Z",
+  "generatedAt": "2026-10-07T13:01:09.802Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
+      "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
+      "format": "video",
+      "publishedAt": "2026-10-07T13:00:09.679Z",
+      "durationSeconds": 702,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Si l'on expose les faits et les bons arguments avec assez de clarté et de force, ceux qui se trompent finissent par changer d'avis.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Les faits corrigent bien les erreurs ponctuelles : l'effet retour de flamme s'est révélé rare dans les réplications de Wood et Porter. Mais les convictions liées à l'identité bougent à peine sous les corrections et la moquerie braque ; ce sont l'échange sans jugement et le contact, mesurés par Broockman et Kalla ou Pettigrew et Tropp, qui déplacent durablement les attitudes."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "NB6iXbIfo-w",
+        "url": "https://www.youtube.com/watch?v=NB6iXbIfo-w",
+        "thumbnail": "https://i.ytimg.com/vi/NB6iXbIfo-w/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/militer-pour-l-humanisme-et-l-esprit-critique-86c2.json"
+      },
+      "facts": [
+        {
+          "text": "Les chrétiens parlent de témoigner de leur foi ; dans l'islam, la da'wa désigne l'invitation à l'islam.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Da'wa",
+              "publisher": "Encyclopedia.com",
+              "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/dawa"
+            },
+            {
+              "title": "Dawah",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dawah"
+            }
+          ]
+        },
+        {
+          "text": "Le magicien Penn Jillette a raconté dans une vidéo qu'un spectateur lui avait offert une Bible après un spectacle, et a déclaré en substance : « À quel point faut-il détester quelqu'un pour ne pas faire de prosélytisme ? À quel point faut-il détester quelqu'un pour croire que la vie éternelle est possible, et ne pas le lui dire ? » (traduction).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Atheist Magician Encourages Christian Evangelism",
+              "publisher": "Christian Reformed Church in North America",
+              "url": "https://crcna.org/news-and-events/news/atheist-magician-encourages-christian-evangelism"
+            },
+            {
+              "title": "Atheist Penn Jillette: Christians, evangelize",
+              "publisher": "ChurchPOP",
+              "url": "https://churchpop.com/atheist-penn-jillette-christians-evangelize/"
+            }
+          ]
+        },
+        {
+          "text": "Harriet Beecher Stowe a publié Uncle Tom's Cabin en 1852, roman antiesclavagiste devenu un immense succès de librairie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Uncle Tom's Cabin",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin"
+            },
+            {
+              "title": "Harriet Beecher Stowe",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/people/harriet-beecher-stowe.htm"
+            }
+          ]
+        },
+        {
+          "text": "Green et Brock (2000, Journal of Personality and Social Psychology) : plus un lecteur est transporté par un récit, plus ses croyances s'alignent sur celles du récit et moins il y relève de fausses notes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Role of Transportation in the Persuasiveness of Public Narratives",
+              "publisher": "Journal of Personality and Social Psychology (PDF)",
+              "url": "https://gwern.net/docs/www/pdfs.semanticscholar.org/39691cee32e52fbfc33f1a0316aa0d008cb699a4.pdf"
+            },
+            {
+              "title": "Transportation into narrative worlds",
+              "publisher": "OnFiction",
+              "url": "https://www.onfiction.ca/2014/06/transportation-into-narrative-worlds.html"
+            }
+          ]
+        },
+        {
+          "text": "Ian Bogost développe la notion de rhétorique procédurale dans Persuasive Games (MIT Press, 2007).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ian Bogost, Persuasive Games: The Expressive Power of Videogames (review)",
+              "publisher": "Rhizomes",
+              "url": "https://rhizomes.net/issue19/reviews/zhang.html"
+            }
+          ]
+        },
+        {
+          "text": "Papers, Please (Lucas Pope, 2013) place le joueur dans le rôle d'un inspecteur des frontières d'un État autoritaire fictif qui doit faire vivre sa famille.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Papers, Please",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Papers,_Please"
+            }
+          ]
+        },
+        {
+          "text": "La série Cosmos de Carl Sagan a été diffusée en 1980.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "September 1980: Carl Sagan's Cosmos: A Personal Journey Airs",
+              "publisher": "PBS SoCal / KCET",
+              "url": "https://www.pbssocal.org/kcet-50th-anniversary/september-1980-carl-sagans-cosmos-a-personal-journey-airs"
+            }
+          ]
+        },
+        {
+          "text": "Jean Calas, protestant, a été exécuté à Toulouse le 10 mars 1762, accusé d'avoir tué son fils pour l'empêcher de se convertir au catholicisme ; Voltaire a publié le Traité sur la tolérance en 1763 ; l'arrêt du parlement de Toulouse a été annulé et Calas réhabilité en 1765.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. L'exécution (10 mars 1762), le Traité (1763) et la réhabilitation (9 mars 1765) sont exacts, mais la cassation de l'arrêt toulousain date du 4 juin 1764, pas de 1765. Correction proposée : Jean Calas, protestant, a été exécuté à Toulouse le 10 mars 1762, accusé d'avoir tué son fils pour l'empêcher de se convertir au catholicisme ; Voltaire a publié le Traité sur la tolérance en 1763 ; l'arrêt du parlement de Toulouse a été cassé le 4 juin 1764 et Calas réhabilité le 9 mars 1765.",
+          "sources": [
+            {
+              "title": "9 mars 1762 : Jean Calas est condamné",
+              "publisher": "Herodote.net",
+              "url": "https://www.herodote.net/9_mars_1762-evenement-17620309.php"
+            },
+            {
+              "title": "Jean Calas",
+              "publisher": "Schoolmouv",
+              "url": "https://www.schoolmouv.fr/cours/jean-calas/"
+            }
+          ]
+        },
+        {
+          "text": "Nyhan et Reifler (2010, Political Behavior, « When Corrections Fail ») ont rapporté qu'une correction sur les armes de destruction massive en Irak renforçait la croyance erronée chez une partie des participants, effet baptisé backfire effect.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "When Corrections Fail: The Persistence of Political Misperceptions",
+              "publisher": "Political Behavior (author PDF, Dartmouth)",
+              "url": "https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler.pdf"
+            },
+            {
+              "title": "The Backfire Effect",
+              "publisher": "JSTOR Daily",
+              "url": "https://daily.jstor.org/the-backfire-effect/"
+            }
+          ]
+        },
+        {
+          "text": "Wood et Porter (2019, Political Behavior, « The Elusive Backfire Effect ») n'ont presque pas retrouvé l'effet retour de flamme sur 52 sujets et plus de 10 000 participants, la plupart ajustant leur croyance dans le sens de la correction.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence",
+              "publisher": "Political Behavior (Springer)",
+              "url": "https://www.doi.org/10.1007/s11109-018-9443-y"
+            },
+            {
+              "title": "Fact-checking doesn't 'backfire,' new study suggests",
+              "publisher": "Poynter",
+              "url": "https://poynter.org/?p=436983"
+            }
+          ]
+        },
+        {
+          "text": "Nyhan, Porter, Reifler et Wood (2020, Political Behavior, « Taking Fact-Checks Literally But Not Seriously? ») : pendant la campagne présidentielle américaine de 2016, les vérifications des faits réduisaient la croyance dans de fausses affirmations de Donald Trump sans modifier notablement l'opinion de ses électeurs sur le candidat.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Taking Fact-Checks Literally But Not Seriously? The Effects of Journalistic Fact-Checking on Factual Beliefs and Candidate Favorability",
+              "publisher": "Springer Professional / Political Behavior",
+              "url": "https://www.springerprofessional.de/en/taking-fact-checks-literally-but-not-seriously-the-effects-of-jo/16409994"
+            },
+            {
+              "title": "Taking fact-checks literally but not seriously?",
+              "publisher": "University of Southampton ePrints",
+              "url": "https://eprints.soton.ac.uk/497059/"
+            }
+          ]
+        },
+        {
+          "text": "LaMarre, Landreville et Beam (2009, International Journal of Press/Politics) : conservateurs et libéraux trouvaient Stephen Colbert aussi drôle, mais les conservateurs pensaient plus souvent qu'il faisait seulement semblant de plaisanter et pensait sincèrement ce qu'il disait.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Truthiness of The Colbert Report",
+              "publisher": "Pacific Standard",
+              "url": "https://psmag.com/economics/the-truthiness-of-the-colbert-report-3788/"
+            },
+            {
+              "title": "Why Do Conservatives Like Stephen Colbert?",
+              "publisher": "AlterNet",
+              "url": "https://www.alternet.org/2009/04/why_do_conservatives_like_stephen_colbert"
+            }
+          ]
+        },
+        {
+          "text": "Au Reason Rally de Washington en 2012, Richard Dawkins a appelé le public à moquer et ridiculiser en public les croyances religieuses.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dawkins calls for mockery of Catholics at Reason Rally",
+              "publisher": "Catholic News Agency",
+              "url": "https://www.catholicnewsagency.com/news/dawkins-calls-for-mockery-of-catholics-at-reason-rally"
+            },
+            {
+              "title": "Atheists Rally for Reason; Urged to Mock the Religious",
+              "publisher": "The Christian Post",
+              "url": "https://christianpost.com/news/atheists-rally-for-reason-urged-to-mock-the-religious.html"
+            }
+          ]
+        },
+        {
+          "text": "Cohen, Aronson et Steele (2000, Personality and Social Psychology Bulletin, « When Beliefs Yield to Evidence ») : l'auto-affirmation rend l'évaluation de données contraires à son opinion, notamment sur la peine de mort, moins biaisée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "When Beliefs Yield to Evidence: Reducing Biased Evaluation by Affirming the Self",
+              "publisher": "AcaWiki",
+              "url": "https://acawiki.org/When_Beliefs_Yield_to_Evidence:_Reducing_Biased_Evaluation_by_Affirming_the_Self"
+            },
+            {
+              "title": "When Beliefs Yield to Evidence (PDF)",
+              "publisher": "Stanford Graduate School of Education (archive)",
+              "url": "https://swap.stanford.edu/was/20140911222256mp_/https://ed.stanford.edu/sites/default/files/when_beliefs_yield.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Un article publié dans Science en 2014 sur l'effet d'une conversation de démarchage à domicile sur l'opinion envers le mariage homosexuel a été rétracté en 2015, après que David Broockman et Joshua Kalla y eurent relevé des anomalies dans les données.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "An Author Of Paper About Changing Minds On Gay Marriage Seeks Retraction",
+              "publisher": "NPR",
+              "url": "https://www.npr.org/sections/thetwo-way/2015/05/20/408299979/an-author-of-paper-about-changing-minds-on-gay-marriage-seeks-retraction"
+            },
+            {
+              "title": "Canvassers Study Has Been Retracted",
+              "publisher": "This American Life",
+              "url": "https://www.thisamericanlife.org/extras/canvassers-study-in-episode-555-has-been-retracted"
+            }
+          ]
+        },
+        {
+          "text": "Broockman et Kalla (2016, Science, « Durably reducing transphobia ») : une conversation d'une dizaine de minutes en démarchage dans la région de Miami a réduit les préjugés envers les personnes transgenres, avec un effet encore mesurable trois mois plus tard.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Fighting Transphobia in 10 Minutes",
+              "publisher": "Stanford Graduate School of Business",
+              "url": "https://www.gsb.stanford.edu/insights/fighting-transphobia-10-minutes"
+            },
+            {
+              "title": "Durably reducing transphobia: A field experiment on door-to-door canvassing",
+              "publisher": "Princeton Prejudice Reduction Database",
+              "url": "https://prejudicereduction.princeton.edu/publications/durably-reducing-transphobia-field-experiment-door-door-canvassing"
+            }
+          ]
+        },
+        {
+          "text": "Kalla et Broockman (2020, American Political Science Review) : l'effet de ces conversations repose sur l'échange non jugeant de récits personnels ; sans cet échange, avec seulement des arguments, l'effet devient nul ou presque.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Reducing Exclusionary Attitudes through Interpersonal Conversation: Evidence from Three Field Experiments",
+              "publisher": "American Political Science Review (Cambridge University Press)",
+              "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments/4AA5B97806A4CAFBAB0651F5DAD8F223"
+            },
+            {
+              "title": "Study finds non-judgmental, personal approach can reduce prejudice",
+              "publisher": "Yale News",
+              "url": "https://news.yale.edu/2020/02/07/study-finds-non-judgmental-personal-approach-can-reduce-prejudice"
+            }
+          ]
+        },
+        {
+          "text": "Gordon Allport a formulé l'hypothèse du contact dans The Nature of Prejudice (1954).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Contact hypothesis",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Contact_hypothesis"
+            }
+          ]
+        },
+        {
+          "text": "La méta-analyse de Pettigrew et Tropp (2006, Journal of Personality and Social Psychology) porte sur plus de 500 études et conclut que le contact intergroupe réduit les préjugés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A meta-analytic test of intergroup contact theory",
+              "publisher": "PubMed / Journal of Personality and Social Psychology",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16737372/"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'arrêt Kokkinakis c. Grèce du 25 mai 1993, la Cour européenne des droits de l'homme distingue le témoignage, protégé par l'article 9, du prosélytisme abusif, qui offre des avantages matériels ou sociaux ou exerce des pressions sur des personnes en détresse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Kokkinakis v. Greece, Application no. 14307/88, Judgment of 25 May 1993",
+              "publisher": "UNHCR Refworld (ECtHR judgment text)",
+              "url": "https://www.refworld.org/cases,ECHR,3ae6b6ff4.html"
+            },
+            {
+              "title": "Kokkinakis v. Greece",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kokkinakis_v._Greece"
+            }
+          ]
+        },
+        {
+          "text": "Homo sapiens est apparu il y a environ 300 000 ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The first of our kind",
+              "publisher": "Max Planck Society",
+              "url": "https://www.mpg.de/11322481/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Pourquoi certaines convictions ne vacillent jamais, même face aux preuves ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "Pourquoi s'attaquer à la foi des autres ? Zététique, sceptiques et The Satanic Temple",
+        "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "nihilisme-et-detachement-57cd",
       "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
@@ -467,7 +853,13 @@
         "title": "Avons-nous chacun une mission de vie ? Ce que disent les religions, les astres et la philosophie",
         "url": "https://www.youtube.com/watch?v=vZmW3Xd-QgQ"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Le test à 1,10 € que presque tout le monde rate",
+          "url": "https://www.youtube.com/watch?v=VVaiEPgwB6s",
+          "publishedAt": "2026-10-07T12:38:53.027Z"
+        }
+      ],
       "corrections": []
     },
     {

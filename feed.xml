@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Wed, 07 Oct 2026 11:16:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 13:01:09 GMT</lastBuildDate>
+<item>
+<title>Peut-on vraiment faire changer quelqu&apos;un d&apos;avis ? Témoigner, débattre ou se taire</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/</guid>
+<pubDate>Wed, 07 Oct 2026 13:00:09 GMT</pubDate>
+<description>Trompeur : « Si l&apos;on expose les faits et les bons arguments avec assez de clarté et de force, ceux qui se trompent finissent par changer d&apos;avis. ». Les faits corrigent bien les erreurs ponctuelles : l&apos;effet retour de flamme s&apos;est révélé rare dans les réplications de Wood et Porter. Mais les convictions liées à l&apos;identité bougent à peine sous les corrections et la moquerie braque ; ce sont l&apos;échange sans jugement et le contact, mesurés par Broockman et Kalla ou Pettigrew et Tropp, qui déplacent durablement les attitudes.</description>
+<category>Le tri des cas favorables</category>
+<category>Le témoignage invérifiable</category>
+<category>Religions</category>
+</item>
 <item>
 <title>Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/</link>
@@ -511,17 +521,6 @@
 <category>L&apos;affirmation à l&apos;épreuve de tout</category>
 <category>Le faux dilemme</category>
 <category>Esprit critique</category>
-</item>
-<item>
-<title>« Sans Dieu, tout est permis » : anatomie d&apos;un chantage moral</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/</guid>
-<pubDate>Fri, 25 Sep 2026 05:40:52 GMT</pubDate>
-<description>Faux : « « Sans Dieu, tout est permis » : sans transcendance, il n&apos;y aurait plus de fondement à la morale, et l&apos;athéisme mènerait logiquement au nihilisme et au crime. ». La vidéo conclut que ce chantage moral ne tient pas : la formule est une citation approximative popularisée par Sartre, Nietzsche et Camus décrivent le nihilisme comme un danger à surmonter et non comme un programme, et l&apos;argument repose sur des sophismes (faux dilemme, appel aux conséquences, homme de paille). Sa raison la plus forte est le dilemme d&apos;Euthyphron : si le bien dépend du commandement divin, la morale est arbitraire, et s&apos;il en est indépendant, Dieu ne la fonde plus.</description>
-<category>Le faux dilemme</category>
-<category>L&apos;argument d&apos;autorité</category>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>Philosophie moderne</category>
 </item>
 </channel>
 </rss>

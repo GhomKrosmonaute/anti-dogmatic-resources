@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
+      "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
+      "format": "video",
+      "publishedAt": "2026-10-07T13:00:09.679Z",
+      "durationSeconds": 702,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Si l'on expose les faits et les bons arguments avec assez de clarté et de force, ceux qui se trompent finissent par changer d'avis.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "NB6iXbIfo-w",
+        "url": "https://www.youtube.com/watch?v=NB6iXbIfo-w",
+        "thumbnail": "https://i.ytimg.com/vi/NB6iXbIfo-w/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/militer-pour-l-humanisme-et-l-esprit-critique-86c2.json"
+      }
+    },
+    {
       "id": "nihilisme-et-detachement-57cd",
       "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
       "format": "video",

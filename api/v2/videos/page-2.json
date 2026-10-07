@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 51,
+  "total": 52,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "sans-dieu-tout-est-permis-9230",
+      "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+      "format": "video",
+      "publishedAt": "2026-09-25T05:40:52.683Z",
+      "durationSeconds": 512,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xr-j1jeo9YU",
+        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
+        "thumbnail": "https://i.ytimg.com/vi/xr-j1jeo9YU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
+      }
+    },
     {
       "id": "omniscience-divine-contre-libre-arbitre-9957",
       "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",

@@ -1,12 +1,50 @@
 {
   "version": 2,
-  "total": 51,
+  "total": 52,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
+      "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
+      "format": "video",
+      "publishedAt": "2026-10-07T13:00:09.679Z",
+      "durationSeconds": 702,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Si l'on expose les faits et les bons arguments avec assez de clarté et de force, ceux qui se trompent finissent par changer d'avis.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "NB6iXbIfo-w",
+        "url": "https://www.youtube.com/watch?v=NB6iXbIfo-w",
+        "thumbnail": "https://i.ytimg.com/vi/NB6iXbIfo-w/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/militer-pour-l-humanisme-et-l-esprit-critique-86c2.json"
+      }
+    },
     {
       "id": "nihilisme-et-detachement-57cd",
       "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
@@ -1846,48 +1884,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
-      }
-    },
-    {
-      "id": "sans-dieu-tout-est-permis-9230",
-      "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
-      "format": "video",
-      "publishedAt": "2026-09-25T05:40:52.683Z",
-      "durationSeconds": 512,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
-        "statement": "« Sans Dieu, tout est permis » : sans transcendance, il n'y aurait plus de fondement à la morale, et l'athéisme mènerait logiquement au nihilisme et au crime.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "xr-j1jeo9YU",
-        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU",
-        "thumbnail": "https://i.ytimg.com/vi/xr-j1jeo9YU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
       }
     }
   ],
