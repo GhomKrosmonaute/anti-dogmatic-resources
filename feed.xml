@@ -6,7 +6,18 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Wed, 07 Oct 2026 10:54:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 11:16:11 GMT</lastBuildDate>
+<item>
+<title>Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/</guid>
+<pubDate>Wed, 07 Oct 2026 11:15:11 GMT</pubDate>
+<description>Non démontré : « Prendre du recul sur ses croyances mène au nihilisme, et le nihilisme mène au désespoir : sans certitudes, la vie perd son sens. ». Rien ne démontre que la distance prise avec ses croyances conduise au désespoir. Les études invoquées (Durkheim, Pew, Diener et ses collègues) mesurent surtout les effets de l&apos;intégration sociale et de la sécurité, pas de la certitude, et les travaux sur la mise à distance de soi (Kross, Grossmann) associent le recul à moins de détresse et à un raisonnement plus sage.</description>
+<category>Le faux dilemme</category>
+<category>La caution scientifique détournée</category>
+<category>Le tri des cas favorables</category>
+<category>Philosophie moderne</category>
+</item>
 <item>
 <title>L&apos;homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/anthropocentrisme-et-anthropomorphisme-f503/</link>
@@ -511,17 +522,6 @@
 <category>L&apos;argument d&apos;autorité</category>
 <category>L&apos;affirmation à l&apos;épreuve de tout</category>
 <category>Philosophie moderne</category>
-</item>
-<item>
-<title>Dieu sait tout, donc tu n&apos;es pas libre : le paradoxe que 1600 ans n&apos;ont pas résolu</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/omniscience-divine-contre-libre-arbitre-9957/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/omniscience-divine-contre-libre-arbitre-9957/</guid>
-<pubDate>Fri, 25 Sep 2026 05:01:32 GMT</pubDate>
-<description>Non démontré : « L&apos;omniscience divine, c&apos;est-à-dire la connaissance infaillible de tous les actes futurs, est compatible avec la liberté humaine et la responsabilité morale. ». La vidéo conclut que les trois grandes tentatives de conciliation (Boèce, Molina, théisme ouvert), auxquelles s&apos;ajoute l&apos;option calviniste, imposent toutes de sacrifier soit un attribut divin, soit la liberté humaine. Sa raison la plus forte est l&apos;argument de Nelson Pike : si la croyance infaillible de Dieu est dans le passé et que le passé est irrévocable, personne n&apos;a le pouvoir d&apos;agir autrement. Le narrateur présente sa conclusion sur l&apos;incohérence du concept comme une opinion assumée.</description>
-<category>L&apos;argument d&apos;autorité</category>
-<category>Le faux dilemme</category>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>Religions</category>
 </item>
 </channel>
 </rss>

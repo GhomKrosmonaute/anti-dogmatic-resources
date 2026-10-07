@@ -5,6 +5,48 @@
   "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie",
   "items": [
     {
+      "id": "nihilisme-et-detachement-57cd",
+      "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
+      "format": "video",
+      "publishedAt": "2026-10-07T11:15:11.586Z",
+      "durationSeconds": 701,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Prendre du recul sur ses croyances mène au nihilisme, et le nihilisme mène au désespoir : sans certitudes, la vie perd son sens.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1iPKqdJlIpI",
+        "url": "https://www.youtube.com/watch?v=1iPKqdJlIpI",
+        "thumbnail": "https://i.ytimg.com/vi/1iPKqdJlIpI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nihilisme-et-detachement-57cd.json"
+      }
+    },
+    {
       "id": "avons-nous-chacun-une-mission-sur-terre-eeaa",
       "title": "Avons-nous tous une mission de vie ? Ce qu'en disent les religions, les astres et la philosophie",
       "format": "video",

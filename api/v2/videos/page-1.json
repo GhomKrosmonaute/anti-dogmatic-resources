@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 50,
+  "total": 51,
   "pageSize": 50,
   "page": 1,
-  "pages": 1,
+  "pages": 2,
   "previous": null,
-  "next": null,
+  "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "nihilisme-et-detachement-57cd",
+      "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
+      "format": "video",
+      "publishedAt": "2026-10-07T11:15:11.586Z",
+      "durationSeconds": 701,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Prendre du recul sur ses croyances mène au nihilisme, et le nihilisme mène au désespoir : sans certitudes, la vie perd son sens.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1iPKqdJlIpI",
+        "url": "https://www.youtube.com/watch?v=1iPKqdJlIpI",
+        "thumbnail": "https://i.ytimg.com/vi/1iPKqdJlIpI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nihilisme-et-detachement-57cd.json"
+      }
+    },
     {
       "id": "anthropocentrisme-et-anthropomorphisme-f503",
       "title": "L'homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature",
@@ -1846,48 +1888,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sans-dieu-tout-est-permis-9230/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sans-dieu-tout-est-permis-9230.json"
-      }
-    },
-    {
-      "id": "omniscience-divine-contre-libre-arbitre-9957",
-      "title": "Dieu sait tout, donc tu n'es pas libre : le paradoxe que 1600 ans n'ont pas résolu",
-      "format": "video",
-      "publishedAt": "2026-09-25T05:01:32.451Z",
-      "durationSeconds": 516,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "L'omniscience divine, c'est-à-dire la connaissance infaillible de tous les actes futurs, est compatible avec la liberté humaine et la responsabilité morale.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "SZCHk7cjrec",
-        "url": "https://www.youtube.com/watch?v=SZCHk7cjrec",
-        "thumbnail": "https://i.ytimg.com/vi/SZCHk7cjrec/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/omniscience-divine-contre-libre-arbitre-9957/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/omniscience-divine-contre-libre-arbitre-9957.json"
       }
     }
   ]

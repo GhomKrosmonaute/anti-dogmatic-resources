@@ -1,9 +1,475 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-07T10:54:36.858Z",
+  "generatedAt": "2026-10-07T11:16:11.679Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "nihilisme-et-detachement-57cd",
+      "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
+      "format": "video",
+      "publishedAt": "2026-10-07T11:15:11.586Z",
+      "durationSeconds": 701,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Prendre du recul sur ses croyances mène au nihilisme, et le nihilisme mène au désespoir : sans certitudes, la vie perd son sens.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Rien ne démontre que la distance prise avec ses croyances conduise au désespoir. Les études invoquées (Durkheim, Pew, Diener et ses collègues) mesurent surtout les effets de l'intégration sociale et de la sécurité, pas de la certitude, et les travaux sur la mise à distance de soi (Kross, Grossmann) associent le recul à moins de détresse et à un raisonnement plus sage."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1iPKqdJlIpI",
+        "url": "https://www.youtube.com/watch?v=1iPKqdJlIpI",
+        "thumbnail": "https://i.ytimg.com/vi/1iPKqdJlIpI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nihilisme-et-detachement-57cd.json"
+      },
+      "facts": [
+        {
+          "text": "Pascal écrit dans les Pensées : « Le silence éternel de ces espaces infinis m'effraie. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Paul Valéry on Pascal",
+              "publisher": "PMLA / Cambridge University Press",
+              "url": "https://www.cambridge.org/core/journals/pmla/article/abs/paul-valery-on-pascal/F16D4716DE04CB1A1D20B3337B041C4D"
+            }
+          ]
+        },
+        {
+          "text": "Dans Le Gai Savoir (1882), aphorisme 125, un insensé annonce « Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué ! » et demande « N'errons-nous pas comme à travers un néant infini ? » (traduction française de l'allemand).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le Gai Savoir / Livre troisième (trad. Henri Albert)",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Le_Gai_Savoir/Livre_troisi%C3%A8me"
+            },
+            {
+              "title": "Dieu est mort (Nietzsche)",
+              "publisher": "Mister Prépa",
+              "url": "https://misterprepa.net/dieu-est-mort-nietzsche/"
+            }
+          ]
+        },
+        {
+          "text": "Dans Les Frères Karamazov (1880), Dostoïevski prête à Ivan l'idée que, sans Dieu et sans immortalité de l'âme, tout serait permis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Brothers Karamazov, Book II, Chapter 6",
+              "publisher": "American Literature",
+              "url": "https://americanliterature.com/author/fyodor-dostoevsky/book/the-brothers-karamazov/book-ii-an-unfortunate-gathering-chapter-6"
+            },
+            {
+              "title": "Ivan Fyodorovich Karamazov",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ivan_Fyodorovich_Karamazov"
+            }
+          ]
+        },
+        {
+          "text": "Viktor Frankl, psychiatre viennois rescapé des camps nazis, fondateur de la logothérapie, rapporte que les détenus qui gardaient une raison de vivre résistaient souvent mieux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Viktor Frankl",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://britannica.com/print/article/217306"
+            },
+            {
+              "title": "Man's Search for Meaning, Viktor Frankl (1946)",
+              "publisher": "Tablet Magazine",
+              "url": "https://www.tabletmag.com/sections/news/articles/mans-search-for-meaning-viktor-frankl-1946"
+            }
+          ]
+        },
+        {
+          "text": "Frankl cite la maxime de Nietzsche tirée du Crépuscule des idoles (« Maximes et pointes », 12) : « Si l'on possède son pourquoi de la vie, on s'accommode de presque tous les comment » (traduction).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le Crépuscule des Idoles / Maximes et pointes",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/Le_Cr%C3%A9puscule_des_Idoles/Maximes_et_pointes"
+            },
+            {
+              "title": "Quote Origin: If We Have Our Own 'Why' of Life, We Shall Get Along With Almost Any 'How'",
+              "publisher": "Quote Investigator",
+              "url": "https://quoteinvestigator.com/2019/10/09/why-how/"
+            }
+          ]
+        },
+        {
+          "text": "Le Meaning in Life Questionnaire a été publié en 2006 par Michael Steger et ses collègues ; de nombreuses études associent la présence de sens à plus de satisfaction de vie et moins de symptômes dépressifs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Meaning in Life Questionnaire: Assessing the Presence of and Search for Meaning in Life",
+              "publisher": "Journal of Counseling Psychology (APA)",
+              "url": "https://singteach.nie.edu.sg/wp-content/uploads/2021/12/Steger-et-al-2006_The-meaning-in-life-questionnaire.pdf"
+            },
+            {
+              "title": "Meaning in Life Questionnaire",
+              "publisher": "Positive Psychology Center, University of Pennsylvania",
+              "url": "https://ppc.sas.upenn.edu/node/213"
+            }
+          ]
+        },
+        {
+          "text": "Dans Le Suicide (1897), Durkheim constate des taux de suicide plus élevés chez les protestants que chez les catholiques et attribue l'effet protecteur de la religion à son caractère de société intégrée, non au contenu de sa doctrine ; le libre examen protestant y est lié à un affaiblissement de l'intégration.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le Suicide : étude de sociologie (Durkheim, 1897)",
+              "publisher": "Project Gutenberg",
+              "url": "https://www.gutenberg.org/cache/epub/40489/pg40489-images.html"
+            },
+            {
+              "title": "Le Suicide (1897) – Introduction/Book 2",
+              "publisher": "Oregon State University Open Educational Resources",
+              "url": "https://open.oregonstate.education/sociologicaltheory/chapter/suicide/"
+            }
+          ]
+        },
+        {
+          "text": "Le rapport du Pew Research Center de janvier 2019 sur religion et bonheur trouve, dans près de la moitié des pays étudiés, des croyants pratiquants plus souvent « très heureux » que les personnes sans religion.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Religion's Relationship to Happiness, Civic Engagement and Health Around the World",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/"
+            },
+            {
+              "title": "Religion's Relationship to Happiness, Civic Engagement and Health Around the World (rapport complet)",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2019/01/Wellbeing-report-1-25-19-FULL-REPORT-FOR-WEB.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Selon ce même rapport Pew, dans la plupart des pays, les croyants non pratiquants ne se déclarent pas plus heureux que les personnes sans religion.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Religion's Relationship to Happiness, Civic Engagement and Health Around the World",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/"
+            },
+            {
+              "title": "Religion's Relationship to Happiness, Civic Engagement and Health Around the World (rapport complet)",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2019/01/Wellbeing-report-1-25-19-FULL-REPORT-FOR-WEB.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Diener, Tay et Myers (2011, Journal of Personality and Social Psychology, « The religion paradox ») trouvent que le lien entre religiosité et bien-être est fort dans les sociétés aux conditions de vie difficiles et s'estompe là où sécurité et soutien social sont assurés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Religion Paradox: If Religion Makes People Happy, Why Are So Many Dropping Out?",
+              "publisher": "Hope College Digital Commons (JPSP 2011)",
+              "url": "https://digitalcommons.hope.edu/faculty_publications/333"
+            },
+            {
+              "title": "World survey links religion and happiness – for some",
+              "publisher": "University of Illinois News Bureau",
+              "url": "https://news.illinois.edu/world-survey-links-religion-and-happiness-for-some/"
+            }
+          ]
+        },
+        {
+          "text": "La Finlande a été classée première du World Happiness Report chaque année de 2018 à 2025.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "These are the world's happiest countries in 2025",
+              "publisher": "Wellbeing Research Centre, University of Oxford",
+              "url": "https://wellbeing.hmc.ox.ac.uk/news/these-are-the-worlds-happiest-countries-in-2025/"
+            },
+            {
+              "title": "Finland is again ranked happiest country in the world; US falls to its lowest-ever position",
+              "publisher": "The Boston Globe (AP)",
+              "url": "https://www.bostonglobe.com/2025/03/20/world/finland-is-again-ranked-happiest-country-world-us-falls-its-lowest-ever-position"
+            }
+          ]
+        },
+        {
+          "text": "En Europe du Nord, la pratique religieuse régulière (assistance aux offices) est devenue très minoritaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Being Christian in Western Europe – Religious practice and belief",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/religion/2018/05/29/religious-practice-and-belief/"
+            },
+            {
+              "title": "Swedes 'least likely in Western Europe' to go to church",
+              "publisher": "The Local Sweden",
+              "url": "https://www.thelocal.se/20180531/swedes-least-likely-in-western-europe-to-go-to-church"
+            }
+          ]
+        },
+        {
+          "text": "Dans son livre, Frankl situe le sens dans la création d'une œuvre ou un acte, dans une expérience ou un amour, et dans l'attitude face à une souffrance inévitable.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Viktor Frankl on Love, Suffering and the Meaning of Life",
+              "publisher": "Ed Batista",
+              "url": "https://edbatista.com/2010/04/life.html"
+            }
+          ]
+        },
+        {
+          "text": "La notion de métacognition a été popularisée à la fin des années 1970 par John Flavell (American Psychologist, 1979).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Metacognition and Cognitive Monitoring (Flavell, 1979)",
+              "publisher": "American Psychologist (copie University of Georgia)",
+              "url": "https://jwilson.coe.uga.edu/emat7050/Students/Wilson/Flavell%20(1979).pdf"
+            },
+            {
+              "title": "Metacognition",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Metacognition"
+            }
+          ]
+        },
+        {
+          "text": "Le test de réflexion cognitive de Shane Frederick (Journal of Economic Perspectives, 2005) contient le problème de la batte et de la balle, dont la bonne réponse est cinq centimes et la réponse intuitive fréquente dix centimes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cognitive Reflection Test (CRT)",
+              "publisher": "Decision Making Individual Differences Inventory (UBC Sauder)",
+              "url": "https://dlab.sauder.ubc.ca/sjdm/dmidi/Cognitive%20Reflection%20Test.html"
+            },
+            {
+              "title": "Cognitive Reflection and Decision Making (DOI 10.1257/089533005775196732)",
+              "publisher": "CiteDrive",
+              "url": "https://www.citedrive.com/en/discovery/cognitive-reflection-and-decision-making/"
+            }
+          ]
+        },
+        {
+          "text": "Kruglanski et Webster (1996, Psychological Review) décrivent les tendances à « saisir » puis « figer » une réponse ; les expériences de cette équipe montrent que le besoin de clôture augmente sous pression temporelle, dans le bruit et avec la fatigue.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Kruglanski & Webster (1996). Motivated closing of the mind: 'Seizing' and 'freezing'",
+              "publisher": "University of Maryland",
+              "url": "https://terpconnect.umd.edu/~hannahk/NFC-KW96.html"
+            },
+            {
+              "title": "Kruglanski & Freund (1983). The freezing and un-freezing of lay inferences",
+              "publisher": "University of Maryland",
+              "url": "https://terpconnect.umd.edu/~hannahk/NFC-KF83.html"
+            }
+          ]
+        },
+        {
+          "text": "Il existe une corrélation modeste entre style de pensée analytique et incroyance religieuse (Pennycook et al., Cognition, 2012 ; méta-analyse Pennycook et al., PLOS ONE, 2016).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Analytic cognitive style predicts religious and paranormal belief",
+              "publisher": "Duke University (Cognition 2012)",
+              "url": "https://fds.duke.edu/db/aas/pn/faculty/pjs48/publications/335750"
+            },
+            {
+              "title": "Atheists and Agnostics Are More Reflective than Religious Believers: Four Empirical Studies and a Meta-Analysis",
+              "publisher": "PLOS ONE / PubMed Central",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4824409/"
+            }
+          ]
+        },
+        {
+          "text": "Gervais et Norenzayan (Science, 2012) rapportent que la vue du Penseur de Rodin réduisait la croyance religieuse déclarée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Losing Your Religion: Analytic Thinking Can Undermine Belief",
+              "publisher": "Scientific American",
+              "url": "https://www.scientificamerican.com/article/losing-your-religion-analytic-thinking-can-undermine-belief/"
+            },
+            {
+              "title": "Analytic Thinking Promotes Religious Disbelief",
+              "publisher": "Science (copie University of Kentucky)",
+              "url": "https://math.as.uky.edu/sites/default/files/Gervais%20&%20Norenzayan%202012%20Science-%20Analytic%20Thinking.pdf"
+            }
+          ]
+        },
+        {
+          "text": "En 2017, une réplication de Sanchez, Sundermeier, Gray et Calin-Jageman (PLOS ONE), sur un échantillon plus large, ne retrouve pas d'effet du Penseur sur la croyance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Direct replication of Gervais & Norenzayan (2012): No evidence that analytic thinking decreases religious belief",
+              "publisher": "PLOS ONE / PubMed Central",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325262/"
+            },
+            {
+              "title": "Direct replication of Gervais & Norenzayan (2012)",
+              "publisher": "IDEAS/RePEc",
+              "url": "https://ideas.repec.org/a/plo/pone00/0172636.html"
+            }
+          ]
+        },
+        {
+          "text": "Kahan et al. (2017, Behavioural Public Policy) observent que, face à des données sur le port d'armes, les participants les plus doués en calcul sont les plus polarisés selon leur orientation politique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Motivated numeracy and enlightened self-government",
+              "publisher": "Behavioural Public Policy / Cambridge University Press",
+              "url": "https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806"
+            },
+            {
+              "title": "Motivated Numeracy and Enlightened Self-Government",
+              "publisher": "SSRN",
+              "url": "https://papers.ssrn.com/abstract=2319992"
+            }
+          ]
+        },
+        {
+          "text": "Les travaux de Leor Zmigrod (Université de Cambridge) associent un attachement partisan intense, à gauche comme à droite, à une moindre flexibilité cognitive dans des tâches neutres comme le tri de cartes du Wisconsin.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mental rigidity at root of intense political partisanship on both left and right",
+              "publisher": "ScienceBlog (communiqué University of Cambridge)",
+              "url": "https://scienceblog.com/mental-rigidity-at-root-of-intense-political-partisanship-on-both-left-and-right/"
+            },
+            {
+              "title": "Extreme Democratic and Republican partisans display greater mental rigidity on cognitive tests",
+              "publisher": "PsyPost",
+              "url": "https://www.psypost.org/extreme-democratic-and-republican-partisans-display-greater-mental-rigidity-on-cognitive-tests/"
+            }
+          ]
+        },
+        {
+          "text": "Kay et al. (2008, Journal of Personality and Social Psychology) montrent qu'un sentiment de contrôle personnel réduit renforce le soutien à l'idée d'un Dieu contrôlant ou d'un gouvernement fort (contrôle compensatoire).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "God and the government: Testing a compensatory control mechanism for the support of external systems",
+              "publisher": "University of Bath Research Portal",
+              "url": "https://researchportal.bath.ac.uk/en/publications/god-and-the-government-testing-a-compensatory-control-mechanism-f/"
+            },
+            {
+              "title": "Compensatory Control and Religious Beliefs: A Registered Replication Report Across Two Countries",
+              "publisher": "Bayesian Spectacles",
+              "url": "https://www.bayesianspectacles.org/compensatory-control-and-religious-beliefs-a-registered-replication-report-across-two-countries/"
+            }
+          ]
+        },
+        {
+          "text": "La capacité de recul varie avec l'éducation, la sécurité, la fatigue et les émotions, et une plus grande aptitude cognitive ne protège pas du raisonnement motivé quand l'identité est en jeu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Motivated numeracy and enlightened self-government",
+              "publisher": "Behavioural Public Policy / Cambridge University Press",
+              "url": "https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806"
+            },
+            {
+              "title": "Myside Bias, Rational Thinking, and Intelligence",
+              "publisher": "Current Directions in Psychological Science (copie Jagiellonian University)",
+              "url": "https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Kross et al. (2014, Journal of Personality and Social Psychology) montrent que se parler à la troisième personne ou avec son prénom avant un discours réduit la rumination et améliore la performance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Self-talk as a regulatory mechanism: how you do it matters",
+              "publisher": "PubMed (Journal of Personality and Social Psychology)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24467424/"
+            }
+          ]
+        },
+        {
+          "text": "Grossmann et Kross (2014, Psychological Science) montrent que la mise à distance de soi supprime l'asymétrie du « paradoxe de Salomon » : on raisonne plus sagement sur les problèmes d'autrui que sur les siens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The (Paradoxical) Wisdom of Solomon",
+              "publisher": "Association for Psychological Science",
+              "url": "https://www.psychologicalscience.org/news/were-only-human/the-paradoxical-wisdom-of-solomon.html"
+            },
+            {
+              "title": "Need to Solve a Personal Problem? Try a Third-Person Perspective",
+              "publisher": "Association for Psychological Science",
+              "url": "https://www.psychologicalscience.org/publications/observer/obsonline/need-to-solve-a-personal-problem-try-a-third-person-perspective.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": {
+        "title": "Avons-nous chacun une mission de vie ? Ce que disent les religions, les astres et la philosophie",
+        "url": "https://www.youtube.com/watch?v=vZmW3Xd-QgQ"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "anthropocentrisme-et-anthropomorphisme-f503",
       "title": "L'homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature",
