@@ -5,6 +5,90 @@
   "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
   "items": [
     {
+      "id": "le-mouvement-raelien-f9a5",
+      "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
+      "format": "video",
+      "publishedAt": "2026-10-08T17:15:21.913Z",
+      "durationSeconds": 735,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Elohim de la Bible sont des extraterrestres venus du ciel qui ont créé toute la vie sur Terre, l'humanité comprise, dans leurs laboratoires, comme ils l'ont révélé à Raël en 1973.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hCHVMo-ZpJU",
+        "url": "https://www.youtube.com/watch?v=hCHVMo-ZpJU",
+        "thumbnail": "https://i.ytimg.com/vi/hCHVMo-ZpJU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mouvement-raelien-f9a5/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mouvement-raelien-f9a5.json"
+      }
+    },
+    {
+      "id": "le-chat-compagnon-des-introvertis-685d",
+      "title": "Pourquoi le chat est-il sacré dans tant de religions ? De Bastet à Muezza, le chat du Prophète",
+      "format": "video",
+      "publishedAt": "2026-10-08T15:25:55.185Z",
+      "durationSeconds": 702,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le chat est l'animal des âmes introverties et spirituelles : la science montre que les introvertis le préfèrent, et les grandes religions l'ont vénéré, de Bastet au chat Muezza du Prophète, avant que l'Église ne le diabolise au point de provoquer la peste.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "GnYMhDZ8LEY",
+        "url": "https://www.youtube.com/watch?v=GnYMhDZ8LEY",
+        "thumbnail": "https://i.ytimg.com/vi/GnYMhDZ8LEY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chat-compagnon-des-introvertis-685d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chat-compagnon-des-introvertis-685d.json"
+      }
+    },
+    {
       "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
       "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
       "format": "video",

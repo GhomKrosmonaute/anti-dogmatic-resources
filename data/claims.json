@@ -1,9 +1,981 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-07T13:01:09.802Z",
+  "generatedAt": "2026-10-08T17:16:22.551Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "le-mouvement-raelien-f9a5",
+      "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
+      "format": "video",
+      "publishedAt": "2026-10-08T17:15:21.913Z",
+      "durationSeconds": 735,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Elohim de la Bible sont des extraterrestres venus du ciel qui ont créé toute la vie sur Terre, l'humanité comprise, dans leurs laboratoires, comme ils l'ont révélé à Raël en 1973.",
+        "verdict": "faux",
+        "verdictLabel": "Faux",
+        "summary": "La lecture raëlienne de la Genèse ne tient pas : en hébreu, Elohim gouverne un verbe au singulier quand il désigne le dieu d'Israël, et il s'applique même à Moïse (Exode 7:1). La biologie, avec les rétrovirus endogènes que nous partageons avec le chimpanzé, décrit une ascendance commune plutôt qu'une fabrication. La rencontre de 1973 repose sur un seul témoin, et la seule preuve « scientifique » mise en avant, le bébé cloné de Clonaid, n'a jamais été montrée."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hCHVMo-ZpJU",
+        "url": "https://www.youtube.com/watch?v=hCHVMo-ZpJU",
+        "thumbnail": "https://i.ytimg.com/vi/hCHVMo-ZpJU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mouvement-raelien-f9a5/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mouvement-raelien-f9a5.json"
+      },
+      "facts": [
+        {
+          "text": "Claude Vorilhon, né en 1946, avait vingt-sept ans en décembre 1973 ; il avait chanté sous le nom de Claude Celler avant de travailler dans la presse automobile.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Raël",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Ra%C3%ABl"
+            },
+            {
+              "title": "International Raelian Movement Timeline",
+              "publisher": "World Religions and Spirituality Project",
+              "url": "https://wrldrels.org/?p=3294"
+            }
+          ]
+        },
+        {
+          "text": "Raël affirme avoir rencontré, le 13 décembre 1973, un être sorti d'un engin en forme de disque au Puy de Lassolas, dans la Chaîne des Puys, près de Clermont-Ferrand.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Raelians",
+              "publisher": "Encyclopedia.com",
+              "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians"
+            },
+            {
+              "title": "International Raëlian Movement",
+              "publisher": "Critical Dictionary of Apocalyptic and Millenarian Movements",
+              "url": "https://www.cdamm.org/articles/international-raelian-movement"
+            }
+          ]
+        },
+        {
+          "text": "Selon le récit de Raël, l'être mesurait environ 1,20 m, avait de longs cheveux sombres, parlait français et l'a rencontré six jours de suite.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "International Raëlian Movement",
+              "publisher": "Critical Dictionary of Apocalyptic and Millenarian Movements",
+              "url": "https://www.cdamm.org/articles/international-raelian-movement"
+            },
+            {
+              "title": "Raël",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Ra%C3%ABl"
+            }
+          ]
+        },
+        {
+          "text": "« Le Livre qui dit la vérité » a été publié en 1974 ; l'être y donne à Vorilhon le nom de Raël et la mission de préparer le retour des Elohim.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "International Raelian Movement Timeline",
+              "publisher": "World Religions and Spirituality Project",
+              "url": "https://wrldrels.org/?p=3294"
+            },
+            {
+              "title": "Raël",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABl"
+            }
+          ]
+        },
+        {
+          "text": "Raël affirme avoir vécu une seconde rencontre le 7 octobre 1975 dans le Périgord et avoir été emmené sur la planète des Elohim, où il aurait rencontré Moïse, Jésus, Bouddha et Muhammad.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le 7 octobre, les Raëliens fêtent le 40ème anniversaire de la deuxième rencontre de Raël",
+              "publisher": "Raël France",
+              "url": "https://www.raelfrance.fr/le-7-octobre-les-raeliens-fetent-le-40eme-anniversaire-de-la-deuxieme-rencontre-de-rael-avec-ceux-qui-ont-cree-la-vie-sur-terre/"
+            },
+            {
+              "title": "Raël",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABl"
+            }
+          ]
+        },
+        {
+          "text": "Le MADECH, fondé en 1974, est devenu le Mouvement raëlien ; le mouvement revendique des dizaines de milliers de membres (chiffre déclaratif, non vérifié de façon indépendante).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "International Raelian Movement Timeline",
+              "publisher": "World Religions and Spirituality Project",
+              "url": "https://wrldrels.org/?p=3294"
+            },
+            {
+              "title": "Raëlism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABlism"
+            }
+          ]
+        },
+        {
+          "text": "Elohim, le mot traduit par « Dieu » en Genèse 1:1, porte en hébreu une terminaison de pluriel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Genesis 1:1 Interlinear",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/interlinear/genesis/1-1.htm"
+            }
+          ]
+        },
+        {
+          "text": "Raël traduit Elohim par « ceux qui sont venus du ciel ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le 7 octobre, les Raëliens fêtent le 40ème anniversaire de la deuxième rencontre de Raël",
+              "publisher": "Raël France",
+              "url": "https://www.raelfrance.fr/le-7-octobre-les-raeliens-fetent-le-40eme-anniversaire-de-la-deuxieme-rencontre-de-rael-avec-ceux-qui-ont-cree-la-vie-sur-terre/"
+            },
+            {
+              "title": "Raelians and Israel (Steve North, JTA)",
+              "publisher": "Jewish Journal",
+              "url": "https://jewishjournal.com/judaism/up_front/7232/"
+            }
+          ]
+        },
+        {
+          "text": "Citations bibliques : Genèse 1:1, 1:26 et 1:27, Exode 7:1, Exode 19:18 et Psaume 82:1, traduction Louis Segond 1910.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Exode 7:1 (LSG)",
+              "publisher": "thebible.ch",
+              "url": "https://thebible.ch/LSG/EXO/7/1"
+            },
+            {
+              "title": "Psaumes 82:1 (LSG)",
+              "publisher": "thebible.ch",
+              "url": "https://thebible.ch/LSG/PSA/82/1"
+            }
+          ]
+        },
+        {
+          "text": "La doctrine raëlienne présente les Elohim comme des scientifiques d'un autre monde ayant créé en laboratoire toute la vie terrestre, relit Genèse 6 et la vision d'Ézéchiel (Ézéchiel 1) comme des épisodes techniques, et fait des fondateurs des grandes religions des messagers des Elohim.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "International Raëlian Movement",
+              "publisher": "Critical Dictionary of Apocalyptic and Millenarian Movements",
+              "url": "https://www.cdamm.org/articles/international-raelian-movement"
+            },
+            {
+              "title": "Le Message donné par les Extra-terrestres",
+              "publisher": "Raël (copie PDF)",
+              "url": "https://montjoies.com/wp-content/uploads/2021/05/Rael-Le-Message-donne-par-les-Extra-terrestres.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le Mouvement raëlien se présente comme une religion athée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Raëlism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABlism"
+            }
+          ]
+        },
+        {
+          "text": "Le grec apokalupsis signifie dévoilement, révélation ; Raël situe le début de l'âge de l'Apocalypse en 1945, avec Hiroshima.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "602. apokalupsis",
+              "publisher": "Bible Hub (Strong's / Thayer's)",
+              "url": "https://biblehub.com/greek/602.htm"
+            },
+            {
+              "title": "Raëlism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABlism"
+            }
+          ]
+        },
+        {
+          "text": "Le raëlisme présente le clonage comme la voie vers la vie éternelle, les Elohim conservant l'information génétique des personnes méritantes pour les recréer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Raëlism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABlism"
+            },
+            {
+              "title": "International Raëlian Movement",
+              "publisher": "Critical Dictionary of Apocalyptic and Millenarian Movements",
+              "url": "https://www.cdamm.org/articles/international-raelian-movement"
+            }
+          ]
+        },
+        {
+          "text": "Clonaid a été fondée en 1997 à l'initiative de Raël ; la naissance de la brebis Dolly a été rendue publique en février 1997.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "International Raelian Movement Timeline",
+              "publisher": "World Religions and Spirituality Project",
+              "url": "https://wrldrels.org/?p=3294"
+            },
+            {
+              "title": "Dolly the sheep",
+              "publisher": "National Museums Scotland",
+              "url": "https://www.nms.ac.uk/dolly"
+            }
+          ]
+        },
+        {
+          "text": "Le Mouvement raëlien projette une ambassade pour les Elohim dotée d'un espace aérien neutre, souhaitée à l'origine près de Jérusalem, avec un horizon souvent cité de 2035 ; la venue des Elohim y est conditionnée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Raëlism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABlism"
+            },
+            {
+              "title": "Raelians and Israel (Steve North, JTA)",
+              "publisher": "Jewish Journal",
+              "url": "https://jewishjournal.com/judaism/up_front/7232/"
+            }
+          ]
+        },
+        {
+          "text": "En Genèse 1:1 (Bereshit bara Elohim), le verbe bara est à la troisième personne du masculin singulier ; Elohim, quand il désigne le dieu d'Israël, s'accorde ordinairement avec un verbe au singulier.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Genesis 1:1 Interlinear",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/interlinear/genesis/1-1.htm"
+            },
+            {
+              "title": "Elohim",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Elohim"
+            }
+          ]
+        },
+        {
+          "text": "En Exode 7:1, le terme hébreu rendu par « Dieu » et appliqué à Moïse est Elohim.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "430. elohim (Brown-Driver-Briggs)",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/bdb/430.htm"
+            },
+            {
+              "title": "Exodus 7:1 Interlinear",
+              "publisher": "cnbible.com",
+              "url": "https://cnbible.com/interlinear/exodus/7-1.htm"
+            }
+          ]
+        },
+        {
+          "text": "Le « faisons » de Genèse 1:26 est discuté par les exégètes (pluriel de majesté, conseil divin) ; le Psaume 82 évoque une assemblée divine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Meaning of \"Let Us\" in Gn 1:26",
+              "publisher": "Andrews University Seminary Studies",
+              "url": "https://www.andrews.edu/library/car/cardigital/Periodicals/AUSS/1975-1/1975-1-06.pdf"
+            },
+            {
+              "title": "Elohim",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Elohim"
+            }
+          ]
+        },
+        {
+          "text": "Aucun lexique de référence de l'hébreu biblique (Brown-Driver-Briggs, HALOT) ne donne à Elohim le sens de « venus du ciel ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "430. elohim (Brown-Driver-Briggs)",
+              "publisher": "Bible Hub",
+              "url": "https://biblehub.com/bdb/430.htm"
+            },
+            {
+              "title": "Elohim",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/05393a.htm"
+            }
+          ]
+        },
+        {
+          "text": "Jean Sendy a publié « La Lune, clé de la Bible » en 1968 et Erich von Däniken « Erinnerungen an die Zukunft » en 1968 ; ces livres présentaient des dieux anciens comme des voyageurs de l'espace.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean Sendy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jean_Sendy"
+            },
+            {
+              "title": "von Däniken, Erich",
+              "publisher": "The Encyclopedia of Science Fiction",
+              "url": "https://sf-encyclopedia.com/entry/von_daniken_erich"
+            }
+          ]
+        },
+        {
+          "text": "Aucune photographie, trace physique ni second témoin de la rencontre de 1973 n'a été produit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Raelians and Israel (Steve North, JTA)",
+              "publisher": "Jewish Journal",
+              "url": "https://jewishjournal.com/judaism/up_front/7232/"
+            },
+            {
+              "title": "Raël",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ra%C3%ABl"
+            }
+          ]
+        },
+        {
+          "text": "Le 24 juin 1947, Kenneth Arnold signale des objets volants près des monts Cascade ; la presse popularise ensuite l'expression « soucoupes volantes ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On this day: Flying saucers first in world reported near Mount Rainier in 1947 (HistoryLink)",
+              "publisher": "KIRO 7 / HistoryLink",
+              "url": "https://www.kiro7.com/news/local/on-this-day-flying-saucers-first-in-world-reported-near-mount-rainier-in-1947/776366484/"
+            },
+            {
+              "title": "Kenneth Arnold UFO sighting",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting"
+            }
+          ]
+        },
+        {
+          "text": "En 1953, George Adamski publie avec Desmond Leslie « Flying Saucers Have Landed », récit d'une rencontre avec un Vénusien porteur d'une mise en garde contre l'arme nucléaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Flying Saucers Have Landed (1953)",
+              "publisher": "University of Southern Mississippi Libraries",
+              "url": "https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html"
+            },
+            {
+              "title": "George Adamski",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/George_Adamski"
+            }
+          ]
+        },
+        {
+          "text": "Le Mouvement raëlien a ouvert en 1997 le parc UFOland à Valcourt (Québec), avec une réplique de l'engin décrit par Raël ; le parc a fermé en 2001.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "International Raelian Movement Timeline",
+              "publisher": "World Religions and Spirituality Project",
+              "url": "https://wrldrels.org/?p=3294"
+            },
+            {
+              "title": "History of Raëlism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Ra%C3%ABlism"
+            }
+          ]
+        },
+        {
+          "text": "Fin décembre 2002, en Floride, Brigitte Boisselier, directrice de Clonaid, annonce la naissance d'Ève, présentée comme le premier bébé humain cloné.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Group claims first human clone",
+              "publisher": "CNN",
+              "url": "https://edition.cnn.com/2002/HEALTH/12/27/human.cloning/index.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "confidence",
+        "domain": "Biologie moléculaire et génétique (clonage par transfert nucléaire somatique, rétrovirus endogènes et ascendance commune)",
+        "threshold": 6.6,
+        "passages": 8,
+        "approximations": [
+          {
+            "excerpt": "Il en sort un être d'environ un mètre vingt, aux longs cheveux sombres, qui s'adresse à lui en français.",
+            "note": "La taille est celle que donne le récit de Raël, présentée comme approximative. Elle ne touche pas à la santé et l'argument ne dépend pas de sa valeur."
+          },
+          {
+            "excerpt": "Dès 1974, il a fondé une association, le MADECH, devenue le Mouvement raëlien, qui revendique aujourd'hui des dizaines de milliers de membres sur plusieurs continents.",
+            "note": "C'est un effectif revendiqué par le mouvement, donné comme un ordre de grandeur. Le propos n'en dépend pas."
+          },
+          {
+            "excerpt": "Près de vingt-quatre ans plus tard, Ève n'existe que dans des communiqués.",
+            "note": "La durée est arrondie : de fin 2002 à 2026, il s'est écoulé un peu moins de vingt-quatre ans. Seule compte l'absence persistante de preuve."
+          },
+          {
+            "excerpt": "Un témoin isolé, un lieu désert, un humanoïde bienveillant, une mission confiée à l'élu : le genre avait ses codes vingt ans avant le Puy de Lassolas.",
+            "note": "Le chiffre de vingt ans est arrondi, pour 1953 face à 1973. L'argument porte sur l'antériorité du genre, pas sur l'écart exact."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Si la science n'a jamais prouvé le contraire, peut-on y croire ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=mJXyMNvHVT0",
+          "own": true
+        },
+        {
+          "title": "Ep05 OVNI : l'origine des soucoupes volantes (Le modèle socio-psychologique)",
+          "channel": "Hygiène Mentale",
+          "url": "https://www.youtube.com/watch?v=_f6HzL0Nh2g",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Comment des textes anciens ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "le-chat-compagnon-des-introvertis-685d",
+      "title": "Pourquoi le chat est-il sacré dans tant de religions ? De Bastet à Muezza, le chat du Prophète",
+      "format": "video",
+      "publishedAt": "2026-10-08T15:25:55.185Z",
+      "durationSeconds": 702,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le chat est l'animal des âmes introverties et spirituelles : la science montre que les introvertis le préfèrent, et les grandes religions l'ont vénéré, de Bastet au chat Muezza du Prophète, avant que l'Église ne le diabolise au point de provoquer la peste.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Les études existent, mais elles ne montrent que des écarts faibles sur des échantillons particuliers, et les textes religieux authentiques sur le chat sont surtout moraux ou rituels. Muezza n'a pas de chaîne de transmission, Vox in Rama n'ordonne aucun massacre de chats, et le culte de Bastet reposait en partie sur l'élevage de chatons tués pour servir d'offrandes."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "GnYMhDZ8LEY",
+        "url": "https://www.youtube.com/watch?v=GnYMhDZ8LEY",
+        "thumbnail": "https://i.ytimg.com/vi/GnYMhDZ8LEY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chat-compagnon-des-introvertis-685d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chat-compagnon-des-introvertis-685d.json"
+      },
+      "facts": [
+        {
+          "text": "En 2010, Samuel Gosling, Carson Sandy et Jeff Potter ont publié dans Anthrozoös (vol. 23, n° 3) une étude sur plus de 4 500 personnes se décrivant comme amies des chiens ou des chats : les premières plus extraverties, aimables et consciencieuses, les secondes plus ouvertes à l'expérience et plus névrosées.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. L'article (Anthrozoös 23(3), p. 213-222) porte bien sur 4 565 participants et confirme le sens des écarts, mais ce total inclut les personnes ayant répondu « les deux » ou « aucun », et seules 57 % environ ont exprimé une préférence pour les chiens ou pour les chats. Correction proposée : En 2010, Samuel Gosling, Carson Sandy et Jeff Potter ont publié dans Anthrozoös (vol. 23, n° 3) une étude sur plus de 4 500 personnes invitées à se dire « personne chien », « personne chat », les deux ou aucun des deux : les premières se révélaient plus extraverties,",
+          "sources": [
+            {
+              "title": "Personalities Of Self-Identified “Dog People” And “Cat People”",
+              "publisher": "Faunalytics",
+              "url": "https://faunalytics.org/personalities-of-self-identified-dog-people-and-cat-people/"
+            },
+            {
+              "title": "Personalities of Self-Identified “Dog People” and “Cat People” (Anthrozoös 23(3))",
+              "publisher": "Anthrozoös / Faunalytics",
+              "url": "https://faunalytics.org/wp-content/uploads/2010/08/Personalities-of-Self-Identified-%E2%80%9CDog-People%E2%80%9D-and-%E2%80%9CCat-People%E2%80%9D.pdf"
+            }
+          ]
+        },
+        {
+          "text": "L'étude de Gosling et al. (2010) reposait sur des volontaires recrutés en ligne qui s'auto-identifiaient, et les écarts de personnalité observés sont faibles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Personalities Of Self-Identified “Dog People” And “Cat People”",
+              "publisher": "Faunalytics",
+              "url": "https://faunalytics.org/personalities-of-self-identified-dog-people-and-cat-people/"
+            },
+            {
+              "title": "Just How Different Are Cat People and Dog People?",
+              "publisher": "Psychology Today",
+              "url": "https://www.psychologytoday.com/us/blog/fulfillment-any-age/201604/just-how-different-are-cat-people-and-dog-people"
+            }
+          ]
+        },
+        {
+          "text": "Avec un très grand échantillon, de faibles écarts deviennent statistiquement significatifs ; la significativité statistique ne mesure pas l'ampleur d'un effet.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "American Statistical Association releases statement on statistical significance and p-values",
+              "publisher": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2016/03/160307092305.htm"
+            }
+          ]
+        },
+        {
+          "text": "En 2014, Denise Guastello (Carroll University) a présenté au congrès de l'Association for Psychological Science une enquête sur environ 600 étudiants : les amoureux des chats y apparaissaient plus introvertis, plus anticonformistes et obtenaient de meilleurs scores à un test d'intelligence.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dog People vs. Cat People: Who's More Outgoing? More Intelligent?",
+              "publisher": "Live Science",
+              "url": "https://www.livescience.com/45894-dog-cat-people-personalities.html"
+            },
+            {
+              "title": "Studies Show Cat People Are Smarter Than Dog People (Members in the Media, from Time)",
+              "publisher": "Association for Psychological Science",
+              "url": "https://www.psychologicalscience.org/news/studies-show-cat-people-are-smarter-than-dog-people.html"
+            }
+          ]
+        },
+        {
+          "text": "En 2019, Kristyn Vitale et ses collègues (Current Biology) ont montré que la majorité des chats testés présentent un attachement sécurisé à leur humain, dans des proportions proches de celles observées chez les nourrissons.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cats, like children and dogs, develop attachments to their caregivers, study shows",
+              "publisher": "Oregon State University",
+              "url": "https://news.oregonstate.edu/news/cats-children-and-dogs-develop-attachments-their-caregivers-study-shows"
+            },
+            {
+              "title": "Cats Bond Securely to Their Humans, Maybe Even More Than Dogs Do",
+              "publisher": "ScienceAlert",
+              "url": "https://www.sciencealert.com/cats-bond-securely-to-their-humans-maybe-even-more-than-dogs-do"
+            }
+          ]
+        },
+        {
+          "text": "Bastet avait son grand sanctuaire à Bubastis, dans le delta du Nil, et était associée à la protection du foyer et aux naissances.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bastet (deity)",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/bastet-deity"
+            }
+          ]
+        },
+        {
+          "text": "Hérodote (Histoires, II, 60) décrit au Ve siècle avant notre ère la fête de Bubastis comme l'une des plus fréquentées d'Égypte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Herodotus, Histories 2.60 (trad. A. D. Godley)",
+              "publisher": "Perseus / Perseids",
+              "url": "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/2.60.1-2.60.3"
+            }
+          ]
+        },
+        {
+          "text": "Hérodote (Histoires, II, 66) rapporte que, lorsqu'un chat meurt de mort naturelle dans une maison, tous les habitants se rasent les sourcils.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Herodotus, Histories 2.66 (trad. A. D. Godley)",
+              "publisher": "Perseus / Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/2.66.1-2.67.1"
+            }
+          ]
+        },
+        {
+          "text": "Bastet est d'abord représentée sous forme de lionne ; sa forme de chat domestique s'impose au premier millénaire avant notre ère.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bastet",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bastet"
+            },
+            {
+              "title": "Bastet (deity)",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/bastet-deity"
+            }
+          ]
+        },
+        {
+          "text": "Dans la religion égyptienne, les animaux sacrés étaient conçus comme des manifestations de divinités et non comme des dieux en eux-mêmes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sacred animal mummy of an ibis inside a jar",
+              "publisher": "The Metropolitan Museum of Art",
+              "url": "https://www.metmuseum.org/art/collection/search/552293"
+            },
+            {
+              "title": "Article sur les animaux dans la religion égyptienne (Capstone)",
+              "publisher": "UNC Press",
+              "url": "https://janeway.uncpress.org/capstone/article/4846/galley/3799/download/"
+            }
+          ]
+        },
+        {
+          "text": "Les nécropoles de Bubastis, de Saqqarah et de Beni Hassan ont livré des quantités massives de chats momifiés, offrandes votives acquises par des pèlerins.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cats in ancient Egypt",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt"
+            },
+            {
+              "title": "Gifts for the Gods",
+              "publisher": "University of Birmingham – Birmingham Egyptology",
+              "url": "https://more.bham.ac.uk/birminghamegyptology/virtual-museum/objects-come-to-life/gifts-for-the-gods/"
+            }
+          ]
+        },
+        {
+          "text": "En 1981, P. L. Armitage et J. Clutton-Brock (Journal of Archaeological Science) ont radiographié des momies de chats du British Museum : beaucoup étaient de jeunes animaux tués par fracture ou dislocation du cou, ce qui indique un élevage destiné à l'offrande.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A radiological and histological investigation into the mummification of cats from Ancient Egypt (J. Archaeol. Sci. 8, 1981)",
+              "publisher": "Journal of Archaeological Science (copie Gwern.net)",
+              "url": "https://gwern.net/doc/cat/genetics/1981-armitage.pdf"
+            },
+            {
+              "title": "Evidence of diet, deification, and death within ancient Egyptian mummified animals",
+              "publisher": "Scientific Reports",
+              "url": "https://www.nature.com/articles/s41598-020-69726-0"
+            }
+          ]
+        },
+        {
+          "text": "En 2015, une étude de l'université de Manchester portant sur environ 800 momies animales a montré qu'environ un tiers ne contenaient aucun reste animal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "BBC Horizon: Egypt's Dark Secret",
+              "publisher": "University of Manchester",
+              "url": "https://www.manchester.ac.uk/about/news/bbc-horizon-egypts-dark-secret/"
+            },
+            {
+              "title": "Many of Egypt's Animal Mummies Don't Contain Mummies at All",
+              "publisher": "Mental Floss",
+              "url": "https://www.mentalfloss.com/article/64022/many-egypts-animal-mummies-dont-contain-mummies-all"
+            }
+          ]
+        },
+        {
+          "text": "Le hadith de la femme entrée en Enfer pour avoir enfermé une chatte sans la nourrir ni la laisser manger les petites bêtes de la terre figure dans les recueils d'al-Bukhari et de Muslim.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Riyad as-Salihin 1600",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/riyadussalihin:1600"
+            }
+          ]
+        },
+        {
+          "text": "Abou Hourayra, compagnon du Prophète à qui la tradition attribue des milliers de hadiths, porte un surnom signifiant « le père du petit chat ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Abu Hurayra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Abu_Hurayra"
+            }
+          ]
+        },
+        {
+          "text": "Le hadith rapporté notamment par Abou Daoud et at-Tirmidhi (d'après Abou Qatada) déclare que la chatte n'est pas impure, car elle fait partie de ceux et celles qui vont et viennent parmi les gens, à propos de l'eau où elle a bu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sunan Abi Dawud 75",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/abudawud:75"
+            },
+            {
+              "title": "Jami` at-Tirmidhi 92",
+              "publisher": "Sunnah.com",
+              "url": "https://sunnah.com/tirmidhi:92"
+            }
+          ]
+        },
+        {
+          "text": "Le récit de Muezza et de la manche coupée, ainsi que l'explication du M frontal des chats tigrés par une caresse du Prophète, ne figurent pas dans les grands recueils de hadiths et n'ont pas de chaîne de transmission connue ; des savants musulmans, y compris sur des sites de fatwas conservateurs, déclarent ne leur connaître aucun fondement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Prophet's cat Muezza",
+              "publisher": "IslamQA.org (Islamic Portal)",
+              "url": "https://islamqa.org/hanafi/islamicportal/175692/the-prophets-cat-muezza/"
+            },
+            {
+              "title": "Islam and cats",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Islam_and_cats"
+            }
+          ]
+        },
+        {
+          "text": "La formule « aimer le chat fait partie de la foi » (hubb al-hirra min al-iman) est classée comme forgée par les spécialistes du hadith.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is loving cats part of Iman?",
+              "publisher": "IslamQA.org (HadithAnswers)",
+              "url": "https://islamqa.org/hanafi/hadithanswers/120756/is-loving-cats-part-of-iman/"
+            },
+            {
+              "title": "تحفة الأحوذي - باب ما جاء في سؤر الهرة",
+              "publisher": "Islamweb",
+              "url": "https://www.islamweb.net/ar/library/index.php?page=bookcontents&idfrom=168&idto=169&bk_no=56&ID=71"
+            }
+          ]
+        },
+        {
+          "text": "Le motif en M sur le front existe chez les chats tigrés hors du monde musulman, et une légende chrétienne l'attribue à la Vierge Marie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Why Do Tabby Cats Have an “M” on Their Foreheads?",
+              "publisher": "Cats.com",
+              "url": "https://cats.com/why-do-tabby-cats-have-an-m-on-their-foreheads"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Edda en prose de Snorri Sturluson (Gylfaginning, vers 1220), Freyja conduit un char tiré par deux chats ; les sources médiévales ne nomment pas ces chats, et les noms qui circulent aujourd'hui sont modernes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Freyja",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Freyja"
+            },
+            {
+              "title": "Pets in the Viking Age",
+              "publisher": "The Viking Answer Lady",
+              "url": "https://vikinganswerlady.com/vik_pets.shtml"
+            }
+          ]
+        },
+        {
+          "text": "L'Islande s'est convertie au christianisme autour de l'an 1000.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Christianization of Iceland",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Christianization_of_Iceland"
+            }
+          ]
+        },
+        {
+          "text": "Il est couramment affirmé que les chats sont arrivés au Japon avec les sutras bouddhiques pour les protéger des rongeurs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "“Waneko” Studies: A Journey into Japan’s Cat Lore",
+              "publisher": "Nippon.com",
+              "url": "https://www.nippon.com/en/japan-topics/g01054/waneko-studies-a-journey-into-japan%E2%80%99s-cat-lore.html"
+            }
+          ]
+        },
+        {
+          "text": "Des os de chat datés de la période Yayoi ont été mis au jour sur l'île d'Iki (site de Karakami), avant l'introduction officielle du bouddhisme au Japon au VIe siècle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "“Waneko” Studies: A Journey into Japan’s Cat Lore",
+              "publisher": "Nippon.com",
+              "url": "https://www.nippon.com/en/japan-topics/g01054/waneko-studies-a-journey-into-japan%E2%80%99s-cat-lore.html"
+            },
+            {
+              "title": "Karakami Site",
+              "publisher": "Japan Tourism Agency (MLIT)",
+              "url": "https://www.mlit.go.jp/tagengo-db/R4-00643.html"
+            }
+          ]
+        },
+        {
+          "text": "Le temple Gōtoku-ji, à Tokyo, revendique l'origine du maneki-neko, origine également revendiquée par d'autres temples et sanctuaires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Maneki-neko",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Maneki-neko"
+            }
+          ]
+        },
+        {
+          "text": "Le Wumenguan, recueil chan compilé en 1228 par Wumen Huikai, rapporte (cas 14) que le maître Nanquan trancha en deux un chat que se disputaient deux groupes de moines, faute de réponse à sa demande.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Gateless Gate, 14: Nansen Cuts the Cat in Two",
+              "publisher": "Sacred Texts",
+              "url": "https://sacred-texts.com/bud/glg/glg14.htm"
+            },
+            {
+              "title": "The Gateless Barrier",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Gateless_Barrier"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "confidence",
+        "domain": "épidémiologie et biostatistique (interprétation statistique d'études), avec un recours ponctuel à l'épidémiologie de la peste et à la génétique de la domestication",
+        "threshold": 6.6,
+        "passages": 9,
+        "approximations": [
+          {
+            "excerpt": "En 2010, le psychologue Samuel Gosling et ses collègues publient dans la revue Anthrozoös une étude sur plus de quatre mille cinq cents personnes qui se disent amies des chiens ou des chats.",
+            "note": "Effectif arrondi ; seul l'ordre de grandeur (un très grand échantillon) compte pour l'argument sur la significativité."
+          },
+          {
+            "excerpt": "En 2014, la psychologue Denise Guastello, de l'université Carroll, présente à un congrès de l'Association for Psychological Science une enquête auprès d'environ six cents étudiants : les amoureux des chats y apparaissent plus introvertis, plus anticonformistes, et réussissent même mieux un test d'intelligence.",
+            "note": "Effectif approximatif ; l'argument porte sur le type d'échantillon (une seule université), pas sur sa taille exacte."
+          },
+          {
+            "excerpt": "La ferveur avait aussi ses contrefaçons : en 2015, l'université de Manchester passe au scanner environ huit cents momies animales, et près d'un tiers ne contiennent aucun reste d'animal.",
+            "note": "Compte et proportion arrondis, sans lien avec la santé ; l'idée de contrefaçons fréquentes ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "L'un des compagnons les plus célèbres, qui a transmis des milliers de hadiths, porte même un surnom tendre : Abou Hourayra, le père du petit chat.",
+            "note": "Ordre de grandeur volontairement vague ; seule importe la notoriété du transmetteur, pas le nombre exact de hadiths."
+          },
+          {
+            "excerpt": "Et l'image du chat distant résiste mal : en 2019, dans Current Biology, Kristyn Vitale et ses collègues montrent que la majorité des chats testés s'attachent à leur humain de façon sécurisée, dans des proportions proches de celles des bébés.",
+            "note": "Comparaison de proportions donnée qualitativement (« majorité », « proches ») ; elle ne dit rien de la santé, et l'argument ne dépend pas du pourcentage précis."
+          },
+          {
+            "excerpt": "Le char de Freyja, lui, tient pour l'essentiel dans l'œuvre d'un seul homme : Snorri Sturluson, un Islandais chrétien qui écrit son Edda vers 1220, dans une île convertie autour de l'an mille.",
+            "note": "Dates approximatives assumées (« vers », « autour de ») ; l'argument repose seulement sur le fait que le texte est tardif et chrétien."
+          },
+          {
+            "excerpt": "Il y a environ neuf mille cinq cents ans, à Chypre, sur le site de Shillourokambos, quelqu'un a enterré un chat près d'un humain.",
+            "note": "Datation arrondie d'un site archéologique ; seule l'ancienneté de la relation homme-chat compte."
+          },
+          {
+            "excerpt": "Lui, pendant qu'on lui écrit des théologies depuis dix millénaires, attend surtout que tu remplisses sa gamelle.",
+            "note": "Ordre de grandeur rhétorique, cohérent avec la datation de Shillourokambos ; aucune précision n'est attendue."
+          }
+        ]
+      },
+      "references": [],
+      "next": {
+        "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+        "url": "https://www.youtube.com/watch?v=aIAywoU0Png"
+      },
+      "shorts": [
+        {
+          "title": "Les momies de chats d'Égypte cachaient une industrie",
+          "url": "https://www.youtube.com/watch?v=Bdy3afclAp0",
+          "publishedAt": "2026-10-08T16:38:51.084Z"
+        }
+      ],
+      "corrections": []
+    },
     {
       "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
       "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",

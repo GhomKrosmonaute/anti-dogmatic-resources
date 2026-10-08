@@ -1,12 +1,96 @@
 {
   "version": 2,
-  "total": 52,
+  "total": 54,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "le-mouvement-raelien-f9a5",
+      "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
+      "format": "video",
+      "publishedAt": "2026-10-08T17:15:21.913Z",
+      "durationSeconds": 735,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Elohim de la Bible sont des extraterrestres venus du ciel qui ont créé toute la vie sur Terre, l'humanité comprise, dans leurs laboratoires, comme ils l'ont révélé à Raël en 1973.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hCHVMo-ZpJU",
+        "url": "https://www.youtube.com/watch?v=hCHVMo-ZpJU",
+        "thumbnail": "https://i.ytimg.com/vi/hCHVMo-ZpJU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mouvement-raelien-f9a5/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mouvement-raelien-f9a5.json"
+      }
+    },
+    {
+      "id": "le-chat-compagnon-des-introvertis-685d",
+      "title": "Pourquoi le chat est-il sacré dans tant de religions ? De Bastet à Muezza, le chat du Prophète",
+      "format": "video",
+      "publishedAt": "2026-10-08T15:25:55.185Z",
+      "durationSeconds": 702,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le chat est l'animal des âmes introverties et spirituelles : la science montre que les introvertis le préfèrent, et les grandes religions l'ont vénéré, de Bastet au chat Muezza du Prophète, avant que l'Église ne le diabolise au point de provoquer la peste.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "GnYMhDZ8LEY",
+        "url": "https://www.youtube.com/watch?v=GnYMhDZ8LEY",
+        "thumbnail": "https://i.ytimg.com/vi/GnYMhDZ8LEY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chat-compagnon-des-introvertis-685d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chat-compagnon-des-introvertis-685d.json"
+      }
+    },
     {
       "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
       "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
@@ -1800,90 +1884,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
-      }
-    },
-    {
-      "id": "la-donation-de-constantin-83d1",
-      "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",
-      "format": "video",
-      "publishedAt": "2026-09-25T08:00:12.889Z",
-      "durationSeconds": 426,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "La Donation de Constantin est un acte authentique : l'empereur Constantin, guéri de la lèpre et baptisé par le pape Sylvestre, aurait cédé à l'Église de Rome le palais du Latran, la ville de Rome et les provinces d'Occident, faisant du pape le maître de l'Occident.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "YnNocnkAkvM",
-        "url": "https://www.youtube.com/watch?v=YnNocnkAkvM",
-        "thumbnail": "https://i.ytimg.com/vi/YnNocnkAkvM/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-donation-de-constantin-83d1/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-donation-de-constantin-83d1.json"
-      }
-    },
-    {
-      "id": "le-fardeau-de-la-preuve-19ef",
-      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
-      "format": "video",
-      "publishedAt": "2026-09-25T07:02:41.865Z",
-      "durationSeconds": 467,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": {
-        "statement": "« Prouve que Dieu n'existe pas » : c'est à ceux qui nient l'existence de Dieu de démontrer leur position, et l'impossibilité de la réfuter suffirait à fonder la croyance.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "charge-de-la-preuve",
-          "name": "Le renversement de la charge de la preuve"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "1DqgdLPjCi4",
-        "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
-        "thumbnail": "https://i.ytimg.com/vi/1DqgdLPjCi4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fardeau-de-la-preuve-19ef/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fardeau-de-la-preuve-19ef.json"
       }
     }
   ]

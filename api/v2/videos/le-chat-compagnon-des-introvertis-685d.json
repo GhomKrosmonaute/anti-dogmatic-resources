@@ -1,0 +1,474 @@
+{
+  "version": 2,
+  "id": "le-chat-compagnon-des-introvertis-685d",
+  "title": "Pourquoi le chat est-il sacré dans tant de religions ? De Bastet à Muezza, le chat du Prophète",
+  "format": "video",
+  "publishedAt": "2026-10-08T15:25:55.185Z",
+  "durationSeconds": 702,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Le chat est l'animal des âmes introverties et spirituelles : la science montre que les introvertis le préfèrent, et les grandes religions l'ont vénéré, de Bastet au chat Muezza du Prophète, avant que l'Église ne le diabolise au point de provoquer la peste.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Les études existent, mais elles ne montrent que des écarts faibles sur des échantillons particuliers, et les textes religieux authentiques sur le chat sont surtout moraux ou rituels. Muezza n'a pas de chaîne de transmission, Vox in Rama n'ordonne aucun massacre de chats, et le culte de Bastet reposait en partie sur l'élevage de chatons tués pour servir d'offrandes."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "GnYMhDZ8LEY",
+    "url": "https://www.youtube.com/watch?v=GnYMhDZ8LEY",
+    "thumbnail": "https://i.ytimg.com/vi/GnYMhDZ8LEY/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chat-compagnon-des-introvertis-685d/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chat-compagnon-des-introvertis-685d.json"
+  },
+  "facts": [
+    {
+      "text": "En 2010, Samuel Gosling, Carson Sandy et Jeff Potter ont publié dans Anthrozoös (vol. 23, n° 3) une étude sur plus de 4 500 personnes se décrivant comme amies des chiens ou des chats : les premières plus extraverties, aimables et consciencieuses, les secondes plus ouvertes à l'expérience et plus névrosées.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. L'article (Anthrozoös 23(3), p. 213-222) porte bien sur 4 565 participants et confirme le sens des écarts, mais ce total inclut les personnes ayant répondu « les deux » ou « aucun », et seules 57 % environ ont exprimé une préférence pour les chiens ou pour les chats. Correction proposée : En 2010, Samuel Gosling, Carson Sandy et Jeff Potter ont publié dans Anthrozoös (vol. 23, n° 3) une étude sur plus de 4 500 personnes invitées à se dire « personne chien », « personne chat », les deux ou aucun des deux : les premières se révélaient plus extraverties,",
+      "sources": [
+        {
+          "title": "Personalities Of Self-Identified “Dog People” And “Cat People”",
+          "publisher": "Faunalytics",
+          "url": "https://faunalytics.org/personalities-of-self-identified-dog-people-and-cat-people/"
+        },
+        {
+          "title": "Personalities of Self-Identified “Dog People” and “Cat People” (Anthrozoös 23(3))",
+          "publisher": "Anthrozoös / Faunalytics",
+          "url": "https://faunalytics.org/wp-content/uploads/2010/08/Personalities-of-Self-Identified-%E2%80%9CDog-People%E2%80%9D-and-%E2%80%9CCat-People%E2%80%9D.pdf"
+        }
+      ]
+    },
+    {
+      "text": "L'étude de Gosling et al. (2010) reposait sur des volontaires recrutés en ligne qui s'auto-identifiaient, et les écarts de personnalité observés sont faibles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Personalities Of Self-Identified “Dog People” And “Cat People”",
+          "publisher": "Faunalytics",
+          "url": "https://faunalytics.org/personalities-of-self-identified-dog-people-and-cat-people/"
+        },
+        {
+          "title": "Just How Different Are Cat People and Dog People?",
+          "publisher": "Psychology Today",
+          "url": "https://www.psychologytoday.com/us/blog/fulfillment-any-age/201604/just-how-different-are-cat-people-and-dog-people"
+        }
+      ]
+    },
+    {
+      "text": "Avec un très grand échantillon, de faibles écarts deviennent statistiquement significatifs ; la significativité statistique ne mesure pas l'ampleur d'un effet.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "American Statistical Association releases statement on statistical significance and p-values",
+          "publisher": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2016/03/160307092305.htm"
+        }
+      ]
+    },
+    {
+      "text": "En 2014, Denise Guastello (Carroll University) a présenté au congrès de l'Association for Psychological Science une enquête sur environ 600 étudiants : les amoureux des chats y apparaissaient plus introvertis, plus anticonformistes et obtenaient de meilleurs scores à un test d'intelligence.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dog People vs. Cat People: Who's More Outgoing? More Intelligent?",
+          "publisher": "Live Science",
+          "url": "https://www.livescience.com/45894-dog-cat-people-personalities.html"
+        },
+        {
+          "title": "Studies Show Cat People Are Smarter Than Dog People (Members in the Media, from Time)",
+          "publisher": "Association for Psychological Science",
+          "url": "https://www.psychologicalscience.org/news/studies-show-cat-people-are-smarter-than-dog-people.html"
+        }
+      ]
+    },
+    {
+      "text": "En 2019, Kristyn Vitale et ses collègues (Current Biology) ont montré que la majorité des chats testés présentent un attachement sécurisé à leur humain, dans des proportions proches de celles observées chez les nourrissons.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cats, like children and dogs, develop attachments to their caregivers, study shows",
+          "publisher": "Oregon State University",
+          "url": "https://news.oregonstate.edu/news/cats-children-and-dogs-develop-attachments-their-caregivers-study-shows"
+        },
+        {
+          "title": "Cats Bond Securely to Their Humans, Maybe Even More Than Dogs Do",
+          "publisher": "ScienceAlert",
+          "url": "https://www.sciencealert.com/cats-bond-securely-to-their-humans-maybe-even-more-than-dogs-do"
+        }
+      ]
+    },
+    {
+      "text": "Bastet avait son grand sanctuaire à Bubastis, dans le delta du Nil, et était associée à la protection du foyer et aux naissances.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bastet (deity)",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/bastet-deity"
+        }
+      ]
+    },
+    {
+      "text": "Hérodote (Histoires, II, 60) décrit au Ve siècle avant notre ère la fête de Bubastis comme l'une des plus fréquentées d'Égypte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Herodotus, Histories 2.60 (trad. A. D. Godley)",
+          "publisher": "Perseus / Perseids",
+          "url": "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/2.60.1-2.60.3"
+        }
+      ]
+    },
+    {
+      "text": "Hérodote (Histoires, II, 66) rapporte que, lorsqu'un chat meurt de mort naturelle dans une maison, tous les habitants se rasent les sourcils.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Herodotus, Histories 2.66 (trad. A. D. Godley)",
+          "publisher": "Perseus / Perseids",
+          "url": "https://fgh.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/2.66.1-2.67.1"
+        }
+      ]
+    },
+    {
+      "text": "Bastet est d'abord représentée sous forme de lionne ; sa forme de chat domestique s'impose au premier millénaire avant notre ère.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bastet",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bastet"
+        },
+        {
+          "title": "Bastet (deity)",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/bastet-deity"
+        }
+      ]
+    },
+    {
+      "text": "Dans la religion égyptienne, les animaux sacrés étaient conçus comme des manifestations de divinités et non comme des dieux en eux-mêmes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sacred animal mummy of an ibis inside a jar",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/552293"
+        },
+        {
+          "title": "Article sur les animaux dans la religion égyptienne (Capstone)",
+          "publisher": "UNC Press",
+          "url": "https://janeway.uncpress.org/capstone/article/4846/galley/3799/download/"
+        }
+      ]
+    },
+    {
+      "text": "Les nécropoles de Bubastis, de Saqqarah et de Beni Hassan ont livré des quantités massives de chats momifiés, offrandes votives acquises par des pèlerins.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cats in ancient Egypt",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt"
+        },
+        {
+          "title": "Gifts for the Gods",
+          "publisher": "University of Birmingham – Birmingham Egyptology",
+          "url": "https://more.bham.ac.uk/birminghamegyptology/virtual-museum/objects-come-to-life/gifts-for-the-gods/"
+        }
+      ]
+    },
+    {
+      "text": "En 1981, P. L. Armitage et J. Clutton-Brock (Journal of Archaeological Science) ont radiographié des momies de chats du British Museum : beaucoup étaient de jeunes animaux tués par fracture ou dislocation du cou, ce qui indique un élevage destiné à l'offrande.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A radiological and histological investigation into the mummification of cats from Ancient Egypt (J. Archaeol. Sci. 8, 1981)",
+          "publisher": "Journal of Archaeological Science (copie Gwern.net)",
+          "url": "https://gwern.net/doc/cat/genetics/1981-armitage.pdf"
+        },
+        {
+          "title": "Evidence of diet, deification, and death within ancient Egyptian mummified animals",
+          "publisher": "Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-020-69726-0"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, une étude de l'université de Manchester portant sur environ 800 momies animales a montré qu'environ un tiers ne contenaient aucun reste animal.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "BBC Horizon: Egypt's Dark Secret",
+          "publisher": "University of Manchester",
+          "url": "https://www.manchester.ac.uk/about/news/bbc-horizon-egypts-dark-secret/"
+        },
+        {
+          "title": "Many of Egypt's Animal Mummies Don't Contain Mummies at All",
+          "publisher": "Mental Floss",
+          "url": "https://www.mentalfloss.com/article/64022/many-egypts-animal-mummies-dont-contain-mummies-all"
+        }
+      ]
+    },
+    {
+      "text": "Le hadith de la femme entrée en Enfer pour avoir enfermé une chatte sans la nourrir ni la laisser manger les petites bêtes de la terre figure dans les recueils d'al-Bukhari et de Muslim.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Riyad as-Salihin 1600",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/riyadussalihin:1600"
+        }
+      ]
+    },
+    {
+      "text": "Abou Hourayra, compagnon du Prophète à qui la tradition attribue des milliers de hadiths, porte un surnom signifiant « le père du petit chat ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Abu Hurayra",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abu_Hurayra"
+        }
+      ]
+    },
+    {
+      "text": "Le hadith rapporté notamment par Abou Daoud et at-Tirmidhi (d'après Abou Qatada) déclare que la chatte n'est pas impure, car elle fait partie de ceux et celles qui vont et viennent parmi les gens, à propos de l'eau où elle a bu.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sunan Abi Dawud 75",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/abudawud:75"
+        },
+        {
+          "title": "Jami` at-Tirmidhi 92",
+          "publisher": "Sunnah.com",
+          "url": "https://sunnah.com/tirmidhi:92"
+        }
+      ]
+    },
+    {
+      "text": "Le récit de Muezza et de la manche coupée, ainsi que l'explication du M frontal des chats tigrés par une caresse du Prophète, ne figurent pas dans les grands recueils de hadiths et n'ont pas de chaîne de transmission connue ; des savants musulmans, y compris sur des sites de fatwas conservateurs, déclarent ne leur connaître aucun fondement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Prophet's cat Muezza",
+          "publisher": "IslamQA.org (Islamic Portal)",
+          "url": "https://islamqa.org/hanafi/islamicportal/175692/the-prophets-cat-muezza/"
+        },
+        {
+          "title": "Islam and cats",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Islam_and_cats"
+        }
+      ]
+    },
+    {
+      "text": "La formule « aimer le chat fait partie de la foi » (hubb al-hirra min al-iman) est classée comme forgée par les spécialistes du hadith.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Is loving cats part of Iman?",
+          "publisher": "IslamQA.org (HadithAnswers)",
+          "url": "https://islamqa.org/hanafi/hadithanswers/120756/is-loving-cats-part-of-iman/"
+        },
+        {
+          "title": "تحفة الأحوذي - باب ما جاء في سؤر الهرة",
+          "publisher": "Islamweb",
+          "url": "https://www.islamweb.net/ar/library/index.php?page=bookcontents&idfrom=168&idto=169&bk_no=56&ID=71"
+        }
+      ]
+    },
+    {
+      "text": "Le motif en M sur le front existe chez les chats tigrés hors du monde musulman, et une légende chrétienne l'attribue à la Vierge Marie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Why Do Tabby Cats Have an “M” on Their Foreheads?",
+          "publisher": "Cats.com",
+          "url": "https://cats.com/why-do-tabby-cats-have-an-m-on-their-foreheads"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Edda en prose de Snorri Sturluson (Gylfaginning, vers 1220), Freyja conduit un char tiré par deux chats ; les sources médiévales ne nomment pas ces chats, et les noms qui circulent aujourd'hui sont modernes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Freyja",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Freyja"
+        },
+        {
+          "title": "Pets in the Viking Age",
+          "publisher": "The Viking Answer Lady",
+          "url": "https://vikinganswerlady.com/vik_pets.shtml"
+        }
+      ]
+    },
+    {
+      "text": "L'Islande s'est convertie au christianisme autour de l'an 1000.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Christianization of Iceland",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Christianization_of_Iceland"
+        }
+      ]
+    },
+    {
+      "text": "Il est couramment affirmé que les chats sont arrivés au Japon avec les sutras bouddhiques pour les protéger des rongeurs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "“Waneko” Studies: A Journey into Japan’s Cat Lore",
+          "publisher": "Nippon.com",
+          "url": "https://www.nippon.com/en/japan-topics/g01054/waneko-studies-a-journey-into-japan%E2%80%99s-cat-lore.html"
+        }
+      ]
+    },
+    {
+      "text": "Des os de chat datés de la période Yayoi ont été mis au jour sur l'île d'Iki (site de Karakami), avant l'introduction officielle du bouddhisme au Japon au VIe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "“Waneko” Studies: A Journey into Japan’s Cat Lore",
+          "publisher": "Nippon.com",
+          "url": "https://www.nippon.com/en/japan-topics/g01054/waneko-studies-a-journey-into-japan%E2%80%99s-cat-lore.html"
+        },
+        {
+          "title": "Karakami Site",
+          "publisher": "Japan Tourism Agency (MLIT)",
+          "url": "https://www.mlit.go.jp/tagengo-db/R4-00643.html"
+        }
+      ]
+    },
+    {
+      "text": "Le temple Gōtoku-ji, à Tokyo, revendique l'origine du maneki-neko, origine également revendiquée par d'autres temples et sanctuaires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Maneki-neko",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maneki-neko"
+        }
+      ]
+    },
+    {
+      "text": "Le Wumenguan, recueil chan compilé en 1228 par Wumen Huikai, rapporte (cas 14) que le maître Nanquan trancha en deux un chat que se disputaient deux groupes de moines, faute de réponse à sa demande.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Gateless Gate, 14: Nansen Cuts the Cat in Two",
+          "publisher": "Sacred Texts",
+          "url": "https://sacred-texts.com/bud/glg/glg14.htm"
+        },
+        {
+          "title": "The Gateless Barrier",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Gateless_Barrier"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "épidémiologie et biostatistique (interprétation statistique d'études), avec un recours ponctuel à l'épidémiologie de la peste et à la génétique de la domestication",
+    "threshold": 6.6,
+    "passages": 9,
+    "approximations": [
+      {
+        "excerpt": "En 2010, le psychologue Samuel Gosling et ses collègues publient dans la revue Anthrozoös une étude sur plus de quatre mille cinq cents personnes qui se disent amies des chiens ou des chats.",
+        "note": "Effectif arrondi ; seul l'ordre de grandeur (un très grand échantillon) compte pour l'argument sur la significativité."
+      },
+      {
+        "excerpt": "En 2014, la psychologue Denise Guastello, de l'université Carroll, présente à un congrès de l'Association for Psychological Science une enquête auprès d'environ six cents étudiants : les amoureux des chats y apparaissent plus introvertis, plus anticonformistes, et réussissent même mieux un test d'intelligence.",
+        "note": "Effectif approximatif ; l'argument porte sur le type d'échantillon (une seule université), pas sur sa taille exacte."
+      },
+      {
+        "excerpt": "La ferveur avait aussi ses contrefaçons : en 2015, l'université de Manchester passe au scanner environ huit cents momies animales, et près d'un tiers ne contiennent aucun reste d'animal.",
+        "note": "Compte et proportion arrondis, sans lien avec la santé ; l'idée de contrefaçons fréquentes ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "L'un des compagnons les plus célèbres, qui a transmis des milliers de hadiths, porte même un surnom tendre : Abou Hourayra, le père du petit chat.",
+        "note": "Ordre de grandeur volontairement vague ; seule importe la notoriété du transmetteur, pas le nombre exact de hadiths."
+      },
+      {
+        "excerpt": "Et l'image du chat distant résiste mal : en 2019, dans Current Biology, Kristyn Vitale et ses collègues montrent que la majorité des chats testés s'attachent à leur humain de façon sécurisée, dans des proportions proches de celles des bébés.",
+        "note": "Comparaison de proportions donnée qualitativement (« majorité », « proches ») ; elle ne dit rien de la santé, et l'argument ne dépend pas du pourcentage précis."
+      },
+      {
+        "excerpt": "Le char de Freyja, lui, tient pour l'essentiel dans l'œuvre d'un seul homme : Snorri Sturluson, un Islandais chrétien qui écrit son Edda vers 1220, dans une île convertie autour de l'an mille.",
+        "note": "Dates approximatives assumées (« vers », « autour de ») ; l'argument repose seulement sur le fait que le texte est tardif et chrétien."
+      },
+      {
+        "excerpt": "Il y a environ neuf mille cinq cents ans, à Chypre, sur le site de Shillourokambos, quelqu'un a enterré un chat près d'un humain.",
+        "note": "Datation arrondie d'un site archéologique ; seule l'ancienneté de la relation homme-chat compte."
+      },
+      {
+        "excerpt": "Lui, pendant qu'on lui écrit des théologies depuis dix millénaires, attend surtout que tu remplisses sa gamelle.",
+        "note": "Ordre de grandeur rhétorique, cohérent avec la datation de Shillourokambos ; aucune précision n'est attendue."
+      }
+    ]
+  },
+  "references": [],
+  "next": {
+    "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+    "url": "https://www.youtube.com/watch?v=aIAywoU0Png"
+  },
+  "shorts": [
+    {
+      "title": "Les momies de chats d'Égypte cachaient une industrie",
+      "url": "https://www.youtube.com/watch?v=Bdy3afclAp0",
+      "publishedAt": "2026-10-08T16:38:51.084Z"
+    }
+  ],
+  "corrections": []
+}

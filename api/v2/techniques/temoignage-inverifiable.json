@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "le-mouvement-raelien-f9a5",
+      "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
+      "format": "video",
+      "publishedAt": "2026-10-08T17:15:21.913Z",
+      "durationSeconds": 735,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Elohim de la Bible sont des extraterrestres venus du ciel qui ont créé toute la vie sur Terre, l'humanité comprise, dans leurs laboratoires, comme ils l'ont révélé à Raël en 1973.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hCHVMo-ZpJU",
+        "url": "https://www.youtube.com/watch?v=hCHVMo-ZpJU",
+        "thumbnail": "https://i.ytimg.com/vi/hCHVMo-ZpJU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mouvement-raelien-f9a5/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mouvement-raelien-f9a5.json"
+      }
+    },
+    {
       "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
       "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
       "format": "video",
