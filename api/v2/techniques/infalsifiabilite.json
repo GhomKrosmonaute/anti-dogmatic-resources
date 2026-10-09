@@ -41,6 +41,90 @@
   ],
   "examples": [
     {
+      "id": "l-histoire-du-satanisme-da7b",
+      "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
+      "format": "video",
+      "publishedAt": "2026-10-09T10:15:09.765Z",
+      "durationSeconds": 747,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Depuis des siècles, un culte satanique secret et organisé vénère un diable réel, pactise avec lui et pratique des sacrifices ; les procès de sorcellerie, l'affaire des Poisons, les révélations sur les loges lucifériennes et les témoignages de survivants des années 1980 en sont la preuve.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yQhwW1egJYM",
+        "url": "https://www.youtube.com/watch?v=yQhwW1egJYM",
+        "thumbnail": "https://i.ytimg.com/vi/yQhwW1egJYM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-histoire-du-satanisme-da7b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-histoire-du-satanisme-da7b.json"
+      }
+    },
+    {
+      "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+      "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T18:44:36.332Z",
+      "durationSeconds": 687,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "29QVCxxBqbY",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+        "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+      }
+    },
+    {
       "id": "moise-et-la-sortie-d-egypte-face-a-l-archeologie-c37a",
       "title": "Moïse, les dix plaies et la sortie d'Égypte : l'archéologie a-t-elle retrouvé l'Exode ?",
       "format": "video",

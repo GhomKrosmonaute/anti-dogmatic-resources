@@ -1,0 +1,465 @@
+{
+  "version": 2,
+  "id": "les-religions-dans-les-mangas-e696",
+  "title": "Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?",
+  "format": "video",
+  "publishedAt": "2026-10-08T20:21:35.695Z",
+  "durationSeconds": 694,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Evangelion, Death Note, Berserk et les autres mangas qui mettent en scène Dieu, les anges et les prophètes cachent un message religieux profond derrière leurs symboles.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Les croix, les anges et les prophètes de ces mangas renvoient bien à de vrais textes, mais l'équipe d'Evangelion a reconnu les avoir choisis pour leur exotisme, et les œuvres qui traitent vraiment de religion montrent des dieux fabriqués et des prophètes manipulateurs plutôt qu'une révélation. Le sens qu'on y trouve vient surtout du lecteur, comme le montrent les biais d'interprétation mesurés en psychologie."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "Ur_7wDabdQ8",
+    "url": "https://www.youtube.com/watch?v=Ur_7wDabdQ8",
+    "thumbnail": "https://i.ytimg.com/vi/Ur_7wDabdQ8/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-religions-dans-les-mangas-e696/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-religions-dans-les-mangas-e696.json"
+  },
+  "facts": [
+    {
+      "text": "Dans Evangelion, les créatures appelées Anges dans la version française sont désignées en japonais par le mot shito (使徒), qui signifie apôtre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Angel",
+          "publisher": "EvaWiki (EvaGeeks)",
+          "url": "https://wiki.evageeks.org/Angel"
+        },
+        {
+          "title": "Angel",
+          "publisher": "Evangelion Wiki (Fandom)",
+          "url": "https://evangelion.fandom.com/wiki/Angel"
+        }
+      ]
+    },
+    {
+      "text": "Les chrétiens représentent environ 1 % de la population japonaise.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "宗教年鑑2022年版",
+          "publisher": "Christian Today Japan",
+          "url": "https://www.christiantoday.co.jp/articles/32008/20230216/2022-japan-religion-yearbook.htm"
+        },
+        {
+          "title": "Percentage of Christians in Japan has been static for 450 years",
+          "publisher": "Journey Online (Uniting Church Queensland)",
+          "url": "https://journeyonline.com.au/queensland-synod-news/percentage-of-christians-in-japan-has-been-static-for-450-years/"
+        }
+      ]
+    },
+    {
+      "text": "La série Evangelion, d'Hideaki Anno, a été diffusée à partir d'octobre 1995.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Neon Genesis Evangelion",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+        }
+      ]
+    },
+    {
+      "text": "Evangelion met en scène Adam découvert en Antarctique, Lilith crucifiée sous le quartier général de la Nerv, la lance de Longinus, l'arbre des séphiroth au plafond du bureau de Gendo Ikari et un scénario de la Seele tiré des manuscrits de la mer Morte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dead Sea Scrolls",
+          "publisher": "EvaWiki (EvaGeeks)",
+          "url": "https://wiki.evageeks.org/Dead_Sea_Scrolls"
+        },
+        {
+          "title": "Religion and Symbolism in Neon Genesis Evangelion",
+          "publisher": "MyAnimeList",
+          "url": "https://myanimelist.net/featured/1361/Religion_and_Symbolism_in_Neon_Genesis_Evangelion"
+        },
+        {
+          "title": "Lilith",
+          "publisher": "Olaf Eichler – Evangelion analysis",
+          "url": "https://olaf-eichler.de/evangelion/angel/lilith.shtml"
+        }
+      ]
+    },
+    {
+      "text": "Lilith est présentée comme la première épouse d'Adam dans une légende juive médiévale (l'Alphabet de Ben Sira).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lilith (Alphabet of Ben Sira)",
+          "publisher": "Jewish Christian Lit",
+          "url": "https://jewishchristianlit.com/?p=80"
+        },
+        {
+          "title": "Adam's First Wife",
+          "publisher": "Northern Arizona University",
+          "url": "https://ac.nau.edu/omeka-s/s/lilith/page/adam-s-first-wife"
+        }
+      ]
+    },
+    {
+      "text": "Le nom de Longinus est donné par la tradition au soldat qui perce le flanc de Jésus dans l'Évangile selon Jean (19:34).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Longinus – Catholic Dictionary",
+          "publisher": "Catholic Culture (Modern Catholic Dictionary, John Hardon)",
+          "url": "https://www.catholicculture.org/culture/library/dictionary/index.cfm?id=34648"
+        }
+      ]
+    },
+    {
+      "text": "Death Note, de Tsugumi Ōba et Takeshi Obata, a commencé sa prépublication en 2003.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "List of Death Note chapters",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_Death_Note_chapters"
+        }
+      ]
+    },
+    {
+      "text": "Dans le premier chapitre de Death Note, Light Yagami annonce qu'il deviendra le dieu d'un nouveau monde, et Ryuk le prévient qu'un humain qui utilise le cahier n'ira ni au paradis ni en enfer.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "新世界の神となる / 夜神月（出典：DEATH NOTE）",
+          "publisher": "Mangalines",
+          "url": "https://mangalines.com/2020/05/24/573/"
+        },
+        {
+          "title": "When Ryuk first meets Light, he tells him that a human that uses the Death Note cannot go to either heaven or hell",
+          "publisher": "Tumblr (kiranatrix)",
+          "url": "https://www.tumblr.com/kiranatrix/643515705954893824/when-ryuk-first-meets-light-he-tells-him-that-a"
+        }
+      ]
+    },
+    {
+      "text": "Romains 12:19, traduction Louis Segond : « Ne vous vengez point vous-mêmes, bien-aimés, mais laissez agir la colère ; car il est écrit : À moi la vengeance, à moi la rétribution, dit le Seigneur. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Romains 12 – Louis Segond 1910",
+          "publisher": "Levangile.com",
+          "url": "https://www.levangile.com/bible-lsg-45-12-21-compact-contexte-non"
+        }
+      ]
+    },
+    {
+      "text": "Dans Berserk de Kentarō Miura, une Église toute-puissante a pour inquisiteur Mozgus, et la Main de Dieu compte cinq membres qui reçoivent des sacrifices humains.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mozgus",
+          "publisher": "MyAnimeList",
+          "url": "https://myanimelist.net/character/32488"
+        },
+        {
+          "title": "Berserk God Hand members",
+          "publisher": "Anime Explained",
+          "url": "https://www.animeexplained.com/?p=35759"
+        }
+      ]
+    },
+    {
+      "text": "Le terme « théodicée » a été forgé par Leibniz (Essais de Théodicée, 1710).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Leibniz on the Problem of Evil",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/archives/spr2014/entries/leibniz-evil"
+        },
+        {
+          "title": "Essais de Théodicée",
+          "publisher": "EPFL Graph Search",
+          "url": "https://graphsearch.epfl.ch/fr/concept/1452577"
+        }
+      ]
+    },
+    {
+      "text": "Dans Fullmetal Alchemist d'Hiromu Arakawa, le père Cornello est prêtre du dieu soleil Leto à Lior ; le peuple d'Ishval, monothéiste et hostile à l'alchimie, subit une guerre d'extermination ; la Vérité se présente comme le monde, l'univers, Dieu, la vérité, le tout, l'un et le personnage lui-même.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Truth \"God, World, Universe, One, All, You\"",
+          "publisher": "MyAnimeList",
+          "url": "https://myanimelist.net/character/33816"
+        },
+        {
+          "title": "Ishvalan",
+          "publisher": "Fullmetal Alchemist Wiki (Fandom)",
+          "url": "https://fma.fandom.com/wiki/Ishvalan"
+        }
+      ]
+    },
+    {
+      "text": "Les Vacances de Jésus et Bouddha (Saint Young Men) d'Hikaru Nakamura est publié depuis 2006 ; Jésus et Bouddha y partagent un appartement en banlieue de Tokyo, Jésus tient un blog et Bouddha gère l'argent.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Saint Young Men",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saint_Young_Men"
+        },
+        {
+          "title": "Saint Young Men Volume 2",
+          "publisher": "MyAnimeList / Kodansha",
+          "url": "https://myanimelist.net/store/manga_volume/3772/Saint_Young_Men_Volume_2"
+        }
+      ]
+    },
+    {
+      "text": "Pendant plus de mille ans, kami et bouddhas ont été vénérés ensemble au Japon (shinbutsu-shūgō), jusqu'à la séparation ordonnée par le gouvernement de Meiji en 1868.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shinbutsu-shūgō",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shinbutsu-sh%C5%ABg%C5%8D"
+        },
+        {
+          "title": "Shinbutsu bunri",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shinbutsu_bunri"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'annuaire officiel des religions (Shūkyō Nenkan) de l'Agence japonaise pour les affaires culturelles, le total des fidèles déclarés par les organisations shintô et bouddhistes dépasse la population du Japon.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "宗教年鑑2022年版",
+          "publisher": "Christian Today Japan",
+          "url": "https://www.christiantoday.co.jp/articles/32008/20230216/2022-japan-religion-yearbook.htm"
+        },
+        {
+          "title": "Believe It or Not! Religious Adherents Outnumber People in Japan",
+          "publisher": "Nippon.com",
+          "url": "https://www.nippon.com/en/features/h00226/believe-it-or-not!-religious-adherents-outnumber-people-in-japan.html"
+        }
+      ]
+    },
+    {
+      "text": "Kazuya Tsurumaki, assistant réalisateur d'Evangelion, a déclaré que les symboles chrétiens avaient été choisis pour distinguer la série des autres séries de robots, qu'aucun membre de l'équipe n'était chrétien et que la série n'avait pas de véritable signification chrétienne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Theory and Analysis: List of Common Misconceptions",
+          "publisher": "EvaWiki (EvaGeeks)",
+          "url": "https://wiki.evageeks.org/List_of_Common_Misconceptions"
+        },
+        {
+          "title": "Mémoire sur la religion dans Evangelion",
+          "publisher": "SUNY Open Access Repository",
+          "url": "https://soar.suny.edu/server/api/core/bitstreams/510f14aa-6e39-4c20-b21e-37d8cefd0331/content"
+        }
+      ]
+    },
+    {
+      "text": "Heider et Simmel (1944, American Journal of Psychology) : presque tous les participants décrivent un court film de formes géométriques en mouvement comme une histoire d'êtres animés dotés d'intentions.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Social psychology and sense-making in crises – 5.1",
+          "publisher": "The Open University (OpenLearn)",
+          "url": "https://www.open.edu/openlearn/society-politics-law/social-psychology-sense-making-crises/content-section-5.1"
+        },
+        {
+          "title": "Animating Anthropomorphism: Giving Minds To Geometric Shapes",
+          "publisher": "Scientific American",
+          "url": "https://www.scientificamerican.com/blog/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/"
+        }
+      ]
+    },
+    {
+      "text": "Roland Barthes a publié « La mort de l'auteur » en 1967-1968.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Death of the Author / Mort de l'auteur",
+          "publisher": "ELMCIP Knowledge Base",
+          "url": "https://elmcip.net/node/7901"
+        }
+      ]
+    },
+    {
+      "text": "Dans Fullmetal Alchemist, Cornello produit ses miracles avec une fausse pierre philosophale, promet à une jeune femme de ressusciter son fiancé, et Edward Elric fait diffuser ses aveux dans toute la ville.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cornello",
+          "publisher": "MyAnimeList",
+          "url": "https://myanimelist.net/character/10944"
+        },
+        {
+          "title": "Fullmetal Alchemist: Brotherhood Episode 03 Review",
+          "publisher": "Otaku Revolution",
+          "url": "https://otakurevolution.com/content/fullmetal-alchemist-brotherhood-episode-03-review/"
+        }
+      ]
+    },
+    {
+      "text": "Dans Death Note, une chaîne de télévision consacre une émission à Kira, et son disciple Teru Mikami l'appelle « Kami » (Dieu).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Teru Mikami",
+          "publisher": "MyAnimeList",
+          "url": "https://myanimelist.net/character/1904"
+        },
+        {
+          "title": "Hitoshi Demegawa",
+          "publisher": "Anibase",
+          "url": "https://anibase.net/en/character/l5R6R/Hitoshi-Demegawa"
+        }
+      ]
+    },
+    {
+      "text": "Le chapitre 83 de Berserk, « L'Idée du mal », présente une divinité née du désir collectif des humains de donner une raison à leur souffrance, et n'a jamais été repris dans les volumes reliés.",
+      "status": "waived",
+      "note": "Imprécision mineure levée automatiquement. Le contenu est exact (une entité née « du désir de l'humanité de trouver une raison à sa souffrance », dans un chapitre absent de tous les volumes officiels), mais le chapitre s'intitule « Le Dieu de l'abîme (2) » : « l'Idée du mal » est le nom de l'entité, pas le titre. Correction proposée : Le chapitre 83 de Berserk (« Shinen no Kami 2 », « Le Dieu de l'abîme, 2e partie ») présente l'Idée du mal, une divinité née du désir collectif des humains de donner une raison à leur souffrance, et n'a jamais été repris dans les volumes reliés.",
+      "sources": [
+        {
+          "title": "Berserk Metaphysics: On the Idea of Evil",
+          "publisher": "Epoché Magazine",
+          "url": "https://epochemagazine.org/41/berserk-metaphysics-on-the-idea-of-evil/"
+        },
+        {
+          "title": "El capítulo del manga de Berserk que nunca se llegó a publicar",
+          "publisher": "VidaExtra",
+          "url": "https://www.vidaextra.com/series/capitulo-manga-berserk-que-nunca-se-llego-a-publicar-despues-su-estreno-peticion-explicita-kentaro-miura"
+        }
+      ]
+    },
+    {
+      "text": "Ludwig Feuerbach, dans L'Essence du christianisme (1841), décrit Dieu comme la projection des qualités humaines.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Essence of Christianity",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Essence_of_Christianity"
+        },
+        {
+          "title": "Ludwig Feuerbach",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/print/article/205641"
+        }
+      ]
+    },
+    {
+      "text": "Pascal Boyer, dans Et l'homme créa les dieux (2001), soutient que les concepts religieux s'appuient sur des systèmes cognitifs ordinaires, dont la détection d'agents intentionnels.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Religion Explained",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Religion_Explained"
+        },
+        {
+          "title": "Et l'homme créa les dieux : Comment expliquer la religion",
+          "publisher": "Critiques Libres",
+          "url": "https://www.critiqueslibres.com/livre/28499-et-l-homme-crea-les-dieux-comment-expliquer-la-religion-boyer-pascal"
+        }
+      ]
+    },
+    {
+      "text": "Le 20 mars 1995, la secte Aum Shinrikyō a répandu du sarin dans le métro de Tokyo, faisant plus d'une dizaine de morts et des milliers d'intoxiqués ; son fondateur Shōkō Asahara se présentait comme un messie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Tokyo subway attack of 1995",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/print/article/1669544"
+        },
+        {
+          "title": "Doomsday cult leader, followers executed for 1995 sarin attack in Tokyo subway",
+          "publisher": "CBS News / AP",
+          "url": "https://www.cbsnews.com/amp/news/shoko-asahara-aum-shinrikyo-members-executed-today-sarin-tokyo-subway-attack-2018-07-06"
+        }
+      ]
+    },
+    {
+      "text": "Après l'assassinat de Shinzō Abe en juillet 2022, les dons excessifs obtenus par l'Église de l'Unification auprès de familles japonaises ont été mis au jour ; le Japon a publié des lignes directrices sur la maltraitance religieuse des enfants, et en mars 2025 le tribunal de district de Tokyo a ordonné la dissolution de la branche japonaise de l'Église.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Japanese Court Orders Dissolution of Unification Church",
+          "publisher": "Nippon.com (Jiji Press)",
+          "url": "https://nippon.com/en/news/yjj2025032500701"
+        },
+        {
+          "title": "宗教の信仰等に関係する児童虐待等への対応に関するQ&A",
+          "publisher": "Ministère japonais de la Santé, du Travail et des Affaires sociales",
+          "url": "https://www.mhlw.go.jp/content/001032125.pdf"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Le Japon protège les enfants contre les religions",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=TVyA_y7Muis",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "One Piece, Naruto, Bleach : les mangas montrent-ils qui dirige vraiment notre monde ?",
+    "url": "https://www.youtube.com/watch?v=29QVCxxBqbY"
+  },
+  "shorts": [],
+  "corrections": []
+}

@@ -1,9 +1,1773 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-08T17:16:22.551Z",
+  "generatedAt": "2026-10-09T16:16:33.646Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
+      "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
+      "format": "video",
+      "publishedAt": "2026-10-09T16:15:33.521Z",
+      "durationSeconds": 720,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "La politique n'est plus qu'une émission de téléréalité qui ne change rien à la vie des gens : la seule réponse lucide, c'est de décrocher et de vivre en autarcie.",
+        "verdict": "faux",
+        "verdictLabel": "Faux",
+        "summary": "Les codes de la téléréalité dans la vie politique sont réels et documentés, mais ils n'ont rien de neuf et ne sont qu'une vitrine : les décisions qui pèsent sur le quotidien (retraites, vaccins obligatoires, rythmes scolaires, urbanisme) passent par des textes que la mise en scène ne montre pas. L'autarcie individuelle est techniquement hors de portée et reste encadrée par des règles politiques ; réduire sa consommation d'actualité a de vrais bénéfices, s'en retirer complètement n'est pas une sortie."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "r3bcbFQJowU",
+        "url": "https://www.youtube.com/watch?v=r3bcbFQJowU",
+        "thumbnail": "https://i.ytimg.com/vi/r3bcbFQJowU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-politique-est-elle-devenue-de-la-telerealite-6dc2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-politique-est-elle-devenue-de-la-telerealite-6dc2.json"
+      },
+      "facts": [
+        {
+          "text": "Loft Story, diffusé sur M6 à partir du printemps 2001, est considéré comme la première émission de téléréalité française, avec élimination hebdomadaire de candidats par vote du public.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "26 avril 2001 : Début de la diffusion de Loft Story sur M6",
+              "publisher": "Encyclopædia Universalis",
+              "url": "https://www.universalis.fr/evenement/26-avril-2001-debut-de-la-diffusion-de-loft-story-sur-m6/"
+            }
+          ]
+        },
+        {
+          "text": "Donald Trump a animé l'émission The Apprentice sur NBC à partir de 2004, avant d'être élu président des États-Unis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Apprentice (American TV series)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series)"
+            }
+          ]
+        },
+        {
+          "text": "Volodymyr Zelensky a joué un professeur devenu président dans la série Serviteur du peuple avant d'être élu président de l'Ukraine en 2019.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "In 'Servant of the People,' viewers got a glimpse of the future President Zelenskyy",
+              "publisher": "NPR / KPBS",
+              "url": "https://www.kpbs.org/news/2022/03/20/in-servant-of-the-people-viewers-got-a-glimpse-of-the-future-president-zelenskyy"
+            }
+          ]
+        },
+        {
+          "text": "La Société du spectacle de Guy Debord (1967) s'ouvre sur la phrase : « Toute la vie des sociétés dans lesquelles règnent les conditions modernes de production s'annonce comme une immense accumulation de spectacles. Tout ce qui était directement vécu s'est éloigné dans une représentation. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Poncifs suprêmes : « La société du spectacle »",
+              "publisher": "Revue Conflits",
+              "url": "https://www.revueconflits.com/poncifs-supremes-la-societe-du-spectacle/"
+            },
+            {
+              "title": "The Society of the Spectacle",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle"
+            }
+          ]
+        },
+        {
+          "text": "Neil Postman soutient dans Amusing Ourselves to Death (1985) que la télévision transforme le discours public, y compris politique, en divertissement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Amusing Ourselves to Death",
+              "publisher": "Utah State Library",
+              "url": "https://library.utah.gov/book-buzz-titles/book/amusing-ourselves-to-death"
+            },
+            {
+              "title": "Neil Postman: Amusing Ourselves to Death: Public Discourse in the Age of Show Business (1985)",
+              "publisher": "Monoskop",
+              "url": "https://monoskop.org/log/?p=430"
+            }
+          ]
+        },
+        {
+          "text": "Le Digital News Report du Reuters Institute mesure depuis 2017 l'évitement volontaire de l'actualité, notamment par lassitude ou épuisement face aux informations.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Reuters Institute digital survey for 2017",
+              "publisher": "Reuters Institute for the Study of Journalism",
+              "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/archive/2017/page/8/index.html"
+            },
+            {
+              "title": "Reuters Institute Digital News Report 2022",
+              "publisher": "YouGov",
+              "url": "https://business.yougov.com/content/42833-reuters-institute-digital-news-report-2022-yougov"
+            }
+          ]
+        },
+        {
+          "text": "Au premier tour des élections législatives françaises de 2022, l'abstention a dépassé la moitié des inscrits.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Élections législatives 2022 : résultats",
+              "publisher": "Service-public.fr",
+              "url": "https://www.service-public.fr/particuliers/actualites/A15745?lang=en"
+            },
+            {
+              "title": "Ce qu'il faut retenir du premier tour des élections législatives",
+              "publisher": "Maire-Info",
+              "url": "https://www.maire-info.com/assemblee-nationale/ce-quil-faut-retenir-du-premier-tour-des-elections-legislatives-article-26516"
+            }
+          ]
+        },
+        {
+          "text": "Anthony Downs, dans An Economic Theory of Democracy (1957), décrit le raisonnement selon lequel s'informer en politique est peu rentable pour un individu dont le vote a une probabilité infime d'être décisif (ignorance rationnelle).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "An Economic Theory of Democracy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/An_Economic_Theory_of_Democracy"
+            },
+            {
+              "title": "Anthony Downs, RIP",
+              "publisher": "Cato Institute",
+              "url": "https://www.cato.org/blog/anthony-downs-rip"
+            }
+          ]
+        },
+        {
+          "text": "Holman, Garfin et Silver (PNAS, 2014) ont observé, après les attentats du marathon de Boston, que les personnes exposées six heures ou plus par jour à la couverture médiatique rapportaient plus de stress aigu que les personnes directement exposées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Media's role in broadcasting acute stress following the Boston Marathon bombings",
+              "publisher": "PNAS / PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3890785"
+            },
+            {
+              "title": "Prolonged viewing of Boston Marathon bombings media coverage tied to acute stress",
+              "publisher": "UC Irvine",
+              "url": "https://ps.soceco.uci.edu/news/prolonged-viewing-boston-marathon-bombings-media-coverage-tied-acute-stress"
+            }
+          ]
+        },
+        {
+          "text": "Walden, publié en 1854 par Henry David Thoreau, relate environ deux années passées dans une cabane construite par l'auteur au bord de l'étang de Walden, dans le Massachusetts.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Walden",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Walden"
+            }
+          ]
+        },
+        {
+          "text": "Lors du débat télévisé d'entre-deux-tours du 10 mai 1974, le premier de ce type, Valéry Giscard d'Estaing a déclaré à François Mitterrand : « Vous n'avez pas, monsieur Mitterrand, le monopole du cœur. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "« Vous n'avez pas le monopole du cœur » : la réplique de Valéry Giscard d'Estaing était bien préparée",
+              "publisher": "Public Sénat",
+              "url": "https://www.publicsenat.fr/article/politique/vous-n-avez-pas-le-monopole-du-coeur-la-replique-de-valery-giscard-d-estaing-etait"
+            },
+            {
+              "title": "10 mai 1974",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/10_mai_1974-evenement-19740510.php"
+            }
+          ]
+        },
+        {
+          "text": "Lors du débat de 1981, François Mitterrand a qualifié Valéry Giscard d'Estaing d'« homme du passif ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le débat Giscard-Mitterrand de 1981 (D. Labbé)",
+              "publisher": "HAL-SHS",
+              "url": "https://halshs.archives-ouvertes.fr/halshs-01719179v1/file/LabbeGiscardMitterrand1981.pdf"
+            },
+            {
+              "title": "French presidential debates",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/French_presidential_debates"
+            }
+          ]
+        },
+        {
+          "text": "Brady, Wills, Jost, Tucker et Van Bavel (PNAS, 2017) ont analysé plus d'un demi-million de tweets sur le contrôle des armes, le mariage homosexuel et le climat, et trouvé que chaque mot moral et émotionnel augmentait la diffusion d'environ 20 %.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Emotion shapes the diffusion of moralized content in social networks",
+              "publisher": "PNAS / PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5514704"
+            }
+          ]
+        },
+        {
+          "text": "Le Journal officiel de la République française paraît presque tous les jours.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Journal officiel « Lois et Décrets »",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/jorf/jo/"
+            },
+            {
+              "title": "Journal officiel de la République française",
+              "publisher": "Revue française de généalogie",
+              "url": "https://www.rfgenealogie.com/node/2605"
+            }
+          ]
+        },
+        {
+          "text": "Depuis le 1er janvier 2018, onze vaccins sont obligatoires pour les enfants nés à partir de cette date, contre trois auparavant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Obligation vaccinale : ce qui change au 1er janvier 2018",
+              "publisher": "Association des maires de France",
+              "url": "https://www.amf.asso.fr/documents-obligation-vaccinale-ce-qui-change-au-1er-janvier-2018/25078"
+            },
+            {
+              "title": "11 vaccins sont désormais obligatoires",
+              "publisher": "Weka",
+              "url": "https://www.weka.fr/actualite/?p=61319"
+            }
+          ]
+        },
+        {
+          "text": "Un décret de janvier 2013 a organisé le passage de l'école primaire à la semaine de quatre jours et demi ; un décret de juin 2017 a permis aux communes de revenir à quatre jours.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Question écrite n° 6485 et réponse ministérielle (XVIe législature)",
+              "publisher": "Assemblée nationale",
+              "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE6485.pdf"
+            }
+          ]
+        },
+        {
+          "text": "La réforme des retraites de 2023, adoptée après recours à l'article 49.3 à l'Assemblée nationale, relève progressivement l'âge légal de départ de 62 à 64 ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Réforme des retraites : promulgation de la loi le 14 avril 2023",
+              "publisher": "La finance pour tous (IEFP)",
+              "url": "https://www.lafinancepourtous.com/2023/04/18/reforme-des-retraites-promulgation-de-la-loi-le-14-avril-2023/"
+            },
+            {
+              "title": "Question écrite n° 14570 (XVIIe législature)",
+              "publisher": "Assemblée nationale",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14570.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le plan local d'urbanisme est voté par le conseil municipal ou par l'intercommunalité compétente.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Délibération d'approbation de la révision du PLU (3 février 2025)",
+              "publisher": "Ville d'Évian-les-Bains",
+              "url": "https://ville-evian.fr/content/uploads/2025/02/74119_delib_approbation_20250203.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les études de l'INSEE sur la participation électorale montrent que les jeunes votent nettement moins que les électeurs plus âgés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Vingt ans de participation électorale (Insee Première n° 1929)",
+              "publisher": "Insee",
+              "url": "https://www.insee.fr/fr/statistiques/6658143"
+            },
+            {
+              "title": "Élections présidentielle et législatives de 2022 : seul un tiers des électeurs a voté à tous les tours (Insee Première n° 1928)",
+              "publisher": "Insee",
+              "url": "https://www.insee.fr/fr/statistiques/6658145"
+            }
+          ]
+        },
+        {
+          "text": "Une enquête publique d'urbanisme recueille les observations des habitants, et les séances du conseil municipal sont publiques en vertu de la loi (article L2121-18 du Code général des collectivités territoriales).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Question écrite de Mme Christine Herzog (21/07/2022)",
+              "publisher": "Sénat",
+              "url": "https://www.senat.fr/questions/base/2022/qSEQ220701635.html"
+            },
+            {
+              "title": "Code de l'environnement, article L123-1",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033038596"
+            }
+          ]
+        },
+        {
+          "text": "Dans la Politique (livre I, chapitre 2), Aristote attribue l'autarcie à la cité et écrit que celui qui ne peut vivre en communauté ou n'en a pas besoin parce qu'il se suffit à lui-même est une bête ou un dieu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Politics, Book I (trad. Benjamin Jowett)",
+              "publisher": "MIT Internet Classics Archive",
+              "url": "https://classics.mit.edu/Aristotle/politics.1.one.html"
+            },
+            {
+              "title": "Aristote, La cité et l'homme (Politique, I, chap. 2)",
+              "publisher": "Université Toulouse Capitole",
+              "url": "https://www.ut-capitole.fr/medias/fichier/aristote-la-cite-et-l-homme_1538056324586-doc"
+            }
+          ]
+        },
+        {
+          "text": "Le terrain de Walden appartenait à Ralph Waldo Emerson, l'étang était proche du bourg de Concord, et Thoreau écrit dans le chapitre « The Village » qu'il s'y rendait tous les jours ou tous les deux jours pour écouter les commérages.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Walden — The Village",
+              "publisher": "Standard Ebooks",
+              "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/text/the-village"
+            },
+            {
+              "title": "Walden",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Walden"
+            }
+          ]
+        },
+        {
+          "text": "Leonard Read a publié en 1958 l'essai I, Pencil, selon lequel personne ne sait fabriquer seul un crayon, dont les matériaux proviennent de savoir-faire dispersés dans le monde.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "I, Pencil",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/I,_Pencil"
+            }
+          ]
+        },
+        {
+          "text": "À la fin des années 2000, le designer britannique Thomas Thwaites a tenté de fabriquer un grille-pain à partir de matières premières, minerai compris, et n'a obtenu qu'un objet rudimentaire ayant fonctionné quelques secondes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Toaster Project by Thomas Thwaites",
+              "publisher": "Dezeen",
+              "url": "https://www.dezeen.com/2009/06/27/the-toaster-project-by-thomas-thwaites/"
+            },
+            {
+              "title": "But Did it Toast?",
+              "publisher": "Econlib",
+              "url": "https://www.econlib.org/archives/2013/07/but_did_it_toas.html"
+            }
+          ]
+        },
+        {
+          "text": "Depuis le 1er janvier 2009, tout puits ou forage à usage domestique doit être déclaré en mairie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Procédure de déclaration des prélèvements à usage domestique",
+              "publisher": "Préfecture du Loiret",
+              "url": "https://www.loiret.gouv.fr/contenu/telechargement/70706/551582/file/PROCEDURE_declarationUsagesDomestiques.pdf"
+            },
+            {
+              "title": "Question écrite n° 23996 (XIVe législature)",
+              "publisher": "Assemblée nationale",
+              "url": "https://www.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE23996.pdf"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": {
+        "title": "Ruissellement et premiers de cordée : la réussite des plus riches profite-t-elle à tous ?",
+        "url": "https://www.youtube.com/watch?v=BRlmf9tRcd0"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "l-histoire-du-satanisme-da7b",
+      "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
+      "format": "video",
+      "publishedAt": "2026-10-09T10:15:09.765Z",
+      "durationSeconds": 747,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Depuis des siècles, un culte satanique secret et organisé vénère un diable réel, pactise avec lui et pratique des sacrifices ; les procès de sorcellerie, l'affaire des Poisons, les révélations sur les loges lucifériennes et les témoignages de survivants des années 1980 en sont la preuve.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Des tribunaux de sorcellerie au FBI, aucune enquête n'a jamais trouvé la secte satanique organisée qu'on décrit : les preuves avancées se ramènent à des aveux obtenus sous la torture, au canular avoué de Léo Taxil et à des souvenirs induits par la suggestion. Le satanisme réellement observable est né au XXe siècle avec l'Église de Satan puis The Satanic Temple, et il est majoritairement athée, Satan n'y étant qu'un symbole."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yQhwW1egJYM",
+        "url": "https://www.youtube.com/watch?v=yQhwW1egJYM",
+        "thumbnail": "https://i.ytimg.com/vi/yQhwW1egJYM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-histoire-du-satanisme-da7b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-histoire-du-satanisme-da7b.json"
+      },
+      "facts": [
+        {
+          "text": "Dans les Évangiles, Satan tente Jésus au désert (Matthieu 4, Luc 4).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Luc 4 (Louis Segond)",
+              "publisher": "TopBible / TopChrétien",
+              "url": "https://topbible.topchretien.com/luc.4.1/LSG,COM/"
+            }
+          ]
+        },
+        {
+          "text": "Exode 22:18 dans la traduction Louis Segond (22:17 dans la numérotation hébraïque) se lit : « Tu ne laisseras point vivre la magicienne. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Comparateur Bible Exode 22:18",
+              "publisher": "levangile.com",
+              "url": "https://www.levangile.com/comparateur-bible-2-22-18"
+            }
+          ]
+        },
+        {
+          "text": "Le 5 décembre 1484, le pape Innocent VIII publie la bulle Summis desiderantes affectibus contre la sorcellerie dans les régions germaniques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Summis desiderantes affectibus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Summis_desiderantes_affectibus"
+            },
+            {
+              "title": "Pope Innocent VIII authorizes Germany witchcraft prosecutions",
+              "publisher": "JURIST",
+              "url": "https://www.jurist.org/thisday/2010/12/05/pope-innocent-viii-authorizes-germany-witchcraft-prosecutions"
+            }
+          ]
+        },
+        {
+          "text": "Le Malleus Maleficarum du dominicain Heinrich Kramer paraît en 1486 (parfois daté de 1487).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Malleus Maleficarum",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Malleus_Maleficarum"
+            }
+          ]
+        },
+        {
+          "text": "Des aveux obtenus dans des procès en Écosse, en Lorraine, dans les Alpes et en Scandinavie décrivent des éléments récurrents : pacte, marque du diable, vol nocturne, sabbat, hommage au diable sous forme de bouc.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "witches' sabbath",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/witches-sabbath"
+            },
+            {
+              "title": "Witch trials in Sweden",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Witch_trials_in_Sweden"
+            }
+          ]
+        },
+        {
+          "text": "Louis XIV crée la Chambre ardente en 1679 pour l'affaire des Poisons ; l'instruction est menée par le lieutenant général de police Gabriel Nicolas de La Reynie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'affaire des poisons",
+              "publisher": "Ministère de la Justice",
+              "url": "https://www.justice.gouv.fr/node/156"
+            }
+          ]
+        },
+        {
+          "text": "Catherine Monvoisin, dite la Voisin, vendait des poisons ; l'abbé Guibourg a été accusé de messes noires célébrées sur le corps nu d'une femme avec du sang d'enfant ; Madame de Montespan est citée dans des dépositions.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "22 février 1680 : la Voisin sur le bûcher",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/22_fevrier_1680-evenement-16800222.php"
+            },
+            {
+              "title": "Étienne Guibourg",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/%C3%89tienne_Guibourg"
+            }
+          ]
+        },
+        {
+          "text": "Une instruction attribuée à Albert Pike, grand commandeur du Rite écossais (juridiction sud des États-Unis), présentant Lucifer comme dieu, est citée par des auteurs antimaçonniques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Taxil Hoax – Baphomet and the Freemasons",
+              "publisher": "TemplarHistory.com (Stephen Dafoe)",
+              "url": "https://templarhistory.com/?p=267"
+            },
+            {
+              "title": "Taxil hoax",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+            }
+          ]
+        },
+        {
+          "text": "Des mémoires signés Diana Vaughan, présentée comme une ancienne grande prêtresse palladiste convertie au catholicisme, paraissent dans les années 1890.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Taxil hoax",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+            }
+          ]
+        },
+        {
+          "text": "Michelle Remembers paraît en 1980, coécrit par le psychiatre Lawrence Pazder et sa patiente, et décrit des souvenirs retrouvés en thérapie de rituels sataniques subis dans l'enfance au Canada dans les années 1950.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Michelle Remembers",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Michelle_Remembers"
+            }
+          ]
+        },
+        {
+          "text": "En 1983 commence l'enquête sur l'école maternelle McMartin, à Manhattan Beach, en Californie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "McMartin preschool trial",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/McMartin_preschool_trial"
+            }
+          ]
+        },
+        {
+          "text": "Anton Szandor LaVey fonde l'Église de Satan à San Francisco le 30 avril 1966 et publie The Satanic Bible en 1969.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Church of Satan",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/Church-of-Satan"
+            }
+          ]
+        },
+        {
+          "text": "The Satanic Temple est fondé en 2013 et dévoile en 2015 sa statue de Baphomet, figure ailée et cornue assise sur un trône.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "'Hail Satan?' Examines Protest Group That Bedevils Religious Conservatives",
+              "publisher": "KQED / NPR",
+              "url": "https://www.kqed.org/pop/111144/hail-satan-examines-protest-group-that-bedevils-religious-conservatives"
+            },
+            {
+              "title": "Statue of Baphomet",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Statue_of_Baphomet"
+            }
+          ]
+        },
+        {
+          "text": "Les manuels de démonologie fournissaient aux juges des questions types sur le pacte, le sabbat et les complices, et la torture judiciaire était autorisée dans une grande partie de l'Europe continentale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hexenwahn – 5. Verhöre",
+              "publisher": "Deutsches Historisches Museum",
+              "url": "https://www.dhm.de/archiv/ausstellungen/hexenwahn/katalog/verhoere.htm"
+            },
+            {
+              "title": "Witch trials in the early modern period",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period"
+            }
+          ]
+        },
+        {
+          "text": "Le jésuite Friedrich Spee publie anonymement la Cautio Criminalis en 1631 ; il y dénonce les aveux obtenus sous la torture et écrit n'avoir trouvé, parmi les condamnés qu'il a assistés, aucun dont il pût affirmer la culpabilité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Friedrich Spee",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Friedrich_Spee"
+            },
+            {
+              "title": "Friedrich Spee (Josef Sudbrack)",
+              "publisher": "Geist und Leben, 64 (1991)",
+              "url": "https://old.geist-und-leben.de/archiv-gul/systematisches-archiv/gul-64-1991/heft-4-juli-august-19/1570-abhandlungen-josef-sudbrack-friedrich-spee/64_1991_4_241_243_Sudbrack_0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "La magie populaire (guérisseurs, devins, charmes et formules) est documentée par les historiens dans l'Europe de l'époque moderne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cunning folk in Britain",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cunning_folk_in_Britain"
+            }
+          ]
+        },
+        {
+          "text": "Les estimations des historiens situent entre 40 000 et 60 000 le nombre d'exécutions pour sorcellerie en Europe entre le XVe et le XVIIIe siècle, en grande majorité de femmes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Witch trials in the early modern period",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period"
+            },
+            {
+              "title": "Who Burned the Witches (Part 2)",
+              "publisher": "Catholic World Report",
+              "url": "https://www.catholicworldreport.com/2022/11/01/who-burned-the-witches-part-2/"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'affaire des Poisons, empoisonnements, avortements clandestins et escroqueries sont établis ; la Voisin est brûlée en place de Grève le 22 février 1680.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'affaire des poisons",
+              "publisher": "Ministère de la Justice",
+              "url": "https://www.justice.gouv.fr/node/156"
+            },
+            {
+              "title": "22 février 1680 : la Voisin sur le bûcher",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/22_fevrier_1680-evenement-16800222.php"
+            }
+          ]
+        },
+        {
+          "text": "Les récits de messes noires de l'affaire des Poisons proviennent de détenus menacés de mort, certains soumis à la question, et leur crédibilité reste débattue par les historiens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Françoise Filastre",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Filastre"
+            },
+            {
+              "title": "Affair of the Poisons",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Affair_of_the_Poisons"
+            }
+          ]
+        },
+        {
+          "text": "La Chambre ardente est fermée en 1682 ; Louis XIV fait brûler les pièces de la procédure en 1709 ; les notes de La Reynie ont survécu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'affaire des poisons",
+              "publisher": "Ministère de la Justice",
+              "url": "https://www.justice.gouv.fr/node/156"
+            },
+            {
+              "title": "The Affair of the Poisons: In the Shadows of the Sun King – A Guest Post by Nicolas Méra",
+              "publisher": "The Freelance History Writer",
+              "url": "https://thefreelancehistorywriter.com/tag/chambre-ardent/"
+            },
+            {
+              "title": "City of Light, City of Poison (review of Holly Tucker)",
+              "publisher": "Historical Novel Society",
+              "url": "https://historicalnovelsociety.org/?p=19370"
+            }
+          ]
+        },
+        {
+          "text": "Léo Taxil (Gabriel Jogand-Pagès), pamphlétaire anticlérical, annonce sa conversion au catholicisme en 1885, publie des révélations sur de prétendues loges lucifériennes et est reçu en audience par le pape Léon XIII en 1887.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Léo Taxil",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/L%C3%A9o_Taxil"
+            },
+            {
+              "title": "Is Satanism Dangerous? 2. From Huysmans to Taxil",
+              "publisher": "Bitter Winter (Massimo Introvigne)",
+              "url": "https://bitterwinter.org/is-satanism-dangerous-2-from-huysmans-to-taxil/"
+            }
+          ]
+        },
+        {
+          "text": "Le 19 avril 1897, à la Société de géographie de Paris, Léo Taxil déclare publiquement que ses révélations étaient inventées, Diana Vaughan comprise.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Taxil hoax",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+            }
+          ]
+        },
+        {
+          "text": "L'instruction luciférienne attribuée à Albert Pike ne figure dans aucun écrit de Pike ; elle apparaît en 1894 chez l'auteur antimaçonnique Abel Clarin de La Rive, qui s'appuyait sur les écrits liés à la mystification de Taxil, et elle circule encore.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Taxil Hoax – Baphomet and the Freemasons",
+              "publisher": "TemplarHistory.com (Stephen Dafoe)",
+              "url": "https://templarhistory.com/?p=267"
+            },
+            {
+              "title": "Taxil hoax",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+            }
+          ]
+        },
+        {
+          "text": "Aucune enquête indépendante n'a trouvé de trace des rituels décrits dans Michelle Remembers.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Michelle Remembers",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Michelle_Remembers"
+            },
+            {
+              "title": "Satan Wants You directors on the conspiracy that shook Victoria and the world",
+              "publisher": "Capital Daily",
+              "url": "https://capitaldaily.ca/news/satan-wants-you-directors-conspiracy-that-shook-victoria-world"
+            }
+          ]
+        },
+        {
+          "text": "L'affaire McMartin occupe la justice californienne de 1983 à 1990 et se termine sans aucune condamnation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "McMartin preschool trial",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/McMartin_preschool_trial"
+            },
+            {
+              "title": "The McMartin Preschool Abuse Trial",
+              "publisher": "UMKC School of Law (Douglas O. Linder)",
+              "url": "https://irlaw.umkc.edu/popular_media/61/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Pourquoi s'attaquer à la foi des autres ? Zététique, sceptiques et The Satanic Temple",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
+        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "les-religions-dans-les-mangas-e696",
+      "title": "Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T20:21:35.695Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Evangelion, Death Note, Berserk et les autres mangas qui mettent en scène Dieu, les anges et les prophètes cachent un message religieux profond derrière leurs symboles.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Les croix, les anges et les prophètes de ces mangas renvoient bien à de vrais textes, mais l'équipe d'Evangelion a reconnu les avoir choisis pour leur exotisme, et les œuvres qui traitent vraiment de religion montrent des dieux fabriqués et des prophètes manipulateurs plutôt qu'une révélation. Le sens qu'on y trouve vient surtout du lecteur, comme le montrent les biais d'interprétation mesurés en psychologie."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Ur_7wDabdQ8",
+        "url": "https://www.youtube.com/watch?v=Ur_7wDabdQ8",
+        "thumbnail": "https://i.ytimg.com/vi/Ur_7wDabdQ8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-religions-dans-les-mangas-e696/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-religions-dans-les-mangas-e696.json"
+      },
+      "facts": [
+        {
+          "text": "Dans Evangelion, les créatures appelées Anges dans la version française sont désignées en japonais par le mot shito (使徒), qui signifie apôtre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Angel",
+              "publisher": "EvaWiki (EvaGeeks)",
+              "url": "https://wiki.evageeks.org/Angel"
+            },
+            {
+              "title": "Angel",
+              "publisher": "Evangelion Wiki (Fandom)",
+              "url": "https://evangelion.fandom.com/wiki/Angel"
+            }
+          ]
+        },
+        {
+          "text": "Les chrétiens représentent environ 1 % de la population japonaise.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "宗教年鑑2022年版",
+              "publisher": "Christian Today Japan",
+              "url": "https://www.christiantoday.co.jp/articles/32008/20230216/2022-japan-religion-yearbook.htm"
+            },
+            {
+              "title": "Percentage of Christians in Japan has been static for 450 years",
+              "publisher": "Journey Online (Uniting Church Queensland)",
+              "url": "https://journeyonline.com.au/queensland-synod-news/percentage-of-christians-in-japan-has-been-static-for-450-years/"
+            }
+          ]
+        },
+        {
+          "text": "La série Evangelion, d'Hideaki Anno, a été diffusée à partir d'octobre 1995.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neon Genesis Evangelion",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+            }
+          ]
+        },
+        {
+          "text": "Evangelion met en scène Adam découvert en Antarctique, Lilith crucifiée sous le quartier général de la Nerv, la lance de Longinus, l'arbre des séphiroth au plafond du bureau de Gendo Ikari et un scénario de la Seele tiré des manuscrits de la mer Morte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dead Sea Scrolls",
+              "publisher": "EvaWiki (EvaGeeks)",
+              "url": "https://wiki.evageeks.org/Dead_Sea_Scrolls"
+            },
+            {
+              "title": "Religion and Symbolism in Neon Genesis Evangelion",
+              "publisher": "MyAnimeList",
+              "url": "https://myanimelist.net/featured/1361/Religion_and_Symbolism_in_Neon_Genesis_Evangelion"
+            },
+            {
+              "title": "Lilith",
+              "publisher": "Olaf Eichler – Evangelion analysis",
+              "url": "https://olaf-eichler.de/evangelion/angel/lilith.shtml"
+            }
+          ]
+        },
+        {
+          "text": "Lilith est présentée comme la première épouse d'Adam dans une légende juive médiévale (l'Alphabet de Ben Sira).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lilith (Alphabet of Ben Sira)",
+              "publisher": "Jewish Christian Lit",
+              "url": "https://jewishchristianlit.com/?p=80"
+            },
+            {
+              "title": "Adam's First Wife",
+              "publisher": "Northern Arizona University",
+              "url": "https://ac.nau.edu/omeka-s/s/lilith/page/adam-s-first-wife"
+            }
+          ]
+        },
+        {
+          "text": "Le nom de Longinus est donné par la tradition au soldat qui perce le flanc de Jésus dans l'Évangile selon Jean (19:34).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Longinus – Catholic Dictionary",
+              "publisher": "Catholic Culture (Modern Catholic Dictionary, John Hardon)",
+              "url": "https://www.catholicculture.org/culture/library/dictionary/index.cfm?id=34648"
+            }
+          ]
+        },
+        {
+          "text": "Death Note, de Tsugumi Ōba et Takeshi Obata, a commencé sa prépublication en 2003.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "List of Death Note chapters",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/List_of_Death_Note_chapters"
+            }
+          ]
+        },
+        {
+          "text": "Dans le premier chapitre de Death Note, Light Yagami annonce qu'il deviendra le dieu d'un nouveau monde, et Ryuk le prévient qu'un humain qui utilise le cahier n'ira ni au paradis ni en enfer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "新世界の神となる / 夜神月（出典：DEATH NOTE）",
+              "publisher": "Mangalines",
+              "url": "https://mangalines.com/2020/05/24/573/"
+            },
+            {
+              "title": "When Ryuk first meets Light, he tells him that a human that uses the Death Note cannot go to either heaven or hell",
+              "publisher": "Tumblr (kiranatrix)",
+              "url": "https://www.tumblr.com/kiranatrix/643515705954893824/when-ryuk-first-meets-light-he-tells-him-that-a"
+            }
+          ]
+        },
+        {
+          "text": "Romains 12:19, traduction Louis Segond : « Ne vous vengez point vous-mêmes, bien-aimés, mais laissez agir la colère ; car il est écrit : À moi la vengeance, à moi la rétribution, dit le Seigneur. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Romains 12 – Louis Segond 1910",
+              "publisher": "Levangile.com",
+              "url": "https://www.levangile.com/bible-lsg-45-12-21-compact-contexte-non"
+            }
+          ]
+        },
+        {
+          "text": "Dans Berserk de Kentarō Miura, une Église toute-puissante a pour inquisiteur Mozgus, et la Main de Dieu compte cinq membres qui reçoivent des sacrifices humains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mozgus",
+              "publisher": "MyAnimeList",
+              "url": "https://myanimelist.net/character/32488"
+            },
+            {
+              "title": "Berserk God Hand members",
+              "publisher": "Anime Explained",
+              "url": "https://www.animeexplained.com/?p=35759"
+            }
+          ]
+        },
+        {
+          "text": "Le terme « théodicée » a été forgé par Leibniz (Essais de Théodicée, 1710).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Leibniz on the Problem of Evil",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/archives/spr2014/entries/leibniz-evil"
+            },
+            {
+              "title": "Essais de Théodicée",
+              "publisher": "EPFL Graph Search",
+              "url": "https://graphsearch.epfl.ch/fr/concept/1452577"
+            }
+          ]
+        },
+        {
+          "text": "Dans Fullmetal Alchemist d'Hiromu Arakawa, le père Cornello est prêtre du dieu soleil Leto à Lior ; le peuple d'Ishval, monothéiste et hostile à l'alchimie, subit une guerre d'extermination ; la Vérité se présente comme le monde, l'univers, Dieu, la vérité, le tout, l'un et le personnage lui-même.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Truth \"God, World, Universe, One, All, You\"",
+              "publisher": "MyAnimeList",
+              "url": "https://myanimelist.net/character/33816"
+            },
+            {
+              "title": "Ishvalan",
+              "publisher": "Fullmetal Alchemist Wiki (Fandom)",
+              "url": "https://fma.fandom.com/wiki/Ishvalan"
+            }
+          ]
+        },
+        {
+          "text": "Les Vacances de Jésus et Bouddha (Saint Young Men) d'Hikaru Nakamura est publié depuis 2006 ; Jésus et Bouddha y partagent un appartement en banlieue de Tokyo, Jésus tient un blog et Bouddha gère l'argent.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Saint Young Men",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Saint_Young_Men"
+            },
+            {
+              "title": "Saint Young Men Volume 2",
+              "publisher": "MyAnimeList / Kodansha",
+              "url": "https://myanimelist.net/store/manga_volume/3772/Saint_Young_Men_Volume_2"
+            }
+          ]
+        },
+        {
+          "text": "Pendant plus de mille ans, kami et bouddhas ont été vénérés ensemble au Japon (shinbutsu-shūgō), jusqu'à la séparation ordonnée par le gouvernement de Meiji en 1868.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Shinbutsu-shūgō",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shinbutsu-sh%C5%ABg%C5%8D"
+            },
+            {
+              "title": "Shinbutsu bunri",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shinbutsu_bunri"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'annuaire officiel des religions (Shūkyō Nenkan) de l'Agence japonaise pour les affaires culturelles, le total des fidèles déclarés par les organisations shintô et bouddhistes dépasse la population du Japon.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "宗教年鑑2022年版",
+              "publisher": "Christian Today Japan",
+              "url": "https://www.christiantoday.co.jp/articles/32008/20230216/2022-japan-religion-yearbook.htm"
+            },
+            {
+              "title": "Believe It or Not! Religious Adherents Outnumber People in Japan",
+              "publisher": "Nippon.com",
+              "url": "https://www.nippon.com/en/features/h00226/believe-it-or-not!-religious-adherents-outnumber-people-in-japan.html"
+            }
+          ]
+        },
+        {
+          "text": "Kazuya Tsurumaki, assistant réalisateur d'Evangelion, a déclaré que les symboles chrétiens avaient été choisis pour distinguer la série des autres séries de robots, qu'aucun membre de l'équipe n'était chrétien et que la série n'avait pas de véritable signification chrétienne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Theory and Analysis: List of Common Misconceptions",
+              "publisher": "EvaWiki (EvaGeeks)",
+              "url": "https://wiki.evageeks.org/List_of_Common_Misconceptions"
+            },
+            {
+              "title": "Mémoire sur la religion dans Evangelion",
+              "publisher": "SUNY Open Access Repository",
+              "url": "https://soar.suny.edu/server/api/core/bitstreams/510f14aa-6e39-4c20-b21e-37d8cefd0331/content"
+            }
+          ]
+        },
+        {
+          "text": "Heider et Simmel (1944, American Journal of Psychology) : presque tous les participants décrivent un court film de formes géométriques en mouvement comme une histoire d'êtres animés dotés d'intentions.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Social psychology and sense-making in crises – 5.1",
+              "publisher": "The Open University (OpenLearn)",
+              "url": "https://www.open.edu/openlearn/society-politics-law/social-psychology-sense-making-crises/content-section-5.1"
+            },
+            {
+              "title": "Animating Anthropomorphism: Giving Minds To Geometric Shapes",
+              "publisher": "Scientific American",
+              "url": "https://www.scientificamerican.com/blog/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/"
+            }
+          ]
+        },
+        {
+          "text": "Roland Barthes a publié « La mort de l'auteur » en 1967-1968.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Death of the Author / Mort de l'auteur",
+              "publisher": "ELMCIP Knowledge Base",
+              "url": "https://elmcip.net/node/7901"
+            }
+          ]
+        },
+        {
+          "text": "Dans Fullmetal Alchemist, Cornello produit ses miracles avec une fausse pierre philosophale, promet à une jeune femme de ressusciter son fiancé, et Edward Elric fait diffuser ses aveux dans toute la ville.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cornello",
+              "publisher": "MyAnimeList",
+              "url": "https://myanimelist.net/character/10944"
+            },
+            {
+              "title": "Fullmetal Alchemist: Brotherhood Episode 03 Review",
+              "publisher": "Otaku Revolution",
+              "url": "https://otakurevolution.com/content/fullmetal-alchemist-brotherhood-episode-03-review/"
+            }
+          ]
+        },
+        {
+          "text": "Dans Death Note, une chaîne de télévision consacre une émission à Kira, et son disciple Teru Mikami l'appelle « Kami » (Dieu).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Teru Mikami",
+              "publisher": "MyAnimeList",
+              "url": "https://myanimelist.net/character/1904"
+            },
+            {
+              "title": "Hitoshi Demegawa",
+              "publisher": "Anibase",
+              "url": "https://anibase.net/en/character/l5R6R/Hitoshi-Demegawa"
+            }
+          ]
+        },
+        {
+          "text": "Le chapitre 83 de Berserk, « L'Idée du mal », présente une divinité née du désir collectif des humains de donner une raison à leur souffrance, et n'a jamais été repris dans les volumes reliés.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. Le contenu est exact (une entité née « du désir de l'humanité de trouver une raison à sa souffrance », dans un chapitre absent de tous les volumes officiels), mais le chapitre s'intitule « Le Dieu de l'abîme (2) » : « l'Idée du mal » est le nom de l'entité, pas le titre. Correction proposée : Le chapitre 83 de Berserk (« Shinen no Kami 2 », « Le Dieu de l'abîme, 2e partie ») présente l'Idée du mal, une divinité née du désir collectif des humains de donner une raison à leur souffrance, et n'a jamais été repris dans les volumes reliés.",
+          "sources": [
+            {
+              "title": "Berserk Metaphysics: On the Idea of Evil",
+              "publisher": "Epoché Magazine",
+              "url": "https://epochemagazine.org/41/berserk-metaphysics-on-the-idea-of-evil/"
+            },
+            {
+              "title": "El capítulo del manga de Berserk que nunca se llegó a publicar",
+              "publisher": "VidaExtra",
+              "url": "https://www.vidaextra.com/series/capitulo-manga-berserk-que-nunca-se-llego-a-publicar-despues-su-estreno-peticion-explicita-kentaro-miura"
+            }
+          ]
+        },
+        {
+          "text": "Ludwig Feuerbach, dans L'Essence du christianisme (1841), décrit Dieu comme la projection des qualités humaines.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Essence of Christianity",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Essence_of_Christianity"
+            },
+            {
+              "title": "Ludwig Feuerbach",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/print/article/205641"
+            }
+          ]
+        },
+        {
+          "text": "Pascal Boyer, dans Et l'homme créa les dieux (2001), soutient que les concepts religieux s'appuient sur des systèmes cognitifs ordinaires, dont la détection d'agents intentionnels.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Religion Explained",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Religion_Explained"
+            },
+            {
+              "title": "Et l'homme créa les dieux : Comment expliquer la religion",
+              "publisher": "Critiques Libres",
+              "url": "https://www.critiqueslibres.com/livre/28499-et-l-homme-crea-les-dieux-comment-expliquer-la-religion-boyer-pascal"
+            }
+          ]
+        },
+        {
+          "text": "Le 20 mars 1995, la secte Aum Shinrikyō a répandu du sarin dans le métro de Tokyo, faisant plus d'une dizaine de morts et des milliers d'intoxiqués ; son fondateur Shōkō Asahara se présentait comme un messie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tokyo subway attack of 1995",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/print/article/1669544"
+            },
+            {
+              "title": "Doomsday cult leader, followers executed for 1995 sarin attack in Tokyo subway",
+              "publisher": "CBS News / AP",
+              "url": "https://www.cbsnews.com/amp/news/shoko-asahara-aum-shinrikyo-members-executed-today-sarin-tokyo-subway-attack-2018-07-06"
+            }
+          ]
+        },
+        {
+          "text": "Après l'assassinat de Shinzō Abe en juillet 2022, les dons excessifs obtenus par l'Église de l'Unification auprès de familles japonaises ont été mis au jour ; le Japon a publié des lignes directrices sur la maltraitance religieuse des enfants, et en mars 2025 le tribunal de district de Tokyo a ordonné la dissolution de la branche japonaise de l'Église.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Japanese Court Orders Dissolution of Unification Church",
+              "publisher": "Nippon.com (Jiji Press)",
+              "url": "https://nippon.com/en/news/yjj2025032500701"
+            },
+            {
+              "title": "宗教の信仰等に関係する児童虐待等への対応に関するQ&A",
+              "publisher": "Ministère japonais de la Santé, du Travail et des Affaires sociales",
+              "url": "https://www.mhlw.go.jp/content/001032125.pdf"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Le Japon protège les enfants contre les religions",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=TVyA_y7Muis",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "One Piece, Naruto, Bleach : les mangas montrent-ils qui dirige vraiment notre monde ?",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+      "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T18:44:36.332Z",
+      "durationSeconds": 687,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Les mécanismes que ces mangas mettent en scène (histoire effacée, pouvoir sacralisé, faux miracles, opérations clandestines) ont tous des équivalents historiques documentés, mais rien ne montre une élite unique qui contrôlerait tout. Les abus réels ont justement été établis par des archives, la presse et des commissions d'enquête, alors que l'hypothèse du contrôle total est bâtie pour résister à toute réfutation."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "29QVCxxBqbY",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+        "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+      },
+      "facts": [
+        {
+          "text": "Dans One Piece, le Gouvernement mondial a été fondé il y a huit cents ans par vingt rois, après un Siècle oublié de cent ans dont l'étude et la lecture des Ponéglyphes sont interdites.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "One Piece Void Century explained",
+              "publisher": "Dexerto",
+              "url": "https://www.dexerto.com/anime/one-piece-void-century-explained-2737746/"
+            },
+            {
+              "title": "What is the Void Century in One Piece? Origins explained",
+              "publisher": "Fiction Horizon",
+              "url": "https://fictionhorizon.com/what-is-the-void-century-in-one-piece-origins-explained/"
+            }
+          ]
+        },
+        {
+          "text": "Dans One Piece, Ohara est rasée par un Buster Call, le professeur Clover est abattu au moment de nommer le royaume disparu, et Nico Robin, seule survivante, voit sa tête mise à prix à huit ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Spandine",
+              "publisher": "Villains Wiki (Fandom)",
+              "url": "https://villains.fandom.com/wiki/Spandine"
+            },
+            {
+              "title": "Robin's Ohara Backstory: The Buster Call Tragedy",
+              "publisher": "My Anime Thoughts",
+              "url": "https://myanimethoughts.com/robins-ohara-backstory-the-buster-call-tragedy"
+            }
+          ]
+        },
+        {
+          "text": "Dans One Piece, les Dragons célestes descendent de dix-neuf des vingt rois fondateurs, vivent à Marie Joie, portent une bulle sur la tête, possèdent des esclaves, présentent leurs ancêtres comme créateurs du monde, et une attaque contre eux entraîne l'intervention d'un amiral ; un trône vide se dresse à Marie Joie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Tenryuubito: Celestial Dragons in One Piece explained",
+              "publisher": "The Mary Sue",
+              "url": "https://www.themarysue.com/tenryuubito-one-piece-celestial-dragons-in-one-piece-explained/"
+            },
+            {
+              "title": "Celestial Dragons: The Worst Villains in One Piece?",
+              "publisher": "My Anime Thoughts",
+              "url": "https://myanimethoughts.com/celestial-dragons-the-worst-villains-in-one-piece"
+            }
+          ]
+        },
+        {
+          "text": "Dans Naruto, les membres de la Racine de Danzo portent un sceau sur la langue qui les empêche de parler de lui, et la direction de Konoha, poussée par Danzo, charge Itachi d'exterminer le clan Uchiha soupçonné de préparer un coup d'État.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cursed Tongue Eradication Seal",
+              "publisher": "Narutopedia (Fandom)",
+              "url": "https://naruto.fandom.com/wiki/Cursed_Tongue_Eradication_Seal"
+            },
+            {
+              "title": "Sasuke vs Danzo",
+              "publisher": "daddyjim.ai",
+              "url": "https://daddyjim.ai/naruto/manga-chapter/Sasuke-vs-Danzo"
+            }
+          ]
+        },
+        {
+          "text": "Dans Bleach, le Central 46 compte quarante sages et six juges, condamne Rukia à mort pour avoir transmis ses pouvoirs à un humain, Aizen massacre ses membres pour donner des ordres à leur place, et un capitaine découvre ensuite leurs corps.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "168 Behind Me Behind You",
+              "publisher": "daddyjim.ai",
+              "url": "https://daddyjim.ai/bleach/manga-chapter/168-Behind-Me-Behind-You"
+            },
+            {
+              "title": "Rukia's Execution",
+              "publisher": "Bleach Wiki (Fandom)",
+              "url": "https://bleach.fandom.com/wiki/Rukia%27s_Execution"
+            }
+          ]
+        },
+        {
+          "text": "Dans Hunter x Hunter, les quatorze princes de Kakin, embarqués vers le Continent noir, doivent s'entretuer dans une guerre de succession ritualisée, et l'élection du président de l'Association des Hunters donne lieu à des manipulations.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hunter X Hunter: The Succession War Arc, explained",
+              "publisher": "Sportskeeda",
+              "url": "https://sportskeeda.com/anime/hunter-x-hunter-the-succession-war-arc-explained"
+            },
+            {
+              "title": "Cheadle Yorkshire",
+              "publisher": "Hunterpedia (Fandom)",
+              "url": "https://hxh.fandom.com/wiki/Cheadle"
+            }
+          ]
+        },
+        {
+          "text": "Dans Fullmetal Alchemist, Cornello, prophète du dieu soleil Léto à Lior, promet à Rose de ramener l'homme qu'elle aimait, utilise une fausse pierre philosophale, prépare une armée de fidèles, et sa confession est diffusée à toute la ville.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Chapter 2 The Price of Life",
+              "publisher": "daddyjim.ai",
+              "url": "https://daddyjim.ai/fullmetal-alchemist/manga-chapter/Chapter-2-The-Price-of-Life"
+            },
+            {
+              "title": "Rose Thomas",
+              "publisher": "daddyjim.ai",
+              "url": "https://daddyjim.ai/fullmetal-alchemist/character/Rose-Thomas"
+            }
+          ]
+        },
+        {
+          "text": "Jusqu'à la déclaration impériale du 1er janvier 1946, l'empereur du Japon était officiellement présenté comme un dieu incarné, issu de la déesse Amaterasu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Humanity Declaration",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Humanity_Declaration"
+            },
+            {
+              "title": "Arahitogami",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Arahitogami"
+            }
+          ]
+        },
+        {
+          "text": "La liste royale d'Abydos, au temple de Séthi Ier, omet Akhenaton et ses successeurs immédiats, et la capitale d'Akhenaton a été fouillée à Amarna.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Abydos King List",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Abydos_King_List"
+            },
+            {
+              "title": "Welcome to the Amarna Project",
+              "publisher": "Amarna Project",
+              "url": "https://www.amarnaproject.com/"
+            }
+          ]
+        },
+        {
+          "text": "Caracalla fit tuer son frère Geta en 211 et condamner sa mémoire ; le visage de Geta est gratté sur le tondo sévérien peint, conservé à Berlin.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Severan Tondo",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Severan_Tondo"
+            },
+            {
+              "title": "The Severan Tondo: damnatio memoriae in ancient Rome",
+              "publisher": "Smarthistory / LibreTexts",
+              "url": "https://human.libretexts.org/Bookshelves/Art/SmartHistory_of_Art_2e/02%3A_SmartHistory_of_Art_II-_Ancient_Mediterranean/05%3A_Ancient_Rome_III/5.01%3A_Middle_Empire/5.1.13%3A_The_Severan_Tondo-_damnatio_memoriae_in_ancient_Rome"
+            }
+          ]
+        },
+        {
+          "text": "Nikolaï Iejov, chef du NKVD, photographié en 1937 avec Staline au bord du canal Moscou-Volga, a été retiré du cliché après son exécution et remplacé par de l'eau ; l'original a été conservé.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "RUSSIA-MANIPULATED PICTURE-YEZHOV",
+              "publisher": "HistoryNet",
+              "url": "https://historynet.com/from-blurring-imperfections-to-falsifying-reality-how-stalin-made-the-truth-disappear-through-photoshop/russia-manipulated-picture-yezhov-2/"
+            },
+            {
+              "title": "Description de l'image (miroir Wikimedia) : Vorochilov, Molotov, Staline et Iejov au canal Moscou-Volga",
+              "publisher": "SolarSPELL / Wikimedia mirror",
+              "url": "https://solarspell-dls.sfis.asu.edu/mea/wikipedia/images/2564/256421.jpg.htm"
+            }
+          ]
+        },
+        {
+          "text": "Les pharaons portaient le titre de « fils de Rê » et les sultans ottomans celui d'« ombre de Dieu sur la terre ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "sa ra",
+              "publisher": "American Research Center in Egypt",
+              "url": "https://cairo.arce.org/glossary/sa-ra"
+            },
+            {
+              "title": "Shadow of God",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shadow_of_God"
+            }
+          ]
+        },
+        {
+          "text": "Bossuet, précepteur du Grand Dauphin, écrit dans Politique tirée des propres paroles de l'Écriture sainte, publiée en 1709 : « Le trône royal n'est pas le trône d'un homme, mais le trône de Dieu même. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Politics Drawn from the Very Words of Holy Scripture",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Politics_Drawn_from_the_Very_Words_of_Holy_Scripture"
+            },
+            {
+              "title": "Bossuet, prélat de cour",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/Prelat_de_cour-synthese-2011-238.php"
+            }
+          ]
+        },
+        {
+          "text": "Au IIe siècle, Lucien de Samosate décrit dans Alexandre ou le faux prophète le culte de Glycon, une tête de serpent en toile articulée et l'ouverture des questions scellées des fidèles avec une aiguille chauffée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lucian, Alexander the False Prophet",
+              "publisher": "ToposText",
+              "url": "https://topostext.org/work/337"
+            },
+            {
+              "title": "Glycon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Glycon"
+            }
+          ]
+        },
+        {
+          "text": "En 1986, James Randi a diffusé à la télévision américaine des transmissions radio interceptées montrant que les noms et maladies annoncés par Peter Popoff lui étaient soufflés dans une oreillette.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Peter Popoff",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Peter_Popoff"
+            },
+            {
+              "title": "James Randi obituary",
+              "publisher": "Yahoo News UK",
+              "url": "https://uk.news.yahoo.com/james-randi-obituary-123655662.html"
+            }
+          ]
+        },
+        {
+          "text": "Le programme COINTELPRO du FBI a fonctionné de 1956 à 1971 et, en 1964, le FBI a envoyé à Martin Luther King une lettre anonyme l'incitant au suicide.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "COINTELPRO",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/COINTELPRO"
+            },
+            {
+              "title": "The FBI vs. Martin Luther King",
+              "publisher": "Democracy Now!",
+              "url": "https://www.democracynow.org/2014/11/18/the_fbi_vs_martin_luther_king"
+            }
+          ]
+        },
+        {
+          "text": "COINTELPRO a été révélé après le cambriolage d'un bureau du FBI à Media (Pennsylvanie) en 1971 et la transmission des dossiers à la presse, puis exposé par la commission Church du Sénat américain.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "COINTELPRO",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/COINTELPRO"
+            },
+            {
+              "title": "Church Committee",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://britannica.com/topic/Church-Committee"
+            }
+          ]
+        },
+        {
+          "text": "En 1985, des agents de la DGSE ont coulé le Rainbow Warrior à Auckland ; le photographe Fernando Pereira est mort ; le gouvernement a d'abord démenti, le ministre de la Défense a démissionné et le gouvernement a reconnu les faits, après l'arrestation de deux agents en Nouvelle-Zélande et des révélations du Monde.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "17-25 septembre 1985 : prolongements politiques de l'affaire Greenpeace et démission de Charles Hernu",
+              "publisher": "Encyclopædia Universalis",
+              "url": "https://www.universalis.fr/evenement/17-25-septembre-1985-prolongements-politiques-de-l-affaire-greenpeace-et-demission-de-charles-hernu/"
+            },
+            {
+              "title": "The sinking of the Rainbow Warrior",
+              "publisher": "HISTORY.com",
+              "url": "https://www.history.com/this-day-in-history/july-10/the-sinking-of-the-rainbow-warrior"
+            }
+          ]
+        },
+        {
+          "text": "Montesquieu, De l'esprit des lois (1748), livre XI, chapitre 4 : « Pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "De l'esprit des loix, livre XI (édition 1749)",
+              "publisher": "Landesbibliothek Oldenburg",
+              "url": "https://digital.lb-oldenburg.de/download/pdf/24806.pdf"
+            },
+            {
+              "title": "Commentaire du livre 11 chapitre 4 de l'Esprit des Lois de Montesquieu",
+              "publisher": "MyStudies",
+              "url": "https://www.mystudies.com/fr-ad/philosophie-et-litterature/litterature/fiche/commentaire-livre-11-chapitre-4-esprit-lois-montesquieu-906017.html"
+            }
+          ]
+        },
+        {
+          "text": "Karl Popper, Conjectures and Refutations (1963) : les conspirations existent, mais le fait que peu d'entre elles réussissent réfute la théorie conspirationniste de la société (traduction de la chaîne).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Popper Revisited, or What Is Wrong With Conspiracy Theories?",
+              "publisher": "PhilArchive (Philosophy of the Social Sciences, 1995)",
+              "url": "https://philarchive.org/rec/PIGPRO"
+            },
+            {
+              "title": "Conspiracy Theories",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/conspiracy-theories/"
+            }
+          ]
+        },
+        {
+          "text": "David Robert Grimes, « On the Viability of Conspiratorial Beliefs », PLOS ONE, 2016 : plus un complot compte de participants, plus il est vite éventé, et les complots de très grande ampleur seraient révélés en quelques années.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On the Viability of Conspiratorial Beliefs",
+              "publisher": "PLOS ONE / PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4728076"
+            },
+            {
+              "title": "Math Says There's No Way These Conspiracy Theories Are Real",
+              "publisher": "PBS NOVA",
+              "url": "https://www.pbs.org/wgbh/nova/article/math-says-theres-no-way-these-conspiracy-theories-are-real"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "La Donation de Constantin : le faux qui a fait des papes des rois",
+        "url": "https://www.youtube.com/watch?v=YnNocnkAkvM"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "le-mouvement-raelien-f9a5",
       "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
@@ -500,7 +2264,13 @@
         "title": "Comment des textes anciens ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
         "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Ève, premier bébé humain cloné : où est-elle, 24 ans après ?",
+          "url": "https://www.youtube.com/watch?v=LN741KyK7fw",
+          "publishedAt": "2026-10-08T18:39:35.675Z"
+        }
+      ],
       "corrections": []
     },
     {

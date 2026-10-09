@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+      "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T18:44:36.332Z",
+      "durationSeconds": 687,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "29QVCxxBqbY",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+        "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+      }
+    },
+    {
       "id": "le-bouddhisme-est-il-une-religion-ou-une-5c18",
       "title": "Le bouddhisme est-il une religion ou une philosophie ? Ce qu'enseignait vraiment le Bouddha",
       "format": "video",

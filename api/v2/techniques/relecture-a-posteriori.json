@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "les-religions-dans-les-mangas-e696",
+      "title": "Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T20:21:35.695Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Evangelion, Death Note, Berserk et les autres mangas qui mettent en scène Dieu, les anges et les prophètes cachent un message religieux profond derrière leurs symboles.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Ur_7wDabdQ8",
+        "url": "https://www.youtube.com/watch?v=Ur_7wDabdQ8",
+        "thumbnail": "https://i.ytimg.com/vi/Ur_7wDabdQ8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-religions-dans-les-mangas-e696/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-religions-dans-les-mangas-e696.json"
+      }
+    },
+    {
       "id": "le-mouvement-raelien-f9a5",
       "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
       "format": "video",

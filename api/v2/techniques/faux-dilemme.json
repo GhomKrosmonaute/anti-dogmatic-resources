@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
+      "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
+      "format": "video",
+      "publishedAt": "2026-10-09T16:15:33.521Z",
+      "durationSeconds": 720,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "La politique n'est plus qu'une émission de téléréalité qui ne change rien à la vie des gens : la seule réponse lucide, c'est de décrocher et de vivre en autarcie.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "r3bcbFQJowU",
+        "url": "https://www.youtube.com/watch?v=r3bcbFQJowU",
+        "thumbnail": "https://i.ytimg.com/vi/r3bcbFQJowU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-politique-est-elle-devenue-de-la-telerealite-6dc2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-politique-est-elle-devenue-de-la-telerealite-6dc2.json"
+      }
+    },
+    {
       "id": "nihilisme-et-detachement-57cd",
       "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
       "format": "video",

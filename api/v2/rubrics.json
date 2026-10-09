@@ -14,7 +14,7 @@
       "id": "religions",
       "name": "Religions",
       "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
-      "videos": 23,
+      "videos": 25,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/religions.json"
       }
@@ -41,7 +41,7 @@
       "id": "systeme",
       "name": "Le système",
       "description": "travail, argent, institutions, médias, politique, méritocratie, bureaucratie",
-      "videos": 4,
+      "videos": 6,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/systeme.json"
       }

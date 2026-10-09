@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "l-histoire-du-satanisme-da7b",
+      "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
+      "format": "video",
+      "publishedAt": "2026-10-09T10:15:09.765Z",
+      "durationSeconds": 747,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Depuis des siècles, un culte satanique secret et organisé vénère un diable réel, pactise avec lui et pratique des sacrifices ; les procès de sorcellerie, l'affaire des Poisons, les révélations sur les loges lucifériennes et les témoignages de survivants des années 1980 en sont la preuve.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yQhwW1egJYM",
+        "url": "https://www.youtube.com/watch?v=yQhwW1egJYM",
+        "thumbnail": "https://i.ytimg.com/vi/yQhwW1egJYM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-histoire-du-satanisme-da7b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-histoire-du-satanisme-da7b.json"
+      }
+    },
+    {
       "id": "l-acupuncture-a-l-epreuve-des-faits-3acc",
       "title": "L'acupuncture, ça marche vraiment ? Méridiens, énergie qi et ce qu'en dit la science",
       "format": "video",

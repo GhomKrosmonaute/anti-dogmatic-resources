@@ -1,0 +1,421 @@
+{
+  "version": 2,
+  "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+  "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+  "format": "video",
+  "publishedAt": "2026-10-08T18:44:36.332Z",
+  "durationSeconds": 687,
+  "rubric": {
+    "id": "systeme",
+    "name": "Le système"
+  },
+  "claim": {
+    "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Les mécanismes que ces mangas mettent en scène (histoire effacée, pouvoir sacralisé, faux miracles, opérations clandestines) ont tous des équivalents historiques documentés, mais rien ne montre une élite unique qui contrôlerait tout. Les abus réels ont justement été établis par des archives, la presse et des commissions d'enquête, alors que l'hypothèse du contrôle total est bâtie pour résister à toute réfutation."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "29QVCxxBqbY",
+    "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+    "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+  },
+  "facts": [
+    {
+      "text": "Dans One Piece, le Gouvernement mondial a été fondé il y a huit cents ans par vingt rois, après un Siècle oublié de cent ans dont l'étude et la lecture des Ponéglyphes sont interdites.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "One Piece Void Century explained",
+          "publisher": "Dexerto",
+          "url": "https://www.dexerto.com/anime/one-piece-void-century-explained-2737746/"
+        },
+        {
+          "title": "What is the Void Century in One Piece? Origins explained",
+          "publisher": "Fiction Horizon",
+          "url": "https://fictionhorizon.com/what-is-the-void-century-in-one-piece-origins-explained/"
+        }
+      ]
+    },
+    {
+      "text": "Dans One Piece, Ohara est rasée par un Buster Call, le professeur Clover est abattu au moment de nommer le royaume disparu, et Nico Robin, seule survivante, voit sa tête mise à prix à huit ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Spandine",
+          "publisher": "Villains Wiki (Fandom)",
+          "url": "https://villains.fandom.com/wiki/Spandine"
+        },
+        {
+          "title": "Robin's Ohara Backstory: The Buster Call Tragedy",
+          "publisher": "My Anime Thoughts",
+          "url": "https://myanimethoughts.com/robins-ohara-backstory-the-buster-call-tragedy"
+        }
+      ]
+    },
+    {
+      "text": "Dans One Piece, les Dragons célestes descendent de dix-neuf des vingt rois fondateurs, vivent à Marie Joie, portent une bulle sur la tête, possèdent des esclaves, présentent leurs ancêtres comme créateurs du monde, et une attaque contre eux entraîne l'intervention d'un amiral ; un trône vide se dresse à Marie Joie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Tenryuubito: Celestial Dragons in One Piece explained",
+          "publisher": "The Mary Sue",
+          "url": "https://www.themarysue.com/tenryuubito-one-piece-celestial-dragons-in-one-piece-explained/"
+        },
+        {
+          "title": "Celestial Dragons: The Worst Villains in One Piece?",
+          "publisher": "My Anime Thoughts",
+          "url": "https://myanimethoughts.com/celestial-dragons-the-worst-villains-in-one-piece"
+        }
+      ]
+    },
+    {
+      "text": "Dans Naruto, les membres de la Racine de Danzo portent un sceau sur la langue qui les empêche de parler de lui, et la direction de Konoha, poussée par Danzo, charge Itachi d'exterminer le clan Uchiha soupçonné de préparer un coup d'État.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cursed Tongue Eradication Seal",
+          "publisher": "Narutopedia (Fandom)",
+          "url": "https://naruto.fandom.com/wiki/Cursed_Tongue_Eradication_Seal"
+        },
+        {
+          "title": "Sasuke vs Danzo",
+          "publisher": "daddyjim.ai",
+          "url": "https://daddyjim.ai/naruto/manga-chapter/Sasuke-vs-Danzo"
+        }
+      ]
+    },
+    {
+      "text": "Dans Bleach, le Central 46 compte quarante sages et six juges, condamne Rukia à mort pour avoir transmis ses pouvoirs à un humain, Aizen massacre ses membres pour donner des ordres à leur place, et un capitaine découvre ensuite leurs corps.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "168 Behind Me Behind You",
+          "publisher": "daddyjim.ai",
+          "url": "https://daddyjim.ai/bleach/manga-chapter/168-Behind-Me-Behind-You"
+        },
+        {
+          "title": "Rukia's Execution",
+          "publisher": "Bleach Wiki (Fandom)",
+          "url": "https://bleach.fandom.com/wiki/Rukia%27s_Execution"
+        }
+      ]
+    },
+    {
+      "text": "Dans Hunter x Hunter, les quatorze princes de Kakin, embarqués vers le Continent noir, doivent s'entretuer dans une guerre de succession ritualisée, et l'élection du président de l'Association des Hunters donne lieu à des manipulations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hunter X Hunter: The Succession War Arc, explained",
+          "publisher": "Sportskeeda",
+          "url": "https://sportskeeda.com/anime/hunter-x-hunter-the-succession-war-arc-explained"
+        },
+        {
+          "title": "Cheadle Yorkshire",
+          "publisher": "Hunterpedia (Fandom)",
+          "url": "https://hxh.fandom.com/wiki/Cheadle"
+        }
+      ]
+    },
+    {
+      "text": "Dans Fullmetal Alchemist, Cornello, prophète du dieu soleil Léto à Lior, promet à Rose de ramener l'homme qu'elle aimait, utilise une fausse pierre philosophale, prépare une armée de fidèles, et sa confession est diffusée à toute la ville.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Chapter 2 The Price of Life",
+          "publisher": "daddyjim.ai",
+          "url": "https://daddyjim.ai/fullmetal-alchemist/manga-chapter/Chapter-2-The-Price-of-Life"
+        },
+        {
+          "title": "Rose Thomas",
+          "publisher": "daddyjim.ai",
+          "url": "https://daddyjim.ai/fullmetal-alchemist/character/Rose-Thomas"
+        }
+      ]
+    },
+    {
+      "text": "Jusqu'à la déclaration impériale du 1er janvier 1946, l'empereur du Japon était officiellement présenté comme un dieu incarné, issu de la déesse Amaterasu.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Humanity Declaration",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Humanity_Declaration"
+        },
+        {
+          "title": "Arahitogami",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arahitogami"
+        }
+      ]
+    },
+    {
+      "text": "La liste royale d'Abydos, au temple de Séthi Ier, omet Akhenaton et ses successeurs immédiats, et la capitale d'Akhenaton a été fouillée à Amarna.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Abydos King List",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abydos_King_List"
+        },
+        {
+          "title": "Welcome to the Amarna Project",
+          "publisher": "Amarna Project",
+          "url": "https://www.amarnaproject.com/"
+        }
+      ]
+    },
+    {
+      "text": "Caracalla fit tuer son frère Geta en 211 et condamner sa mémoire ; le visage de Geta est gratté sur le tondo sévérien peint, conservé à Berlin.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Severan Tondo",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Severan_Tondo"
+        },
+        {
+          "title": "The Severan Tondo: damnatio memoriae in ancient Rome",
+          "publisher": "Smarthistory / LibreTexts",
+          "url": "https://human.libretexts.org/Bookshelves/Art/SmartHistory_of_Art_2e/02%3A_SmartHistory_of_Art_II-_Ancient_Mediterranean/05%3A_Ancient_Rome_III/5.01%3A_Middle_Empire/5.1.13%3A_The_Severan_Tondo-_damnatio_memoriae_in_ancient_Rome"
+        }
+      ]
+    },
+    {
+      "text": "Nikolaï Iejov, chef du NKVD, photographié en 1937 avec Staline au bord du canal Moscou-Volga, a été retiré du cliché après son exécution et remplacé par de l'eau ; l'original a été conservé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "RUSSIA-MANIPULATED PICTURE-YEZHOV",
+          "publisher": "HistoryNet",
+          "url": "https://historynet.com/from-blurring-imperfections-to-falsifying-reality-how-stalin-made-the-truth-disappear-through-photoshop/russia-manipulated-picture-yezhov-2/"
+        },
+        {
+          "title": "Description de l'image (miroir Wikimedia) : Vorochilov, Molotov, Staline et Iejov au canal Moscou-Volga",
+          "publisher": "SolarSPELL / Wikimedia mirror",
+          "url": "https://solarspell-dls.sfis.asu.edu/mea/wikipedia/images/2564/256421.jpg.htm"
+        }
+      ]
+    },
+    {
+      "text": "Les pharaons portaient le titre de « fils de Rê » et les sultans ottomans celui d'« ombre de Dieu sur la terre ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "sa ra",
+          "publisher": "American Research Center in Egypt",
+          "url": "https://cairo.arce.org/glossary/sa-ra"
+        },
+        {
+          "title": "Shadow of God",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shadow_of_God"
+        }
+      ]
+    },
+    {
+      "text": "Bossuet, précepteur du Grand Dauphin, écrit dans Politique tirée des propres paroles de l'Écriture sainte, publiée en 1709 : « Le trône royal n'est pas le trône d'un homme, mais le trône de Dieu même. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Politics Drawn from the Very Words of Holy Scripture",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Politics_Drawn_from_the_Very_Words_of_Holy_Scripture"
+        },
+        {
+          "title": "Bossuet, prélat de cour",
+          "publisher": "Hérodote.net",
+          "url": "https://www.herodote.net/Prelat_de_cour-synthese-2011-238.php"
+        }
+      ]
+    },
+    {
+      "text": "Au IIe siècle, Lucien de Samosate décrit dans Alexandre ou le faux prophète le culte de Glycon, une tête de serpent en toile articulée et l'ouverture des questions scellées des fidèles avec une aiguille chauffée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lucian, Alexander the False Prophet",
+          "publisher": "ToposText",
+          "url": "https://topostext.org/work/337"
+        },
+        {
+          "title": "Glycon",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Glycon"
+        }
+      ]
+    },
+    {
+      "text": "En 1986, James Randi a diffusé à la télévision américaine des transmissions radio interceptées montrant que les noms et maladies annoncés par Peter Popoff lui étaient soufflés dans une oreillette.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Peter Popoff",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peter_Popoff"
+        },
+        {
+          "title": "James Randi obituary",
+          "publisher": "Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/james-randi-obituary-123655662.html"
+        }
+      ]
+    },
+    {
+      "text": "Le programme COINTELPRO du FBI a fonctionné de 1956 à 1971 et, en 1964, le FBI a envoyé à Martin Luther King une lettre anonyme l'incitant au suicide.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "COINTELPRO",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/COINTELPRO"
+        },
+        {
+          "title": "The FBI vs. Martin Luther King",
+          "publisher": "Democracy Now!",
+          "url": "https://www.democracynow.org/2014/11/18/the_fbi_vs_martin_luther_king"
+        }
+      ]
+    },
+    {
+      "text": "COINTELPRO a été révélé après le cambriolage d'un bureau du FBI à Media (Pennsylvanie) en 1971 et la transmission des dossiers à la presse, puis exposé par la commission Church du Sénat américain.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "COINTELPRO",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/COINTELPRO"
+        },
+        {
+          "title": "Church Committee",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://britannica.com/topic/Church-Committee"
+        }
+      ]
+    },
+    {
+      "text": "En 1985, des agents de la DGSE ont coulé le Rainbow Warrior à Auckland ; le photographe Fernando Pereira est mort ; le gouvernement a d'abord démenti, le ministre de la Défense a démissionné et le gouvernement a reconnu les faits, après l'arrestation de deux agents en Nouvelle-Zélande et des révélations du Monde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "17-25 septembre 1985 : prolongements politiques de l'affaire Greenpeace et démission de Charles Hernu",
+          "publisher": "Encyclopædia Universalis",
+          "url": "https://www.universalis.fr/evenement/17-25-septembre-1985-prolongements-politiques-de-l-affaire-greenpeace-et-demission-de-charles-hernu/"
+        },
+        {
+          "title": "The sinking of the Rainbow Warrior",
+          "publisher": "HISTORY.com",
+          "url": "https://www.history.com/this-day-in-history/july-10/the-sinking-of-the-rainbow-warrior"
+        }
+      ]
+    },
+    {
+      "text": "Montesquieu, De l'esprit des lois (1748), livre XI, chapitre 4 : « Pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "De l'esprit des loix, livre XI (édition 1749)",
+          "publisher": "Landesbibliothek Oldenburg",
+          "url": "https://digital.lb-oldenburg.de/download/pdf/24806.pdf"
+        },
+        {
+          "title": "Commentaire du livre 11 chapitre 4 de l'Esprit des Lois de Montesquieu",
+          "publisher": "MyStudies",
+          "url": "https://www.mystudies.com/fr-ad/philosophie-et-litterature/litterature/fiche/commentaire-livre-11-chapitre-4-esprit-lois-montesquieu-906017.html"
+        }
+      ]
+    },
+    {
+      "text": "Karl Popper, Conjectures and Refutations (1963) : les conspirations existent, mais le fait que peu d'entre elles réussissent réfute la théorie conspirationniste de la société (traduction de la chaîne).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Popper Revisited, or What Is Wrong With Conspiracy Theories?",
+          "publisher": "PhilArchive (Philosophy of the Social Sciences, 1995)",
+          "url": "https://philarchive.org/rec/PIGPRO"
+        },
+        {
+          "title": "Conspiracy Theories",
+          "publisher": "Internet Encyclopedia of Philosophy",
+          "url": "https://iep.utm.edu/conspiracy-theories/"
+        }
+      ]
+    },
+    {
+      "text": "David Robert Grimes, « On the Viability of Conspiratorial Beliefs », PLOS ONE, 2016 : plus un complot compte de participants, plus il est vite éventé, et les complots de très grande ampleur seraient révélés en quelques années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "On the Viability of Conspiratorial Beliefs",
+          "publisher": "PLOS ONE / PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4728076"
+        },
+        {
+          "title": "Math Says There's No Way These Conspiracy Theories Are Real",
+          "publisher": "PBS NOVA",
+          "url": "https://www.pbs.org/wgbh/nova/article/math-says-theres-no-way-these-conspiracy-theories-are-real"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=1DqgdLPjCi4",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "La Donation de Constantin : le faux qui a fait des papes des rois",
+    "url": "https://www.youtube.com/watch?v=YnNocnkAkvM"
+  },
+  "shorts": [],
+  "corrections": []
+}

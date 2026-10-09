@@ -1,0 +1,444 @@
+{
+  "version": 2,
+  "id": "l-histoire-du-satanisme-da7b",
+  "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
+  "format": "video",
+  "publishedAt": "2026-10-09T10:15:09.765Z",
+  "durationSeconds": 747,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Depuis des siècles, un culte satanique secret et organisé vénère un diable réel, pactise avec lui et pratique des sacrifices ; les procès de sorcellerie, l'affaire des Poisons, les révélations sur les loges lucifériennes et les témoignages de survivants des années 1980 en sont la preuve.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Des tribunaux de sorcellerie au FBI, aucune enquête n'a jamais trouvé la secte satanique organisée qu'on décrit : les preuves avancées se ramènent à des aveux obtenus sous la torture, au canular avoué de Léo Taxil et à des souvenirs induits par la suggestion. Le satanisme réellement observable est né au XXe siècle avec l'Église de Satan puis The Satanic Temple, et il est majoritairement athée, Satan n'y étant qu'un symbole."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "yQhwW1egJYM",
+    "url": "https://www.youtube.com/watch?v=yQhwW1egJYM",
+    "thumbnail": "https://i.ytimg.com/vi/yQhwW1egJYM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-histoire-du-satanisme-da7b/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-histoire-du-satanisme-da7b.json"
+  },
+  "facts": [
+    {
+      "text": "Dans les Évangiles, Satan tente Jésus au désert (Matthieu 4, Luc 4).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Luc 4 (Louis Segond)",
+          "publisher": "TopBible / TopChrétien",
+          "url": "https://topbible.topchretien.com/luc.4.1/LSG,COM/"
+        }
+      ]
+    },
+    {
+      "text": "Exode 22:18 dans la traduction Louis Segond (22:17 dans la numérotation hébraïque) se lit : « Tu ne laisseras point vivre la magicienne. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Comparateur Bible Exode 22:18",
+          "publisher": "levangile.com",
+          "url": "https://www.levangile.com/comparateur-bible-2-22-18"
+        }
+      ]
+    },
+    {
+      "text": "Le 5 décembre 1484, le pape Innocent VIII publie la bulle Summis desiderantes affectibus contre la sorcellerie dans les régions germaniques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Summis desiderantes affectibus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Summis_desiderantes_affectibus"
+        },
+        {
+          "title": "Pope Innocent VIII authorizes Germany witchcraft prosecutions",
+          "publisher": "JURIST",
+          "url": "https://www.jurist.org/thisday/2010/12/05/pope-innocent-viii-authorizes-germany-witchcraft-prosecutions"
+        }
+      ]
+    },
+    {
+      "text": "Le Malleus Maleficarum du dominicain Heinrich Kramer paraît en 1486 (parfois daté de 1487).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Malleus Maleficarum",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Malleus_Maleficarum"
+        }
+      ]
+    },
+    {
+      "text": "Des aveux obtenus dans des procès en Écosse, en Lorraine, dans les Alpes et en Scandinavie décrivent des éléments récurrents : pacte, marque du diable, vol nocturne, sabbat, hommage au diable sous forme de bouc.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "witches' sabbath",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/witches-sabbath"
+        },
+        {
+          "title": "Witch trials in Sweden",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Witch_trials_in_Sweden"
+        }
+      ]
+    },
+    {
+      "text": "Louis XIV crée la Chambre ardente en 1679 pour l'affaire des Poisons ; l'instruction est menée par le lieutenant général de police Gabriel Nicolas de La Reynie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "L'affaire des poisons",
+          "publisher": "Ministère de la Justice",
+          "url": "https://www.justice.gouv.fr/node/156"
+        }
+      ]
+    },
+    {
+      "text": "Catherine Monvoisin, dite la Voisin, vendait des poisons ; l'abbé Guibourg a été accusé de messes noires célébrées sur le corps nu d'une femme avec du sang d'enfant ; Madame de Montespan est citée dans des dépositions.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "22 février 1680 : la Voisin sur le bûcher",
+          "publisher": "Hérodote.net",
+          "url": "https://www.herodote.net/22_fevrier_1680-evenement-16800222.php"
+        },
+        {
+          "title": "Étienne Guibourg",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/%C3%89tienne_Guibourg"
+        }
+      ]
+    },
+    {
+      "text": "Une instruction attribuée à Albert Pike, grand commandeur du Rite écossais (juridiction sud des États-Unis), présentant Lucifer comme dieu, est citée par des auteurs antimaçonniques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Taxil Hoax – Baphomet and the Freemasons",
+          "publisher": "TemplarHistory.com (Stephen Dafoe)",
+          "url": "https://templarhistory.com/?p=267"
+        },
+        {
+          "title": "Taxil hoax",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+        }
+      ]
+    },
+    {
+      "text": "Des mémoires signés Diana Vaughan, présentée comme une ancienne grande prêtresse palladiste convertie au catholicisme, paraissent dans les années 1890.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Taxil hoax",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+        }
+      ]
+    },
+    {
+      "text": "Michelle Remembers paraît en 1980, coécrit par le psychiatre Lawrence Pazder et sa patiente, et décrit des souvenirs retrouvés en thérapie de rituels sataniques subis dans l'enfance au Canada dans les années 1950.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Michelle Remembers",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michelle_Remembers"
+        }
+      ]
+    },
+    {
+      "text": "En 1983 commence l'enquête sur l'école maternelle McMartin, à Manhattan Beach, en Californie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "McMartin preschool trial",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/McMartin_preschool_trial"
+        }
+      ]
+    },
+    {
+      "text": "Anton Szandor LaVey fonde l'Église de Satan à San Francisco le 30 avril 1966 et publie The Satanic Bible en 1969.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Church of Satan",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Church-of-Satan"
+        }
+      ]
+    },
+    {
+      "text": "The Satanic Temple est fondé en 2013 et dévoile en 2015 sa statue de Baphomet, figure ailée et cornue assise sur un trône.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "'Hail Satan?' Examines Protest Group That Bedevils Religious Conservatives",
+          "publisher": "KQED / NPR",
+          "url": "https://www.kqed.org/pop/111144/hail-satan-examines-protest-group-that-bedevils-religious-conservatives"
+        },
+        {
+          "title": "Statue of Baphomet",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Statue_of_Baphomet"
+        }
+      ]
+    },
+    {
+      "text": "Les manuels de démonologie fournissaient aux juges des questions types sur le pacte, le sabbat et les complices, et la torture judiciaire était autorisée dans une grande partie de l'Europe continentale.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hexenwahn – 5. Verhöre",
+          "publisher": "Deutsches Historisches Museum",
+          "url": "https://www.dhm.de/archiv/ausstellungen/hexenwahn/katalog/verhoere.htm"
+        },
+        {
+          "title": "Witch trials in the early modern period",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period"
+        }
+      ]
+    },
+    {
+      "text": "Le jésuite Friedrich Spee publie anonymement la Cautio Criminalis en 1631 ; il y dénonce les aveux obtenus sous la torture et écrit n'avoir trouvé, parmi les condamnés qu'il a assistés, aucun dont il pût affirmer la culpabilité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Friedrich Spee",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Spee"
+        },
+        {
+          "title": "Friedrich Spee (Josef Sudbrack)",
+          "publisher": "Geist und Leben, 64 (1991)",
+          "url": "https://old.geist-und-leben.de/archiv-gul/systematisches-archiv/gul-64-1991/heft-4-juli-august-19/1570-abhandlungen-josef-sudbrack-friedrich-spee/64_1991_4_241_243_Sudbrack_0.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La magie populaire (guérisseurs, devins, charmes et formules) est documentée par les historiens dans l'Europe de l'époque moderne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cunning folk in Britain",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cunning_folk_in_Britain"
+        }
+      ]
+    },
+    {
+      "text": "Les estimations des historiens situent entre 40 000 et 60 000 le nombre d'exécutions pour sorcellerie en Europe entre le XVe et le XVIIIe siècle, en grande majorité de femmes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Witch trials in the early modern period",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period"
+        },
+        {
+          "title": "Who Burned the Witches (Part 2)",
+          "publisher": "Catholic World Report",
+          "url": "https://www.catholicworldreport.com/2022/11/01/who-burned-the-witches-part-2/"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'affaire des Poisons, empoisonnements, avortements clandestins et escroqueries sont établis ; la Voisin est brûlée en place de Grève le 22 février 1680.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "L'affaire des poisons",
+          "publisher": "Ministère de la Justice",
+          "url": "https://www.justice.gouv.fr/node/156"
+        },
+        {
+          "title": "22 février 1680 : la Voisin sur le bûcher",
+          "publisher": "Hérodote.net",
+          "url": "https://www.herodote.net/22_fevrier_1680-evenement-16800222.php"
+        }
+      ]
+    },
+    {
+      "text": "Les récits de messes noires de l'affaire des Poisons proviennent de détenus menacés de mort, certains soumis à la question, et leur crédibilité reste débattue par les historiens.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Françoise Filastre",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Filastre"
+        },
+        {
+          "title": "Affair of the Poisons",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Affair_of_the_Poisons"
+        }
+      ]
+    },
+    {
+      "text": "La Chambre ardente est fermée en 1682 ; Louis XIV fait brûler les pièces de la procédure en 1709 ; les notes de La Reynie ont survécu.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "L'affaire des poisons",
+          "publisher": "Ministère de la Justice",
+          "url": "https://www.justice.gouv.fr/node/156"
+        },
+        {
+          "title": "The Affair of the Poisons: In the Shadows of the Sun King – A Guest Post by Nicolas Méra",
+          "publisher": "The Freelance History Writer",
+          "url": "https://thefreelancehistorywriter.com/tag/chambre-ardent/"
+        },
+        {
+          "title": "City of Light, City of Poison (review of Holly Tucker)",
+          "publisher": "Historical Novel Society",
+          "url": "https://historicalnovelsociety.org/?p=19370"
+        }
+      ]
+    },
+    {
+      "text": "Léo Taxil (Gabriel Jogand-Pagès), pamphlétaire anticlérical, annonce sa conversion au catholicisme en 1885, publie des révélations sur de prétendues loges lucifériennes et est reçu en audience par le pape Léon XIII en 1887.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Léo Taxil",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/L%C3%A9o_Taxil"
+        },
+        {
+          "title": "Is Satanism Dangerous? 2. From Huysmans to Taxil",
+          "publisher": "Bitter Winter (Massimo Introvigne)",
+          "url": "https://bitterwinter.org/is-satanism-dangerous-2-from-huysmans-to-taxil/"
+        }
+      ]
+    },
+    {
+      "text": "Le 19 avril 1897, à la Société de géographie de Paris, Léo Taxil déclare publiquement que ses révélations étaient inventées, Diana Vaughan comprise.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Taxil hoax",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+        }
+      ]
+    },
+    {
+      "text": "L'instruction luciférienne attribuée à Albert Pike ne figure dans aucun écrit de Pike ; elle apparaît en 1894 chez l'auteur antimaçonnique Abel Clarin de La Rive, qui s'appuyait sur les écrits liés à la mystification de Taxil, et elle circule encore.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Taxil Hoax – Baphomet and the Freemasons",
+          "publisher": "TemplarHistory.com (Stephen Dafoe)",
+          "url": "https://templarhistory.com/?p=267"
+        },
+        {
+          "title": "Taxil hoax",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+        }
+      ]
+    },
+    {
+      "text": "Aucune enquête indépendante n'a trouvé de trace des rituels décrits dans Michelle Remembers.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Michelle Remembers",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michelle_Remembers"
+        },
+        {
+          "title": "Satan Wants You directors on the conspiracy that shook Victoria and the world",
+          "publisher": "Capital Daily",
+          "url": "https://capitaldaily.ca/news/satan-wants-you-directors-conspiracy-that-shook-victoria-world"
+        }
+      ]
+    },
+    {
+      "text": "L'affaire McMartin occupe la justice californienne de 1983 à 1990 et se termine sans aucune condamnation.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "McMartin preschool trial",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/McMartin_preschool_trial"
+        },
+        {
+          "title": "The McMartin Preschool Abuse Trial",
+          "publisher": "UMKC School of Law (Douglas O. Linder)",
+          "url": "https://irlaw.umkc.edu/popular_media/61/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Pourquoi s'attaquer à la foi des autres ? Zététique, sceptiques et The Satanic Temple",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
+    "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U"
+  },
+  "shorts": [],
+  "corrections": []
+}

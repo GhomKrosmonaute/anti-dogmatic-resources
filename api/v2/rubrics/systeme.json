@@ -5,6 +5,86 @@
   "description": "travail, argent, institutions, médias, politique, méritocratie, bureaucratie",
   "items": [
     {
+      "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
+      "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
+      "format": "video",
+      "publishedAt": "2026-10-09T16:15:33.521Z",
+      "durationSeconds": 720,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "La politique n'est plus qu'une émission de téléréalité qui ne change rien à la vie des gens : la seule réponse lucide, c'est de décrocher et de vivre en autarcie.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "r3bcbFQJowU",
+        "url": "https://www.youtube.com/watch?v=r3bcbFQJowU",
+        "thumbnail": "https://i.ytimg.com/vi/r3bcbFQJowU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-politique-est-elle-devenue-de-la-telerealite-6dc2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-politique-est-elle-devenue-de-la-telerealite-6dc2.json"
+      }
+    },
+    {
+      "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+      "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T18:44:36.332Z",
+      "durationSeconds": 687,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "29QVCxxBqbY",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+        "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+      }
+    },
+    {
       "id": "anthropocentrisme-et-anthropomorphisme-f503",
       "title": "L'homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature",
       "format": "video",

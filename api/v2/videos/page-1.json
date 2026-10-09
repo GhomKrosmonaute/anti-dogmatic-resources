@@ -1,12 +1,172 @@
 {
   "version": 2,
-  "total": 54,
+  "total": 58,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
+      "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
+      "format": "video",
+      "publishedAt": "2026-10-09T16:15:33.521Z",
+      "durationSeconds": 720,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "La politique n'est plus qu'une émission de téléréalité qui ne change rien à la vie des gens : la seule réponse lucide, c'est de décrocher et de vivre en autarcie.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "r3bcbFQJowU",
+        "url": "https://www.youtube.com/watch?v=r3bcbFQJowU",
+        "thumbnail": "https://i.ytimg.com/vi/r3bcbFQJowU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-politique-est-elle-devenue-de-la-telerealite-6dc2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-politique-est-elle-devenue-de-la-telerealite-6dc2.json"
+      }
+    },
+    {
+      "id": "l-histoire-du-satanisme-da7b",
+      "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
+      "format": "video",
+      "publishedAt": "2026-10-09T10:15:09.765Z",
+      "durationSeconds": 747,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Depuis des siècles, un culte satanique secret et organisé vénère un diable réel, pactise avec lui et pratique des sacrifices ; les procès de sorcellerie, l'affaire des Poisons, les révélations sur les loges lucifériennes et les témoignages de survivants des années 1980 en sont la preuve.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yQhwW1egJYM",
+        "url": "https://www.youtube.com/watch?v=yQhwW1egJYM",
+        "thumbnail": "https://i.ytimg.com/vi/yQhwW1egJYM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-histoire-du-satanisme-da7b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-histoire-du-satanisme-da7b.json"
+      }
+    },
+    {
+      "id": "les-religions-dans-les-mangas-e696",
+      "title": "Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T20:21:35.695Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Evangelion, Death Note, Berserk et les autres mangas qui mettent en scène Dieu, les anges et les prophètes cachent un message religieux profond derrière leurs symboles.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Ur_7wDabdQ8",
+        "url": "https://www.youtube.com/watch?v=Ur_7wDabdQ8",
+        "thumbnail": "https://i.ytimg.com/vi/Ur_7wDabdQ8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-religions-dans-les-mangas-e696/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-religions-dans-les-mangas-e696.json"
+      }
+    },
+    {
+      "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+      "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T18:44:36.332Z",
+      "durationSeconds": 687,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "29QVCxxBqbY",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+        "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+      }
+    },
     {
       "id": "le-mouvement-raelien-f9a5",
       "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
@@ -1716,174 +1876,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47.json"
-      }
-    },
-    {
-      "id": "physique-quantique-et-loi-de-l-attraction-cb5e",
-      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
-      "format": "video",
-      "publishedAt": "2026-10-01T02:45:08.004Z",
-      "durationSeconds": 698,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Les pensées et l'intention de celui qui observe créent la réalité : la physique quantique prouverait que la conscience fait s'effondrer les possibilités, et la loi de l'attraction permettrait ainsi d'attirer ce que l'on désire en le visualisant.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "hGHuqnHvlmg",
-        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
-        "thumbnail": "https://i.ytimg.com/vi/hGHuqnHvlmg/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
-      }
-    },
-    {
-      "id": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
-      "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
-      "format": "video",
-      "publishedAt": "2026-10-01T02:00:10.451Z",
-      "durationSeconds": 634,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "I1oCBdRo6js",
-        "url": "https://www.youtube.com/watch?v=I1oCBdRo6js",
-        "thumbnail": "https://i.ytimg.com/vi/I1oCBdRo6js/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31.json"
-      }
-    },
-    {
-      "id": "comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28",
-      "title": "Comment le Coran a-t-il été préservé depuis le Prophète ? De la révélation au mushaf d'Uthman",
-      "format": "video",
-      "publishedAt": "2026-10-01T00:27:21.037Z",
-      "durationSeconds": 706,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le Coran récité aujourd'hui est exactement celui que récitait le Prophète : il a été préservé sans la moindre altération, lettre pour lettre, depuis quatorze siècles, par la mémoire et l'écriture, sous la protection de Dieu (sourate 15, verset 9).",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "zoeVEThgAmc",
-        "url": "https://www.youtube.com/watch?v=zoeVEThgAmc",
-        "thumbnail": "https://i.ytimg.com/vi/zoeVEThgAmc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28.json"
-      }
-    },
-    {
-      "id": "le-pari-de-pascal-55c1",
-      "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
-      "format": "video",
-      "publishedAt": "2026-09-25T08:30:12.640Z",
-      "durationSeconds": 444,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "IMmyIhAADD4",
-        "url": "https://www.youtube.com/watch?v=IMmyIhAADD4",
-        "thumbnail": "https://i.ytimg.com/vi/IMmyIhAADD4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
       }
     }
   ]

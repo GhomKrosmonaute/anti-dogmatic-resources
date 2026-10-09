@@ -1,0 +1,438 @@
+{
+  "version": 2,
+  "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
+  "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
+  "format": "video",
+  "publishedAt": "2026-10-09T16:15:33.521Z",
+  "durationSeconds": 720,
+  "rubric": {
+    "id": "systeme",
+    "name": "Le système"
+  },
+  "claim": {
+    "statement": "La politique n'est plus qu'une émission de téléréalité qui ne change rien à la vie des gens : la seule réponse lucide, c'est de décrocher et de vivre en autarcie.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Les codes de la téléréalité dans la vie politique sont réels et documentés, mais ils n'ont rien de neuf et ne sont qu'une vitrine : les décisions qui pèsent sur le quotidien (retraites, vaccins obligatoires, rythmes scolaires, urbanisme) passent par des textes que la mise en scène ne montre pas. L'autarcie individuelle est techniquement hors de portée et reste encadrée par des règles politiques ; réduire sa consommation d'actualité a de vrais bénéfices, s'en retirer complètement n'est pas une sortie."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "faux-dilemme",
+      "name": "Le faux dilemme"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "r3bcbFQJowU",
+    "url": "https://www.youtube.com/watch?v=r3bcbFQJowU",
+    "thumbnail": "https://i.ytimg.com/vi/r3bcbFQJowU/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-politique-est-elle-devenue-de-la-telerealite-6dc2/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-politique-est-elle-devenue-de-la-telerealite-6dc2.json"
+  },
+  "facts": [
+    {
+      "text": "Loft Story, diffusé sur M6 à partir du printemps 2001, est considéré comme la première émission de téléréalité française, avec élimination hebdomadaire de candidats par vote du public.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "26 avril 2001 : Début de la diffusion de Loft Story sur M6",
+          "publisher": "Encyclopædia Universalis",
+          "url": "https://www.universalis.fr/evenement/26-avril-2001-debut-de-la-diffusion-de-loft-story-sur-m6/"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump a animé l'émission The Apprentice sur NBC à partir de 2004, avant d'être élu président des États-Unis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Apprentice (American TV series)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series)"
+        }
+      ]
+    },
+    {
+      "text": "Volodymyr Zelensky a joué un professeur devenu président dans la série Serviteur du peuple avant d'être élu président de l'Ukraine en 2019.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "In 'Servant of the People,' viewers got a glimpse of the future President Zelenskyy",
+          "publisher": "NPR / KPBS",
+          "url": "https://www.kpbs.org/news/2022/03/20/in-servant-of-the-people-viewers-got-a-glimpse-of-the-future-president-zelenskyy"
+        }
+      ]
+    },
+    {
+      "text": "La Société du spectacle de Guy Debord (1967) s'ouvre sur la phrase : « Toute la vie des sociétés dans lesquelles règnent les conditions modernes de production s'annonce comme une immense accumulation de spectacles. Tout ce qui était directement vécu s'est éloigné dans une représentation. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Poncifs suprêmes : « La société du spectacle »",
+          "publisher": "Revue Conflits",
+          "url": "https://www.revueconflits.com/poncifs-supremes-la-societe-du-spectacle/"
+        },
+        {
+          "title": "The Society of the Spectacle",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle"
+        }
+      ]
+    },
+    {
+      "text": "Neil Postman soutient dans Amusing Ourselves to Death (1985) que la télévision transforme le discours public, y compris politique, en divertissement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Amusing Ourselves to Death",
+          "publisher": "Utah State Library",
+          "url": "https://library.utah.gov/book-buzz-titles/book/amusing-ourselves-to-death"
+        },
+        {
+          "title": "Neil Postman: Amusing Ourselves to Death: Public Discourse in the Age of Show Business (1985)",
+          "publisher": "Monoskop",
+          "url": "https://monoskop.org/log/?p=430"
+        }
+      ]
+    },
+    {
+      "text": "Le Digital News Report du Reuters Institute mesure depuis 2017 l'évitement volontaire de l'actualité, notamment par lassitude ou épuisement face aux informations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Reuters Institute digital survey for 2017",
+          "publisher": "Reuters Institute for the Study of Journalism",
+          "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/archive/2017/page/8/index.html"
+        },
+        {
+          "title": "Reuters Institute Digital News Report 2022",
+          "publisher": "YouGov",
+          "url": "https://business.yougov.com/content/42833-reuters-institute-digital-news-report-2022-yougov"
+        }
+      ]
+    },
+    {
+      "text": "Au premier tour des élections législatives françaises de 2022, l'abstention a dépassé la moitié des inscrits.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Élections législatives 2022 : résultats",
+          "publisher": "Service-public.fr",
+          "url": "https://www.service-public.fr/particuliers/actualites/A15745?lang=en"
+        },
+        {
+          "title": "Ce qu'il faut retenir du premier tour des élections législatives",
+          "publisher": "Maire-Info",
+          "url": "https://www.maire-info.com/assemblee-nationale/ce-quil-faut-retenir-du-premier-tour-des-elections-legislatives-article-26516"
+        }
+      ]
+    },
+    {
+      "text": "Anthony Downs, dans An Economic Theory of Democracy (1957), décrit le raisonnement selon lequel s'informer en politique est peu rentable pour un individu dont le vote a une probabilité infime d'être décisif (ignorance rationnelle).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "An Economic Theory of Democracy",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/An_Economic_Theory_of_Democracy"
+        },
+        {
+          "title": "Anthony Downs, RIP",
+          "publisher": "Cato Institute",
+          "url": "https://www.cato.org/blog/anthony-downs-rip"
+        }
+      ]
+    },
+    {
+      "text": "Holman, Garfin et Silver (PNAS, 2014) ont observé, après les attentats du marathon de Boston, que les personnes exposées six heures ou plus par jour à la couverture médiatique rapportaient plus de stress aigu que les personnes directement exposées.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Media's role in broadcasting acute stress following the Boston Marathon bombings",
+          "publisher": "PNAS / PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3890785"
+        },
+        {
+          "title": "Prolonged viewing of Boston Marathon bombings media coverage tied to acute stress",
+          "publisher": "UC Irvine",
+          "url": "https://ps.soceco.uci.edu/news/prolonged-viewing-boston-marathon-bombings-media-coverage-tied-acute-stress"
+        }
+      ]
+    },
+    {
+      "text": "Walden, publié en 1854 par Henry David Thoreau, relate environ deux années passées dans une cabane construite par l'auteur au bord de l'étang de Walden, dans le Massachusetts.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Walden",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Walden"
+        }
+      ]
+    },
+    {
+      "text": "Lors du débat télévisé d'entre-deux-tours du 10 mai 1974, le premier de ce type, Valéry Giscard d'Estaing a déclaré à François Mitterrand : « Vous n'avez pas, monsieur Mitterrand, le monopole du cœur. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "« Vous n'avez pas le monopole du cœur » : la réplique de Valéry Giscard d'Estaing était bien préparée",
+          "publisher": "Public Sénat",
+          "url": "https://www.publicsenat.fr/article/politique/vous-n-avez-pas-le-monopole-du-coeur-la-replique-de-valery-giscard-d-estaing-etait"
+        },
+        {
+          "title": "10 mai 1974",
+          "publisher": "Hérodote.net",
+          "url": "https://www.herodote.net/10_mai_1974-evenement-19740510.php"
+        }
+      ]
+    },
+    {
+      "text": "Lors du débat de 1981, François Mitterrand a qualifié Valéry Giscard d'Estaing d'« homme du passif ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Le débat Giscard-Mitterrand de 1981 (D. Labbé)",
+          "publisher": "HAL-SHS",
+          "url": "https://halshs.archives-ouvertes.fr/halshs-01719179v1/file/LabbeGiscardMitterrand1981.pdf"
+        },
+        {
+          "title": "French presidential debates",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/French_presidential_debates"
+        }
+      ]
+    },
+    {
+      "text": "Brady, Wills, Jost, Tucker et Van Bavel (PNAS, 2017) ont analysé plus d'un demi-million de tweets sur le contrôle des armes, le mariage homosexuel et le climat, et trouvé que chaque mot moral et émotionnel augmentait la diffusion d'environ 20 %.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emotion shapes the diffusion of moralized content in social networks",
+          "publisher": "PNAS / PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5514704"
+        }
+      ]
+    },
+    {
+      "text": "Le Journal officiel de la République française paraît presque tous les jours.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Journal officiel « Lois et Décrets »",
+          "publisher": "Légifrance",
+          "url": "https://www.legifrance.gouv.fr/jorf/jo/"
+        },
+        {
+          "title": "Journal officiel de la République française",
+          "publisher": "Revue française de généalogie",
+          "url": "https://www.rfgenealogie.com/node/2605"
+        }
+      ]
+    },
+    {
+      "text": "Depuis le 1er janvier 2018, onze vaccins sont obligatoires pour les enfants nés à partir de cette date, contre trois auparavant.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Obligation vaccinale : ce qui change au 1er janvier 2018",
+          "publisher": "Association des maires de France",
+          "url": "https://www.amf.asso.fr/documents-obligation-vaccinale-ce-qui-change-au-1er-janvier-2018/25078"
+        },
+        {
+          "title": "11 vaccins sont désormais obligatoires",
+          "publisher": "Weka",
+          "url": "https://www.weka.fr/actualite/?p=61319"
+        }
+      ]
+    },
+    {
+      "text": "Un décret de janvier 2013 a organisé le passage de l'école primaire à la semaine de quatre jours et demi ; un décret de juin 2017 a permis aux communes de revenir à quatre jours.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Question écrite n° 6485 et réponse ministérielle (XVIe législature)",
+          "publisher": "Assemblée nationale",
+          "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE6485.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La réforme des retraites de 2023, adoptée après recours à l'article 49.3 à l'Assemblée nationale, relève progressivement l'âge légal de départ de 62 à 64 ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Réforme des retraites : promulgation de la loi le 14 avril 2023",
+          "publisher": "La finance pour tous (IEFP)",
+          "url": "https://www.lafinancepourtous.com/2023/04/18/reforme-des-retraites-promulgation-de-la-loi-le-14-avril-2023/"
+        },
+        {
+          "title": "Question écrite n° 14570 (XVIIe législature)",
+          "publisher": "Assemblée nationale",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14570.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Le plan local d'urbanisme est voté par le conseil municipal ou par l'intercommunalité compétente.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Délibération d'approbation de la révision du PLU (3 février 2025)",
+          "publisher": "Ville d'Évian-les-Bains",
+          "url": "https://ville-evian.fr/content/uploads/2025/02/74119_delib_approbation_20250203.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Les études de l'INSEE sur la participation électorale montrent que les jeunes votent nettement moins que les électeurs plus âgés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Vingt ans de participation électorale (Insee Première n° 1929)",
+          "publisher": "Insee",
+          "url": "https://www.insee.fr/fr/statistiques/6658143"
+        },
+        {
+          "title": "Élections présidentielle et législatives de 2022 : seul un tiers des électeurs a voté à tous les tours (Insee Première n° 1928)",
+          "publisher": "Insee",
+          "url": "https://www.insee.fr/fr/statistiques/6658145"
+        }
+      ]
+    },
+    {
+      "text": "Une enquête publique d'urbanisme recueille les observations des habitants, et les séances du conseil municipal sont publiques en vertu de la loi (article L2121-18 du Code général des collectivités territoriales).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Question écrite de Mme Christine Herzog (21/07/2022)",
+          "publisher": "Sénat",
+          "url": "https://www.senat.fr/questions/base/2022/qSEQ220701635.html"
+        },
+        {
+          "title": "Code de l'environnement, article L123-1",
+          "publisher": "Légifrance",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033038596"
+        }
+      ]
+    },
+    {
+      "text": "Dans la Politique (livre I, chapitre 2), Aristote attribue l'autarcie à la cité et écrit que celui qui ne peut vivre en communauté ou n'en a pas besoin parce qu'il se suffit à lui-même est une bête ou un dieu.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Politics, Book I (trad. Benjamin Jowett)",
+          "publisher": "MIT Internet Classics Archive",
+          "url": "https://classics.mit.edu/Aristotle/politics.1.one.html"
+        },
+        {
+          "title": "Aristote, La cité et l'homme (Politique, I, chap. 2)",
+          "publisher": "Université Toulouse Capitole",
+          "url": "https://www.ut-capitole.fr/medias/fichier/aristote-la-cite-et-l-homme_1538056324586-doc"
+        }
+      ]
+    },
+    {
+      "text": "Le terrain de Walden appartenait à Ralph Waldo Emerson, l'étang était proche du bourg de Concord, et Thoreau écrit dans le chapitre « The Village » qu'il s'y rendait tous les jours ou tous les deux jours pour écouter les commérages.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Walden — The Village",
+          "publisher": "Standard Ebooks",
+          "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/text/the-village"
+        },
+        {
+          "title": "Walden",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Walden"
+        }
+      ]
+    },
+    {
+      "text": "Leonard Read a publié en 1958 l'essai I, Pencil, selon lequel personne ne sait fabriquer seul un crayon, dont les matériaux proviennent de savoir-faire dispersés dans le monde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "I, Pencil",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/I,_Pencil"
+        }
+      ]
+    },
+    {
+      "text": "À la fin des années 2000, le designer britannique Thomas Thwaites a tenté de fabriquer un grille-pain à partir de matières premières, minerai compris, et n'a obtenu qu'un objet rudimentaire ayant fonctionné quelques secondes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Toaster Project by Thomas Thwaites",
+          "publisher": "Dezeen",
+          "url": "https://www.dezeen.com/2009/06/27/the-toaster-project-by-thomas-thwaites/"
+        },
+        {
+          "title": "But Did it Toast?",
+          "publisher": "Econlib",
+          "url": "https://www.econlib.org/archives/2013/07/but_did_it_toas.html"
+        }
+      ]
+    },
+    {
+      "text": "Depuis le 1er janvier 2009, tout puits ou forage à usage domestique doit être déclaré en mairie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Procédure de déclaration des prélèvements à usage domestique",
+          "publisher": "Préfecture du Loiret",
+          "url": "https://www.loiret.gouv.fr/contenu/telechargement/70706/551582/file/PROCEDURE_declarationUsagesDomestiques.pdf"
+        },
+        {
+          "title": "Question écrite n° 23996 (XIVe législature)",
+          "publisher": "Assemblée nationale",
+          "url": "https://www.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE23996.pdf"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": {
+    "title": "Ruissellement et premiers de cordée : la réussite des plus riches profite-t-elle à tous ?",
+    "url": "https://www.youtube.com/watch?v=BRlmf9tRcd0"
+  },
+  "shorts": [],
+  "corrections": []
+}
