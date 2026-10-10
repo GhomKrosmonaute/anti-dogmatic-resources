@@ -1,12 +1,37 @@
 {
   "version": 2,
-  "total": 61,
+  "total": 62,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "la-hijama-guerit-elle-vraiment-d33e",
+      "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",
+      "format": "video",
+      "publishedAt": "2026-10-01T17:30:10.000Z",
+      "durationSeconds": 628,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "aIAywoU0Png",
+        "url": "https://www.youtube.com/watch?v=aIAywoU0Png",
+        "thumbnail": "https://i.ytimg.com/vi/aIAywoU0Png/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-hijama-guerit-elle-vraiment-d33e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-hijama-guerit-elle-vraiment-d33e.json"
+      }
+    },
     {
       "id": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
       "title": "Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l'homme aux deux cornes d'Al-Kahf",

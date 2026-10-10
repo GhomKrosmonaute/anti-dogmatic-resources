@@ -1,9 +1,510 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-10T16:16:06.015Z",
+  "generatedAt": "2026-10-10T17:01:17.322Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-societes-secretes-qui-dirigeraient-le-monde-3da2",
+      "title": "Illuminati, francs-maçons, Bilderberg : qui dirige vraiment le monde en secret ?",
+      "format": "video",
+      "publishedAt": "2026-10-10T17:00:17.193Z",
+      "durationSeconds": 752,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Des sociétés secrètes comme les Illuminati, la franc-maçonnerie ou le groupe Bilderberg dirigent le monde en coulisses.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Les Illuminati ont existé, les loges et Bilderberg existent et l'influence des élites est réelle, mais rien ne forme un gouvernement occulte. L'ordre bavarois a été démantelé moins de dix ans après sa fondation et ses archives publiées, tandis que les réseaux secrets réels, de l'affaire des fiches à la loge P2, ont été découverts, jugés ou dissous."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hGWSoO8v5Uk",
+        "url": "https://www.youtube.com/watch?v=hGWSoO8v5Uk",
+        "thumbnail": "https://i.ytimg.com/vi/hGWSoO8v5Uk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-societes-secretes-qui-dirigeraient-le-monde-3da2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-societes-secretes-qui-dirigeraient-le-monde-3da2.json"
+      },
+      "facts": [
+        {
+          "text": "L'ordre des Illuminati est fondé le 1er mai 1776 à Ingolstadt par Adam Weishaupt, professeur de droit canon, d'abord sous un autre nom.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Illuminati",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Illuminati"
+            },
+            {
+              "title": "1776 – LMU history",
+              "publisher": "Ludwig-Maximilians-Universität München",
+              "url": "https://www.lmu.de/en/about-lmu/lmu-at-a-glance/history/1776/index.html"
+            }
+          ]
+        },
+        {
+          "text": "Adam Weishaupt, né en février 1748, avait vingt-huit ans en mai 1776.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Adam Weishaupt",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Adam_Weishaupt"
+            },
+            {
+              "title": "Illuminati",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/07661b.htm"
+            }
+          ]
+        },
+        {
+          "text": "Les membres des Illuminati utilisaient des pseudonymes antiques ; Weishaupt signait Spartacus ; l'ordre recrutait dans les loges maçonniques et les membres des grades inférieurs ignoraient qui dirigeait l'ensemble.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Illuminati",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Illuminati"
+            },
+            {
+              "title": "Profile: Adam Weishaupt and the Illuminati secret society",
+              "publisher": "National Geographic",
+              "url": "https://www.nationalgeographic.com/history/history-magazine/article/profile-adam-weishaupt-illuminati-secret-society"
+            }
+          ]
+        },
+        {
+          "text": "L'abbé Augustin Barruel publie en 1797 les Mémoires pour servir à l'histoire du jacobinisme, attribuant la Révolution française à un complot des philosophes, des francs-maçons et des Illuminati.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Memoirs Illustrating the History of Jacobinism",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Memoirs_Illustrating_the_History_of_Jacobinism"
+            }
+          ]
+        },
+        {
+          "text": "Le revers du grand sceau des États-Unis, reproduit sur le billet d'un dollar, montre une pyramide inachevée, l'œil de la Providence, la date 1776 en chiffres romains et la devise Novus ordo seclorum.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Eye of Providence – The Great Seal",
+              "publisher": "GreatSeal.com",
+              "url": "https://www.greatseal.com/symbols/eye.html"
+            },
+            {
+              "title": "Report on the Great Seal",
+              "publisher": "National Archives (DocsTeach)",
+              "url": "https://docsteach.org/document/report-great-seal/"
+            },
+            {
+              "title": "Novus ordo seclorum",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Novus_ordo_seclorum"
+            }
+          ]
+        },
+        {
+          "text": "Le grand sceau des États-Unis est adopté par le Congrès en 1782 ; la date 1776 renvoie à la Déclaration d'indépendance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Report on the Great Seal",
+              "publisher": "National Archives (DocsTeach)",
+              "url": "https://docsteach.org/document/report-great-seal/"
+            },
+            {
+              "title": "Eye of Providence – The Great Seal",
+              "publisher": "GreatSeal.com",
+              "url": "https://www.greatseal.com/symbols/eye.html"
+            }
+          ]
+        },
+        {
+          "text": "L'œil de la Providence est un motif de l'iconographie chrétienne antérieur au sceau américain.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Eye of Providence",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Eye_of_Providence"
+            },
+            {
+              "title": "The Eye of Providence",
+              "publisher": "Scottish Rite NMJ",
+              "url": "https://scottishritenmj.org/blog/blogs-eye-of-providence"
+            }
+          ]
+        },
+        {
+          "text": "La devise Novus ordo seclorum est adaptée du vers 5 de la quatrième Bucolique de Virgile (Magnus ab integro saeclorum nascitur ordo).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Novus Ordo Seclorum – Virgil source",
+              "publisher": "GreatSeal.com",
+              "url": "https://greatseal.com/mottoes/seclorumvirgil.html"
+            },
+            {
+              "title": "Novus ordo seclorum",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Novus_ordo_seclorum"
+            }
+          ]
+        },
+        {
+          "text": "George Washington était franc-maçon et a prêté serment en 1789 sur une Bible prêtée par la loge Saint John's de New York.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The George Washington Inaugural Bible",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/feha/learn/historyculture/george-washington-inaugural-bible.htm"
+            },
+            {
+              "title": "George Washington the Mason",
+              "publisher": "George Washington Masonic National Memorial",
+              "url": "https://gwmemorial.org/pages/george-washington-the-mason"
+            }
+          ]
+        },
+        {
+          "text": "Sous la Troisième République, des loges maçonniques françaises ont pesé dans les combats laïques jusqu'à la loi de séparation des Églises et de l'État.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Grand Orient de France",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Grand_Orient_de_France"
+            },
+            {
+              "title": "4 novembre 1904 : l'affaire des fiches",
+              "publisher": "Herodote.net",
+              "url": "https://www.herodote.net/4_novembre_1904-evenement-19041104.php"
+            }
+          ]
+        },
+        {
+          "text": "Le groupe Bilderberg tient sa première réunion en mai 1954 à l'hôtel de Bilderberg, à Oosterbeek, aux Pays-Bas, et réunit chaque année environ 120 à 140 participants.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bilderberg Meeting",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bilderberg_Meeting"
+            },
+            {
+              "title": "Secretive Montreux meeting: what and who is Bilderberg",
+              "publisher": "Swissinfo",
+              "url": "https://www.swissinfo.ch/eng/politics/secretive-montreux-meeting_what-and-who-is-bilderberg/44997466"
+            }
+          ]
+        },
+        {
+          "text": "Bill Clinton a participé à la réunion Bilderberg de 1991 alors qu'il était gouverneur de l'Arkansas, et a été élu président en 1992.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bilderberg Conferences – Collection Finding Aid",
+              "publisher": "Clinton Presidential Library",
+              "url": "https://clinton.presidentiallibraries.us/items/show/36014"
+            },
+            {
+              "title": "Bilderberg: World's most powerful flock to annual secret meeting",
+              "publisher": "CNBC",
+              "url": "https://www.cnbc.com/2016/06/08/bilderberg-worlds-most-powerful-flock-to-annual-secret-meeting.html"
+            }
+          ]
+        },
+        {
+          "text": "Tony Blair a participé à la réunion Bilderberg de 1993 alors qu'il était dans l'opposition, et est devenu Premier ministre en 1997.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The secretive history of Bilderberg",
+              "publisher": "Newstalk",
+              "url": "https://www.newstalk.com/business/bilderberg-history-532933"
+            },
+            {
+              "title": "Bilderberg: World's most powerful flock to annual secret meeting",
+              "publisher": "CNBC",
+              "url": "https://www.cnbc.com/2016/06/08/bilderberg-worlds-most-powerful-flock-to-annual-secret-meeting.html"
+            }
+          ]
+        },
+        {
+          "text": "En mars 1981, la police italienne saisit la liste des membres de la loge P2, comprenant des parlementaires, des généraux, les chefs des services de renseignement et des banquiers, lors d'une enquête de juges sur Michele Sindona.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quarant'anni fa la scoperta della loggia P2",
+              "publisher": "Il Post",
+              "url": "https://www.ilpost.it/2021/03/17/loggia-p2/"
+            },
+            {
+              "title": "P2, quarant'anni fa la scoperta degli iscritti alla loggia di Licio Gelli",
+              "publisher": "Il Fatto Quotidiano",
+              "url": "https://www.ilfattoquotidiano.it/2021/03/17/p2-quarantanni-fa-la-scoperta-degli-iscritti-alla-loggia-di-licio-gelli-ecco-perche-gli-elenchi-con-962-nomi-non-erano-completi/6134635/"
+            }
+          ]
+        },
+        {
+          "text": "Une commission parlementaire présidée par Tina Anselmi enquête sur la P2, dissoute par une loi italienne en 1982.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Legge Anselmi-Spadolini contro la P2",
+              "publisher": "Il Sussidiario",
+              "url": "https://www.ilsussidiario.net/news/legge-anselmi-spadolini-contro-la-p2-cose-la-loggia-massonica-dello-scandalo-inchiesta-e-scioglimento/2726707/"
+            },
+            {
+              "title": "Loggia P2: le conclusioni della commissione Anselmi",
+              "publisher": "Filodiritto",
+              "url": "https://www.filodiritto.com/loggia-p2-le-conclusioni-della-commissione-anselmi"
+            }
+          ]
+        },
+        {
+          "text": "Le 2 mars 1785, un édit du prince-électeur Charles-Théodore de Bavière interdit nommément les Illuminati et les francs-maçons.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Bavarian Illuminati",
+              "publisher": "Bitter Winter",
+              "url": "https://bitterwinter.org/?p=28889"
+            },
+            {
+              "title": "Illuminati",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Illuminati"
+            }
+          ]
+        },
+        {
+          "text": "En 1786, la police bavaroise saisit les papiers de Xaver von Zwackh ; le gouvernement bavarois les publie en 1787.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Online Books by Illuminatenorden",
+              "publisher": "University of Pennsylvania – Online Books Page",
+              "url": "https://onlinebooks.library.upenn.edu/webbin/who/Illuminatenorden"
+            },
+            {
+              "title": "Illuminati",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Illuminati"
+            }
+          ]
+        },
+        {
+          "text": "Weishaupt se réfugie à Gotha sous la protection du duc Ernest II et y meurt en 1830.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Adam Weishaupt",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Adam_Weishaupt"
+            },
+            {
+              "title": "Illuminati",
+              "publisher": "Catholic Encyclopedia (New Advent)",
+              "url": "https://www.newadvent.org/cathen/07661b.htm"
+            }
+          ]
+        },
+        {
+          "text": "L'ordre des Illuminati comptait au plus quelques milliers de membres et a été démantelé moins de dix ans après sa fondation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Illuminati",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Illuminati"
+            },
+            {
+              "title": "Profile: Adam Weishaupt and the Illuminati secret society",
+              "publisher": "National Geographic",
+              "url": "https://www.nationalgeographic.com/history/history-magazine/article/profile-adam-weishaupt-illuminati-secret-society"
+            },
+            {
+              "title": "250 years of the Order of the Illuminati: new research puts Gotha in the spotlight",
+              "publisher": "Universität Erfurt – Forschungsbibliothek Gotha",
+              "url": "https://www.uni-erfurt.de/en/gotha-research-library/library/current-events/news/newsdetail/250-years-of-the-order-of-the-illuminati-new-research-puts-gotha-in-the-spotlight"
+            }
+          ]
+        },
+        {
+          "text": "Aucun historien n'a établi de continuité entre l'ordre de Weishaupt et les groupes qui ont repris le nom d'Illuminati par la suite.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Illuminati",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Illuminati"
+            },
+            {
+              "title": "250 years of the Order of the Illuminati: new research puts Gotha in the spotlight",
+              "publisher": "Universität Erfurt – Forschungsbibliothek Gotha",
+              "url": "https://www.uni-erfurt.de/en/gotha-research-library/library/current-events/news/newsdetail/250-years-of-the-order-of-the-illuminati-new-research-puts-gotha-in-the-spotlight"
+            },
+            {
+              "title": "What Is the Illuminati?",
+              "publisher": "Live Science",
+              "url": "https://www.livescience.com/40048-what-is-the-illuminati.html"
+            }
+          ]
+        },
+        {
+          "text": "La trilogie satirique Illuminatus!, de Robert Shea et Robert Anton Wilson, est publiée en 1975 et a nourri le folklore moderne des Illuminati.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Illuminatus! Trilogy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy"
+            },
+            {
+              "title": "Robert Anton Wilson and the Illuminati",
+              "publisher": "Reason",
+              "url": "https://reason.com/news/show/28961.html"
+            },
+            {
+              "title": "Shea, Robert",
+              "publisher": "The Encyclopedia of Science Fiction",
+              "url": "https://sf-encyclopedia.com/entry/shea_robert"
+            }
+          ]
+        },
+        {
+          "text": "La première Grande Loge maçonnique se forme à Londres au début du XVIIIe siècle et publie ses Constitutions en 1723.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Anderson's Constitutions",
+              "publisher": "Museum of Freemasonry (Londres)",
+              "url": "https://museumfreemasonry.org.uk/node/1367"
+            },
+            {
+              "title": "Premier Grand Lodge of England",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Premier_Grand_Lodge_of_England"
+            }
+          ]
+        },
+        {
+          "text": "Le Grand Orient de France gère un musée de la franc-maçonnerie rue Cadet, à Paris.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Musée de la franc-maçonnerie",
+              "publisher": "Fondation Napoléon",
+              "url": "https://www.napoleon.org/magazine/lieux/musee-de-la-franc-maconnerie/"
+            },
+            {
+              "title": "Musée de la Franc-Maçonnerie",
+              "publisher": "Musée de la Franc-Maçonnerie (GODF)",
+              "url": "https://www.museefm.org/english.htm"
+            }
+          ]
+        },
+        {
+          "text": "En 1877, le Grand Orient de France supprime l'obligation de croire en Dieu, ce qui entraîne la rupture avec la maçonnerie anglaise.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "franc-maçonnerie",
+              "publisher": "Larousse",
+              "url": "https://www.larousse.fr/dictionnaires/college/franc-ma%C3%A7onnerie/17165"
+            },
+            {
+              "title": "Grand Orient de France",
+              "publisher": "Wikipédia",
+              "url": "https://fr.wikipedia.org/wiki/Grand_Orient_de_France"
+            },
+            {
+              "title": "Masonic Magazine, avril 1878",
+              "publisher": "King's College London – Masonic Periodicals Online",
+              "url": "https://mpol-os.kdl.kcl.ac.uk/static/media/periodicals/119-MMG-1878-04-01-001-SINGLE.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Affaire des fiches (1904) : le ministère de la Guerre utilisait des fiches collectées par le Grand Orient pour freiner l'avancement d'officiers catholiques ; le général André démissionne après la révélation du scandale à la Chambre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Affair of the Cards",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Affair_of_the_Cards"
+            },
+            {
+              "title": "4 novembre 1904 : l'affaire des fiches",
+              "publisher": "Herodote.net",
+              "url": "https://www.herodote.net/4_novembre_1904-evenement-19041104.php"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": {
+        "title": "One Piece, Naruto, Bleach : les mangas montrent-ils qui dirige vraiment notre monde ?",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "la-numerologie-a783",
       "title": "Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?",

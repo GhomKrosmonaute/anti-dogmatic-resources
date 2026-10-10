@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "les-societes-secretes-qui-dirigeraient-le-monde-3da2",
+      "title": "Illuminati, francs-maçons, Bilderberg : qui dirige vraiment le monde en secret ?",
+      "format": "video",
+      "publishedAt": "2026-10-10T17:00:17.193Z",
+      "durationSeconds": 752,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Des sociétés secrètes comme les Illuminati, la franc-maçonnerie ou le groupe Bilderberg dirigent le monde en coulisses.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "hGWSoO8v5Uk",
+        "url": "https://www.youtube.com/watch?v=hGWSoO8v5Uk",
+        "thumbnail": "https://i.ytimg.com/vi/hGWSoO8v5Uk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-societes-secretes-qui-dirigeraient-le-monde-3da2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-societes-secretes-qui-dirigeraient-le-monde-3da2.json"
+      }
+    },
+    {
       "id": "les-religions-dans-les-mangas-e696",
       "title": "Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?",
       "format": "video",
