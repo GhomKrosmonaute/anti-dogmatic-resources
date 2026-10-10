@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 60,
+  "total": 61,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "la-numerologie-a783",
+      "title": "Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?",
+      "format": "short",
+      "publishedAt": "2026-10-10T16:15:05.025Z",
+      "durationSeconds": 125,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Le nombre obtenu en additionnant les chiffres de ta date de naissance, ton chemin de vie, révèle ta personnalité et ton destin, selon une sagesse héritée de Pythagore.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xOD7eSbJjpA",
+        "url": "https://www.youtube.com/watch?v=xOD7eSbJjpA",
+        "thumbnail": "https://i.ytimg.com/vi/xOD7eSbJjpA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-numerologie-a783.json"
+      }
+    },
     {
       "id": "mercure-retrograde-b685",
       "title": "Mercure rétrograde : pourquoi tout va de travers pendant cette période ?",
@@ -1830,48 +1872,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-hijama-guerit-elle-vraiment-d33e/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-hijama-guerit-elle-vraiment-d33e.json"
-      }
-    },
-    {
-      "id": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
-      "title": "Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l'homme aux deux cornes d'Al-Kahf",
-      "format": "video",
-      "publishedAt": "2026-10-01T12:30:09.440Z",
-      "durationSeconds": 656,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Dhul-Qarnayn, l'homme aux deux cornes de la sourate Al-Kahf, est un personnage historique identifiable (Alexandre le Grand ou Cyrus le Grand) dont le Coran rapporte les voyages, la rencontre avec Gog et Magog et la construction d'une muraille de fer et de cuivre, qui existerait encore quelque part.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "w2FtBMp_kSg",
-        "url": "https://www.youtube.com/watch?v=w2FtBMp_kSg",
-        "thumbnail": "https://i.ytimg.com/vi/w2FtBMp_kSg/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0.json"
       }
     }
   ]

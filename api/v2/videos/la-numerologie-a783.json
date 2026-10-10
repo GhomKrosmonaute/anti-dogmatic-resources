@@ -1,0 +1,216 @@
+{
+  "version": 2,
+  "id": "la-numerologie-a783",
+  "title": "Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?",
+  "format": "short",
+  "publishedAt": "2026-10-10T16:15:05.025Z",
+  "durationSeconds": 125,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Le nombre obtenu en additionnant les chiffres de ta date de naissance, ton chemin de vie, révèle ta personnalité et ton destin, selon une sagesse héritée de Pythagore.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Le chemin de vie n'a rien de pythagoricien : il repose sur des chiffres et un calendrier que Pythagore ne connaissait pas, et une même date donne des résultats différents selon l'école ou le calendrier utilisé. L'impression de justesse s'explique par l'effet Forer : une description vague et flatteuse semble personnelle à presque tout le monde."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "numerologie",
+      "name": "Les coïncidences comptées"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "xOD7eSbJjpA",
+    "url": "https://www.youtube.com/watch?v=xOD7eSbJjpA",
+    "thumbnail": "https://i.ytimg.com/vi/xOD7eSbJjpA/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-numerologie-a783.json"
+  },
+  "facts": [
+    {
+      "text": "Le calcul courant du chemin de vie additionne tous les chiffres de la date de naissance puis réduit le total à un seul chiffre : le 2 novembre 1989 donne 31, puis 4.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Calcul du chemin de vie en numérologie",
+          "publisher": "CalcForLife",
+          "url": "https://calcforlife.com/fr/calcul-chemin-de-vie/"
+        }
+      ]
+    },
+    {
+      "text": "Dans les descriptions numérologiques courantes, le chemin de vie 4 est celui du « bâtisseur », présenté comme méthodique, fiable et exigeant envers lui-même.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Numérologie : chemin de vie 4",
+          "publisher": "Noovo Moi",
+          "url": "https://www.noovomoi.ca/horoscope/numerologie/4.html"
+        }
+      ]
+    },
+    {
+      "text": "La numérologie du chemin de vie se réclame de Pythagore ; Aristote (Métaphysique, livre A, 5, 985b-986a) attribue aux pythagoriciens l'idée que les principes des nombres sont les principes de toutes choses, souvent résumée par « tout est nombre ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Aristotle, Metaphysics, Book I, chapter 5 (Greek, Latin, English)",
+          "publisher": "Logic Museum",
+          "url": "https://www.logicmuseum.com/wiki/Authors/Aristotle/metaphysics/l1/c5"
+        },
+        {
+          "title": "Aristotle – Quotations",
+          "publisher": "MacTutor History of Mathematics, University of St Andrews",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/quotations/"
+        }
+      ]
+    },
+    {
+      "text": "Pythagore n'a laissé aucun écrit ; on ne le connaît que par des sources postérieures.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pythagoras",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/ENTRIES/pythagoras/"
+        },
+        {
+          "title": "Pythagoras (Internet Encyclopedia of Philosophy, copie universitaire)",
+          "publisher": "University of Massachusetts Boston / IEP",
+          "url": "https://www.faculty.umb.edu/gary_zabel/Courses/Phil%20281b/Philosophy%20of%20Magic/Philosophy%20Texts/Pythagoras/pythagor.htm"
+        }
+      ]
+    },
+    {
+      "text": "Les Grecs de l'époque de Pythagore (VIe siècle av. J.-C.) n'utilisaient pas la numération décimale de position avec zéro (chiffres dits indo-arabes), qui se diffuse en Europe notamment grâce au Liber Abaci de Fibonacci, en 1202.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Greek number systems",
+          "publisher": "MacTutor History of Mathematics, University of St Andrews",
+          "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Greek_numbers/"
+        },
+        {
+          "title": "Fibonacci",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fibonacci"
+        }
+      ]
+    },
+    {
+      "text": "Certaines écoles de numérologie réduisent séparément le jour, le mois et l'année en conservant les nombres maîtres (11, 22, 33) ; avec cette méthode, le 2 novembre 1989 donne 2 + 11 + 9 = 22 au lieu de 4.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life Path Number Calculator",
+          "publisher": "101 Planners",
+          "url": "https://www.101planners.com/numerology/life-path-number-calculator/"
+        }
+      ]
+    },
+    {
+      "text": "Un même jour porte une date différente, donc d'autres chiffres, dans le calendrier hégirien.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hijri 4/4/1410 to Gregorian converter",
+          "publisher": "DateHijri",
+          "url": "https://datehijri.com/en/hijri4-4-1410togregorianconverter.html"
+        }
+      ]
+    },
+    {
+      "text": "En 1949, Bertram Forer a remis à ses étudiants une même description de personnalité, présentée comme individuelle et composée en grande partie d'énoncés tirés d'un livre d'astrologie (Forer, « The fallacy of personal validation: a classroom demonstration of gullibility », Journal of Abnormal and Social Psychology, 1949, vol. 44, p. 118-123).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "Forer effect",
+          "publisher": "The Skeptic's Dictionary (Robert T. Carroll)",
+          "url": "https://skepdic.com/forer.html"
+        }
+      ]
+    },
+    {
+      "text": "Parmi les énoncés de Forer figure « You have a tendency to be critical of yourself », traduit dans la vidéo par « Tu as tendance à être critique envers toi-même ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "Forer effect",
+          "publisher": "The Skeptic's Dictionary (Robert T. Carroll)",
+          "url": "https://skepdic.com/forer.html"
+        }
+      ]
+    },
+    {
+      "text": "La note moyenne d'exactitude attribuée par les étudiants de Forer dépassait 4 sur une échelle de 0 à 5 (environ 4,26).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Forer effect",
+          "publisher": "The Skeptic's Dictionary (Robert T. Carroll)",
+          "url": "https://skepdic.com/forer.html"
+        },
+        {
+          "title": "Bertram Forer",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bertram_Forer"
+        }
+      ]
+    },
+    {
+      "text": "Le calendrier grégorien a été instauré en 1582 par la bulle Inter gravissimas du pape Grégoire XIII, notamment pour recaler le calcul de la date de Pâques sur l'équinoxe de printemps.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Inter gravissimas",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Inter_gravissimas"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

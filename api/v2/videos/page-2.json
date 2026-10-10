@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 60,
+  "total": 61,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0",
+      "title": "Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l'homme aux deux cornes d'Al-Kahf",
+      "format": "video",
+      "publishedAt": "2026-10-01T12:30:09.440Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Dhul-Qarnayn, l'homme aux deux cornes de la sourate Al-Kahf, est un personnage historique identifiable (Alexandre le Grand ou Cyrus le Grand) dont le Coran rapporte les voyages, la rencontre avec Gog et Magog et la construction d'une muraille de fer et de cuivre, qui existerait encore quelque part.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "w2FtBMp_kSg",
+        "url": "https://www.youtube.com/watch?v=w2FtBMp_kSg",
+        "thumbnail": "https://i.ytimg.com/vi/w2FtBMp_kSg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0.json"
+      }
+    },
     {
       "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
       "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",

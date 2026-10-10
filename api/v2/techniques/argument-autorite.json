@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "la-numerologie-a783",
+      "title": "Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?",
+      "format": "short",
+      "publishedAt": "2026-10-10T16:15:05.025Z",
+      "durationSeconds": 125,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Le nombre obtenu en additionnant les chiffres de ta date de naissance, ton chemin de vie, révèle ta personnalité et ton destin, selon une sagesse héritée de Pythagore.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xOD7eSbJjpA",
+        "url": "https://www.youtube.com/watch?v=xOD7eSbJjpA",
+        "thumbnail": "https://i.ytimg.com/vi/xOD7eSbJjpA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-numerologie-a783.json"
+      }
+    },
+    {
       "id": "l-histoire-du-satanisme-da7b",
       "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
       "format": "video",

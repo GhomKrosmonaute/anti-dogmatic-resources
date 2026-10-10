@@ -6,7 +6,19 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sat, 10 Oct 2026 12:16:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 16:16:06 GMT</lastBuildDate>
+<item>
+<title>Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/</guid>
+<pubDate>Sat, 10 Oct 2026 16:15:05 GMT</pubDate>
+<description>Faux : « Le nombre obtenu en additionnant les chiffres de ta date de naissance, ton chemin de vie, révèle ta personnalité et ton destin, selon une sagesse héritée de Pythagore. ». Le chemin de vie n&apos;a rien de pythagoricien : il repose sur des chiffres et un calendrier que Pythagore ne connaissait pas, et une même date donne des résultats différents selon l&apos;école ou le calendrier utilisé. L&apos;impression de justesse s&apos;explique par l&apos;effet Forer : une description vague et flatteuse semble personnelle à presque tout le monde.</description>
+<category>Les coïncidences comptées</category>
+<category>L&apos;argument d&apos;autorité</category>
+<category>L&apos;appel à l&apos;ancienneté</category>
+<category>Pseudo-sciences et charlatans</category>
+<category>Short</category>
+</item>
 <item>
 <title>Mercure rétrograde : pourquoi tout va de travers pendant cette période ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/mercure-retrograde-b685/</link>
@@ -509,17 +521,6 @@
 <pubDate>Thu, 01 Oct 2026 17:30:10 GMT</pubDate>
 <description>La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science</description>
 <category>Pseudo-sciences et charlatans</category>
-</item>
-<item>
-<title>Qui était vraiment Dhul-Qarnayn ? Alexandre, Cyrus… l&apos;homme aux deux cornes d&apos;Al-Kahf</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/</guid>
-<pubDate>Thu, 01 Oct 2026 12:30:09 GMT</pubDate>
-<description>Faux : « Dhul-Qarnayn, l&apos;homme aux deux cornes de la sourate Al-Kahf, est un personnage historique identifiable (Alexandre le Grand ou Cyrus le Grand) dont le Coran rapporte les voyages, la rencontre avec Gog et Magog et la construction d&apos;une muraille de fer et de cuivre, qui existerait encore quelque part. ». La vidéo montre qu&apos;Alexandre comme Cyrus ne correspondent pas au portrait coranique : le premier honorait les dieux grecs, le second invoquait Marduk et son empire est écrasé par Alexandre dans Daniel 8. Sa raison la plus forte est que le récit coranique reprend presque point par point la légende syriaque d&apos;Alexandre, rédigée vers 630, avec les mêmes étapes, les mêmes métaux et la même prophétie. Le soleil qui se couche dans une source est contredit par l&apos;astronomie, et aucune muraille de fer et de cuivre n&apos;apparaît sur les images satellites.</description>
-<category>L&apos;argument d&apos;autorité</category>
-<category>La relecture après coup</category>
-<category>La chaîne de témoins comme preuve</category>
-<category>Religions</category>
 </item>
 </channel>
 </rss>
