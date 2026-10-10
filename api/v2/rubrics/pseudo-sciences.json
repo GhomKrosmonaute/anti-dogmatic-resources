@@ -5,6 +5,48 @@
   "description": "astrologie, voyance, numérologie, tarot, médecines alternatives, bullshit quantique, lithothérapie, développement personnel",
   "items": [
     {
+      "id": "lithotherapie-4789",
+      "title": "Lithothérapie : les pierres ont-elles vraiment un pouvoir ? Améthyste, quartz rose, labradorite",
+      "format": "short",
+      "publishedAt": "2026-10-10T10:45:12.512Z",
+      "durationSeconds": 129,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Chaque pierre vibre à sa propre fréquence et agit sur le corps et les émotions : l'améthyste apaise, le quartz rose ouvre le cœur, la labradorite protège des énergies des autres.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "OVxblsDZ_C8",
+        "url": "https://www.youtube.com/watch?v=OVxblsDZ_C8",
+        "thumbnail": "https://i.ytimg.com/vi/OVxblsDZ_C8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lithotherapie-4789/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/lithotherapie-4789.json"
+      }
+    },
+    {
       "id": "l-acupuncture-a-l-epreuve-des-faits-3acc",
       "title": "L'acupuncture, ça marche vraiment ? Méridiens, énergie qi et ce qu'en dit la science",
       "format": "video",

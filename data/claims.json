@@ -1,9 +1,248 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T16:16:33.646Z",
+  "generatedAt": "2026-10-10T10:46:12.634Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "lithotherapie-4789",
+      "title": "Lithothérapie : les pierres ont-elles vraiment un pouvoir ? Améthyste, quartz rose, labradorite",
+      "format": "short",
+      "publishedAt": "2026-10-10T10:45:12.512Z",
+      "durationSeconds": 129,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Chaque pierre vibre à sa propre fréquence et agit sur le corps et les émotions : l'améthyste apaise, le quartz rose ouvre le cœur, la labradorite protège des énergies des autres.",
+        "verdict": "faux",
+        "verdictLabel": "Faux",
+        "summary": "La vidéo conclut que les effets attribués aux pierres ne viennent pas des pierres. Dans l'expérience présentée en 2001 par Christopher French et ses collègues, des volontaires tenant une imitation ont décrit les mêmes sensations que ceux tenant un vrai quartz ; ces ressentis relèvent de l'effet placebo et de l'attente, et le quartz ne vibre que lorsqu'un circuit électrique l'y force."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "OVxblsDZ_C8",
+        "url": "https://www.youtube.com/watch?v=OVxblsDZ_C8",
+        "thumbnail": "https://i.ytimg.com/vi/OVxblsDZ_C8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lithotherapie-4789/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/lithotherapie-4789.json"
+      },
+      "facts": [
+        {
+          "text": "Le mot « améthyste » vient du grec amethystos, qui signifie « qui n'est pas ivre ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "amethyst – Etymology",
+              "publisher": "Online Etymology Dictionary",
+              "url": "https://etymonline.com/word/amethyst"
+            }
+          ]
+        },
+        {
+          "text": "Dans le commerce de la lithothérapie, l'améthyste est présentée comme apaisante, le quartz rose comme liée au cœur et à l'amour, et la labradorite comme protectrice contre les énergies d'autrui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "La lithothérapie : tout savoir sur les bienfaits des pierres et cristaux",
+              "publisher": "Croq'Kilos",
+              "url": "https://www.croq-kilos.com/actus/la-lithotherapie-tout-savoir-sur-les-bienfaits-des-pierres-et-cristaux"
+            },
+            {
+              "title": "Les bienfaits de la labradorite : une pierre de protection et d'équilibre",
+              "publisher": "Croq'Kilos",
+              "url": "https://www.croq-kilos.com/actus/les-bienfaits-de-la-labradorite-une-pierre-de-protection-et-dequilibre"
+            }
+          ]
+        },
+        {
+          "text": "Le système moderne de la lithothérapie (vibrations, chakras, correspondances entre pierres et émotions) s'est structuré dans le mouvement New Age américain des années 1980.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "New Age movement – Realizing the New Age",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://britannica.com/topic/New-Age-movement/Realizing-the-New-Age"
+            },
+            {
+              "title": "Why Are Young People So Into Healing Crystals?",
+              "publisher": "Pacific Standard",
+              "url": "https://psmag.com/news/why-are-young-people-so-into-healing-crystals"
+            }
+          ]
+        },
+        {
+          "text": "Katrina Raphaell a publié Crystal Enlightenment en 1985.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Crystal enlightenment: the transforming properties of crystals and healing stones",
+              "publisher": "Marmot Library Network (catalogue)",
+              "url": "https://wilkinson.marmot.org/GroupedWork/254065d6-1b11-bd15-6775-1763c15f20a2"
+            },
+            {
+              "title": "Crystal enlightenment The transforming properties of crystals and healing stones",
+              "publisher": "Iowa City Public Library (catalogue)",
+              "url": "https://search.icpl.org/Record/1029054"
+            }
+          ]
+        },
+        {
+          "text": "L'améthyste et le quartz rose sont deux variétés du même minéral, le quartz, dont la couleur provient d'impuretés ou d'inclusions différentes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rose Quartz Description",
+              "publisher": "Gemological Institute of America (GIA)",
+              "url": "https://www.gia.edu/articles/rose-quartz-description"
+            },
+            {
+              "title": "Amethyst",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Amethyst"
+            }
+          ]
+        },
+        {
+          "text": "Dans une montre à quartz, le cristal oscille parce qu'un circuit alimenté par une pile lui applique une tension électrique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "How a Quartz Watch Works",
+              "publisher": "ASM International",
+              "url": "https://www.asminternational.org/?p=58244"
+            },
+            {
+              "title": "Quartz clock",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Quartz_clock"
+            }
+          ]
+        },
+        {
+          "text": "La piézoélectricité a été découverte par Pierre et Jacques Curie en 1880.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "This Month in Physics History – Discovery of piezoelectricity",
+              "publisher": "American Physical Society (APS News)",
+              "url": "https://www.aps.org/apsnews/2014/03/this-month-in-physics-history"
+            }
+          ]
+        },
+        {
+          "text": "En 2001, le psychologue Christopher French (Goldsmiths, Université de Londres) et ses collègues ont présenté une expérience sur la lithothérapie au congrès annuel de la British Psychological Society.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Crystal healing: I was perhaps not entirely correct about this therapy",
+              "publisher": "Edzard Ernst",
+              "url": "https://edzardernst.com/2022/07/crystal-healing-i-was-perhaps-not-entirely-correct-about-this-therapy/"
+            },
+            {
+              "title": "Crystal healing",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Crystal_healing"
+            }
+          ]
+        },
+        {
+          "text": "Dans cette expérience, 80 volontaires ont médité en tenant soit un vrai quartz, soit une imitation indiscernable, sans savoir lequel des deux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "You Asked: Do Healing Crystals Actually Work?",
+              "publisher": "Time",
+              "url": "https://time.com/4969680/do-crystals-work/"
+            },
+            {
+              "title": "Crystal Healing",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/crystal-healing/"
+            }
+          ]
+        },
+        {
+          "text": "Les sensations rapportées par les volontaires étaient les mêmes avec l'imitation qu'avec le vrai cristal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "You Asked: Do Healing Crystals Actually Work?",
+              "publisher": "Time",
+              "url": "https://time.com/4969680/do-crystals-work/"
+            },
+            {
+              "title": "Crystal Healing",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/crystal-healing/"
+            }
+          ]
+        },
+        {
+          "text": "Les sensations ressenties en tenant une pierre s'expliquent par l'effet placebo et l'attente du sujet, non par une propriété de la pierre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "You Asked: Do Healing Crystals Actually Work?",
+              "publisher": "Time",
+              "url": "https://time.com/4969680/do-crystals-work/"
+            },
+            {
+              "title": "Crystal Healing",
+              "publisher": "Science-Based Medicine",
+              "url": "https://sciencebasedmedicine.org/crystal-healing/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "Vibrations, chakras, une pierre par émotion : tout cela vient du New Age américain des années 1980, avec notamment Crystal Enlightenment, de Katrina Raphaell, en 1985.",
+            "note": "« Les années 1980 » situe le mouvement à la décennie près. L'argument, l'origine récente de cette « sagesse », ne dépend pas d'une date exacte. Le titre, l'autrice et l'année 1985 relèvent du fact-check."
+          },
+          {
+            "excerpt": "Quatre-vingts volontaires méditent en tenant soit un vrai quartz, soit une copie indiscernable, sans savoir lequel.",
+            "note": "L'effectif sert à montrer que l'expérience a été menée sur un groupe réel. La conclusion, des sensations identiques avec la copie, ne dépend pas du nombre exact de participants, que le fact-check vérifiera."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
       "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
@@ -881,7 +1120,13 @@
         "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
         "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Pourquoi les sorcières avouaient toutes le même sabbat",
+          "url": "https://www.youtube.com/watch?v=u4bo6znS38w",
+          "publishedAt": "2026-10-09T18:15:33.225Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -3129,7 +3374,13 @@
         "title": "Pourquoi s'attaquer à la foi des autres ? Zététique, sceptiques et The Satanic Temple",
         "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Les fact-checks corrigeaient Trump, ses électeurs n'ont pas bougé",
+          "url": "https://www.youtube.com/watch?v=odu_pOk6wAg",
+          "publishedAt": "2026-10-09T22:15:33.225Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -4530,7 +4781,18 @@
         "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
         "url": "https://www.youtube.com/watch?v=G1IOo80G-P8"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "11:11 sur ton téléphone : signe ou simple arithmétique ?",
+          "url": "https://www.youtube.com/watch?v=akns63re8is",
+          "publishedAt": "2026-10-10T02:15:33.225Z"
+        },
+        {
+          "title": "Lincoln et Kennedy : la coïncidence la plus célèbre a un trou",
+          "url": "https://www.youtube.com/watch?v=nSfrvJxf6ko",
+          "publishedAt": "2026-10-10T06:15:33.225Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -7266,7 +7528,13 @@
         "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
         "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Karma : pourquoi les pauvres et les malades l'auraient mérité",
+          "url": "https://www.youtube.com/watch?v=8i7RDDoG9EY",
+          "publishedAt": "2026-10-10T10:15:33.225Z"
+        }
+      ],
       "corrections": []
     },
     {
