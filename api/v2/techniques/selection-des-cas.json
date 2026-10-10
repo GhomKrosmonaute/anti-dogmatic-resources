@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "mercure-retrograde-b685",
+      "title": "Mercure rétrograde : pourquoi tout va de travers pendant cette période ?",
+      "format": "short",
+      "publishedAt": "2026-10-10T12:15:03.624Z",
+      "durationSeconds": 125,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Quand Mercure est rétrograde, la planète recule dans le ciel et perturbe les communications, la technologie et les contrats : tout va de travers.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JQc5QkK66gA",
+        "url": "https://www.youtube.com/watch?v=JQc5QkK66gA",
+        "thumbnail": "https://i.ytimg.com/vi/JQc5QkK66gA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/mercure-retrograde-b685/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/mercure-retrograde-b685.json"
+      }
+    },
+    {
       "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
       "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
       "format": "video",

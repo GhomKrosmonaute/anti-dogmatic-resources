@@ -1,12 +1,50 @@
 {
   "version": 2,
-  "total": 59,
+  "total": 60,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "mercure-retrograde-b685",
+      "title": "Mercure rétrograde : pourquoi tout va de travers pendant cette période ?",
+      "format": "short",
+      "publishedAt": "2026-10-10T12:15:03.624Z",
+      "durationSeconds": 125,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Quand Mercure est rétrograde, la planète recule dans le ciel et perturbe les communications, la technologie et les contrats : tout va de travers.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JQc5QkK66gA",
+        "url": "https://www.youtube.com/watch?v=JQc5QkK66gA",
+        "thumbnail": "https://i.ytimg.com/vi/JQc5QkK66gA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/mercure-retrograde-b685/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/mercure-retrograde-b685.json"
+      }
+    },
     {
       "id": "lithotherapie-4789",
       "title": "Lithothérapie : les pierres ont-elles vraiment un pouvoir ? Améthyste, quartz rose, labradorite",
@@ -1834,48 +1872,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-etait-dhul-qarnayn-l-homme-aux-deux-cornes-de-33c0.json"
-      }
-    },
-    {
-      "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
-      "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
-      "format": "video",
-      "publishedAt": "2026-10-01T08:00:11.446Z",
-      "durationSeconds": 666,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        },
-        {
-          "id": "placebo",
-          "name": "Le placebo pris pour un remède"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "oeFiHgkt4wU",
-        "url": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
-        "thumbnail": "https://i.ytimg.com/vi/oeFiHgkt4wU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-les-pierres-et-les-cristaux-agissent-ils-dca9/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-les-pierres-et-les-cristaux-agissent-ils-dca9.json"
       }
     }
   ],

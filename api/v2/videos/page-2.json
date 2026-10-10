@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 59,
+  "total": 60,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "comment-les-pierres-et-les-cristaux-agissent-ils-dca9",
+      "title": "Lithothérapie : comment les pierres et les cristaux agissent-ils sur notre énergie ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T08:00:11.446Z",
+      "durationSeconds": 666,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les pierres agissent sur notre énergie : chaque pierre (améthyste, citrine, quartz rose) émet une vibration propre qui harmonise nos chakras, selon un savoir ancestral confirmé par la piézoélectricité du quartz.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "oeFiHgkt4wU",
+        "url": "https://www.youtube.com/watch?v=oeFiHgkt4wU",
+        "thumbnail": "https://i.ytimg.com/vi/oeFiHgkt4wU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-les-pierres-et-les-cristaux-agissent-ils-dca9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-les-pierres-et-les-cristaux-agissent-ils-dca9.json"
+      }
+    },
     {
       "id": "le-prophete-muhammad-est-il-annonce-dans-la-bible-fc47",
       "title": "Le prophète Muhammad est-il annoncé dans la Bible ? Les 3 versets que tout le monde cite",

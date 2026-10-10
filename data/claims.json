@@ -1,9 +1,221 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-10T10:46:12.634Z",
+  "generatedAt": "2026-10-10T12:16:03.751Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "mercure-retrograde-b685",
+      "title": "Mercure rétrograde : pourquoi tout va de travers pendant cette période ?",
+      "format": "short",
+      "publishedAt": "2026-10-10T12:15:03.624Z",
+      "durationSeconds": 125,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Quand Mercure est rétrograde, la planète recule dans le ciel et perturbe les communications, la technologie et les contrats : tout va de travers.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Le mouvement à rebours de Mercure est bien observé, mais ce n'est qu'un effet de perspective entre deux orbites, expliqué par Copernic dès 1543. L'impression que tout déraille vient du biais de confirmation et de la prophétie autoréalisatrice : on compte les ennuis aux dates annoncées et on oublie ceux du reste de l'année."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JQc5QkK66gA",
+        "url": "https://www.youtube.com/watch?v=JQc5QkK66gA",
+        "thumbnail": "https://i.ytimg.com/vi/JQc5QkK66gA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/mercure-retrograde-b685/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/mercure-retrograde-b685.json"
+      },
+      "facts": [
+        {
+          "text": "La planète Mercure porte le nom du dieu romain Mercure, messager des dieux, assimilé à l'Hermès grec et patron du commerce et des échanges.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mercury (Deity)",
+              "publisher": "World History Encyclopedia",
+              "url": "https://www.worldhistory.org/Mercury_(Deity)/"
+            },
+            {
+              "title": "Mercury: Facts",
+              "publisher": "NASA Science",
+              "url": "https://science.nasa.gov/mercury/facts/"
+            }
+          ]
+        },
+        {
+          "text": "Mercure connaît une phase de mouvement rétrograde apparent environ trois fois par an, pendant environ trois semaines à chaque fois.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mercury retrograde: astronomy and history",
+              "publisher": "National Geographic",
+              "url": "https://www.nationalgeographic.com/history/article/mercury-retrograde-astronomy-history"
+            },
+            {
+              "title": "What Do Astronomers Mean When They Say Mercury Is In Retrograde?",
+              "publisher": "Discover Magazine",
+              "url": "https://www.discovermagazine.com/what-do-astronomers-mean-when-they-say-mercury-is-in-retrograde-45138"
+            }
+          ]
+        },
+        {
+          "text": "Mercure fait le tour du Soleil en environ 88 jours, la Terre en environ 365 jours.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mercury: Facts",
+              "publisher": "NASA Science",
+              "url": "https://science.nasa.gov/mercury/facts/"
+            }
+          ]
+        },
+        {
+          "text": "La rétrogradation de Mercure est un effet de perspective : elle se produit lorsque Mercure, sur son orbite intérieure plus rapide, dépasse la Terre ; la planète ne recule jamais réellement sur son orbite.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mercury retrograde: astronomy and history",
+              "publisher": "National Geographic",
+              "url": "https://www.nationalgeographic.com/history/article/mercury-retrograde-astronomy-history"
+            },
+            {
+              "title": "What Is Mercury in Retrograde, and Why Do We Blame Things on It?",
+              "publisher": "Mental Floss",
+              "url": "https://www.mentalfloss.com/article/503425/what-mercury-retrograde"
+            }
+          ]
+        },
+        {
+          "text": "Dans De revolutionibus orbium coelestium, publié en 1543, Copernic explique le mouvement rétrograde apparent des planètes par le mouvement de la Terre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nicolaus Copernicus, De revolutionibus orbium coelestium (1543), Book V",
+              "publisher": "Source Library",
+              "url": "https://sourcelibrary.org/book/606a74d7-2ac1-420b-924d-de761439fb3f/page-number/283"
+            },
+            {
+              "title": "Nicolaus Copernicus",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/copernicus/"
+            }
+          ]
+        },
+        {
+          "text": "Le biais de confirmation désigne la tendance à retenir les éléments qui confirment une attente et à négliger ceux qui la contredisent.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises",
+              "publisher": "Review of General Psychology (R. S. Nickerson, 1998)",
+              "url": "https://pages.ucsd.edu/~cmckenzie/nickersonConfirmationBias.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le sociologue Robert K. Merton a décrit et nommé la prophétie autoréalisatrice dans un article de 1948 (« The Self-Fulfilling Prophecy », The Antioch Review).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Self-fulfilling prophecy",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/self-fulfilling-prophecy"
+            },
+            {
+              "title": "Robert K. Merton – Publications",
+              "publisher": "University of Pennsylvania Library (Eugene Garfield)",
+              "url": "https://garfield.library.upenn.edu/merton/rkmpublications.html"
+            }
+          ]
+        },
+        {
+          "text": "Les pannes et incidents techniques ou de communication surviennent tout au long de l'année, et aucun mécanisme physique connu ne relie la position apparente de Mercure aux affaires humaines.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "What Is Mercury in Retrograde, and Why Do We Blame Things on It?",
+              "publisher": "Mental Floss",
+              "url": "https://www.mentalfloss.com/article/503425/what-mercury-retrograde"
+            },
+            {
+              "title": "What Do Astronomers Mean When They Say Mercury Is In Retrograde?",
+              "publisher": "Discover Magazine",
+              "url": "https://www.discovermagazine.com/what-do-astronomers-mean-when-they-say-mercury-is-in-retrograde-45138"
+            }
+          ]
+        },
+        {
+          "text": "Mercure est la plus petite planète du système solaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mercury: Facts",
+              "publisher": "NASA Science",
+              "url": "https://science.nasa.gov/mercury/facts/"
+            }
+          ]
+        },
+        {
+          "text": "Mercure ne s'approche jamais à moins d'environ soixante-dix millions de kilomètres de la Terre (environ 77 millions de kilomètres au plus près).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "How Far is Mercury From the Sun?",
+              "publisher": "Space.com",
+              "url": "https://www.space.com/18646-mercury-distance.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "Trois fois par an environ, pendant trois semaines, il semble rebrousser chemin dans le ciel, et les tables des astronomes le confirment.",
+            "note": "Mercure est rétrograde trois à quatre fois par an, pendant environ trois semaines (de 20 à 24 jours selon les cas). « Environ » assume l'arrondi, et l'argument ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "Il fait le tour du Soleil en 88 jours, la Terre en 365.",
+            "note": "Ce sont des périodes orbitales arrondies (environ 87,97 jours et 365,25 jours). Seul compte l'écart entre les deux, qui explique le dépassement, pas la précision au centième de jour."
+          },
+          {
+            "excerpt": "La plus petite planète du système solaire tourne à plus de soixante-dix millions de kilomètres de nous, sans se douter de notre existence.",
+            "note": "La distance Terre-Mercure varie d'environ 77 à plus de 220 millions de kilomètres. « Plus de soixante-dix millions » est une borne basse exacte, et la phrase a une valeur rhétorique, pas démonstrative."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "lithotherapie-4789",
       "title": "Lithothérapie : les pierres ont-elles vraiment un pouvoir ? Améthyste, quartz rose, labradorite",
