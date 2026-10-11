@@ -1,0 +1,244 @@
+{
+  "version": 2,
+  "id": "l-ame-survit-elle-a-la-mort-e8ea",
+  "title": "Âme éternelle : ce que La Télé de Lilou Macé ne te dit pas",
+  "format": "short",
+  "publishedAt": "2026-10-11T15:30:20.561Z",
+  "durationSeconds": 126,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "L'âme est éternelle et survit à la mort du corps : elle n'est pas localisée, une partie s'incarne tandis qu'une autre reste reliée, elle change de vie comme un acteur change de costume, et les liens d'amour continuent d'unir les âmes des vivants et des défunts.",
+    "verdict": "inverifiable",
+    "verdictLabel": "Invérifiable",
+    "summary": "Telle qu'elle est formulée, une âme éternelle, non localisée et qui change de corps échappe à toute expérience possible. Ses volets testables n'ont rien donné : les souvenirs d'enfants ont souvent pu être contaminés, aucun patient de l'étude AWARE n'a décrit les images placées en hauteur, et le défi de James Randi n'a jamais été remporté."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": {
+    "title": "L’âme est éternelle  même après la mort",
+    "channel": "La Télé de Lilou Macé",
+    "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+    "url": "https://www.youtube.com/watch?v=f1JtmPaQUX8",
+    "passages": [
+      {
+        "text": "Stéphane Allix compare l'âme à un acteur qui change de costume."
+      }
+    ]
+  },
+  "series": null,
+  "youtube": {
+    "id": "uIjIzFSyQss",
+    "url": "https://www.youtube.com/watch?v=uIjIzFSyQss",
+    "thumbnail": "https://i.ytimg.com/vi/uIjIzFSyQss/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-ame-survit-elle-a-la-mort-e8ea/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-ame-survit-elle-a-la-mort-e8ea.json"
+  },
+  "facts": [
+    {
+      "text": "Le psychiatre Ian Stevenson, de l'université de Virginie, a recueilli environ 2 500 cas d'enfants affirmant se souvenir d'une vie antérieure.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ian Stevenson's Case for the Afterlife: Are We 'Skeptics' Really Just Cynics?",
+          "publisher": "Scientific American",
+          "url": "https://www.scientificamerican.com/blog/bering-in-mind/ian-stevensone28099s-case-for-the-afterlife-are-we-e28098skepticse28099-really-just-cynics"
+        },
+        {
+          "title": "Reincarnation Cases with Records Made Before Verifications",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/reincarnation-cases-records-made-verifications/"
+        },
+        {
+          "title": "Ian Stevenson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ian_Stevenson"
+        }
+      ]
+    },
+    {
+      "text": "Dans une grande partie des cas étudiés par Ian Stevenson, les déclarations de l'enfant n'ont été consignées qu'après la rencontre entre sa famille et celle de la personne décédée, ce qui laisse place à une contamination des informations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reincarnation Cases with Records Made Before Verifications",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/reincarnation-cases-records-made-verifications/"
+        },
+        {
+          "title": "Ian Stevenson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ian_Stevenson"
+        }
+      ]
+    },
+    {
+      "text": "Les travaux de la psychologue Elizabeth Loftus montrent que des souvenirs faux ou modifiés peuvent être induits par suggestion.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lost in the mall and other false memories",
+          "publisher": "Wellcome Collection",
+          "url": "https://wellcomecollection.org/stories/lost-in-the-mall-and-other-false-memories"
+        },
+        {
+          "title": "Lost in the mall again: a preregistered replication and extension of Loftus & Pickrell (1995)",
+          "publisher": "University College Cork (Memory, 2023)",
+          "url": "https://cora.ucc.ie/handle/10468/14378"
+        }
+      ]
+    },
+    {
+      "text": "L'étude AWARE (Sam Parnia et al., revue Resuscitation, 2014) a placé dans des zones de réanimation des images visibles uniquement d'en haut, et aucun patient n'a décrit ces images.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "AWARE NDE Studies",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/aware-nde-study"
+        },
+        {
+          "title": "AWARE Results Finally Published – No Evidence of NDE",
+          "publisher": "NeuroLogica Blog (Steven Novella)",
+          "url": "https://theness.com/neurologicablog/aware-results-finally-published-no-evidence-of-nde/"
+        }
+      ]
+    },
+    {
+      "text": "Aucune conscience n'a jamais été observée indépendamment d'un cerveau ; l'état de la conscience dépend de l'activité cérébrale, comme le montrent l'anesthésie et les lésions cérébrales.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The nature of consciousness in anaesthesia",
+          "publisher": "BJA Open (2023)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891"
+        },
+        {
+          "title": "The Neural Correlates of Consciousness: An Update",
+          "publisher": "Annals of the New York Academy of Sciences / Caltech",
+          "url": "https://resolver.caltech.edu/CaltechAUTHORS:20130816-103348285"
+        }
+      ]
+    },
+    {
+      "text": "Les récits d'expériences de mort imminente mentionnent fréquemment un tunnel lumineux.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Temporality of Features in Near-Death Experience Narratives",
+          "publisher": "Frontiers in Human Neuroscience (2017)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469194/"
+        }
+      ]
+    },
+    {
+      "text": "La lecture à froid permet de produire l'illusion d'une connaissance paranormale grâce à des formulations générales, la personne consultée retenant les réussites et oubliant les échecs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The cold reading technique",
+          "publisher": "Experientia (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/3360083/"
+        },
+        {
+          "title": "Cold Reading",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/cold-reading/"
+        }
+      ]
+    },
+    {
+      "text": "Le défi d'un million de dollars de la fondation de James Randi, offert à quiconque démontrerait un pouvoir paranormal en conditions contrôlées, n'a jamais été remporté avant sa clôture en 2015.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "One Million Dollar Paranormal Challenge",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/One_Million_Dollar_Paranormal_Challenge"
+        },
+        {
+          "title": "The One Million Dollar Paranormal Challenge",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/one-million-dollar-paranormal-challenge/"
+        }
+      ]
+    },
+    {
+      "text": "En 1971, le médecin Dewi Rees (British Medical Journal, « The hallucinations of widowhood ») rapportait qu'environ la moitié des personnes veuves interrogées au pays de Galles disaient avoir perçu la présence de leur conjoint défunt.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Hallucinations of Widowhood",
+          "publisher": "British Medical Journal",
+          "url": "https://www.bmj.com/content/4/5778/37"
+        },
+        {
+          "title": "Can There Be Communication After Death?",
+          "publisher": "Psychology Today",
+          "url": "https://www.psychologytoday.com/gb/blog/out-the-darkness/202202/can-there-be-communication-after-death"
+        }
+      ]
+    },
+    {
+      "text": "Les recherches en neurosciences sur le deuil, notamment celles de Mary-Frances O'Connor, indiquent que le cerveau conserve une représentation de la personne aimée qui ne s'efface pas immédiatement après sa mort.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "How the Brain Copes with Grief",
+          "publisher": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/how-the-brain-copes-with-grief/"
+        },
+        {
+          "title": "Mary-Frances O'Connor on 'The Grieving Brain'",
+          "publisher": "MPR News",
+          "url": "https://origin-www.mprnews.org/episode/2022/04/08/mary-frances-oconnor-on-the-grieving-brain"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "neurosciences et recherche sur la conscience (mémoire, deuil, expériences de mort imminente en réanimation)",
+    "approximations": [
+      {
+        "excerpt": "Le psychiatre Ian Stevenson a recueilli environ deux mille cinq cents cas, souvent consignés après la rencontre des familles.",
+        "note": "Le nombre de cas est un ordre de grandeur : les décomptes varient selon qu'on inclut ou non les cas des collaborateurs de Stevenson. L'argument porte sur la méthode de collecte, pas sur le total exact."
+      },
+      {
+        "excerpt": "Sentir un disparu à ses côtés est fréquent : près de la moitié des veufs gallois interrogés par Dewi Rees le décrivaient.",
+        "note": "« Près de la moitié » arrondit la proportion rapportée par l'étude. Il s'agit de la fréquence d'une expérience de deuil courante, pas d'un risque, d'un diagnostic ou d'un traitement. L'argument n'a besoin que du caractère fréquent du phénomène."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

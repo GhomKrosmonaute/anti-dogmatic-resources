@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "ton-signe-astrologique-influence-t-il-vraiment-ta-ea87",
+      "title": "Ton signe astrologique influence-t-il vraiment ta personnalité ? Ce que dit la science",
+      "format": "short",
+      "publishedAt": "2026-10-11T15:30:04.719Z",
+      "durationSeconds": 126,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Ton signe astrologique et ton thème natal reflètent ta personnalité : la position des astres à ta naissance façonne ton caractère.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "P457umeg3A0",
+        "url": "https://www.youtube.com/watch?v=P457umeg3A0",
+        "thumbnail": "https://i.ytimg.com/vi/P457umeg3A0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ton-signe-astrologique-influence-t-il-vraiment-ta-ea87/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ton-signe-astrologique-influence-t-il-vraiment-ta-ea87.json"
+      }
+    },
+    {
       "id": "les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387",
       "title": "Le secret du coupeur de feu : peut-il vraiment soulager une brûlure à distance ?",
       "format": "short",

@@ -5,6 +5,52 @@
   "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
   "items": [
     {
+      "id": "l-ame-survit-elle-a-la-mort-e8ea",
+      "title": "Âme éternelle : ce que La Télé de Lilou Macé ne te dit pas",
+      "format": "short",
+      "publishedAt": "2026-10-11T15:30:20.561Z",
+      "durationSeconds": 126,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'âme est éternelle et survit à la mort du corps : elle n'est pas localisée, une partie s'incarne tandis qu'une autre reste reliée, elle change de vie comme un acteur change de costume, et les liens d'amour continuent d'unir les âmes des vivants et des défunts.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "L’âme est éternelle  même après la mort",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=f1JtmPaQUX8"
+      },
+      "series": null,
+      "youtube": {
+        "id": "uIjIzFSyQss",
+        "url": "https://www.youtube.com/watch?v=uIjIzFSyQss",
+        "thumbnail": "https://i.ytimg.com/vi/uIjIzFSyQss/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-ame-survit-elle-a-la-mort-e8ea/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-ame-survit-elle-a-la-mort-e8ea.json"
+      }
+    },
+    {
       "id": "les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387",
       "title": "Le secret du coupeur de feu : peut-il vraiment soulager une brûlure à distance ?",
       "format": "short",

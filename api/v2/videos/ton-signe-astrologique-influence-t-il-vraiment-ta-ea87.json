@@ -1,0 +1,318 @@
+{
+  "version": 2,
+  "id": "ton-signe-astrologique-influence-t-il-vraiment-ta-ea87",
+  "title": "Ton signe astrologique influence-t-il vraiment ta personnalité ? Ce que dit la science",
+  "format": "short",
+  "publishedAt": "2026-10-11T15:30:04.719Z",
+  "durationSeconds": 126,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Ton signe astrologique et ton thème natal reflètent ta personnalité : la position des astres à ta naissance façonne ton caractère.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Dans le test en double aveugle de Shawn Carlson (Nature, 1985), sur un protocole validé par des astrologues, ceux-ci n'ont pas fait mieux que le hasard pour relier une carte du ciel au bon profil de personnalité. L'impression de se reconnaître dans son thème s'explique par l'effet Barnum, mis en évidence par Bertram Forer en 1949 avec un portrait tiré d'un livre d'astrologie."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "P457umeg3A0",
+    "url": "https://www.youtube.com/watch?v=P457umeg3A0",
+    "thumbnail": "https://i.ytimg.com/vi/P457umeg3A0/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ton-signe-astrologique-influence-t-il-vraiment-ta-ea87/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ton-signe-astrologique-influence-t-il-vraiment-ta-ea87.json"
+  },
+  "facts": [
+    {
+      "text": "En astrologie occidentale, le signe solaire correspond à la position du Soleil dans l'un des douze signes du zodiaque au moment de la naissance, chaque signe étant associé à un tempérament.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrological sign",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Astrological_sign"
+        }
+      ]
+    },
+    {
+      "text": "L'astrologie du thème natal, avec l'ascendant et la Lune, a été codifiée dans l'Antiquité par Ptolémée (Tétrabible, IIe siècle de notre ère).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrological sign",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Astrological_sign"
+        },
+        {
+          "title": "Ptolemy on Astrology",
+          "publisher": "Department of History and Philosophy of Science, University of Cambridge",
+          "url": "https://www.sites.hps.cam.ac.uk/starry/ptolastrol.html"
+        },
+        {
+          "title": "Hyleg",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hyleg"
+        }
+      ]
+    },
+    {
+      "text": "La précession des équinoxes décale le point vernal d'environ un degré tous les 72 ans ; depuis l'époque de Ptolémée, le décalage approche un signe entier (30 degrés).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "precession of the equinoxes",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://britannica.com/print/article/190813"
+        },
+        {
+          "title": "Precession",
+          "publisher": "Spanel Planetarium, Western Washington University",
+          "url": "https://astro101.wwu.edu/a101_precession.html"
+        }
+      ]
+    },
+    {
+      "text": "Pour une naissance fin mars, le Soleil se trouve aujourd'hui devant la constellation des Poissons et non du Bélier (selon les limites de constellations de l'Union astronomique internationale).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sun in zodiac constellations, 2018",
+          "publisher": "EarthSky",
+          "url": "https://earthsky.org/?p=232450"
+        },
+        {
+          "title": "Glossary – Aries / Pisces",
+          "publisher": "IAU Office of Astronomy for Education",
+          "url": "https://astro4edu.org/resources/glossary/term/16/"
+        }
+      ]
+    },
+    {
+      "text": "Le zodiaque tropical de l'astrologie occidentale est calé sur les saisons et commence à l'équinoxe de printemps, indépendamment des constellations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrological sign",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Astrological_sign"
+        }
+      ]
+    },
+    {
+      "text": "Shawn Carlson, physicien, a publié en 1985 dans Nature (vol. 318, p. 419-425) « A double-blind test of astrology ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        },
+        {
+          "title": "Astrology Project Discussion - \"Solutions\"",
+          "publisher": "University of California, Berkeley",
+          "url": "https://setiathome.ssl.berkeley.edu/~korpela/astro10/handouts/astrol.html"
+        }
+      ]
+    },
+    {
+      "text": "Le protocole du test de Carlson avait été validé à l'avance par des astrologues.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrology Project Discussion - \"Solutions\"",
+          "publisher": "University of California, Berkeley",
+          "url": "https://setiathome.ssl.berkeley.edu/~korpela/astro10/handouts/astrol.html"
+        },
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        }
+      ]
+    },
+    {
+      "text": "Dans le test de Carlson, chaque astrologue recevait une carte du ciel et trois profils de personnalité (California Psychological Inventory), dont un seul correspondait au sujet.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrology Project Discussion - \"Solutions\"",
+          "publisher": "University of California, Berkeley",
+          "url": "https://setiathome.ssl.berkeley.edu/~korpela/astro10/handouts/astrol.html"
+        },
+        {
+          "title": "Astrology article (R. Jayaraman)",
+          "publisher": "Institute of Mathematical Sciences, Chennai",
+          "url": "https://www.imsc.res.in/~jayaram/Articles/astro/astro.html"
+        }
+      ]
+    },
+    {
+      "text": "Les astrologues avaient prédit au moins 50 % de bonnes réponses ; ils en ont obtenu environ un tiers, résultat compatible avec le hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrology Project Discussion - \"Solutions\"",
+          "publisher": "University of California, Berkeley",
+          "url": "https://setiathome.ssl.berkeley.edu/~korpela/astro10/handouts/astrol.html"
+        },
+        {
+          "title": "Astrology article (R. Jayaraman)",
+          "publisher": "Institute of Mathematical Sciences, Chennai",
+          "url": "https://www.imsc.res.in/~jayaram/Articles/astro/astro.html"
+        }
+      ]
+    },
+    {
+      "text": "En 1948, Bertram Forer remet à trente-neuf étudiants le même portrait soi-disant personnel, tiré surtout d'un livre d'astrologie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "Barnum effect (Research Starters)",
+          "publisher": "EBSCO",
+          "url": "https://www.ebsco.com/research-starters/psychology/barnum-effect"
+        }
+      ]
+    },
+    {
+      "text": "Le portrait de Forer contient la phrase « You have a great need for other people to like and admire you », traduite ici par « Vous avez grandement besoin que les autres vous aiment et vous admirent ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Barnum Effect",
+          "publisher": "California State University, Fullerton",
+          "url": "https://psych.fullerton.edu/mbirnbaum/teaching/psych101/barnum_demo.htm"
+        },
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        }
+      ]
+    },
+    {
+      "text": "Les étudiants de Forer ont noté la justesse du portrait en moyenne 4,26 sur une échelle de 0 à 5.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bertram Forer",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bertram_Forer"
+        },
+        {
+          "title": "Forer effect",
+          "publisher": "The Skeptic's Dictionary",
+          "url": "http://www.skepdic.com/forer.html"
+        }
+      ]
+    },
+    {
+      "text": "L'effet Barnum (ou effet Forer) désigne la tendance à prendre pour une description personnelle un portrait vague qui s'applique à presque tout le monde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Barnum effect",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnum_effect"
+        },
+        {
+          "title": "Barnum effect (Research Starters)",
+          "publisher": "EBSCO",
+          "url": "https://www.ebsco.com/research-starters/psychology/barnum-effect"
+        }
+      ]
+    },
+    {
+      "text": "L'âge de l'univers est estimé à environ 13,8 milliards d'années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "APOD 2018 July 22: Planck Maps the Microwave Background",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2018-july-22-planck-maps-the-microwave-background/"
+        },
+        {
+          "title": "Planck reveals an almost perfect Universe",
+          "publisher": "ESA / Planck (IPAC, Caltech)",
+          "url": "https://planck.ipac.caltech.edu/news/planck13-001"
+        }
+      ]
+    },
+    {
+      "text": "Testée selon un protocole validé par des astrologues, l'astrologie n'a pas fait mieux que le hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrology Project Discussion - \"Solutions\"",
+          "publisher": "University of California, Berkeley",
+          "url": "https://setiathome.ssl.berkeley.edu/~korpela/astro10/handouts/astrol.html"
+        },
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        },
+        {
+          "title": "Ertel, reanalysis of Carlson's astrology test",
+          "publisher": "PhilPapers",
+          "url": "https://api.philpapers.org/rec/ERTAOS"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": [
+      {
+        "excerpt": "C'est la précession des équinoxes : un degré tous les soixante-douze ans, presque un signe de décalage.",
+        "note": "La valeur exacte est d'environ un degré tous les 71,6 ans, soit environ 26 degrés depuis Ptolémée. L'arrondi ne change rien à l'argument : le décalage atteint presque un signe de 30 degrés."
+      },
+      {
+        "excerpt": "Ils prédisaient au moins la moitié de réussites ; ils en obtiennent un tiers environ, le score du hasard.",
+        "note": "Le taux de réussite est arrondi. L'argument repose seulement sur le fait que le résultat ne dépasse pas le hasard, fixé à un tiers avec trois profils, et non sur une décimale précise."
+      },
+      {
+        "excerpt": "Près de quatorze milliards d'années d'univers, et il se soucierait de rendre les Vierges maniaques ?",
+        "note": "L'âge estimé de l'univers est d'environ 13,8 milliards d'années. Ce chiffre arrondi sert seulement à suggérer une échelle de grandeur dans une formule rhétorique."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

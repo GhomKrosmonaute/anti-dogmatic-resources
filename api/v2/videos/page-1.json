@@ -1,12 +1,96 @@
 {
   "version": 2,
-  "total": 66,
+  "total": 68,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "l-ame-survit-elle-a-la-mort-e8ea",
+      "title": "Âme éternelle : ce que La Télé de Lilou Macé ne te dit pas",
+      "format": "short",
+      "publishedAt": "2026-10-11T15:30:20.561Z",
+      "durationSeconds": 126,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'âme est éternelle et survit à la mort du corps : elle n'est pas localisée, une partie s'incarne tandis qu'une autre reste reliée, elle change de vie comme un acteur change de costume, et les liens d'amour continuent d'unir les âmes des vivants et des défunts.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "L’âme est éternelle  même après la mort",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=f1JtmPaQUX8"
+      },
+      "series": null,
+      "youtube": {
+        "id": "uIjIzFSyQss",
+        "url": "https://www.youtube.com/watch?v=uIjIzFSyQss",
+        "thumbnail": "https://i.ytimg.com/vi/uIjIzFSyQss/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-ame-survit-elle-a-la-mort-e8ea/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-ame-survit-elle-a-la-mort-e8ea.json"
+      }
+    },
+    {
+      "id": "ton-signe-astrologique-influence-t-il-vraiment-ta-ea87",
+      "title": "Ton signe astrologique influence-t-il vraiment ta personnalité ? Ce que dit la science",
+      "format": "short",
+      "publishedAt": "2026-10-11T15:30:04.719Z",
+      "durationSeconds": 126,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Ton signe astrologique et ton thème natal reflètent ta personnalité : la position des astres à ta naissance façonne ton caractère.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "P457umeg3A0",
+        "url": "https://www.youtube.com/watch?v=P457umeg3A0",
+        "thumbnail": "https://i.ytimg.com/vi/P457umeg3A0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ton-signe-astrologique-influence-t-il-vraiment-ta-ea87/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ton-signe-astrologique-influence-t-il-vraiment-ta-ea87.json"
+      }
+    },
     {
       "id": "les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387",
       "title": "Le secret du coupeur de feu : peut-il vraiment soulager une brûlure à distance ?",
@@ -1852,76 +1936,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a.json"
-      }
-    },
-    {
-      "id": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
-      "title": "Le fer est-il descendu du ciel ? Le miracle scientifique de la sourate Al-Hadid (Coran 57:25)",
-      "format": "video",
-      "publishedAt": "2026-10-02T07:30:09.838Z",
-      "durationSeconds": 638,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le Coran décrit le fer comme « descendu » du ciel, ce qui prouve qu'il vient de l'espace, ce que la science a confirmé",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "obm6HRxW244",
-        "url": "https://www.youtube.com/watch?v=obm6HRxW244",
-        "thumbnail": "https://i.ytimg.com/vi/obm6HRxW244/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fer-est-il-vraiment-descendu-du-ciel-af91/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fer-est-il-vraiment-descendu-du-ciel-af91.json"
-      }
-    },
-    {
-      "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
-      "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
-      "format": "video",
-      "publishedAt": "2026-10-01T22:30:11.248Z",
-      "durationSeconds": 661,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "infalsifiabilite",
-        "name": "L'affirmation à l'épreuve de tout"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "wIGW-ulElfk",
-        "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
-        "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
       }
     }
   ]

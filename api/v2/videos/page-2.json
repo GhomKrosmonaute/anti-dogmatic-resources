@@ -1,12 +1,82 @@
 {
   "version": 2,
-  "total": 66,
+  "total": 68,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
+      "title": "Le fer est-il descendu du ciel ? Le miracle scientifique de la sourate Al-Hadid (Coran 57:25)",
+      "format": "video",
+      "publishedAt": "2026-10-02T07:30:09.838Z",
+      "durationSeconds": 638,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit le fer comme « descendu » du ciel, ce qui prouve qu'il vient de l'espace, ce que la science a confirmé",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "obm6HRxW244",
+        "url": "https://www.youtube.com/watch?v=obm6HRxW244",
+        "thumbnail": "https://i.ytimg.com/vi/obm6HRxW244/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-fer-est-il-vraiment-descendu-du-ciel-af91/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-fer-est-il-vraiment-descendu-du-ciel-af91.json"
+      }
+    },
+    {
+      "id": "pourquoi-certaines-croyances-resistent-a-toute-b967",
+      "title": "Pourquoi certaines croyances ne vacillent jamais, même face aux preuves ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T22:30:11.248Z",
+      "durationSeconds": 661,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "infalsifiabilite",
+        "name": "L'affirmation à l'épreuve de tout"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "wIGW-ulElfk",
+        "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+        "thumbnail": "https://i.ytimg.com/vi/wIGW-ulElfk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-certaines-croyances-resistent-a-toute-b967/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-certaines-croyances-resistent-a-toute-b967.json"
+      }
+    },
     {
       "id": "le-coran-decrit-il-vraiment-le-developpement-de-l-3f84",
       "title": "Miracle scientifique du Coran : l'embryon décrit il y a 1400 ans ? Nutfa, alaqa, mudgha",
