@@ -1,12 +1,51 @@
 {
   "version": 2,
-  "total": 69,
+  "total": 70,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "le-critere-de-refutabilite-de-karl-popper-0539",
+      "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
+      "format": "video",
+      "publishedAt": "2026-10-11T18:15:09.458Z",
+      "durationSeconds": 702,
+      "rubric": null,
+      "claim": {
+        "statement": "Une théorie que toutes les observations confirment et qu'aucun fait ne contredit est une théorie solide, et c'est ce qui en fait une vraie science.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "p27jwkSkWlM",
+        "url": "https://www.youtube.com/watch?v=p27jwkSkWlM",
+        "thumbnail": "https://i.ytimg.com/vi/p27jwkSkWlM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-critere-de-refutabilite-de-karl-popper-0539/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-critere-de-refutabilite-de-karl-popper-0539.json"
+      }
+    },
     {
       "id": "le-tarot-peut-il-vraiment-predire-l-avenir-5bbe",
       "title": "Le tarot peut-il vraiment prédire ton avenir ? L'histoire secrète des cartes",
@@ -1904,34 +1943,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
-      }
-    },
-    {
-      "id": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
-      "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
-      "format": "video",
-      "publishedAt": "2026-10-02T09:15:07.706Z",
-      "durationSeconds": 679,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "relecture-a-posteriori",
-        "name": "La relecture après coup"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "gj_C6XBZ2W4",
-        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
-        "thumbnail": "https://i.ytimg.com/vi/gj_C6XBZ2W4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d.json"
       }
     }
   ],

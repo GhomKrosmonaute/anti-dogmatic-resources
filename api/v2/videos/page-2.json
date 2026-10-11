@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 69,
+  "total": 70,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
+      "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T09:15:07.706Z",
+      "durationSeconds": 679,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "relecture-a-posteriori",
+        "name": "La relecture après coup"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "gj_C6XBZ2W4",
+        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
+        "thumbnail": "https://i.ytimg.com/vi/gj_C6XBZ2W4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d.json"
+      }
+    },
     {
       "id": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
       "title": "Le Coran a-t-il annoncé l'expansion de l'univers avant Hubble ? Sourate 51, verset 47",

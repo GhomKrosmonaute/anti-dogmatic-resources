@@ -41,6 +41,45 @@
   ],
   "examples": [
     {
+      "id": "le-critere-de-refutabilite-de-karl-popper-0539",
+      "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
+      "format": "video",
+      "publishedAt": "2026-10-11T18:15:09.458Z",
+      "durationSeconds": 702,
+      "rubric": null,
+      "claim": {
+        "statement": "Une théorie que toutes les observations confirment et qu'aucun fait ne contredit est une théorie solide, et c'est ce qui en fait une vraie science.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "p27jwkSkWlM",
+        "url": "https://www.youtube.com/watch?v=p27jwkSkWlM",
+        "thumbnail": "https://i.ytimg.com/vi/p27jwkSkWlM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-critere-de-refutabilite-de-karl-popper-0539/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-critere-de-refutabilite-de-karl-popper-0539.json"
+      }
+    },
+    {
       "id": "les-francs-macons-a347",
       "title": "Franc-maçonnerie : quel lien secret avec l'alchimie et les Rose-Croix ?",
       "format": "video",

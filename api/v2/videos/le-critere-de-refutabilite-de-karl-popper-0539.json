@@ -1,0 +1,448 @@
+{
+  "version": 2,
+  "id": "le-critere-de-refutabilite-de-karl-popper-0539",
+  "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
+  "format": "video",
+  "publishedAt": "2026-10-11T18:15:09.458Z",
+  "durationSeconds": 702,
+  "rubric": null,
+  "claim": {
+    "statement": "Une théorie que toutes les observations confirment et qu'aucun fait ne contredit est une théorie solide, et c'est ce qui en fait une vraie science.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Les confirmations ne pèsent que si la théorie aurait pu échouer : une affirmation compatible avec tous les résultats n'interdit rien et n'apprend rien, comme le montre le contraste de Popper entre Adler et la prédiction d'Einstein testée en 1919. Le critère a ses limites (Duhem, Kuhn, Lakatos), mais il suffit à écarter l'astrologie, la loi de l'attraction quantique et les miracles relus après coup, tandis que l'homéopathie, testable, a été testée et a échoué."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "p27jwkSkWlM",
+    "url": "https://www.youtube.com/watch?v=p27jwkSkWlM",
+    "thumbnail": "https://i.ytimg.com/vi/p27jwkSkWlM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-critere-de-refutabilite-de-karl-popper-0539/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-critere-de-refutabilite-de-karl-popper-0539.json"
+  },
+  "facts": [
+    {
+      "text": "Karl Popper, né en 1902, avait dix-sept ans à Vienne en 1919, au lendemain de l'effondrement de l'Empire austro-hongrois.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Karl Popper",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/popper/"
+        },
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        }
+      ]
+    },
+    {
+      "text": "Dans Conjectures and Refutations (1963, chapitre 1), Popper cite parmi les théories qui l'intéressaient en 1919 celles de Marx, de Freud et d'Adler, en plus de celle d'Einstein.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        }
+      ]
+    },
+    {
+      "text": "Popper a travaillé auprès d'Alfred Adler dans son action sociale auprès des enfants et des jeunes des quartiers ouvriers de Vienne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        },
+        {
+          "title": "Karl Popper",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/popper/"
+        }
+      ]
+    },
+    {
+      "text": "Popper décrit les partisans de ces théories comme voyant des confirmations partout, un marxiste ne pouvant ouvrir un journal sans y trouver des preuves de son interprétation de l'histoire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        }
+      ]
+    },
+    {
+      "text": "L'homéopathie a été fondée par le médecin allemand Samuel Hahnemann à la fin du XVIIIe siècle (essai de 1796).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "1796 HAHNEMANN, Christian Friedrich Samuel (1755 – 1843)",
+          "publisher": "HistoryofMedicine.com",
+          "url": "https://historyofmedicine.com/subject?id=1219"
+        }
+      ]
+    },
+    {
+      "text": "Des partisans du concordisme affirment trouver dans la Bible, le Coran ou les Védas des découvertes scientifiques modernes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "\"Quran-science\": Scientific miracles from the 7th century?",
+          "publisher": "Taner Edis, Truman State University",
+          "url": "https://edis.sites.truman.edu/quran-science-scientific-miracles-from-the-7th-century/"
+        },
+        {
+          "title": "Saffronized Science: Rampant Pseudoscience in \"Vedic Garb\" in the Indian Subcontinent",
+          "publisher": "Social Epistemology Review and Reply Collective",
+          "url": "https://social-epistemology.com/2016/01/25/saffronized-science-rampant-pseudoscience-in-vedic-garb-in-the-indian-subcontinent-meera-nanda/"
+        }
+      ]
+    },
+    {
+      "text": "Popper rapporte qu'en 1919 Adler analysa sans difficulté un cas qu'il lui soumettait, sans avoir vu l'enfant, en invoquant son « expérience mille fois répétée », et qu'il répliqua : « Et avec ce nouveau cas, je suppose, votre expérience est devenue mille et une fois répétée » (traduction de l'anglais).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        },
+        {
+          "title": "Science as Falsification (K. Popper)",
+          "publisher": "vdoc.pub",
+          "url": "https://vdoc.pub/documents/science-as-falsification-36079lqudfqg"
+        }
+      ]
+    },
+    {
+      "text": "Popper donne l'exemple d'un homme qui pousse un enfant à l'eau et d'un autre qui risque sa vie pour le sauver : Freud expliquerait l'un par le refoulement et l'autre par la sublimation, Adler les deux par un sentiment d'infériorité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science as Falsification (K. Popper)",
+          "publisher": "vdoc.pub",
+          "url": "https://vdoc.pub/documents/science-as-falsification-36079lqudfqg"
+        },
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        }
+      ]
+    },
+    {
+      "text": "La relativité générale prédisait une déviation de la lumière des étoiles au voisinage du Soleil environ double de la valeur newtonienne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shadow of the Moon and general relativity: Einstein, Dyson, Eddington and the 1919 light deflection",
+          "publisher": "Revista Brasileira de Ensino de Física (SciELO)",
+          "url": "https://www.scielo.br/j/rbef/a/tsCDFzLWszcgV8XzMN9KvQH/?lang=en"
+        }
+      ]
+    },
+    {
+      "text": "Le 29 mai 1919, lors d'une éclipse totale, des expéditions britanniques, dont celle d'Arthur Eddington, ont photographié les étoiles proches du Soleil et observé la déviation annoncée par Einstein.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shadow of the Moon and general relativity: Einstein, Dyson, Eddington and the 1919 light deflection",
+          "publisher": "Revista Brasileira de Ensino de Física (SciELO)",
+          "url": "https://www.scielo.br/j/rbef/a/tsCDFzLWszcgV8XzMN9KvQH/?lang=en"
+        },
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        }
+      ]
+    },
+    {
+      "text": "Popper utilise l'exemple des cygnes : aucun nombre de cygnes blancs observés ne justifie la conclusion que tous les cygnes sont blancs, alors qu'une seule observation contraire réfute l'énoncé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Falsifiability",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Falsifiability"
+        }
+      ]
+    },
+    {
+      "text": "Dans Conjectures and Refutations (1963), Popper écrit qu'une théorie qui n'est réfutable par aucun événement concevable n'est pas scientifique et que l'irréfutabilité n'est pas une vertu mais un défaut (traduction de l'anglais).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        },
+        {
+          "title": "Irrefutability Quotations",
+          "publisher": "Today in Science History",
+          "url": "https://todayinsci.com/QuotationsCategories/I_Cat/Irrefutability-Quotations.htm"
+        }
+      ]
+    },
+    {
+      "text": "Popper cite l'astrologie et écrit que ses prophéties sont rendues assez vagues pour neutraliser tout ce qui aurait pu la réfuter.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science as Falsification (K. Popper)",
+          "publisher": "vdoc.pub",
+          "url": "https://vdoc.pub/documents/science-as-falsification-36079lqudfqg"
+        },
+        {
+          "title": "Popper on pseudoscience: a comment on Pigliucci",
+          "publisher": "Error Statistics Philosophy (D. Mayo)",
+          "url": "https://errorstatistics.com/2015/09/16/popper-on-pseudoscience-a-comment-on-pigliucci-i/"
+        }
+      ]
+    },
+    {
+      "text": "Le test en double aveugle de l'astrologie mené par Shawn Carlson, publié dans Nature en 1985, n'a pas montré de réussite supérieure au hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shawn Carlson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shawn_Carlson"
+        },
+        {
+          "title": "Article sur l'astrologie (T. Jayaraman)",
+          "publisher": "Institute of Mathematical Sciences, Chennai",
+          "url": "https://www.imsc.res.in/~jayaram/Articles/astro/astro.html"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le National Health and Medical Research Council australien a conclu qu'il n'existe aucune affection pour laquelle des preuves fiables montrent l'efficacité de l'homéopathie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Homeopathy – position statement",
+          "publisher": "Royal Australian College of General Practitioners",
+          "url": "https://www.racgp.org.au/advocacy/position-statements/view-all-position-statements/clinical-and-practice-management/homeopathy"
+        },
+        {
+          "title": "Homeopathy",
+          "publisher": "Better Health Channel (Victoria State Government)",
+          "url": "https://www.betterhealth.vic.gov.au/health/ConditionsAndTreatments/homeopathy"
+        }
+      ]
+    },
+    {
+      "text": "En 2019, la Haute Autorité de santé a jugé l'efficacité des médicaments homéopathiques insuffisante pour justifier leur remboursement, qui a pris fin le 1er janvier 2021.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Déremboursement des spécialités homéopathiques en 2021",
+          "publisher": "VIDAL",
+          "url": "https://www.vidal.fr/actualites/23549-deremboursement-des-specialites-homeopathiques-en-2021.html"
+        },
+        {
+          "title": "Déremboursement des médicaments homéopathiques",
+          "publisher": "Gouvernement français",
+          "url": "https://www.info.gouv.fr/actualite/deremboursement-des-medicaments-homeopathiques"
+        }
+      ]
+    },
+    {
+      "text": "Certains défenseurs de l'homéopathie soutiennent que le caractère individualisé du traitement le rend inadapté aux essais comparatifs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The arguments of homeopaths often sound like a broken record",
+          "publisher": "Edzard Ernst",
+          "url": "https://edzardernst.com/2026/07/the-arguments-of-homeopaths-often-sound-like-a-broken-record/"
+        }
+      ]
+    },
+    {
+      "text": "Popper nomme « stratagème conventionnaliste » le procédé qui consiste à sauver une théorie réfutée au moyen d'ajustements qui la soustraient à la réfutation.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science: Conjectures and Refutations (K. Popper, texte reproduit)",
+          "publisher": "Simon Fraser University (N. Swartz)",
+          "url": "https://www.sfu.ca/%7Eswartz/popper.htm"
+        }
+      ]
+    },
+    {
+      "text": "En physique quantique, l'« observateur » des fentes de Young désigne une interaction avec un dispositif de mesure, et non la conscience ou les désirs d'une personne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Is it us?",
+          "publisher": "Plus Magazine (University of Cambridge)",
+          "url": "https://plus.maths.org/content/it-us"
+        },
+        {
+          "title": "Double-slit experiment (concept)",
+          "publisher": "EPFL Graph Search",
+          "url": "https://graphsearch.epfl.ch/concept/18698687"
+        }
+      ]
+    },
+    {
+      "text": "Maurice Bucaille, médecin, a publié en 1976 La Bible, le Coran et la science.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "La Bible, le Coran et la science : les Écritures saintes examinées à la lumière des connaissances modernes",
+          "publisher": "Catalogue de la Süleyman Demirel University",
+          "url": "https://opact.sdu.edu.tr/vufind/Record/9190/Details"
+        },
+        {
+          "title": "Maurice Bucaille",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maurice_Bucaille"
+        }
+      ]
+    },
+    {
+      "text": "Les rapprochements entre versets et découvertes scientifiques proposés par Bucaille ont tous été formulés après les découvertes concernées, aucun ne les ayant annoncées à partir du texte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "\"Quran-science\": Scientific miracles from the 7th century?",
+          "publisher": "Taner Edis, Truman State University",
+          "url": "https://edis.sites.truman.edu/quran-science-scientific-miracles-from-the-7th-century/"
+        },
+        {
+          "title": "The Qur'an, Science, and the (Related) Contemporary Muslim Discourse",
+          "publisher": "Zygon (Wiley), N. Guessoum, 2008",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9744.2008.00925.x"
+        }
+      ]
+    },
+    {
+      "text": "Le récit de la création en six jours de la Genèse est réinterprété par des lecteurs concordistes en périodes symboliques pour s'accorder avec l'âge de l'univers estimé à des milliards d'années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Day-age creationism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Day-age_creationism"
+        },
+        {
+          "title": "Excursus on Creation of Life and Biological Diversity (Part 5): The Day-Age Interpretation",
+          "publisher": "Reasonable Faith (W. L. Craig)",
+          "url": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3/excursus-on-creation-of-life-and-biological-diversity-part-5/"
+        }
+      ]
+    },
+    {
+      "text": "Contrairement au Cercle de Vienne, Popper ne tenait pas les énoncés métaphysiques irréfutables pour dépourvus de sens ; son critère vise à démarquer la science, non à définir le sens.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Science and Pseudo-Science",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pseudo-science/"
+        }
+      ]
+    },
+    {
+      "text": "Pierre Duhem a soutenu en 1906 (La Théorie physique, son objet, sa structure) qu'une expérience ne teste jamais une hypothèse isolée mais un ensemble d'hypothèses.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pierre Duhem",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/duhem/"
+        }
+      ]
+    },
+    {
+      "text": "Thomas Kuhn, dans The Structure of Scientific Revolutions (1962), décrit une science normale travaillant dans un paradigme et tolérant des anomalies avant une révolution scientifique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Thomas Kuhn",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/thomas-kuhn/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+      "own": true
+    },
+    {
+      "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle de la sourate An-Naba (78:6-7)",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=eFne8S6CLsU",
+      "own": true
+    },
+    {
+      "title": "La théorie peut-elle réfuter l'expérience ? | Grain de philo #22",
+      "channel": "Monsieur Phi",
+      "url": "https://www.youtube.com/watch?v=SXLHijQeYok",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Si la science n'a jamais prouvé le contraire, peut-on y croire ?",
+    "url": "https://www.youtube.com/watch?v=mJXyMNvHVT0"
+  },
+  "shorts": [],
+  "corrections": []
+}

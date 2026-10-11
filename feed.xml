@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sun, 11 Oct 2026 16:16:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 18:16:09 GMT</lastBuildDate>
+<item>
+<title>Qu&apos;est-ce qu&apos;une vraie science ? Le critère de Karl Popper expliqué simplement</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-critere-de-refutabilite-de-karl-popper-0539/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-critere-de-refutabilite-de-karl-popper-0539/</guid>
+<pubDate>Sun, 11 Oct 2026 18:15:09 GMT</pubDate>
+<description>Trompeur : « Une théorie que toutes les observations confirment et qu&apos;aucun fait ne contredit est une théorie solide, et c&apos;est ce qui en fait une vraie science. ». Les confirmations ne pèsent que si la théorie aurait pu échouer : une affirmation compatible avec tous les résultats n&apos;interdit rien et n&apos;apprend rien, comme le montre le contraste de Popper entre Adler et la prédiction d&apos;Einstein testée en 1919. Le critère a ses limites (Duhem, Kuhn, Lakatos), mais il suffit à écarter l&apos;astrologie, la loi de l&apos;attraction quantique et les miracles relus après coup, tandis que l&apos;homéopathie, testable, a été testée et a échoué.</description>
+<category>L&apos;affirmation à l&apos;épreuve de tout</category>
+<category>Le tri des cas favorables</category>
+<category>La relecture après coup</category>
+</item>
 <item>
 <title>Le tarot peut-il vraiment prédire ton avenir ? L&apos;histoire secrète des cartes</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-tarot-peut-il-vraiment-predire-l-avenir-5bbe/</link>
@@ -523,15 +533,6 @@
 <pubDate>Fri, 02 Oct 2026 16:00:05 GMT</pubDate>
 <description>Technique de manipulation : La caution scientifique détournée. On invoque la NASA, un prix Nobel ou « des scientifiques » pour une affirmation qu&apos;ils n&apos;ont pas faite.</description>
 <category>La caution scientifique détournée</category>
-<category>Esprit critique</category>
-</item>
-<item>
-<title>Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-miracles-scientifiques-des-textes-anciens-a-l-5d5d/</guid>
-<pubDate>Fri, 02 Oct 2026 09:15:07 GMT</pubDate>
-<description>Technique de manipulation : La relecture après coup. Un texte vague est relu après une découverte pour y voir une prédiction.</description>
-<category>La relecture après coup</category>
 <category>Esprit critique</category>
 </item>
 </channel>
