@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "le-reiki-ea8e",
+      "title": "Reiki : que se passe-t-il vraiment pendant une séance ? Origines, symboles et énergie",
+      "format": "short",
+      "publishedAt": "2026-10-11T13:45:03.664Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Pendant une séance, le praticien de Reiki canalise une énergie vitale universelle qui passe par ses mains jusqu'au patient et l'aide à guérir.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "uaT-gUcBYuw",
+        "url": "https://www.youtube.com/watch?v=uaT-gUcBYuw",
+        "thumbnail": "https://i.ytimg.com/vi/uaT-gUcBYuw/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-reiki-ea8e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-reiki-ea8e.json"
+      }
+    },
+    {
       "id": "lithotherapie-4789",
       "title": "Lithothérapie : les pierres ont-elles vraiment un pouvoir ? Améthyste, quartz rose, labradorite",
       "format": "short",

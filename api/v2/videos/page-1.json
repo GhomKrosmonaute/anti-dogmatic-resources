@@ -1,12 +1,50 @@
 {
   "version": 2,
-  "total": 64,
+  "total": 65,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "le-reiki-ea8e",
+      "title": "Reiki : que se passe-t-il vraiment pendant une séance ? Origines, symboles et énergie",
+      "format": "short",
+      "publishedAt": "2026-10-11T13:45:03.664Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Pendant une séance, le praticien de Reiki canalise une énergie vitale universelle qui passe par ses mains jusqu'au patient et l'aide à guérir.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "uaT-gUcBYuw",
+        "url": "https://www.youtube.com/watch?v=uaT-gUcBYuw",
+        "thumbnail": "https://i.ytimg.com/vi/uaT-gUcBYuw/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-reiki-ea8e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-reiki-ea8e.json"
+      }
+    },
     {
       "id": "les-francs-macons-a347",
       "title": "Franc-maçonnerie : quel lien secret avec l'alchimie et les Rose-Croix ?",
@@ -1867,48 +1905,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84.json"
-      }
-    },
-    {
-      "id": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
-      "title": "L'enfer existe-t-il dans la Bible ? Ce que disent vraiment le Shéol et la Géhenne",
-      "format": "video",
-      "publishedAt": "2026-10-01T19:45:09.227Z",
-      "durationSeconds": 680,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "La Bible enseigne clairement que les damnés subiront après la mort un supplice éternel dans le feu de l'enfer.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "Zh3i--DO7tc",
-        "url": "https://www.youtube.com/watch?v=Zh3i--DO7tc",
-        "thumbnail": "https://i.ytimg.com/vi/Zh3i--DO7tc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-enfer-n-est-presque-pas-dans-la-bible-b8ff/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-enfer-n-est-presque-pas-dans-la-bible-b8ff.json"
       }
     }
   ]

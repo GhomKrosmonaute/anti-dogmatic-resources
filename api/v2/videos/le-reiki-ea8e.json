@@ -1,0 +1,285 @@
+{
+  "version": 2,
+  "id": "le-reiki-ea8e",
+  "title": "Reiki : que se passe-t-il vraiment pendant une séance ? Origines, symboles et énergie",
+  "format": "short",
+  "publishedAt": "2026-10-11T13:45:03.664Z",
+  "durationSeconds": 132,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Pendant une séance, le praticien de Reiki canalise une énergie vitale universelle qui passe par ses mains jusqu'au patient et l'aide à guérir.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Aucune mesure fiable n'a jamais détecté cette énergie, et lors du test publié par JAMA en 1998, des praticiens d'une méthode voisine ont localisé le « champ » moins bien que le hasard. La synthèse Cochrane de 2015 juge les preuves insuffisantes : le mieux-être ressenti s'explique par le repos et l'attention, sans qu'il faille supposer un flux invisible."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "uaT-gUcBYuw",
+    "url": "https://www.youtube.com/watch?v=uaT-gUcBYuw",
+    "thumbnail": "https://i.ytimg.com/vi/uaT-gUcBYuw/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-reiki-ea8e/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-reiki-ea8e.json"
+  },
+  "facts": [
+    {
+      "text": "Selon la tradition du Reiki, Mikao Usui a fondé la méthode au Japon en 1922, après un jeûne sur le mont Kurama.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mikao Usui",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mikao_Usui"
+        },
+        {
+          "title": "Reiki",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/science/Reiki"
+        }
+      ]
+    },
+    {
+      "text": "Les praticiens présentent le Reiki comme la transmission d'une « énergie vitale universelle ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Guidelines for Evaluating Reiki as an Alternative Therapy (texte reproduit)",
+          "publisher": "CESNUR / USCCB Committee on Doctrine",
+          "url": "https://www.cesnur.org/2009/reiki.htm"
+        }
+      ]
+    },
+    {
+      "text": "La pratique du Reiki passe par des initiations conférées par un maître en plusieurs degrés, avec des symboles tracés dans l'air, dont Cho Ku Rei.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Guidelines for Evaluating Reiki as an Alternative Therapy (texte reproduit)",
+          "publisher": "CESNUR / USCCB Committee on Doctrine",
+          "url": "https://www.cesnur.org/2009/reiki.htm"
+        },
+        {
+          "title": "4 Primary Reiki Symbols and Meanings",
+          "publisher": "MASSAGE Magazine",
+          "url": "https://www.massagemag.com/the-significance-of-the-four-primary-reiki-symbols-143520/"
+        }
+      ]
+    },
+    {
+      "text": "Pendant une séance, le praticien pose les mains sur le corps ou les tient à quelques centimètres, selon une suite de positions.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reiki",
+          "publisher": "National Center for Complementary and Integrative Health (NIH)",
+          "url": "https://nccih.nih.gov/health/reiki"
+        }
+      ]
+    },
+    {
+      "text": "En 1998, la revue JAMA a publié l'expérience d'Emily Rosa, alors âgée de onze ans, sur le toucher thérapeutique (Rosa L, Rosa E, Sarner L, Barrett S, « A Close Look at Therapeutic Touch », JAMA, 1er avril 1998).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch (résumé JAMA 1998)",
+          "publisher": "Qigong Institute (reprise du résumé JAMA)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        },
+        {
+          "title": "Emily Rosa",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emily_Rosa"
+        }
+      ]
+    },
+    {
+      "text": "Le toucher thérapeutique est une pratique voisine du Reiki dont les praticiens affirment percevoir un champ énergétique humain.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch (résumé JAMA 1998)",
+          "publisher": "Qigong Institute (reprise du résumé JAMA)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        },
+        {
+          "title": "Touch therapies (Healing Touch, Therapeutic Touch and Reiki) for the treatment of pain relief for adults",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/CD006535"
+        }
+      ]
+    },
+    {
+      "text": "Dans cette expérience, 21 praticiens passaient les mains à travers un écran et devaient dire au-dessus de laquelle Emily Rosa tenait sa main, choisie par tirage au sort.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch (résumé JAMA 1998)",
+          "publisher": "Qigong Institute (reprise du résumé JAMA)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        },
+        {
+          "title": "Emily Rosa",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emily_Rosa"
+        }
+      ]
+    },
+    {
+      "text": "Les praticiens ont donné 44 % de bonnes réponses (123 sur 280 essais), moins que les 50 % attendus du hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch (résumé JAMA 1998)",
+          "publisher": "Qigong Institute (reprise du résumé JAMA)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        },
+        {
+          "title": "A Close Look at Therapeutic Touch (PDF de l'article)",
+          "publisher": "St. Lawrence University Libraries (copie de JAMA)",
+          "url": "https://library.stlawu.edu/system/files/2020-12/rosa_close_look_at_therapeutic_touch.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Aucune mesure fiable et reproductible n'a mis en évidence l'énergie que le Reiki dit transmettre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reiki",
+          "publisher": "National Center for Complementary and Integrative Health (NIH)",
+          "url": "https://nccih.nih.gov/health/reiki"
+        },
+        {
+          "title": "A close look at therapeutic touch (résumé JAMA 1998)",
+          "publisher": "Qigong Institute (reprise du résumé JAMA)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        }
+      ]
+    },
+    {
+      "text": "La revue Cochrane de 2015 (Joyce et Herbison, « Reiki for depression and anxiety », CD006833) conclut que les preuves sont insuffisantes pour dire si le Reiki est utile ou non chez les personnes de plus de 16 ans souffrant d'anxiété, de dépression ou des deux.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reiki for the treatment of anxiety and depression",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/evidence/CD006833_reiki-treatment-anxiety-and-depression"
+        },
+        {
+          "title": "Reiki for depression and anxiety",
+          "publisher": "Cochrane Library",
+          "url": "https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006833.pub2/information"
+        }
+      ]
+    },
+    {
+      "text": "Près d'un siècle sépare la fondation traditionnelle du Reiki (1922) de cette synthèse Cochrane (2015).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Reiki for the treatment of anxiety and depression",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/evidence/CD006833_reiki-treatment-anxiety-and-depression"
+        }
+      ]
+    },
+    {
+      "text": "Le repos au calme et l'attention bienveillante d'un soignant suffisent à procurer une détente, indépendamment de toute énergie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Investigation of standard care versus sham Reiki placebo versus actual Reiki therapy to enhance comfort and well-being in a chemotherapy infusion center",
+          "publisher": "Qigong Institute (reprise du résumé d'Oncology Nursing Forum, 2011)",
+          "url": "https://qigonginstitute.org/abstract-print/6384"
+        },
+        {
+          "title": "Reiki",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Reiki"
+        }
+      ]
+    },
+    {
+      "text": "Le 25 mars 2009, le comité doctrinal de la Conférence des évêques catholiques des États-Unis a jugé le Reiki incompatible avec l'enseignement chrétien comme avec les données scientifiques, et inapproprié pour les institutions catholiques, dont les établissements de santé (« Guidelines for Evaluating Reiki as an Alternative Therapy »).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Guidelines for Evaluating Reiki as an Alternative Therapy",
+          "publisher": "United States Conference of Catholic Bishops",
+          "url": "https://www.usccb.org/resources/evaluation-guidelines-finaltext-2009-03_0.pdf"
+        },
+        {
+          "title": "Guidelines for Evaluating Reiki as an Alternative Therapy (texte reproduit)",
+          "publisher": "CESNUR / USCCB Committee on Doctrine",
+          "url": "https://www.cesnur.org/2009/reiki.htm"
+        }
+      ]
+    },
+    {
+      "text": "Aucun essai clinique solide n'a établi que le Reiki soigne une maladie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Effects of reiki in clinical practice: a systematic review of randomised clinical trials",
+          "publisher": "Qigong Institute (reprise du résumé d'Int J Clin Pract, 2008)",
+          "url": "https://qigonginstitute.org/abstract-print/4252"
+        },
+        {
+          "title": "Reiki",
+          "publisher": "National Center for Complementary and Integrative Health (NIH)",
+          "url": "https://nccih.nih.gov/health/reiki"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "épidémiologie et biostatistique (évaluation clinique des médecines complémentaires)",
+    "threshold": 6.6,
+    "passages": 8,
+    "approximations": [
+      {
+        "excerpt": "Près d'un siècle de pratique, et rien de concluant.",
+        "note": "La pratique date de 1922, soit un peu plus d'un siècle. L'arrondi est rhétorique, ne concerne pas la santé et l'argument n'en dépend pas."
+      },
+      {
+        "excerpt": "En séance, le praticien laisse ses paumes sur toi ou à quelques centimètres, position après position.",
+        "note": "« Quelques centimètres » est une distance indicative qui décrit la gestuelle. Sa valeur exacte est sans importance pour le propos."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}
