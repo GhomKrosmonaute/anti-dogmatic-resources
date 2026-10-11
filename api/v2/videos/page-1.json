@@ -1,12 +1,85 @@
 {
   "version": 2,
-  "total": 62,
+  "total": 64,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "les-francs-macons-a347",
+      "title": "Franc-maçonnerie : quel lien secret avec l'alchimie et les Rose-Croix ?",
+      "format": "video",
+      "publishedAt": "2026-10-11T13:15:10.818Z",
+      "durationSeconds": 715,
+      "rubric": null,
+      "claim": {
+        "statement": "La franc-maçonnerie est l'héritière secrète des alchimistes et des Rose-Croix, gardienne d'une sagesse initiatique transmise depuis l'Antiquité.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "iyacrpu-wfw",
+        "url": "https://www.youtube.com/watch?v=iyacrpu-wfw",
+        "thumbnail": "https://i.ytimg.com/vi/iyacrpu-wfw/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-francs-macons-a347/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-francs-macons-a347.json"
+      }
+    },
+    {
+      "id": "ni-dieu-ni-maitre-0a80",
+      "title": "Ni Dieu ni maître : l'anarchie, c'est vraiment le chaos ? De Proudhon aux Anonymous",
+      "format": "video",
+      "publishedAt": "2026-10-10T22:57:08.067Z",
+      "durationSeconds": 760,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "De Proudhon aux Anonymous, l'anarchisme forme une seule lignée : ni Dieu ni maître, des sociétés sans chef qui ont fonctionné et changé le monde, loin du cliché du chaos.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "NMsk7D36LgQ",
+        "url": "https://www.youtube.com/watch?v=NMsk7D36LgQ",
+        "thumbnail": "https://i.ytimg.com/vi/NMsk7D36LgQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ni-dieu-ni-maitre-0a80/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ni-dieu-ni-maitre-0a80.json"
+      }
+    },
     {
       "id": "les-societes-secretes-qui-dirigeraient-le-monde-3da2",
       "title": "Illuminati, francs-maçons, Bilderberg : qui dirige vraiment le monde en secret ?",
@@ -1836,59 +1909,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-enfer-n-est-presque-pas-dans-la-bible-b8ff/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-enfer-n-est-presque-pas-dans-la-bible-b8ff.json"
-      }
-    },
-    {
-      "id": "l-argument-d-autorite-ab9c",
-      "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
-      "format": "video",
-      "publishedAt": "2026-10-01T19:00:12.466Z",
-      "durationSeconds": 686,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "argument-autorite",
-        "name": "L'argument d'autorité"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "pTsHM7DTF7U",
-        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U",
-        "thumbnail": "https://i.ytimg.com/vi/pTsHM7DTF7U/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-ab9c/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-ab9c.json"
-      }
-    },
-    {
-      "id": "comment-l-homeopathie-est-censee-agir-6e3b",
-      "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
-      "format": "video",
-      "publishedAt": "2026-10-01T18:15:07.563Z",
-      "durationSeconds": 712,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": null,
-      "technique": null,
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "lBDAu7W8rgs",
-        "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
-        "thumbnail": "https://i.ytimg.com/vi/lBDAu7W8rgs/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-l-homeopathie-est-censee-agir-6e3b/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-l-homeopathie-est-censee-agir-6e3b.json"
       }
     }
   ]

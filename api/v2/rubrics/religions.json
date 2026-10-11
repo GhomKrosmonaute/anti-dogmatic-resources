@@ -5,6 +5,40 @@
   "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
   "items": [
     {
+      "id": "ni-dieu-ni-maitre-0a80",
+      "title": "Ni Dieu ni maître : l'anarchie, c'est vraiment le chaos ? De Proudhon aux Anonymous",
+      "format": "video",
+      "publishedAt": "2026-10-10T22:57:08.067Z",
+      "durationSeconds": 760,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "De Proudhon aux Anonymous, l'anarchisme forme une seule lignée : ni Dieu ni maître, des sociétés sans chef qui ont fonctionné et changé le monde, loin du cliché du chaos.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "NMsk7D36LgQ",
+        "url": "https://www.youtube.com/watch?v=NMsk7D36LgQ",
+        "thumbnail": "https://i.ytimg.com/vi/NMsk7D36LgQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ni-dieu-ni-maitre-0a80/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ni-dieu-ni-maitre-0a80.json"
+      }
+    },
+    {
       "id": "l-histoire-du-satanisme-da7b",
       "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
       "format": "video",

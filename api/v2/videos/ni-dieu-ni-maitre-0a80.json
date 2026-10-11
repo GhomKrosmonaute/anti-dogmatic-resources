@@ -1,0 +1,479 @@
+{
+  "version": 2,
+  "id": "ni-dieu-ni-maitre-0a80",
+  "title": "Ni Dieu ni maître : l'anarchie, c'est vraiment le chaos ? De Proudhon aux Anonymous",
+  "format": "video",
+  "publishedAt": "2026-10-10T22:57:08.067Z",
+  "durationSeconds": 760,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "De Proudhon aux Anonymous, l'anarchisme forme une seule lignée : ni Dieu ni maître, des sociétés sans chef qui ont fonctionné et changé le monde, loin du cliché du chaos.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Le cliché « anarchie = chaos » ne tient pas : les mouvements libertaires étaient organisés et ont compté dans des conquêtes réelles comme la journée de huit heures. Mais la légende inverse trie les cas : expériences brèves, autorité revenue (le « batko » Makhno, des ministres anarchistes en 1936, le culte d'Öcalan), violences anticléricales documentées, et des Anonymous qui partagent un tempérament antiautoritaire sans le programme anarchiste."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "NMsk7D36LgQ",
+    "url": "https://www.youtube.com/watch?v=NMsk7D36LgQ",
+    "thumbnail": "https://i.ytimg.com/vi/NMsk7D36LgQ/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ni-dieu-ni-maitre-0a80/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ni-dieu-ni-maitre-0a80.json"
+  },
+  "facts": [
+    {
+      "text": "Proudhon publie « Qu'est-ce que la propriété ? » en 1840, ouvrage connu pour la formule « la propriété, c'est le vol » ; il avait été typographe à Besançon.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pierre Joseph Proudhon (1809 - 1865)",
+          "publisher": "Hérodote.net",
+          "url": "https://www.herodote.net/Le_prophete_de_l_anarchisme-synthese-362.php"
+        }
+      ]
+    },
+    {
+      "text": "Dans « Qu'est-ce que la propriété ? », un dialogue se conclut par « Qu'êtes-vous donc ? — Je suis anarchiste. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Proudhon Lexicon: Anarchy (What is Property?)",
+          "publisher": "The Libertarian Labyrinth",
+          "url": "https://www.libertarian-labyrinth.org/working-translations/proudhon-lexicon-anarchy-what-is-property/"
+        },
+        {
+          "title": "Un livre de Thibault Isabel sur Proudhon",
+          "publisher": "Contrelittérature",
+          "url": "https://www.contrelitterature.com/apps/m/archive/2017/06/28/un-livre-de-thibault-isabel-sur-proudhon-5958279.html"
+        }
+      ]
+    },
+    {
+      "text": "Proudhon écrit dans le même ouvrage : « Anarchie, absence de maître, de souverain, telle est la forme de gouvernement dont nous approchons tous les jours. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Proudhon Lexicon: Anarchy (What is Property?)",
+          "publisher": "The Libertarian Labyrinth",
+          "url": "https://www.libertarian-labyrinth.org/working-translations/proudhon-lexicon-anarchy-what-is-property/"
+        },
+        {
+          "title": "Arthur Ranc, Anarchy",
+          "publisher": "The Anarchist Library",
+          "url": "https://theanarchistlibrary.org/library/arthur-ranc-anarchy"
+        }
+      ]
+    },
+    {
+      "text": "« Dieu et l'État » de Bakounine, rédigé en français, est publié à titre posthume en 1882 et contient la phrase « Si Dieu existait réellement, il faudrait le faire disparaître », retournement de Voltaire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "God and the State",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/God_and_the_State"
+        },
+        {
+          "title": "Mikhaïl Aleksandrovitch Bakounine",
+          "publisher": "Wikiquote",
+          "url": "https://fr.wikiquote.org/wiki/Mikha%C3%AFl_Aleksandrovitch_Bakounine"
+        },
+        {
+          "title": "Bakounine - Dieu et l'État, 1892, p. 43",
+          "publisher": "Wikisource",
+          "url": "https://fr.wikisource.org/wiki/Page:Bakounine_-_Dieu_et_l%E2%80%99%C3%89tat,_1892.djvu/43"
+        }
+      ]
+    },
+    {
+      "text": "Kropotkine publie « Mutual Aid » en 1902 et y présente l'entraide comme un facteur de l'évolution.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Mutual Aid: A Factor of Evolution",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution"
+        },
+        {
+          "title": "Mutual Aid: A Factor of Evolution",
+          "publisher": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/4341"
+        }
+      ]
+    },
+    {
+      "text": "Le 1er mai 1886, grève pour la journée de huit heures aux États-Unis ; le 4 mai, une bombe explose parmi les policiers à Haymarket Square, Chicago ; huit anarchistes condamnés, quatre pendus le 11 novembre 1887.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Haymarket affair",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haymarket_affair"
+        },
+        {
+          "title": "1886: Haymarket Affair",
+          "publisher": "Northwestern University School of Law",
+          "url": "https://homicide.northwestern.edu/crimes/haymarket/"
+        }
+      ]
+    },
+    {
+      "text": "En octobre 1884, la Federation of Organized Trades and Labor Unions fixe au 1er mai 1886 l'entrée en vigueur de la journée de huit heures.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "May Day Archive",
+          "publisher": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/subject/mayday/articles/afl.html"
+        },
+        {
+          "title": "History of May Day",
+          "publisher": "ILWU Local 19",
+          "url": "https://www.ilwu19.com/history/mayday"
+        }
+      ]
+    },
+    {
+      "text": "En 1889 à Paris, l'Internationale ouvrière appelle à manifester le 1er mai 1890, en s'alignant sur une décision de l'American Federation of Labor.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "1er mai (E. Aveling, Le Devenir social, 1896)",
+          "publisher": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/francais/marxaveling/works/1896/01/1er_mai.htm"
+        },
+        {
+          "title": "1st May",
+          "publisher": "Friedrich-Ebert-Stiftung",
+          "url": "https://www.fes.de/en/feshistory/1st-may"
+        }
+      ]
+    },
+    {
+      "text": "Le lanceur de la bombe de Haymarket n'a jamais été identifié ; en 1893, le gouverneur John Peter Altgeld gracie les trois condamnés encore emprisonnés et dénonce un procès inéquitable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Governor Altgeld Pardons the Haymarket Protesters",
+          "publisher": "American Social History Project / Who Built America",
+          "url": "https://whobuiltamerica.org/item/governor-altgeld-pardons-the-haymarket-protesters"
+        },
+        {
+          "title": "Haymarket affair",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haymarket_affair"
+        }
+      ]
+    },
+    {
+      "text": "En 1941, le régime de Vichy fait officiellement du 1er mai la « fête du Travail et de la Concorde sociale ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "1er mai, nous voilà",
+          "publisher": "Archives départementales de Vaucluse",
+          "url": "https://archives.vaucluse.fr/informations-transversales/toutes-les-actualites-1209/1er-mai-nous-voila-6840/pdf"
+        },
+        {
+          "title": "Fête du Travail : pourquoi le 1er mai est-il férié ?",
+          "publisher": "Europe 1",
+          "url": "https://www.europe1.fr/societe/fete-du-travail-pourquoi-le-1er-mai-est-il-ferie-3965196"
+        }
+      ]
+    },
+    {
+      "text": "Nestor Makhno, fils de paysans pauvres, mène dès 1918 une insurrection dans la région de Gouliaïpole ; son armée combat les Blancs et les Rouges ; des congrès régionaux se tiennent et les grands domaines sont partagés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Nestor Makhno",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nestor_Makhno"
+        },
+        {
+          "title": "Makhno, Nestor Ivanovich",
+          "publisher": "1914-1918-online. International Encyclopedia of the First World War",
+          "url": "https://encyclopedia.1914-1918-online.net/article/makhno-nestor-ivanovich/"
+        }
+      ]
+    },
+    {
+      "text": "La Makhnovchtchina disposait d'un état-major et d'un contre-espionnage qui procédait à des exécutions ; Makhno était surnommé « batko ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Polonsky conspiracy",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Polonsky_conspiracy"
+        },
+        {
+          "title": "Lev Zadov",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lev_Zadov"
+        },
+        {
+          "title": "Nestor Makhno",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nestor_Makhno"
+        }
+      ]
+    },
+    {
+      "text": "Allié à l'Armée rouge contre Wrangel à l'automne 1920, Makhno est attaqué par elle en novembre 1920, fuit en Roumanie en 1921 et meurt à Paris en 1934 ; son urne est au Père-Lachaise.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Nestor Makhno",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nestor_Makhno"
+        },
+        {
+          "title": "Pere Lachaise Cemetery (p. 20)",
+          "publisher": "Mennonite Heritage Archives",
+          "url": "https://www.mharchives.ca/holdings/Schroeder_maps/20.htm"
+        }
+      ]
+    },
+    {
+      "text": "En juillet 1936, la CNT contribue à mettre en échec le soulèvement militaire à Barcelone ; usines, tramways et terres d'Aragon sont collectivisés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Albert Balcells, Catalan Historical Review",
+          "publisher": "Institut d'Estudis Catalans",
+          "url": "https://revistes.iec.cat/index.php/CHR/article/download/143735/pdf_1277/165416"
+        },
+        {
+          "title": "1936-1939: The Spanish civil war and revolution",
+          "publisher": "libcom.org",
+          "url": "https://libcom.org/history/1936-1939-the-spanish-civil-war-and-revolution"
+        }
+      ]
+    },
+    {
+      "text": "Le 4 novembre 1936, quatre anarchistes entrent au gouvernement de Largo Caballero, dont Federica Montseny à la Santé et Juan García Oliver à la Justice.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Els anarquistes al govern",
+          "publisher": "Enciclopèdia.cat",
+          "url": "https://www.enciclopedia.cat/historia.-politica-societat-i-cultura-dels-paisos-catalans/els-anarquistes-al-govern"
+        },
+        {
+          "title": "Federica Montseny",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Federica_Montseny"
+        }
+      ]
+    },
+    {
+      "text": "Antonio Montero Moreno recense en 1961 6 832 membres du clergé tués dans la zone républicaine pendant la guerre civile espagnole.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Estudios Eclesiásticos (2009)",
+          "publisher": "Universidad Pontificia Comillas",
+          "url": "https://revistas.comillas.edu/index.php/estudioseclesiasticos/article/download/8541/8083/18649"
+        },
+        {
+          "title": "Historia de la Persecución Religiosa en España",
+          "publisher": "ACI Prensa",
+          "url": "https://www.aciprensa.com/Biblio/biblio63.htm"
+        }
+      ]
+    },
+    {
+      "text": "Les anarchistes figurent parmi les principaux auteurs des violences anticléricales en Catalogne et en Aragon à l'été 1936.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Violence dans la guerre civile espagnole",
+          "publisher": "Visualizing the Spanish Civil War (vscw.ca)",
+          "url": "https://vscw.ca/fr/node/11"
+        },
+        {
+          "title": "Claretian Martyrs Are Executed in Spain",
+          "publisher": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/history/claretian-martyrs-are-executed-spain"
+        }
+      ]
+    },
+    {
+      "text": "En août 1937, le gouvernement républicain dissout le Conseil d'Aragon et les troupes d'Enrique Líster démantèlent une partie des collectivités.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Regional Defence Council of Aragon",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Regional_Defence_Council_of_Aragon"
+        },
+        {
+          "title": "85 años del Consejo de Aragón, el primer y último gobierno libertario del mundo",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/aragon/85-anos-consejo-aragon-primer-ultimo-gobierno-libertario-mundo_1_8240410.html"
+        }
+      ]
+    },
+    {
+      "text": "Auguste Vaillant lance une bombe dans la Chambre des députés en décembre 1893 ; Caserio poignarde Sadi Carnot à Lyon le 24 juin 1894.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Auguste Vaillant",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Auguste_Vaillant"
+        },
+        {
+          "title": "Assassination of Sadi Carnot",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Assassination_of_Sadi_Carnot"
+        }
+      ]
+    },
+    {
+      "text": "« Ni Dieu ni maître » est le titre d'un journal lancé en 1880 par Auguste Blanqui, qui n'était pas anarchiste et prônait une dictature révolutionnaire provisoire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "BLANQUI AUGUSTE (1805-1881)",
+          "publisher": "Encyclopædia Universalis",
+          "url": "https://www.universalis.fr/encyclopedie/auguste-blanqui/"
+        },
+        {
+          "title": "Engels, Le programme des émigrés blanquistes de la Commune (1873)",
+          "publisher": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/francais/engels/works/1873/06/18730600.htm"
+        }
+      ]
+    },
+    {
+      "text": "Dans ses Carnets, à la date du 26 décembre 1847, Proudhon écrit : « Le juif est l'ennemi du genre humain. Il faut renvoyer cette race en Asie, ou l'exterminer. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pierre Joseph Proudhon 1847 (Carnets)",
+          "publisher": "Marxists Internet Archive",
+          "url": "https://www.marxists.org/reference/subject/economics/proudhon/1847/jews.htm"
+        },
+        {
+          "title": "Antisemitism in the anarchist tradition",
+          "publisher": "Freie Universität Berlin (D. Miething, 2018)",
+          "url": "https://www.polsoz.fu-berlin.de/polwiss/forschung/sozialkunde/politikdidaktik/Team/miething/Miething_-Dominique-_2018_---Antisemitism-in-the-anarchist-tradition.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Dans « La Pornocratie », Proudhon réduit la femme à l'alternative « ménagère ou courtisane ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Proudhon : « Nous ne comprenons pas plus une femme législatrice qu'un homme nourrice. »",
+          "publisher": "L'Histoire en citations",
+          "url": "https://histoire-en-citations.fr/WP/proudhon-nous-ne-comprenons-pas-plus-une-femme-legislatrice-quun-homme-nourrice/"
+        },
+        {
+          "title": "Luc Nemeth, essai sur la misogynie de Proudhon",
+          "publisher": "Academia.edu",
+          "url": "https://www.academia.edu/39000398"
+        }
+      ]
+    },
+    {
+      "text": "L'EZLN se soulève le 1er janvier 1994, jour d'entrée en vigueur de l'ALENA ; elle naît en 1983 de militants des Forces de libération nationale, guérilla marxiste, et ne se revendique pas anarchiste.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Zapatista Army of National Liberation",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation"
+        },
+        {
+          "title": "Se fractura la guerrilla en Chiapas; rompen FLN con el EZLN",
+          "publisher": "Excélsior",
+          "url": "https://www.excelsior.com.mx/nacional/se-fractura-la-guerrilla-en-chiapas-rompen-fln-con-el-ezln/1302012"
+        }
+      ]
+    },
+    {
+      "text": "Au Rojava, à partir de 2012, communes et coprésidences paritaires s'inspirent du confédéralisme démocratique d'Abdullah Öcalan, lecteur de Murray Bookchin en prison.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Democratic Confederalism in Kurdistan",
+          "publisher": "libcom.org",
+          "url": "https://libcom.org/article/democratic-confederalism-kurdistan"
+        },
+        {
+          "title": "My Experience with Communes and Committees in Rojava",
+          "publisher": "The Anarchist Library",
+          "url": "https://theanarchistlibrary.org/library/philip-arge-o-keeffe-my-experience-with-communes-and-committees-in-rojava"
+        }
+      ]
+    },
+    {
+      "text": "À la fin de sa vie, Murray Bookchin rompt avec l'étiquette anarchiste et se dit communaliste.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bookchin Breaks with Anarchism",
+          "publisher": "Janet Biehl / Anarchist Libraries",
+          "url": "https://mirror.anarhija.net/en.anarchistlibraries.net/mirror/j/jb/janet-biehl-bookchin-breaks-with-anarchism.a4.pdf"
+        },
+        {
+          "title": "Review of Social Ecology and Communalism",
+          "publisher": "An Anarchist FAQ (Iain McKay)",
+          "url": "https://anarchism.pageabode.com/anarcho/review-social-ecology-communalism"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": {
+    "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+    "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU"
+  },
+  "shorts": [],
+  "corrections": []
+}

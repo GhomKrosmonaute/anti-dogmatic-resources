@@ -41,6 +41,45 @@
   ],
   "examples": [
     {
+      "id": "les-francs-macons-a347",
+      "title": "Franc-maçonnerie : quel lien secret avec l'alchimie et les Rose-Croix ?",
+      "format": "video",
+      "publishedAt": "2026-10-11T13:15:10.818Z",
+      "durationSeconds": 715,
+      "rubric": null,
+      "claim": {
+        "statement": "La franc-maçonnerie est l'héritière secrète des alchimistes et des Rose-Croix, gardienne d'une sagesse initiatique transmise depuis l'Antiquité.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "iyacrpu-wfw",
+        "url": "https://www.youtube.com/watch?v=iyacrpu-wfw",
+        "thumbnail": "https://i.ytimg.com/vi/iyacrpu-wfw/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-francs-macons-a347/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-francs-macons-a347.json"
+      }
+    },
+    {
       "id": "la-numerologie-a783",
       "title": "Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?",
       "format": "short",

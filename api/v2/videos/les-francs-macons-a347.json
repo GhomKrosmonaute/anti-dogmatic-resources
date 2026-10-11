@@ -1,0 +1,429 @@
+{
+  "version": 2,
+  "id": "les-francs-macons-a347",
+  "title": "Franc-maçonnerie : quel lien secret avec l'alchimie et les Rose-Croix ?",
+  "format": "video",
+  "publishedAt": "2026-10-11T13:15:10.818Z",
+  "durationSeconds": 715,
+  "rubric": null,
+  "claim": {
+    "statement": "La franc-maçonnerie est l'héritière secrète des alchimistes et des Rose-Croix, gardienne d'une sagesse initiatique transmise depuis l'Antiquité.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Aucun document ne relie les loges à une transmission alchimique ou rosicrucienne : la Grande Loge n'est attestée qu'autour de 1717-1721, et les grades ésotériques apparaissent entre 1730 et le XIXe siècle. Le symbolisme alchimique y sert d'outil initiatique, et la seule pièce solide, le journal d'Ashmole, décrit une sociabilité de gentlemen, pas un enseignement secret."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "iyacrpu-wfw",
+    "url": "https://www.youtube.com/watch?v=iyacrpu-wfw",
+    "thumbnail": "https://i.ytimg.com/vi/iyacrpu-wfw/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-francs-macons-a347/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-francs-macons-a347.json"
+  },
+  "facts": [
+    {
+      "text": "Elias Ashmole, passionné d'alchimie, note dans son journal qu'il a été fait franc-maçon à Warrington le 16 octobre 1646, avec le colonel Henry Mainwaring.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Elias Ashmole",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Elias_Ashmole"
+        },
+        {
+          "title": "Chapter 19",
+          "publisher": "The Old Charges",
+          "url": "https://theoldcharges.com/chapter-19.html"
+        }
+      ]
+    },
+    {
+      "text": "Les statuts de William Schaw, maître des travaux du roi Jacques VI, datent de 1598 et 1599 et organisent les loges écossaises.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Second William Schaw Statutes (1599)",
+          "publisher": "The Old Charges",
+          "url": "https://theoldcharges.com/chapter-14.html"
+        }
+      ]
+    },
+    {
+      "text": "Le 8 juin 1600, John Boswell d'Auchinleck, non opératif, assiste à une réunion de la loge d'Édimbourg.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "John Boswell (freemason)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Boswell_(freemason)"
+        },
+        {
+          "title": "Copy of a Minute of the Meeting of the Lodge of Edinburgh at Holyrood in June 1600",
+          "publisher": "Warrington Masonic Library catalogue",
+          "url": "https://catalogue.wmlmt.org.uk/wiki/2022/7.64:_Copy_of_a_Minute_of_the_Meeting_of_the_Lodge_of_Edinburgh_at_Holyrood_in_June_1600"
+        }
+      ]
+    },
+    {
+      "text": "Les loges écossaises du XVIIe siècle utilisent un signe de reconnaissance appelé le mot du maçon (Mason Word).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Rituals of identification and initiation (The Origins of Freemasonry)",
+          "publisher": "Cambridge University Press",
+          "url": "https://www.cambridge.org/core/books/origins-of-freemasonry/rituals-of-identification-and-initiation/BE408B35DE165A48DB99E770847BAF13"
+        }
+      ]
+    },
+    {
+      "text": "La Fama Fraternitatis paraît en 1614 et Les Noces chymiques de Christian Rosenkreutz en 1616.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Chymical Wedding of Christian Rosenkreutz",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chymical_Wedding_of_Christian_Rosenkreutz"
+        }
+      ]
+    },
+    {
+      "text": "En 1638, à Édimbourg, Henry Adamson publie The Muses Threnodie, dont les vers associent les frères de la Rose-Croix, le mot du maçon et la seconde vue.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Henry Adamson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Henry_Adamson"
+        },
+        {
+          "title": "Rituals of identification and initiation (The Origins of Freemasonry)",
+          "publisher": "Cambridge University Press",
+          "url": "https://www.cambridge.org/core/books/origins-of-freemasonry/rituals-of-identification-and-initiation/BE408B35DE165A48DB99E770847BAF13"
+        }
+      ]
+    },
+    {
+      "text": "Ashmole publie le Theatrum Chemicum Britannicum en 1652.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Theatrum Chemicum Britannicum",
+          "publisher": "Princeton University Library",
+          "url": "https://dpul.princeton.edu/alchemy/catalog/j3860d936"
+        }
+      ]
+    },
+    {
+      "text": "Dans de nombreuses loges françaises, le candidat attend dans un cabinet de réflexion contenant notamment un crâne, un sablier, du pain, du sel, du soufre et l'inscription VITRIOL.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Le cabinet de réflexion",
+          "publisher": "La Chaîne d'Union (Cairn)",
+          "url": "https://shs.cairn.info/article/CDU_061_0042/pdf?lang=fr"
+        }
+      ]
+    },
+    {
+      "text": "La formule VITRIOL (Visita interiora terrae, rectificando invenies occultum lapidem) apparaît dans un traité alchimique du début du XVIIe siècle attribué à Basile Valentin.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Vitriol",
+          "publisher": "Freimaurer-Wiki",
+          "url": "https://www.freimaurer-wiki.de/index.php/Vitriol"
+        },
+        {
+          "title": "BASILIUS VALENTINUS (attributed to). Azoth; sive Aureliæ occultæ philosophorum (1613)",
+          "publisher": "Swann Galleries",
+          "url": "https://catalogue.swanngalleries.com/Lots/auction-lot/BASILIUS-VALENTINUS-attributed-to-Azoth;-sive-Aureli%C3%A6-occult?saleno=2162&lotNo=179&refNo=609692"
+        }
+      ]
+    },
+    {
+      "text": "Il existe un grade maçonnique nommé Rose-Croix, et de nombreuses loges travaillent à la gloire du Grand Architecte de l'Univers.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Souverain Prince Rose-Croix",
+          "publisher": "Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Souverain_Prince_Rose-Croix"
+        },
+        {
+          "title": "Franc-maçonnerie",
+          "publisher": "Encyclopédie Larousse",
+          "url": "https://www.larousse.fr/encyclopedie/divers/wd/53460"
+        }
+      ]
+    },
+    {
+      "text": "Le pape Clément XII condamne la franc-maçonnerie en 1738 (bulle In eminenti).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "In eminenti apostolatus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/In_eminenti_apostolatus"
+        }
+      ]
+    },
+    {
+      "text": "L'encyclique Humanum genus de Léon XIII (1884) oppose le royaume de Dieu au royaume de Satan et range la franc-maçonnerie du côté de ce dernier.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Humanum genus",
+          "publisher": "Saint-Siège (vatican.va)",
+          "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html"
+        },
+        {
+          "title": "Humanum genus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Humanum_genus"
+        }
+      ]
+    },
+    {
+      "text": "Le récit de la fondation de la Grande Loge le 24 juin 1717 à l'auberge L'Oie et le Gril n'est publié que par James Anderson en 1738.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Searching for the Apple Tree: Revisiting the Earliest Years of Organized English Freemasonry",
+          "publisher": "University of Glasgow Enlighten",
+          "url": "https://eprints.gla.ac.uk/130243"
+        },
+        {
+          "title": "Searching for the Apple Tree (REHMLAC+)",
+          "publisher": "REHMLAC+ / Dialnet",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/6249918.pdf"
+        }
+      ]
+    },
+    {
+      "text": "En 2017, Andrew Prescott et Susan Mitchell Sommers ont relevé qu'aucun document contemporain ne confirme 1717 et que les premières traces solides d'une Grande Loge datent de 1721.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Searching for the Apple Tree: Revisiting the Earliest Years of Organized English Freemasonry",
+          "publisher": "University of Glasgow Enlighten",
+          "url": "https://eprints.gla.ac.uk/130243"
+        },
+        {
+          "title": "Searching for the Apple Tree (REHMLAC+)",
+          "publisher": "REHMLAC+ / Dialnet",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/6249918.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Les Constitutions d'Anderson de 1723 affirment qu'Adam avait la géométrie écrite dans le cœur ; Anderson était un ministre presbytérien écossais.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Constitutions of the Free-Masons (texte de 1723)",
+          "publisher": "University of Michigan, Evans Early American Imprints",
+          "url": "https://quod.lib.umich.edu/e/evans/N03105.0001.001/15:3"
+        },
+        {
+          "title": "James Anderson (Freemason)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/James_Anderson_(Freemason)"
+        }
+      ]
+    },
+    {
+      "text": "La première Grande Loge ne connaît que deux grades ; le rituel de maître avec la légende d'Hiram est imprimé pour la première fois en 1730 dans Masonry Dissected de Samuel Prichard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Masonic myths",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Masonic_myths"
+        },
+        {
+          "title": "La masonería diseccionada",
+          "publisher": "UNED – Museo virtual de historia de la masonería",
+          "url": "https://www.uned.es/universidad/inicio/unidad/museo-virtual-historia-masoneria/sala-iii-documentos/la-masoneria-diseccionada.html"
+        }
+      ]
+    },
+    {
+      "text": "Le discours du chevalier Ramsay, à Paris en 1736, rattache les loges aux croisés et sert de terreau aux grades templiers.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Freemasonry Q&A: What was Ramsay's Oration",
+          "publisher": "Scottish Rite, NMJ",
+          "url": "https://scottishrite.org/?p=3081"
+        },
+        {
+          "title": "Chevalier Andrew Michael Ramsay",
+          "publisher": "Freemasonry Research Forum",
+          "url": "https://www.freemasonryresearchforumqsa.com/ramsay.php"
+        }
+      ]
+    },
+    {
+      "text": "Le grade de Rose-Croix apparaît en France dans les années 1760 ; les rites de Misraïm et de Memphis datent du XIXe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Rose-Croix and Christianity",
+          "publisher": "Pierre Mollier (Ritual, Secrecy, and Civil Society)",
+          "url": "https://pierremollier.wordpress.com/wp-content/uploads/2013/04/pm-127-rose-croix-and-christianity.pdf"
+        },
+        {
+          "title": "Rite of Memphis-Misraim",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rite_of_Memphis-Misraim"
+        }
+      ]
+    },
+    {
+      "text": "Aucune adresse, aucun registre ni aucun membre de la fraternité Rose-Croix n'est attesté ; Johann Valentin Andreae qualifie Les Noces chymiques de ludibrium.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Rosicrucians (book part)",
+          "publisher": "Cambridge University Press",
+          "url": "https://www.cambridge.org/core/product/identifier/CBO9780511894695A233/type/BOOK_PART"
+        },
+        {
+          "title": "Chymical Wedding of Christian Rosenkreutz",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chymical_Wedding_of_Christian_Rosenkreutz"
+        }
+      ]
+    },
+    {
+      "text": "Le journal d'Ashmole ne mentionne la maçonnerie qu'en 1646 et en 1682, cette dernière fois avec un dîner à la taverne de la Demi-Lune, à Cheapside, aux frais des nouveaux maçons acceptés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Elias Ashmole",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Elias_Ashmole"
+        },
+        {
+          "title": "Chapter 19",
+          "publisher": "The Old Charges",
+          "url": "https://theoldcharges.com/chapter-19.html"
+        }
+      ]
+    },
+    {
+      "text": "David Stevenson, dans The Origins of Freemasonry (1988), soutient que l'hermétisme de la Renaissance a influencé les loges écossaises du XVIIe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Origins of Freemasonry: Scotland's Century, 1590-1710 (review)",
+          "publisher": "Quest Magazine",
+          "url": "https://www.theosophical.org/publications/quest-magazine/the-origins-of-freemasonry-scotland-s-century-1590-1710"
+        }
+      ]
+    },
+    {
+      "text": "Dans les années 1770, l'ordre de la Rose-Croix d'or recrute dans les loges allemandes ; le futur Frédéric-Guillaume II de Prusse y adhère en 1781.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Rose-Croix – Les cercles allemands du XVIIIe siècle",
+          "publisher": "Encyclopædia Universalis",
+          "url": "https://www.universalis.fr/encyclopedie/rose-croix/2-les-cercles-allemands-du-xviiie-siecle/"
+        },
+        {
+          "title": "Bischoffwerder, Hans Rudolf von",
+          "publisher": "Deutsche Biographie",
+          "url": "https://www.deutsche-biographie.de/sfz52603.html"
+        }
+      ]
+    },
+    {
+      "text": "En 1959, Elliot Aronson et Judson Mills montrent que des étudiantes soumises à une initiation plus embarrassante jugent ensuite plus intéressante une discussion de groupe ennuyeuse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Initiation ceremony experiments",
+          "publisher": "The Psychologist (British Psychological Society)",
+          "url": "https://bps.org.uk/psychologist/initiation-ceremony-experiments"
+        }
+      ]
+    },
+    {
+      "text": "En 1885, Léo Taxil annonce sa conversion et publie des révélations sur un palladisme luciférien et une prêtresse repentie, Diana Vaughan.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Taxil hoax",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taxil_hoax"
+        },
+        {
+          "title": "Jogand-Pagès, Gabriel (1854-ca. 1906)",
+          "publisher": "Encyclopedia.com",
+          "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/taxil-leo"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Illuminati, francs-maçons, Bilderberg : qui dirige vraiment le monde en secret ?",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=hGWSoO8v5Uk",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "Histoire du satanisme : des sorcières à l'Église de Satan, qui adore vraiment le diable ?",
+    "url": "https://www.youtube.com/watch?v=yQhwW1egJYM"
+  },
+  "shorts": [],
+  "corrections": []
+}
