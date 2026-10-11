@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "le-tarot-peut-il-vraiment-predire-l-avenir-5bbe",
+      "title": "Le tarot peut-il vraiment prédire ton avenir ? L'histoire secrète des cartes",
+      "format": "short",
+      "publishedAt": "2026-10-11T16:15:04.293Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les cartes du tarot, langage symbolique hérité de l'Égypte ancienne, permettent de prédire l'avenir de celui qui les consulte.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "2QgUAURxKA4",
+        "url": "https://www.youtube.com/watch?v=2QgUAURxKA4",
+        "thumbnail": "https://i.ytimg.com/vi/2QgUAURxKA4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-tarot-peut-il-vraiment-predire-l-avenir-5bbe/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-tarot-peut-il-vraiment-predire-l-avenir-5bbe.json"
+      }
+    },
+    {
       "id": "l-ame-survit-elle-a-la-mort-e8ea",
       "title": "Âme éternelle : ce que La Télé de Lilou Macé ne te dit pas",
       "format": "short",

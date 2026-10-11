@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 68,
+  "total": 69,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a",
+      "title": "Le Coran a-t-il annoncé l'expansion de l'univers avant Hubble ? Sourate 51, verset 47",
+      "format": "video",
+      "publishedAt": "2026-10-02T08:30:11.866Z",
+      "durationSeconds": 694,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran décrit l'expansion de l'univers dans le verset « Nous avons construit le ciel avec puissance et Nous l'étendons sans cesse » (sourate 51, verset 47), treize siècles avant Lemaître et Hubble.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "A292EREGGsc",
+        "url": "https://www.youtube.com/watch?v=A292EREGGsc",
+        "thumbnail": "https://i.ytimg.com/vi/A292EREGGsc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-a-t-il-annonce-l-expansion-de-l-univers-e26a.json"
+      }
+    },
     {
       "id": "le-fer-est-il-vraiment-descendu-du-ciel-af91",
       "title": "Le fer est-il descendu du ciel ? Le miracle scientifique de la sourate Al-Hadid (Coran 57:25)",
