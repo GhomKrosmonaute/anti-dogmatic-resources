@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "id": "elohim-b7b2",
+  "name": "Elohim",
+  "url": "https://www.youtube.com/channel/UC2w81_CZFXgQ1RJWgjQlZcQ",
+  "subscribers": 200000,
+  "answers": [
+    {
+      "examined": {
+        "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+        "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k"
+      },
+      "video": {
+        "id": "les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8",
+        "title": "Les 7 niveaux de conscience de Michio Kushi : la macrobiotique peut-elle éveiller l'esprit ?",
+        "format": "video",
+        "publishedAt": "2026-10-11T22:00:19.720Z",
+        "durationSeconds": 716,
+        "rubric": {
+          "id": "philosophie",
+          "name": "Philosophie moderne"
+        },
+        "claim": {
+          "statement": "Lors d'une conférence dans les années 1980, Michio Kushi a révélé sept niveaux de conscience et les entraînements qui permettent de les traverser jusqu'au néant d'où toutes les réalités deviennent possibles ; ce que nous appelons réalité n'est qu'un rêve créé par notre conscience.",
+          "verdict": "trompeur",
+          "verdictLabel": "Trompeur"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "infalsifiabilite",
+            "name": "L'affirmation à l'épreuve de tout"
+          },
+          {
+            "id": "argument-autorite",
+            "name": "L'argument d'autorité"
+          },
+          {
+            "id": "caution-scientifique",
+            "name": "La caution scientifique détournée"
+          }
+        ],
+        "answers": {
+          "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+          "channel": "Elohim",
+          "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k"
+        },
+        "series": null,
+        "youtube": {
+          "id": "bd58XDIJszU",
+          "url": "https://www.youtube.com/watch?v=bd58XDIJszU",
+          "thumbnail": "https://i.ytimg.com/vi/bd58XDIJszU/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8.json"
+        }
+      }
+    },
+    {
+      "examined": {
+        "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+        "url": "https://www.youtube.com/watch?v=EEySIXziRrs"
+      },
+      "video": {
+        "id": "suis-je-dieu-a022",
+        "title": "Non, Elohim, faire partie du réel ne fait pas de toi Dieu",
+        "format": "short",
+        "publishedAt": "2026-10-11T22:00:07.442Z",
+        "durationSeconds": 136,
+        "rubric": {
+          "id": "religions",
+          "name": "Religions"
+        },
+        "claim": {
+          "statement": "Puisque rien n'existe en dehors de la réalité et que tu fais partie de cette réalité, tu es forcément Dieu : chaque être humain est une manifestation de la conscience divine unique, et Dieu se confond avec la totalité de ce qui existe.",
+          "verdict": "trompeur",
+          "verdictLabel": "Trompeur"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "infalsifiabilite",
+            "name": "L'affirmation à l'épreuve de tout"
+          }
+        ],
+        "answers": {
+          "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+          "channel": "Elohim",
+          "url": "https://www.youtube.com/watch?v=EEySIXziRrs"
+        },
+        "series": null,
+        "youtube": {
+          "id": "SKOGDibP428",
+          "url": "https://www.youtube.com/watch?v=SKOGDibP428",
+          "thumbnail": "https://i.ytimg.com/vi/SKOGDibP428/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/suis-je-dieu-a022/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/suis-je-dieu-a022.json"
+        }
+      }
+    }
+  ],
+  "links": {
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/elohim-b7b2.json"
+  }
+}

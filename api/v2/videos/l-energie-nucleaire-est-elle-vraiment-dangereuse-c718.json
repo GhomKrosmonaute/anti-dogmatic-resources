@@ -1,0 +1,304 @@
+{
+  "version": 2,
+  "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
+  "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
+  "format": "short",
+  "publishedAt": "2026-10-11T22:00:10.915Z",
+  "durationSeconds": 131,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Le nucléaire est l'énergie la plus dangereuse qui soit : Tchernobyl et Fukushima suffisent à le prouver.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Les accidents de Tchernobyl et de Fukushima ont fait de vraies victimes, mais bien moins que leur place dans nos peurs ne le laisse croire, alors que la pollution de l'air extérieur fait environ quatre millions de morts par an selon l'OMS. À électricité égale, le charbon tue des centaines de fois plus que le nucléaire selon The Lancet (2007). Le nucléaire garde de vrais problèmes, comme les déchets, les coûts, les retards et l'uranium importé, mais pas le titre d'énergie la plus meurtrière."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "pfj2a6LCoWY",
+    "url": "https://www.youtube.com/watch?v=pfj2a6LCoWY",
+    "thumbnail": "https://i.ytimg.com/vi/pfj2a6LCoWY/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718.json"
+  },
+  "facts": [
+    {
+      "text": "La radioactivité est imperceptible par les sens humains : elle ne se voit pas et ne se sent pas.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "RadTown – Radiation basics",
+          "publisher": "U.S. Environmental Protection Agency",
+          "url": "https://www.epa.gov/node/215433"
+        }
+      ]
+    },
+    {
+      "text": "La ville de Pripiat a été évacuée après l'accident de Tchernobyl d'avril 1986 et reste inhabitée depuis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "IAEA Bulletin 29/4 – Chernobyl",
+          "publisher": "IAEA",
+          "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull29-4/29402791724.pdf"
+        },
+        {
+          "title": "Ukraine's Chernobyl 'liquidators' return 40 years after disaster",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/video/2026/04/24/ukraines-chernobyl-liquidators-return-40-years-after-disaster"
+        }
+      ]
+    },
+    {
+      "text": "Les déchets nucléaires de haute activité restent dangereux pendant des millénaires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "En quoi consiste le projet Cigéo ?",
+          "publisher": "Connaissance des Énergies",
+          "url": "https://www.connaissancedesenergies.org/en-quoi-consiste-le-projet-cigeo-150908"
+        }
+      ]
+    },
+    {
+      "text": "Selon l'UNSCEAR (rapport 2008), 28 intervenants de Tchernobyl sont morts du syndrome d'irradiation aiguë en 1986.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "UNSCEAR 2008 Report, Annex D: Health effects due to radiation from the Chernobyl accident",
+          "publisher": "UNSCEAR",
+          "url": "https://www.unscear.org/unscear/uploads/documents/publications/UNSCEAR_2008_Annex-D-CORR.pdf"
+        },
+        {
+          "title": "Health Effects of the Chernobyl Accident",
+          "publisher": "Commission canadienne de sûreté nucléaire",
+          "url": "https://cnsc-ccsn.gc.ca/eng/resources/health/health-effects-chernobyl-accident"
+        }
+      ]
+    },
+    {
+      "text": "Selon l'UNSCEAR, des milliers de cancers de la thyroïde sont apparus chez les personnes exposées enfants ou adolescents à Tchernobyl, avec une mortalité très faible (15 décès recensés en 2005 sur plus de 6 000 cas).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Chornobyl Accident",
+          "publisher": "UNSCEAR",
+          "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html"
+        },
+        {
+          "title": "IAEA background document – Chornobyl",
+          "publisher": "IAEA",
+          "url": "https://iaea.org/sites/default/files/21/04/iaea-background-document-chornobyl.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Le Forum Tchernobyl de 2005 (OMS, AIEA et autres agences de l'ONU) estime jusqu'à 4 000 décès à terme parmi les populations les plus exposées.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Chernobyl: the true scale of the accident",
+          "publisher": "Organisation mondiale de la santé",
+          "url": "https://www.who.int/mediacentre/news/releases/2005/pr38/en/"
+        },
+        {
+          "title": "Chernobyl press release (Chernobyl Forum, 2005)",
+          "publisher": "Hungarian Atomic Energy Authority (copie du communiqué ONU)",
+          "url": "https://www.haea.gov.hu/web/v3/HAEAportal.nsf/47FFB38520D10133C1257C5C003815AD/$FILE/Chernobyl%20press%20release.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Selon l'UNSCEAR (rapport 2020/2021), aucun effet néfaste sur la santé des habitants de Fukushima directement attribuable à l'exposition aux radiations n'a été documenté.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "UNSCEAR 2020/2021 report on Fukushima – press release",
+          "publisher": "United Nations Information Service Vienna",
+          "url": "https://unis.unvienna.org/unis/en/pressrels/2021/unisous419.html"
+        },
+        {
+          "title": "UN finds 'no adverse health effects' from Fukushima disaster",
+          "publisher": "TechXplore (AFP)",
+          "url": "https://techxplore.com/news/2021-03-adverse-health-effects-fukushima-disaster.amp"
+        }
+      ]
+    },
+    {
+      "text": "Plus de 2 000 décès liés à l'évacuation et à ses suites, surtout chez des personnes âgées, ont été recensés dans la préfecture de Fukushima.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Document du ministère des Affaires étrangères du Japon citant l'Agence de reconstruction",
+          "publisher": "Ministry of Foreign Affairs of Japan",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/oda/files/000415120.pdf"
+        },
+        {
+          "title": "Fukushima nuclear accident casualties",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident_casualties"
+        }
+      ]
+    },
+    {
+      "text": "Selon l'OMS, la pollution de l'air extérieur cause environ 4,2 millions de décès prématurés par an (estimation 2019), en bonne partie du fait de la combustion des énergies fossiles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ambient (outdoor) air pollution – Fact sheet",
+          "publisher": "Organisation mondiale de la santé",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health"
+        },
+        {
+          "title": "Ambient air pollution factsheet",
+          "publisher": "Climate & Clean Air Coalition (PNUE)",
+          "url": "https://www.ccacoalition.org/resources/ambient-air-pollution-factsheet"
+        }
+      ]
+    },
+    {
+      "text": "Paul Slovic, « Perception of Risk », Science, 1987 : les risques perçus comme redoutés, incontrôlables, catastrophiques ou mal connus, dont le nucléaire, sont jugés plus graves que des risques familiers.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Perception of Risk (Science, 1987)",
+          "publisher": "Science / Paul Slovic (copie UNC)",
+          "url": "https://fbaum.unc.edu/teaching/articles/Science-1987-Slovic.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Aucune donnée scientifique solide ne montre que la shungite, vendue comme protection « anti-radiations », protège contre un quelconque rayonnement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Pendant 'protection from radiation' claims sink like a stone",
+          "publisher": "AAP FactCheck",
+          "url": "https://www.aap.com.au/pendant-protection-from-radiation-claims-sink-like-a-stone/"
+        }
+      ]
+    },
+    {
+      "text": "La Finlande, avec le site d'Onkalo, est la première à mettre en service un stockage géologique profond pour le combustible usé ; ce type de stockage n'en est qu'à ses débuts dans le monde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "STUK's safety assessment takes the world's first final disposal facility closer to an operating licence",
+          "publisher": "Posiva",
+          "url": "https://www.posiva.fi/en/index/news/pressreleasesstockexchangereleases/2026/stuk8217ssafetyassessmenttakestheworld8217sfirstfinaldisposalfacilityclosertoanoperatinglicence.html"
+        },
+        {
+          "title": "Drilling of deposition holes starts at Onkalo",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/drilling-of-deposition-holes-starts-at-onkalo"
+        }
+      ]
+    },
+    {
+      "text": "L'EPR de Flamanville, dont la mise en service était prévue en 2012, a été raccordé au réseau en décembre 2024, soit environ douze ans de retard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Point d'actualité sur l'EPR de Flamanville – couplage (21/12/2024)",
+          "publisher": "EDF",
+          "url": "https://www.edf.fr/sites/groupe/files/epresspack/9302/2024-12-21-CP-EDF-Point-dactualite-sur-EPR-de-Flamanville-couplage.pdf"
+        },
+        {
+          "title": "Quand l'EPR de Flamanville sera-t-il mis en service ? Avec quel retard ?",
+          "publisher": "Connaissance des Énergies",
+          "url": "https://www.connaissancedesenergies.org/lepr-de-flamanville-en-questions-lapproche-de-sa-mise-en-service-240718"
+        }
+      ]
+    },
+    {
+      "text": "La Cour des comptes (rapport de juillet 2020) estime le coût total de l'EPR de Flamanville à 19,1 milliards d'euros, contre environ 3,3 milliards annoncés au départ.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quand l'EPR de Flamanville sera-t-il mis en service ? Avec quel retard ?",
+          "publisher": "Connaissance des Énergies",
+          "url": "https://www.connaissancedesenergies.org/lepr-de-flamanville-en-questions-lapproche-de-sa-mise-en-service-240718"
+        },
+        {
+          "title": "EPR Flamanville : hausse du coût total",
+          "publisher": "Opéra Énergie",
+          "url": "https://opera-energie.com/media/epr-flamanville-hausse-cout-total/"
+        }
+      ]
+    },
+    {
+      "text": "La France importe la totalité de l'uranium qu'elle consomme, sa dernière mine ayant fermé en 2001.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Synthèse – Uranium et souveraineté énergétique",
+          "publisher": "Commission nationale du débat public",
+          "url": "https://debatpublic.fr/sites/default/files/2024-10/Synthese-Uranium-et-souverainete-energetique.pdf"
+        },
+        {
+          "title": "D'où vient l'uranium des centrales nucléaires françaises ?",
+          "publisher": "Futura Sciences",
+          "url": "https://www.futura-sciences.com/sciences/questions-reponses/energie-nucleaire-vient-uranium-centrales-nucleaires-francaises-19183/"
+        }
+      ]
+    },
+    {
+      "text": "Markandya et Wilkinson, « Electricity generation and health », The Lancet, 2007 : environ 24,5 décès par térawattheure pour le charbon contre environ 0,074 pour le nucléaire, soit des centaines de fois plus.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Death rate from energy production – Markandya & Wilkinson (2007) (OWID 455)",
+          "publisher": "Wikimedia Commons / Our World in Data",
+          "url": "https://commons.wikimedia.org/wiki/Data:Death_rate_from_energy_production_-_Markandya_&_Wilkinson_(2007)_(OWID_455).tab"
+        },
+        {
+          "title": "Energy and health 2: Electricity generation and health",
+          "publisher": "University of Bath Research Portal",
+          "url": "https://researchportal.bath.ac.uk/en/publications/energy-and-health-2-electricity-generation-and-health/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "épidémiologie des rayonnements ionisants et épidémiologie environnementale (bilans sanitaires des accidents nucléaires, mortalité attribuable à la pollution de l'air, décès par unité d'énergie produit",
+    "approximations": [
+      {
+        "excerpt": "L'EPR de Flamanville, raccordé avec douze ans de retard, revient à plus de dix-neuf milliards d'euros selon la Cour des comptes.",
+        "note": "Le coût est arrondi et varie selon le périmètre retenu : 19,1 Md€ dans le rapport de 2020, plus de 22 Md€ avec les frais financiers en 2025. Le « plus de » couvre ces estimations, et l'argument (un chantier très coûteux et très en retard) ne dépend pas du montant exact. Le chiffre ne dit rien de la santé."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

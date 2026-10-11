@@ -1,9 +1,1037 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-11T18:31:03.952Z",
+  "generatedAt": "2026-10-11T22:00:24.684Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8",
+      "title": "Les 7 niveaux de conscience de Michio Kushi : la macrobiotique peut-elle éveiller l'esprit ?",
+      "format": "video",
+      "publishedAt": "2026-10-11T22:00:19.720Z",
+      "durationSeconds": 716,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Lors d'une conférence dans les années 1980, Michio Kushi a révélé sept niveaux de conscience et les entraînements qui permettent de les traverser jusqu'au néant d'où toutes les réalités deviennent possibles ; ce que nous appelons réalité n'est qu'un rêve créé par notre conscience.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Kushi a bien enseigné une échelle de conscience en sept niveaux, mais elle reprend les sept jugements d'Ohsawa, mort en 1966, et une cosmologie taoïste réinterprétée : rien d'une révélation. Aucun niveau ne se mesure, la doctrine range d'avance le doute sous l'intellect, et l'alimentation censée faire monter les marches a causé des carences documentées."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": {
+        "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+        "channel": "Elohim",
+        "channelId": "UC2w81_CZFXgQ1RJWgjQlZcQ",
+        "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k",
+        "passages": []
+      },
+      "series": null,
+      "youtube": {
+        "id": "bd58XDIJszU",
+        "url": "https://www.youtube.com/watch?v=bd58XDIJszU",
+        "thumbnail": "https://i.ytimg.com/vi/bd58XDIJszU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8.json"
+      },
+      "facts": [
+        {
+          "text": "Michio Kushi est né au Japon en 1926 et mort à Boston en 2014, à 88 ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Natural Foods Pioneer Michio Kushi Dies at 88",
+              "publisher": "Rafu Shimpo",
+              "url": "https://www.rafu.com/2015/01/natural-foods-pioneer-michio-kushi-dies-at-88/"
+            },
+            {
+              "title": "Michio Kushi, advocate of natural foods",
+              "publisher": "The Boston Globe",
+              "url": "https://www.bostonglobe.com/metro/obituaries/2015/01/06/michio-kushi-advocate-natural-foods/8yFmTSnfqJyfnY3uDkWZxN/story.html"
+            }
+          ]
+        },
+        {
+          "text": "Après la Seconde Guerre mondiale, Kushi s'est intéressé au mouvement pour un gouvernement mondial.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Natural Foods Pioneer Michio Kushi Dies at 88",
+              "publisher": "Rafu Shimpo",
+              "url": "https://www.rafu.com/2015/01/natural-foods-pioneer-michio-kushi-dies-at-88/"
+            },
+            {
+              "title": "Retrobituaries: Michio Kushi, Natural Foods Pioneer",
+              "publisher": "Mental Floss",
+              "url": "https://www.mentalfloss.com/food/retrobituaries-michio-kushi-natural-foods-pioneer"
+            }
+          ]
+        },
+        {
+          "text": "Kushi a été le disciple de George Ohsawa, de son vrai nom Yukikazu Sakurazawa.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Natural Foods Pioneer Michio Kushi Dies at 88",
+              "publisher": "Rafu Shimpo",
+              "url": "https://www.rafu.com/2015/01/natural-foods-pioneer-michio-kushi-dies-at-88/"
+            },
+            {
+              "title": "George Ohsawa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/George_Ohsawa"
+            }
+          ]
+        },
+        {
+          "text": "Kushi est parti étudier à l'université Columbia, à New York, en 1949, et s'est installé aux États-Unis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Michio Kushi, advocate of natural foods",
+              "publisher": "The Boston Globe",
+              "url": "https://www.bostonglobe.com/metro/obituaries/2015/01/06/michio-kushi-advocate-natural-foods/8yFmTSnfqJyfnY3uDkWZxN/story.html"
+            },
+            {
+              "title": "Natural Foods Pioneer Michio Kushi Dies at 88",
+              "publisher": "Rafu Shimpo",
+              "url": "https://www.rafu.com/2015/01/natural-foods-pioneer-michio-kushi-dies-at-88/"
+            }
+          ]
+        },
+        {
+          "text": "Michio et Aveline Kushi ont ouvert à Boston l'épicerie de produits naturels Erewhon.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Congressional Record (Bound Edition), Volume 145 (1999), Part 8",
+              "publisher": "U.S. Government Publishing Office",
+              "url": "https://www.govinfo.gov/content/pkg/CRECB-1999-pt8/html/CRECB-1999-pt8-Pg11812.htm"
+            },
+            {
+              "title": "History of Macrobiotics (1715-2017)",
+              "publisher": "SoyInfo Center",
+              "url": "https://www.soyinfocenter.com/books/203"
+            }
+          ]
+        },
+        {
+          "text": "Kushi a fondé en 1978 le Kushi Institute.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Congressional Record (Bound Edition), Volume 145 (1999), Part 8",
+              "publisher": "U.S. Government Publishing Office",
+              "url": "https://www.govinfo.gov/content/pkg/CRECB-1999-pt8/html/CRECB-1999-pt8-Pg11812.htm"
+            },
+            {
+              "title": "Michio Kushi, advocate of natural foods",
+              "publisher": "The Boston Globe",
+              "url": "https://www.bostonglobe.com/metro/obituaries/2015/01/06/michio-kushi-advocate-natural-foods/8yFmTSnfqJyfnY3uDkWZxN/story.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1999, le National Museum of American History (Smithsonian) a ouvert une collection consacrée aux Kushi et à la macrobiotique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Congressional Record (Bound Edition), Volume 145 (1999), Part 8",
+              "publisher": "U.S. Government Publishing Office",
+              "url": "https://www.govinfo.gov/content/pkg/CRECB-1999-pt8/html/CRECB-1999-pt8-Pg11812.htm"
+            },
+            {
+              "title": "Guide to the Michio and Aveline Kushi Macrobiotics Collection",
+              "publisher": "Smithsonian Institution, NMAH Archives Center",
+              "url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.0619.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le mot « macrobiotique » vient du grec makros et bios ; le médecin allemand Christoph Wilhelm Hufeland l'a employé en titre de son traité sur l'art de prolonger la vie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Christoph Wilhelm Hufeland",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Christoph_Wilhelm_Hufeland"
+            },
+            {
+              "title": "macrobiotic",
+              "publisher": "Online Etymology Dictionary",
+              "url": "https://www.etymonline.com/word/macrobiotic"
+            }
+          ]
+        },
+        {
+          "text": "La spirale de matérialisation de Kushi compte sept étapes : infini, yin et yang, vibrations, particules préatomiques, éléments, végétaux, animaux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Book of Macrobiotics - Michio Kushi (texte intégral)",
+              "publisher": "PDFCOFFEE (copie du livre de Kushi et Jack)",
+              "url": "https://pdfcoffee.com/book-of-macrobiotics-michio-kushi-pdf-free.html"
+            },
+            {
+              "title": "The Book of Macrobiotics: The Universal Way of Health, Happiness, and Peace",
+              "publisher": "Google Books",
+              "url": "https://books.google.com/books/about/The_Book_of_Macrobiotics.html?id=d3PemBF99j8C"
+            }
+          ]
+        },
+        {
+          "text": "Le chapitre 42 du Tao Te King dit : « Le Tao engendre l'Un, l'Un engendre le Deux, le Deux engendre le Trois, le Trois engendre les dix mille êtres. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dao De Jing, chapter 42 (traductions comparées)",
+              "publisher": "YellowBridge",
+              "url": "https://ftp.yellowbridge.com/onlinelit/daodejing42.php"
+            }
+          ]
+        },
+        {
+          "text": "La macrobiotique classe le sel, les céréales complètes et les racines du côté yang, le sucre, les fruits tropicaux et l'alcool du côté yin.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Macrobiotic Diet (Gale Encyclopedia of Alternative Medicine; Encyclopedia of Food and Culture)",
+              "publisher": "Encyclopedia.com",
+              "url": "https://www.encyclopedia.com/food/news-wires-white-papers-and-books/macrobiotic-diet"
+            },
+            {
+              "title": "Makrobiotik: Yin und Yang auf dem Teller",
+              "publisher": "Beobachter",
+              "url": "https://www.beobachter.ch/ernahrung/ernahrungsformen/makrobiotik-yin-und-yang-auf-dem-teller"
+            }
+          ]
+        },
+        {
+          "text": "Le médecin militaire japonais Sagen Ishizuka, à la fin du XIXe siècle, liait la santé à l'équilibre entre sodium et potassium, et Ohsawa a hérité de cette idée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sagen Ishizuka",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sagen_Ishizuka"
+            },
+            {
+              "title": "History of Macrobiotics (1715-2017)",
+              "publisher": "SoyInfo Center",
+              "url": "https://www.soyinfocenter.com/books/203"
+            },
+            {
+              "title": "George Ohsawa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/George_Ohsawa"
+            }
+          ]
+        },
+        {
+          "text": "Ohsawa décrivait sept niveaux de jugement (mécanique, sensoriel, sentimental, intellectuel, social, idéologique, suprême), repris ensuite par Kushi, l'intellect étant au quatrième niveau.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Macrobiotic Principles (adapted from Essential Ohsawa)",
+              "publisher": "Eden Foods",
+              "url": "https://www.edenfoods.com/articles/images/470/macrobiotic-principles-2021.pdf"
+            },
+            {
+              "title": "Ohsawa Principles",
+              "publisher": "George Ohsawa Macrobiotic Foundation",
+              "url": "https://ohsawamacrobiotics.com/macrobiotic-principles/"
+            },
+            {
+              "title": "Book of Macrobiotics - Michio Kushi (texte intégral)",
+              "publisher": "PDFCOFFEE (copie du livre de Kushi et Jack)",
+              "url": "https://pdfcoffee.com/book-of-macrobiotics-michio-kushi-pdf-free.html"
+            }
+          ]
+        },
+        {
+          "text": "George Ohsawa est mort en 1966.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "George Ohsawa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/George_Ohsawa"
+            }
+          ]
+        },
+        {
+          "text": "Le Principe unique de la philosophie et de la science d'Extrême-Orient, d'Ohsawa, a paru à Paris en 1931.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "George Ohsawa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/George_Ohsawa"
+            },
+            {
+              "title": "Elisseeff, Serge (notice d'autorité)",
+              "publisher": "Persée",
+              "url": "https://www.persee.fr/authority/665953"
+            }
+          ]
+        },
+        {
+          "text": "L'affirmation d'une révélation des sept niveaux par Kushi lors d'une conférence des années 1980 circule sur YouTube, notamment dans la vidéo « Il a littéralement brisé la réalité… puis il a disparu. » de la chaîne Elohim.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+              "publisher": "YouTube (chaîne Elohim)",
+              "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k"
+            }
+          ]
+        },
+        {
+          "text": "Les animaux ne descendent pas des végétaux : les deux lignées sont cousines, issues d'ancêtres unicellulaires eucaryotes communs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Evolutionary relationships of eukaryotic kingdoms (Kumar & Rzhetsky, J Mol Evol 1996)",
+              "publisher": "Fox Chase Cancer Center",
+              "url": "https://profiles.foxchase.org/en/publications/evolutionary-relationships-of-eukaryotic-kingdoms/"
+            },
+            {
+              "title": "The New Tree of Eukaryotes (Burki et al., Trends Ecol Evol 2020)",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31606140/"
+            }
+          ]
+        },
+        {
+          "text": "Ohsawa proposait des régimes numérotés dont le plus élevé, le numéro 7, se limite aux céréales avec restriction des boissons.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Macrobiotic diet",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Macrobiotic_diet"
+            },
+            {
+              "title": "Macrobiotic Diet (Gale Encyclopedia of Alternative Medicine; Encyclopedia of Food and Culture)",
+              "publisher": "Encyclopedia.com",
+              "url": "https://www.encyclopedia.com/food/news-wires-white-papers-and-books/macrobiotic-diet"
+            }
+          ]
+        },
+        {
+          "text": "En 1965, Beth Ann Simon, jeune femme du New Jersey, est morte après avoir suivi le régime zen macrobiotique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Beth Ann and Microbioticism",
+              "publisher": "New York Herald Tribune (republié sur robertchristgau.com)",
+              "url": "https://www.robertchristgau.com/xg/news/microbio-65.php"
+            },
+            {
+              "title": "History of Macrobiotics (1715-2017)",
+              "publisher": "SoyInfo Center",
+              "url": "https://www.soyinfocenter.com/books/203"
+            }
+          ]
+        },
+        {
+          "text": "En 1971, le Council on Foods and Nutrition de l'American Medical Association a publié dans le JAMA une mise en garde contre les régimes zen macrobiotiques, citant scorbut, anémie, carences en protéines et en calcium, dénutrition, atteinte rénale et décès.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Zen Macrobiotic Diets",
+              "publisher": "JAMA (American Medical Association)",
+              "url": "https://jamanetwork.com/HttpHandlers/ArticlePdfHandler.ashx?journal=JAMA&pdfFileName=jama_218_3_009.pdf"
+            },
+            {
+              "title": "OTA Report: References (AMA Council on Foods and Nutrition, JAMA 218(3), 1971)",
+              "publisher": "Quackwatch / Office of Technology Assessment",
+              "url": "https://quackwatch.org/related/ota/ota15/"
+            },
+            {
+              "title": "Macrobiotics (synthèse de la déclaration de l'AMA)",
+              "publisher": "Women of Grace",
+              "url": "https://womenofgrace.com/blog/11449"
+            }
+          ]
+        },
+        {
+          "text": "Aux Pays-Bas, l'équipe de Pieter Dagnelie a décrit dans l'American Journal of Clinical Nutrition, à partir de 1989, retards de croissance, rachitisme et carences en vitamine B12 et en fer chez des nourrissons élevés en macrobiotique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Increased risk of vitamin B-12 and iron deficiency in infants on macrobiotic diets (Am J Clin Nutr 1989)",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2801586/"
+            },
+            {
+              "title": "High prevalence of rickets in infants on macrobiotic diets (Am J Clin Nutr 1990)",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2154918/"
+            },
+            {
+              "title": "Macrobiotic nutrition and child health (Am J Clin Nutr 1994)",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8172122/"
+            }
+          ]
+        },
+        {
+          "text": "En 2000, Marieke Louwman et ses collègues ont montré que des adolescents nourris en macrobiotique dans la petite enfance et carencés en vitamine B12 obtenaient de moins bons résultats à des tests cognitifs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Signs of impaired cognitive function in adolescents with marginal cobalamin status",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10966896/"
+            },
+            {
+              "title": "Signs of impaired cognitive function in adolescents with marginal cobalamin status",
+              "publisher": "TNO Repository",
+              "url": "https://repository.tno.nl/SingleDoc?docId=9322"
+            }
+          ]
+        },
+        {
+          "text": "Dans The Cancer Prevention Diet, Kushi présentait l'alimentation macrobiotique comme un moyen de prévenir et de soulager le cancer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The cancer prevention diet : Michio Kushi's nutritional blueprint for the prevention and relief of disease",
+              "publisher": "UiTM Library Catalogue",
+              "url": "https://opac.uitm.edu.my/opac/detailsPage/detailsHome.jsp?tid=4363"
+            },
+            {
+              "title": "OTA Report: Dietary Treatments",
+              "publisher": "Quackwatch / Office of Technology Assessment",
+              "url": "https://quackwatch.org/related/ota/ota03/"
+            }
+          ]
+        },
+        {
+          "text": "Le rapport de 1990 de l'Office of Technology Assessment du Congrès américain sur les traitements non conventionnels du cancer n'a trouvé aucune preuve d'efficacité de la macrobiotique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "OTA Report: Dietary Treatments",
+              "publisher": "Quackwatch / Office of Technology Assessment",
+              "url": "https://quackwatch.org/related/ota/ota03/"
+            },
+            {
+              "title": "Unconventional Cancer Treatments (OTA-H-405, 1990)",
+              "publisher": "Office of Technology Assessment (archive Princeton)",
+              "url": "https://www.princeton.edu/~ota/disk2/1990/9044_n.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "La Physique Quantique et le Charabia -Tronche en Live #12 (Julien Bobroff)",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=umoS5BN11Jo",
+          "own": false
+        },
+        {
+          "title": "Le Raisonnement Circulaire  — La Petite Boutique des Erreurs #10",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=DH5Imu967qk",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
+      "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:10.915Z",
+      "durationSeconds": 131,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le nucléaire est l'énergie la plus dangereuse qui soit : Tchernobyl et Fukushima suffisent à le prouver.",
+        "verdict": "faux",
+        "verdictLabel": "Faux",
+        "summary": "Les accidents de Tchernobyl et de Fukushima ont fait de vraies victimes, mais bien moins que leur place dans nos peurs ne le laisse croire, alors que la pollution de l'air extérieur fait environ quatre millions de morts par an selon l'OMS. À électricité égale, le charbon tue des centaines de fois plus que le nucléaire selon The Lancet (2007). Le nucléaire garde de vrais problèmes, comme les déchets, les coûts, les retards et l'uranium importé, mais pas le titre d'énergie la plus meurtrière."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pfj2a6LCoWY",
+        "url": "https://www.youtube.com/watch?v=pfj2a6LCoWY",
+        "thumbnail": "https://i.ytimg.com/vi/pfj2a6LCoWY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718.json"
+      },
+      "facts": [
+        {
+          "text": "La radioactivité est imperceptible par les sens humains : elle ne se voit pas et ne se sent pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "RadTown – Radiation basics",
+              "publisher": "U.S. Environmental Protection Agency",
+              "url": "https://www.epa.gov/node/215433"
+            }
+          ]
+        },
+        {
+          "text": "La ville de Pripiat a été évacuée après l'accident de Tchernobyl d'avril 1986 et reste inhabitée depuis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "IAEA Bulletin 29/4 – Chernobyl",
+              "publisher": "IAEA",
+              "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull29-4/29402791724.pdf"
+            },
+            {
+              "title": "Ukraine's Chernobyl 'liquidators' return 40 years after disaster",
+              "publisher": "Euronews",
+              "url": "https://www.euronews.com/video/2026/04/24/ukraines-chernobyl-liquidators-return-40-years-after-disaster"
+            }
+          ]
+        },
+        {
+          "text": "Les déchets nucléaires de haute activité restent dangereux pendant des millénaires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "En quoi consiste le projet Cigéo ?",
+              "publisher": "Connaissance des Énergies",
+              "url": "https://www.connaissancedesenergies.org/en-quoi-consiste-le-projet-cigeo-150908"
+            }
+          ]
+        },
+        {
+          "text": "Selon l'UNSCEAR (rapport 2008), 28 intervenants de Tchernobyl sont morts du syndrome d'irradiation aiguë en 1986.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "UNSCEAR 2008 Report, Annex D: Health effects due to radiation from the Chernobyl accident",
+              "publisher": "UNSCEAR",
+              "url": "https://www.unscear.org/unscear/uploads/documents/publications/UNSCEAR_2008_Annex-D-CORR.pdf"
+            },
+            {
+              "title": "Health Effects of the Chernobyl Accident",
+              "publisher": "Commission canadienne de sûreté nucléaire",
+              "url": "https://cnsc-ccsn.gc.ca/eng/resources/health/health-effects-chernobyl-accident"
+            }
+          ]
+        },
+        {
+          "text": "Selon l'UNSCEAR, des milliers de cancers de la thyroïde sont apparus chez les personnes exposées enfants ou adolescents à Tchernobyl, avec une mortalité très faible (15 décès recensés en 2005 sur plus de 6 000 cas).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Chornobyl Accident",
+              "publisher": "UNSCEAR",
+              "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html"
+            },
+            {
+              "title": "IAEA background document – Chornobyl",
+              "publisher": "IAEA",
+              "url": "https://iaea.org/sites/default/files/21/04/iaea-background-document-chornobyl.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le Forum Tchernobyl de 2005 (OMS, AIEA et autres agences de l'ONU) estime jusqu'à 4 000 décès à terme parmi les populations les plus exposées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Chernobyl: the true scale of the accident",
+              "publisher": "Organisation mondiale de la santé",
+              "url": "https://www.who.int/mediacentre/news/releases/2005/pr38/en/"
+            },
+            {
+              "title": "Chernobyl press release (Chernobyl Forum, 2005)",
+              "publisher": "Hungarian Atomic Energy Authority (copie du communiqué ONU)",
+              "url": "https://www.haea.gov.hu/web/v3/HAEAportal.nsf/47FFB38520D10133C1257C5C003815AD/$FILE/Chernobyl%20press%20release.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Selon l'UNSCEAR (rapport 2020/2021), aucun effet néfaste sur la santé des habitants de Fukushima directement attribuable à l'exposition aux radiations n'a été documenté.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "UNSCEAR 2020/2021 report on Fukushima – press release",
+              "publisher": "United Nations Information Service Vienna",
+              "url": "https://unis.unvienna.org/unis/en/pressrels/2021/unisous419.html"
+            },
+            {
+              "title": "UN finds 'no adverse health effects' from Fukushima disaster",
+              "publisher": "TechXplore (AFP)",
+              "url": "https://techxplore.com/news/2021-03-adverse-health-effects-fukushima-disaster.amp"
+            }
+          ]
+        },
+        {
+          "text": "Plus de 2 000 décès liés à l'évacuation et à ses suites, surtout chez des personnes âgées, ont été recensés dans la préfecture de Fukushima.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Document du ministère des Affaires étrangères du Japon citant l'Agence de reconstruction",
+              "publisher": "Ministry of Foreign Affairs of Japan",
+              "url": "https://www.mofa.go.jp/mofaj/gaiko/oda/files/000415120.pdf"
+            },
+            {
+              "title": "Fukushima nuclear accident casualties",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident_casualties"
+            }
+          ]
+        },
+        {
+          "text": "Selon l'OMS, la pollution de l'air extérieur cause environ 4,2 millions de décès prématurés par an (estimation 2019), en bonne partie du fait de la combustion des énergies fossiles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ambient (outdoor) air pollution – Fact sheet",
+              "publisher": "Organisation mondiale de la santé",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health"
+            },
+            {
+              "title": "Ambient air pollution factsheet",
+              "publisher": "Climate & Clean Air Coalition (PNUE)",
+              "url": "https://www.ccacoalition.org/resources/ambient-air-pollution-factsheet"
+            }
+          ]
+        },
+        {
+          "text": "Paul Slovic, « Perception of Risk », Science, 1987 : les risques perçus comme redoutés, incontrôlables, catastrophiques ou mal connus, dont le nucléaire, sont jugés plus graves que des risques familiers.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Perception of Risk (Science, 1987)",
+              "publisher": "Science / Paul Slovic (copie UNC)",
+              "url": "https://fbaum.unc.edu/teaching/articles/Science-1987-Slovic.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Aucune donnée scientifique solide ne montre que la shungite, vendue comme protection « anti-radiations », protège contre un quelconque rayonnement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pendant 'protection from radiation' claims sink like a stone",
+              "publisher": "AAP FactCheck",
+              "url": "https://www.aap.com.au/pendant-protection-from-radiation-claims-sink-like-a-stone/"
+            }
+          ]
+        },
+        {
+          "text": "La Finlande, avec le site d'Onkalo, est la première à mettre en service un stockage géologique profond pour le combustible usé ; ce type de stockage n'en est qu'à ses débuts dans le monde.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "STUK's safety assessment takes the world's first final disposal facility closer to an operating licence",
+              "publisher": "Posiva",
+              "url": "https://www.posiva.fi/en/index/news/pressreleasesstockexchangereleases/2026/stuk8217ssafetyassessmenttakestheworld8217sfirstfinaldisposalfacilityclosertoanoperatinglicence.html"
+            },
+            {
+              "title": "Drilling of deposition holes starts at Onkalo",
+              "publisher": "World Nuclear News",
+              "url": "https://www.world-nuclear-news.org/articles/drilling-of-deposition-holes-starts-at-onkalo"
+            }
+          ]
+        },
+        {
+          "text": "L'EPR de Flamanville, dont la mise en service était prévue en 2012, a été raccordé au réseau en décembre 2024, soit environ douze ans de retard.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Point d'actualité sur l'EPR de Flamanville – couplage (21/12/2024)",
+              "publisher": "EDF",
+              "url": "https://www.edf.fr/sites/groupe/files/epresspack/9302/2024-12-21-CP-EDF-Point-dactualite-sur-EPR-de-Flamanville-couplage.pdf"
+            },
+            {
+              "title": "Quand l'EPR de Flamanville sera-t-il mis en service ? Avec quel retard ?",
+              "publisher": "Connaissance des Énergies",
+              "url": "https://www.connaissancedesenergies.org/lepr-de-flamanville-en-questions-lapproche-de-sa-mise-en-service-240718"
+            }
+          ]
+        },
+        {
+          "text": "La Cour des comptes (rapport de juillet 2020) estime le coût total de l'EPR de Flamanville à 19,1 milliards d'euros, contre environ 3,3 milliards annoncés au départ.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quand l'EPR de Flamanville sera-t-il mis en service ? Avec quel retard ?",
+              "publisher": "Connaissance des Énergies",
+              "url": "https://www.connaissancedesenergies.org/lepr-de-flamanville-en-questions-lapproche-de-sa-mise-en-service-240718"
+            },
+            {
+              "title": "EPR Flamanville : hausse du coût total",
+              "publisher": "Opéra Énergie",
+              "url": "https://opera-energie.com/media/epr-flamanville-hausse-cout-total/"
+            }
+          ]
+        },
+        {
+          "text": "La France importe la totalité de l'uranium qu'elle consomme, sa dernière mine ayant fermé en 2001.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Synthèse – Uranium et souveraineté énergétique",
+              "publisher": "Commission nationale du débat public",
+              "url": "https://debatpublic.fr/sites/default/files/2024-10/Synthese-Uranium-et-souverainete-energetique.pdf"
+            },
+            {
+              "title": "D'où vient l'uranium des centrales nucléaires françaises ?",
+              "publisher": "Futura Sciences",
+              "url": "https://www.futura-sciences.com/sciences/questions-reponses/energie-nucleaire-vient-uranium-centrales-nucleaires-francaises-19183/"
+            }
+          ]
+        },
+        {
+          "text": "Markandya et Wilkinson, « Electricity generation and health », The Lancet, 2007 : environ 24,5 décès par térawattheure pour le charbon contre environ 0,074 pour le nucléaire, soit des centaines de fois plus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Death rate from energy production – Markandya & Wilkinson (2007) (OWID 455)",
+              "publisher": "Wikimedia Commons / Our World in Data",
+              "url": "https://commons.wikimedia.org/wiki/Data:Death_rate_from_energy_production_-_Markandya_&_Wilkinson_(2007)_(OWID_455).tab"
+            },
+            {
+              "title": "Energy and health 2: Electricity generation and health",
+              "publisher": "University of Bath Research Portal",
+              "url": "https://researchportal.bath.ac.uk/en/publications/energy-and-health-2-electricity-generation-and-health/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "épidémiologie des rayonnements ionisants et épidémiologie environnementale (bilans sanitaires des accidents nucléaires, mortalité attribuable à la pollution de l'air, décès par unité d'énergie produit",
+        "approximations": [
+          {
+            "excerpt": "L'EPR de Flamanville, raccordé avec douze ans de retard, revient à plus de dix-neuf milliards d'euros selon la Cour des comptes.",
+            "note": "Le coût est arrondi et varie selon le périmètre retenu : 19,1 Md€ dans le rapport de 2020, plus de 22 Md€ avec les frais financiers en 2025. Le « plus de » couvre ces estimations, et l'argument (un chantier très coûteux et très en retard) ne dépend pas du montant exact. Le chiffre ne dit rien de la santé."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "suis-je-dieu-a022",
+      "title": "Non, Elohim, faire partie du réel ne fait pas de toi Dieu",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:07.442Z",
+      "durationSeconds": 136,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Puisque rien n'existe en dehors de la réalité et que tu fais partie de cette réalité, tu es forcément Dieu : chaque être humain est une manifestation de la conscience divine unique, et Dieu se confond avec la totalité de ce qui existe.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Faire partie du réel est exact, mais en conclure qu'on est Dieu confond la partie et le tout, un sophisme de division que Spinoza lui-même écarte. Si « Dieu » désigne seulement la totalité, le mot n'ajoute aucune information, et rien en neurosciences n'atteste une conscience universelle dont la nôtre serait l'expression."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": {
+        "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+        "channel": "Elohim",
+        "channelId": "UC2w81_CZFXgQ1RJWgjQlZcQ",
+        "url": "https://www.youtube.com/watch?v=EEySIXziRrs",
+        "passages": [
+          {
+            "text": "Elles ne constituent pas des conseils professionnels."
+          }
+        ]
+      },
+      "series": null,
+      "youtube": {
+        "id": "SKOGDibP428",
+        "url": "https://www.youtube.com/watch?v=SKOGDibP428",
+        "thumbnail": "https://i.ytimg.com/vi/SKOGDibP428/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/suis-je-dieu-a022/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/suis-je-dieu-a022.json"
+      },
+      "facts": [
+        {
+          "text": "La formule « Tat tvam asi », traduite par « Tu es cela », figure dans la Chandogya Upanishad, où un père (Uddalaka Aruni) l'adresse à son fils (Shvetaketu).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "tat tvam asi",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/tat-tvam-asi"
+            },
+            {
+              "title": "Chandogya Upanishad 6.8.7",
+              "publisher": "Shlokam",
+              "url": "https://shlokam.org/texts/Chandogya-6-8-7"
+            }
+          ]
+        },
+        {
+          "text": "« Tat tvam asi » compte parmi les grandes sentences (mahavakya) centrales de l'Advaita Vedanta.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "tat tvam asi",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/tat-tvam-asi"
+            },
+            {
+              "title": "Mahāvākyas",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mah%C4%81v%C4%81kyas"
+            }
+          ]
+        },
+        {
+          "text": "La mystique du soufi al-Hallaj exprime une intuition d'union avec Dieu voisine de l'identité affirmée par les Upanishads.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "ANA'L-ḤAQQ",
+              "publisher": "Encyclopaedia Iranica",
+              "url": "https://www.iranicaonline.org/?p=5541"
+            },
+            {
+              "title": "Al-Hallaj",
+              "publisher": "EBSCO Research Starters",
+              "url": "https://www.ebsco.com/research-starters/biography/al-hallaj/"
+            }
+          ]
+        },
+        {
+          "text": "L'Éthique de Spinoza a paru en 1677 et identifie Dieu et la Nature (« Deus sive Natura »).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Baruch Spinoza",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/spinoza/"
+            },
+            {
+              "title": "The Cambridge Companion to Spinoza's Ethics (chapitre)",
+              "publisher": "Cambridge University Press",
+              "url": "https://www.cambridge.org/core/product/identifier/CBO9781139002653A005/type/BOOK_PART"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'Éthique, partie II, proposition 10, Spinoza affirme qu'à l'essence de l'homme n'appartient pas l'être de la substance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ethics — Part 2 (trad. R. H. M. Elwes)",
+              "publisher": "Project Gutenberg",
+              "url": "https://www.gutenberg.org/cache/epub/920/pg920.html"
+            },
+            {
+              "title": "Article sur l'Éthique II, propositions 10 à 13",
+              "publisher": "Astérion (OpenEdition Journals)",
+              "url": "https://journals.openedition.org/asterion/325"
+            }
+          ]
+        },
+        {
+          "text": "Chez Spinoza, l'être humain est un mode, c'est-à-dire une manière d'être de Dieu, et non la substance divine elle-même.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ethics — Part 2 (trad. R. H. M. Elwes)",
+              "publisher": "Project Gutenberg",
+              "url": "https://www.gutenberg.org/cache/epub/920/pg920.html"
+            },
+            {
+              "title": "Baruch Spinoza",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/spinoza/"
+            }
+          ]
+        },
+        {
+          "text": "Attribuer à une partie une propriété qui vaut pour le tout constitue le sophisme de division.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Division",
+              "publisher": "Stephen's Guide to the Logical Fallacies (Stephen Downes)",
+              "url": "https://fallacies.ca.downes.ca/div.htm"
+            },
+            {
+              "title": "Fallacy of division",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fallacy_of_division"
+            }
+          ]
+        },
+        {
+          "text": "La conscience dépend de l'activité cérébrale : une anesthésie générale la suspend.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "General Anesthesia, Sleep, and Coma",
+              "publisher": "New England Journal of Medicine (via PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/3162622"
+            }
+          ]
+        },
+        {
+          "text": "David Chalmers a décrit en 1995 le « problème difficile » de la conscience, qui demeure non résolu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Chalmers, David J. (1995) Facing Up to the Problem of Consciousness",
+              "publisher": "CogPrints (University of Southampton)",
+              "url": "https://web-archive.southampton.ac.uk/cogprints.org/316/"
+            },
+            {
+              "title": "Hard problem of consciousness",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness"
+            }
+          ]
+        },
+        {
+          "text": "Aucune mesure n'a mis en évidence une conscience émise depuis l'extérieur du cerveau et simplement captée par lui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Transmissive Theory of Brain Function: Implications for Health, Disease, and Consciousness",
+              "publisher": "NeuroSci (MDPI), via PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523760/"
+            },
+            {
+              "title": "Filter Theory of Consciousness",
+              "publisher": "The Unfinishable Map",
+              "url": "https://unfinishablemap.org/concepts/filter-theory/"
+            }
+          ]
+        },
+        {
+          "text": "L'Advaita Vedanta vise à dépasser l'ego, tenu pour une identification illusoire, plutôt qu'à le diviniser.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Advaita Vedanta",
+              "publisher": "Internet Encyclopedia of Philosophy",
+              "url": "https://iep.utm.edu/advaita-vedanta/"
+            },
+            {
+              "title": "Adhyāsa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Adhy%C4%81sa"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "comment-on-sait-que-la-terre-a-4-5-milliards-d-84de",
       "title": "Comment sait-on vraiment que la Terre a 4,5 milliards d'années ?",
@@ -728,7 +1756,13 @@
         "title": "Si la science n'a jamais prouvé le contraire, peut-on y croire ?",
         "url": "https://www.youtube.com/watch?v=mJXyMNvHVT0"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Freud, Adler et la théorie qui ne pouvait pas perdre : la réponse de Popper",
+          "url": "https://www.youtube.com/watch?v=NOFJ3py9kaI",
+          "publishedAt": "2026-10-11T19:43:11.858Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -29511,6 +30545,113 @@
       ],
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/la-tele-de-lilou-mace-54c7.json"
+      }
+    },
+    {
+      "id": "elohim-b7b2",
+      "name": "Elohim",
+      "url": "https://www.youtube.com/channel/UC2w81_CZFXgQ1RJWgjQlZcQ",
+      "subscribers": 200000,
+      "answers": [
+        {
+          "examined": {
+            "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+            "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k"
+          },
+          "video": {
+            "id": "les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8",
+            "title": "Les 7 niveaux de conscience de Michio Kushi : la macrobiotique peut-elle éveiller l'esprit ?",
+            "format": "video",
+            "publishedAt": "2026-10-11T22:00:19.720Z",
+            "durationSeconds": 716,
+            "rubric": {
+              "id": "philosophie",
+              "name": "Philosophie moderne"
+            },
+            "claim": {
+              "statement": "Lors d'une conférence dans les années 1980, Michio Kushi a révélé sept niveaux de conscience et les entraînements qui permettent de les traverser jusqu'au néant d'où toutes les réalités deviennent possibles ; ce que nous appelons réalité n'est qu'un rêve créé par notre conscience.",
+              "verdict": "trompeur",
+              "verdictLabel": "Trompeur"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "infalsifiabilite",
+                "name": "L'affirmation à l'épreuve de tout"
+              },
+              {
+                "id": "argument-autorite",
+                "name": "L'argument d'autorité"
+              },
+              {
+                "id": "caution-scientifique",
+                "name": "La caution scientifique détournée"
+              }
+            ],
+            "answers": {
+              "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+              "channel": "Elohim",
+              "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k"
+            },
+            "series": null,
+            "youtube": {
+              "id": "bd58XDIJszU",
+              "url": "https://www.youtube.com/watch?v=bd58XDIJszU",
+              "thumbnail": "https://i.ytimg.com/vi/bd58XDIJszU/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8.json"
+            }
+          }
+        },
+        {
+          "examined": {
+            "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+            "url": "https://www.youtube.com/watch?v=EEySIXziRrs"
+          },
+          "video": {
+            "id": "suis-je-dieu-a022",
+            "title": "Non, Elohim, faire partie du réel ne fait pas de toi Dieu",
+            "format": "short",
+            "publishedAt": "2026-10-11T22:00:07.442Z",
+            "durationSeconds": 136,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Puisque rien n'existe en dehors de la réalité et que tu fais partie de cette réalité, tu es forcément Dieu : chaque être humain est une manifestation de la conscience divine unique, et Dieu se confond avec la totalité de ce qui existe.",
+              "verdict": "trompeur",
+              "verdictLabel": "Trompeur"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "infalsifiabilite",
+                "name": "L'affirmation à l'épreuve de tout"
+              }
+            ],
+            "answers": {
+              "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+              "channel": "Elohim",
+              "url": "https://www.youtube.com/watch?v=EEySIXziRrs"
+            },
+            "series": null,
+            "youtube": {
+              "id": "SKOGDibP428",
+              "url": "https://www.youtube.com/watch?v=SKOGDibP428",
+              "thumbnail": "https://i.ytimg.com/vi/SKOGDibP428/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/suis-je-dieu-a022/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/suis-je-dieu-a022.json"
+            }
+          }
+        }
+      ],
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/elohim-b7b2.json"
       }
     },
     {

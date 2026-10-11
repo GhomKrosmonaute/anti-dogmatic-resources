@@ -12,6 +12,16 @@
       }
     },
     {
+      "id": "elohim-b7b2",
+      "name": "Elohim",
+      "url": "https://www.youtube.com/channel/UC2w81_CZFXgQ1RJWgjQlZcQ",
+      "subscribers": 200000,
+      "answers": 2,
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/elohim-b7b2.json"
+      }
+    },
+    {
       "id": "coffeebird-official-6800",
       "name": "Coffeebird_official",
       "url": "https://www.youtube.com/channel/UCmkxA7DNnj4HCFLeUHgCjmg",

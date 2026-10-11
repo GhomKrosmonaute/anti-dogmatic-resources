@@ -41,6 +41,40 @@
   ],
   "examples": [
     {
+      "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
+      "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:10.915Z",
+      "durationSeconds": 131,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le nucléaire est l'énergie la plus dangereuse qui soit : Tchernobyl et Fukushima suffisent à le prouver.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pfj2a6LCoWY",
+        "url": "https://www.youtube.com/watch?v=pfj2a6LCoWY",
+        "thumbnail": "https://i.ytimg.com/vi/pfj2a6LCoWY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718.json"
+      }
+    },
+    {
       "id": "le-critere-de-refutabilite-de-karl-popper-0539",
       "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
       "format": "video",

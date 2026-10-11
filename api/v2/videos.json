@@ -1,12 +1,130 @@
 {
   "version": 2,
-  "total": 71,
+  "total": 74,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8",
+      "title": "Les 7 niveaux de conscience de Michio Kushi : la macrobiotique peut-elle éveiller l'esprit ?",
+      "format": "video",
+      "publishedAt": "2026-10-11T22:00:19.720Z",
+      "durationSeconds": 716,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Lors d'une conférence dans les années 1980, Michio Kushi a révélé sept niveaux de conscience et les entraînements qui permettent de les traverser jusqu'au néant d'où toutes les réalités deviennent possibles ; ce que nous appelons réalité n'est qu'un rêve créé par notre conscience.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": {
+        "title": "Il a littéralement brisé la réalité… puis il a disparu.",
+        "channel": "Elohim",
+        "url": "https://www.youtube.com/watch?v=AbEk8D1tj1k"
+      },
+      "series": null,
+      "youtube": {
+        "id": "bd58XDIJszU",
+        "url": "https://www.youtube.com/watch?v=bd58XDIJszU",
+        "thumbnail": "https://i.ytimg.com/vi/bd58XDIJszU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-sept-niveaux-de-conscience-selon-michio-kushi-c6c8.json"
+      }
+    },
+    {
+      "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
+      "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:10.915Z",
+      "durationSeconds": 131,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le nucléaire est l'énergie la plus dangereuse qui soit : Tchernobyl et Fukushima suffisent à le prouver.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pfj2a6LCoWY",
+        "url": "https://www.youtube.com/watch?v=pfj2a6LCoWY",
+        "thumbnail": "https://i.ytimg.com/vi/pfj2a6LCoWY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718.json"
+      }
+    },
+    {
+      "id": "suis-je-dieu-a022",
+      "title": "Non, Elohim, faire partie du réel ne fait pas de toi Dieu",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:07.442Z",
+      "durationSeconds": 136,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Puisque rien n'existe en dehors de la réalité et que tu fais partie de cette réalité, tu es forcément Dieu : chaque être humain est une manifestation de la conscience divine unique, et Dieu se confond avec la totalité de ce qui existe.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": {
+        "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+        "channel": "Elohim",
+        "url": "https://www.youtube.com/watch?v=EEySIXziRrs"
+      },
+      "series": null,
+      "youtube": {
+        "id": "SKOGDibP428",
+        "url": "https://www.youtube.com/watch?v=SKOGDibP428",
+        "thumbnail": "https://i.ytimg.com/vi/SKOGDibP428/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/suis-je-dieu-a022/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/suis-je-dieu-a022.json"
+      }
+    },
     {
       "id": "comment-on-sait-que-la-terre-a-4-5-milliards-d-84de",
       "title": "Comment sait-on vraiment que la Terre a 4,5 milliards d'années ?",
@@ -1829,118 +1947,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732.json"
-      }
-    },
-    {
-      "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
-      "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
-      "format": "video",
-      "publishedAt": "2026-10-03T19:00:08.625Z",
-      "durationSeconds": 654,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "selection-des-cas",
-        "name": "Le tri des cas favorables"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "-tKV9kTwxOY",
-        "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
-        "thumbnail": "https://i.ytimg.com/vi/-tKV9kTwxOY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-tant-de-prieres-semblent-exaucees-9cfc/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-tant-de-prieres-semblent-exaucees-9cfc.json"
-      }
-    },
-    {
-      "id": "les-montagnes-des-piquets-qui-empechent-la-terre-7c57",
-      "title": "Les montagnes, des piquets qui stabilisent la Terre ? Le miracle scientifique du Coran (78:6-7)",
-      "format": "video",
-      "publishedAt": "2026-10-03T17:30:09.246Z",
-      "durationSeconds": 616,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Quatorze siècles avant la géologie moderne, le Coran annonçait que les montagnes sont des piquets aux racines profondes qui stabilisent la Terre et l'empêchent de trembler.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "eFne8S6CLsU",
-        "url": "https://www.youtube.com/watch?v=eFne8S6CLsU",
-        "thumbnail": "https://i.ytimg.com/vi/eFne8S6CLsU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-montagnes-des-piquets-qui-empechent-la-terre-7c57/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-montagnes-des-piquets-qui-empechent-la-terre-7c57.json"
-      }
-    },
-    {
-      "id": "qui-a-vraiment-ecrit-les-evangiles-c8bc",
-      "title": "Qui a vraiment écrit les Évangiles ? Ce que l'on sait de Matthieu, Marc, Luc et Jean",
-      "format": "video",
-      "publishedAt": "2026-10-03T16:45:12.087Z",
-      "durationSeconds": 685,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Les Évangiles ont été écrits par les apôtres Matthieu et Jean, témoins oculaires de Jésus, et par Marc et Luc, disciples directs de Pierre et de Paul.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "chaine-de-transmission",
-          "name": "La chaîne de témoins comme preuve"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "qlG4FebMRmg",
-        "url": "https://www.youtube.com/watch?v=qlG4FebMRmg",
-        "thumbnail": "https://i.ytimg.com/vi/qlG4FebMRmg/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-a-vraiment-ecrit-les-evangiles-c8bc/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-a-vraiment-ecrit-les-evangiles-c8bc.json"
       }
     }
   ],

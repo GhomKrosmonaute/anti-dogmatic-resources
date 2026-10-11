@@ -5,6 +5,78 @@
   "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
   "items": [
     {
+      "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
+      "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:10.915Z",
+      "durationSeconds": 131,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le nucléaire est l'énergie la plus dangereuse qui soit : Tchernobyl et Fukushima suffisent à le prouver.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pfj2a6LCoWY",
+        "url": "https://www.youtube.com/watch?v=pfj2a6LCoWY",
+        "thumbnail": "https://i.ytimg.com/vi/pfj2a6LCoWY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-energie-nucleaire-est-elle-vraiment-dangereuse-c718.json"
+      }
+    },
+    {
+      "id": "suis-je-dieu-a022",
+      "title": "Non, Elohim, faire partie du réel ne fait pas de toi Dieu",
+      "format": "short",
+      "publishedAt": "2026-10-11T22:00:07.442Z",
+      "durationSeconds": 136,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Puisque rien n'existe en dehors de la réalité et que tu fais partie de cette réalité, tu es forcément Dieu : chaque être humain est une manifestation de la conscience divine unique, et Dieu se confond avec la totalité de ce qui existe.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": {
+        "title": "Puisque rien n’existe en dehors de la réalité, tu es forcément DIEU  #conscience #réalité #dieu",
+        "channel": "Elohim",
+        "url": "https://www.youtube.com/watch?v=EEySIXziRrs"
+      },
+      "series": null,
+      "youtube": {
+        "id": "SKOGDibP428",
+        "url": "https://www.youtube.com/watch?v=SKOGDibP428",
+        "thumbnail": "https://i.ytimg.com/vi/SKOGDibP428/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/suis-je-dieu-a022/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/suis-je-dieu-a022.json"
+      }
+    },
+    {
       "id": "l-ame-survit-elle-a-la-mort-e8ea",
       "title": "Âme éternelle : ce que La Télé de Lilou Macé ne te dit pas",
       "format": "short",
