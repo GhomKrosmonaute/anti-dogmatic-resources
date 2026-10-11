@@ -1,0 +1,281 @@
+{
+  "version": 2,
+  "id": "comment-on-sait-que-la-terre-a-4-5-milliards-d-84de",
+  "title": "Comment sait-on vraiment que la Terre a 4,5 milliards d'années ?",
+  "format": "short",
+  "publishedAt": "2026-10-11T18:30:03.816Z",
+  "durationSeconds": 133,
+  "rubric": null,
+  "claim": {
+    "statement": "La Terre a environ 4,5 milliards d'années, et on le sait grâce à la datation radiométrique des roches et des météorites.",
+    "verdict": "exact",
+    "verdictLabel": "Exact",
+    "summary": "La vidéo conclut que l'âge de la Terre est solidement établi. Le zircon exclut le plomb en se formant, ce qui lève l'objection de la composition initiale, et ses deux désintégrations de l'uranium se contrôlent mutuellement. L'hypothèse d'une radioactivité accélérée bute sur un problème de chaleur reconnu par les créationnistes du projet RATE eux-mêmes, et aucun texte sacré ne fixe d'âge au monde."
+  },
+  "technique": null,
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "6qLa4SMvel8",
+    "url": "https://www.youtube.com/watch?v=6qLa4SMvel8",
+    "thumbnail": "https://i.ytimg.com/vi/6qLa4SMvel8/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-on-sait-que-la-terre-a-4-5-milliards-d-84de/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-on-sait-que-la-terre-a-4-5-milliards-d-84de.json"
+  },
+  "facts": [
+    {
+      "text": "Le créationnisme jeune Terre attribue à la Terre un âge d'environ six mille ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Young Earth creationism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Young_Earth_creationism"
+        }
+      ]
+    },
+    {
+      "text": "Les grains de zircon ont couramment la taille de grains de sable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Detrital zircon geochronology",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Detrital_zircon_geochronology"
+        }
+      ]
+    },
+    {
+      "text": "En cristallisant, le zircon incorpore de l'uranium mais exclut presque totalement le plomb, si bien que le plomb qu'il contient provient de la désintégration de l'uranium.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Uranium–lead dating",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating"
+        },
+        {
+          "title": "Time to reset isotopic clocks",
+          "publisher": "Physics Today (AIP)",
+          "url": "https://physicstoday.aip.org/news/time-to-reset-isotopic-clocks"
+        }
+      ]
+    },
+    {
+      "text": "L'uranium 238 a une demi-vie d'environ 4,47 milliards d'années et se désintègre en plomb 206.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Time to reset isotopic clocks",
+          "publisher": "Physics Today (AIP)",
+          "url": "https://physicstoday.aip.org/news/time-to-reset-isotopic-clocks"
+        }
+      ]
+    },
+    {
+      "text": "L'uranium 235 se désintègre en plomb 207 avec une demi-vie plus courte, d'environ 704 millions d'années ; la concordance des deux âges indique que le minéral est resté un système fermé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Time to reset isotopic clocks",
+          "publisher": "Physics Today (AIP)",
+          "url": "https://physicstoday.aip.org/news/time-to-reset-isotopic-clocks"
+        },
+        {
+          "title": "U-Pb Notes (GEOL 5690)",
+          "publisher": "University of Colorado Boulder",
+          "url": "https://cires1.colorado.edu/people/jones.craig/Teaching/GEOL5690/U-PbNotes.pdf"
+        }
+      ]
+    },
+    {
+      "text": "En 1956, Clair Patterson a obtenu un âge de 4,55 milliards d'années, à environ 70 millions d'années près, à partir des isotopes du plomb de météorites (Age of meteorites and the earth, Geochimica et Cosmochimica Acta, vol. 10, 1956).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Age of Meteorites and the Earth",
+          "publisher": "University of Illinois Library, Rare Book & Manuscript Library",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/4011"
+        },
+        {
+          "title": "A 200-kilogram fragment of the Canyon Diablo meteorite was found at Meteor Crater",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://www.usgs.gov/media/images/a-200-kilogram-440-pound-fragment-canyon-diablo-meteorite-was-found-meteor-crater"
+        }
+      ]
+    },
+    {
+      "text": "Les météorites utilisées pour dater la Terre se sont formées en même temps qu'elle, lors de la formation du Système solaire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Age of the Earth",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/gip/geotime/age.html"
+        },
+        {
+          "title": "Age of Meteorites and the Earth",
+          "publisher": "University of Illinois Library, Rare Book & Manuscript Library",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/4011"
+        }
+      ]
+    },
+    {
+      "text": "Comprimer des milliards d'années de désintégration radioactive en quelques milliers d'années dégagerait une chaleur colossale ; le projet créationniste RATE (Institute for Creation Research et Creation Research Society) a reconnu ce problème de chaleur dans son rapport final de 2005 sans le résoudre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Assessing the RATE Project (Randy Isaac, Perspectives on Science & Christian Faith, 2007)",
+          "publisher": "American Scientific Affiliation",
+          "url": "https://www.asa3.org/ASA/education/origins/rate-ri.htm"
+        },
+        {
+          "title": "Science & Education article on the RATE project (doi 10.1007/s11191-008-9162-6)",
+          "publisher": "Springer",
+          "url": "https://link.springer.com/doi/10.1007/s11191-008-9162-6"
+        }
+      ]
+    },
+    {
+      "text": "Aucun verset biblique n'indique explicitement l'âge du monde ; l'archevêque James Ussher, dans ses Annales Veteris Testamenti publiées en 1650, a placé la Création en 4004 avant notre ère à partir des généalogies bibliques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ussher chronology",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+        },
+        {
+          "title": "Annales Veteris Testamenti",
+          "publisher": "University of Illinois Library, Rare Book & Manuscript Library",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/3923"
+        }
+      ]
+    },
+    {
+      "text": "Le Coran mentionne une création des cieux et de la terre en six jours, par exemple sourate 7, verset 54.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Surah Al-A'raf 7:54",
+          "publisher": "Quran.com",
+          "url": "https://quran.com/7:54"
+        }
+      ]
+    },
+    {
+      "text": "Sourate 22, verset 47, extrait dans la traduction de Muhammad Hamidullah : « un jour auprès de ton Seigneur équivaut à mille ans de ce que vous comptez ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sourate Al-Hajj, verset 47 (trad. Muhammad Hamidullah)",
+          "publisher": "Qurano",
+          "url": "https://qurano.com/fr/22-al-hajj/verse-47/"
+        },
+        {
+          "title": "Le Pèlerinage 22:47",
+          "publisher": "Quran.com",
+          "url": "https://quran.com/fr/le-pelerinage/47/tafsirs"
+        }
+      ]
+    },
+    {
+      "text": "Homo sapiens est apparu il y a environ trois cent mille ans (fossiles de Jebel Irhoud, Hublin et al., Nature, 2017).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The first of our kind - scientists discover the oldest Homo sapiens fossils at Jebel Irhoud, Morocco",
+          "publisher": "Max Planck Institute for Evolutionary Anthropology",
+          "url": "https://www.eva.mpg.de/homo-sapiens.html"
+        },
+        {
+          "title": "Nature Middle East coverage of Jebel Irhoud Homo sapiens (doi 10.1038/nmiddleeast.2017.102)",
+          "publisher": "Nature Middle East",
+          "url": "https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2017.102"
+        }
+      ]
+    },
+    {
+      "text": "Ramenés à vingt-quatre heures pour 4,55 milliards d'années, trois cent mille ans représentent environ 5,7 secondes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Age of Meteorites and the Earth",
+          "publisher": "University of Illinois Library, Rare Book & Manuscript Library",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/4011"
+        },
+        {
+          "title": "Age of meteorites and the earth (Patterson, 1956)",
+          "publisher": "Arizona State University, Center for Meteorite Studies",
+          "url": "https://meteorites.asu.edu/wp-content/uploads/Patterson1956.pdf"
+        },
+        {
+          "title": "The first of our kind - scientists discover the oldest Homo sapiens fossils at Jebel Irhoud, Morocco",
+          "publisher": "Max Planck Institute for Evolutionary Anthropology",
+          "url": "https://www.eva.mpg.de/homo-sapiens.html"
+        }
+      ]
+    },
+    {
+      "text": "Aucune roche ni aucun minéral terrestre connu n'est plus ancien que l'âge obtenu sur les météorites ; les plus vieux zircons terrestres, à Jack Hills en Australie, ont environ 4,4 milliards d'années (Wilde et al., Nature, 2001).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago",
+          "publisher": "Nature (via RePEc/IDEAS)",
+          "url": "https://ideas.repec.org/a/nat/nature/v409y2001i6817d10.1038_35051550.html"
+        },
+        {
+          "title": "Age of the Earth",
+          "publisher": "U.S. Geological Survey",
+          "url": "https://pubs.usgs.gov/gip/geotime/age.html"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "physique nucléaire (désintégration radioactive appliquée à la datation radiométrique et à la géochronologie)",
+    "threshold": 6.6,
+    "passages": 8,
+    "approximations": [
+      {
+        "excerpt": "Quatre milliards et demi d'années.",
+        "note": "Arrondi de 4,54 à 4,55 milliards d'années. L'argument ne dépend pas de la décimale."
+      },
+      {
+        "excerpt": "La science l'enseigne ; le créationnisme jeune Terre, lui, s'en tient à six mille ans environ.",
+        "note": "Ordre de grandeur assumé (« environ ») de la chronologie créationniste. Seul compte le contraste avec des milliards d'années."
+      },
+      {
+        "excerpt": "Le zircon, gros comme un grain de sable, lève le premier doute.",
+        "note": "Comparaison de taille indicative. La dimension exacte des zircons ne joue aucun rôle dans le raisonnement."
+      },
+      {
+        "excerpt": "Fais le calcul : ramène l'histoire de la Terre à vingt-quatre heures ; ton espèce, vieille de trois cent mille ans, n'en occupe pas six secondes.",
+        "note": "L'âge de l'espèce humaine est une estimation arrondie. Le calcul donne environ 5,7 secondes, ce qui reste cohérent avec « pas six secondes ». C'est une image pédagogique sans enjeu de précision."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

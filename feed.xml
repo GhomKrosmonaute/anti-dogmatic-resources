@@ -6,7 +6,15 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sun, 11 Oct 2026 18:16:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 18:31:03 GMT</lastBuildDate>
+<item>
+<title>Comment sait-on vraiment que la Terre a 4,5 milliards d&apos;années ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-on-sait-que-la-terre-a-4-5-milliards-d-84de/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-on-sait-que-la-terre-a-4-5-milliards-d-84de/</guid>
+<pubDate>Sun, 11 Oct 2026 18:30:03 GMT</pubDate>
+<description>Exact : « La Terre a environ 4,5 milliards d&apos;années, et on le sait grâce à la datation radiométrique des roches et des météorites. ». La vidéo conclut que l&apos;âge de la Terre est solidement établi. Le zircon exclut le plomb en se formant, ce qui lève l&apos;objection de la composition initiale, et ses deux désintégrations de l&apos;uranium se contrôlent mutuellement. L&apos;hypothèse d&apos;une radioactivité accélérée bute sur un problème de chaleur reconnu par les créationnistes du projet RATE eux-mêmes, et aucun texte sacré ne fixe d&apos;âge au monde.</description>
+<category>Short</category>
+</item>
 <item>
 <title>Qu&apos;est-ce qu&apos;une vraie science ? Le critère de Karl Popper expliqué simplement</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-critere-de-refutabilite-de-karl-popper-0539/</link>
@@ -525,15 +533,6 @@
 <category>L&apos;argument d&apos;autorité</category>
 <category>L&apos;appel à l&apos;ancienneté</category>
 <category>Religions</category>
-</item>
-<item>
-<title>Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/</guid>
-<pubDate>Fri, 02 Oct 2026 16:00:05 GMT</pubDate>
-<description>Technique de manipulation : La caution scientifique détournée. On invoque la NASA, un prix Nobel ou « des scientifiques » pour une affirmation qu&apos;ils n&apos;ont pas faite.</description>
-<category>La caution scientifique détournée</category>
-<category>Esprit critique</category>
 </item>
 </channel>
 </rss>

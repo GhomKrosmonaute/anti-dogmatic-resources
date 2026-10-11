@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 70,
+  "total": 71,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
+      "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
+      "format": "video",
+      "publishedAt": "2026-10-02T16:00:05.738Z",
+      "durationSeconds": 650,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "caution-scientifique",
+        "name": "La caution scientifique détournée"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Bcmlc37zuUc",
+        "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
+        "thumbnail": "https://i.ytimg.com/vi/Bcmlc37zuUc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
+      }
+    },
     {
       "id": "les-miracles-scientifiques-des-textes-anciens-a-l-5d5d",
       "title": "Coran, Bible, Nostradamus : comment ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",

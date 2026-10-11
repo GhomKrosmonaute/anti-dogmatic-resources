@@ -1,12 +1,38 @@
 {
   "version": 2,
-  "total": 70,
+  "total": 71,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "comment-on-sait-que-la-terre-a-4-5-milliards-d-84de",
+      "title": "Comment sait-on vraiment que la Terre a 4,5 milliards d'années ?",
+      "format": "short",
+      "publishedAt": "2026-10-11T18:30:03.816Z",
+      "durationSeconds": 133,
+      "rubric": null,
+      "claim": {
+        "statement": "La Terre a environ 4,5 milliards d'années, et on le sait grâce à la datation radiométrique des roches et des météorites.",
+        "verdict": "exact",
+        "verdictLabel": "Exact"
+      },
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "6qLa4SMvel8",
+        "url": "https://www.youtube.com/watch?v=6qLa4SMvel8",
+        "thumbnail": "https://i.ytimg.com/vi/6qLa4SMvel8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-on-sait-que-la-terre-a-4-5-milliards-d-84de/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-on-sait-que-la-terre-a-4-5-milliards-d-84de.json"
+      }
+    },
     {
       "id": "le-critere-de-refutabilite-de-karl-popper-0539",
       "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
@@ -1915,34 +1941,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/qui-a-vraiment-ecrit-les-evangiles-c8bc/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/qui-a-vraiment-ecrit-les-evangiles-c8bc.json"
-      }
-    },
-    {
-      "id": "la-nasa-et-les-grands-scientifiques-ont-ils-2cfa",
-      "title": "Armstrong, la NASA, Einstein : pourquoi tant de scientifiques semblent confirmer la foi ?",
-      "format": "video",
-      "publishedAt": "2026-10-02T16:00:05.738Z",
-      "durationSeconds": 650,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "caution-scientifique",
-        "name": "La caution scientifique détournée"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "Bcmlc37zuUc",
-        "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
-        "thumbnail": "https://i.ytimg.com/vi/Bcmlc37zuUc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-nasa-et-les-grands-scientifiques-ont-ils-2cfa.json"
       }
     }
   ],
