@@ -1,12 +1,37 @@
 {
   "version": 2,
-  "total": 65,
+  "total": 66,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "le-coran-decrit-il-vraiment-le-developpement-de-l-3f84",
+      "title": "Miracle scientifique du Coran : l'embryon décrit il y a 1400 ans ? Nutfa, alaqa, mudgha",
+      "format": "video",
+      "publishedAt": "2026-10-01T20:30:08.217Z",
+      "durationSeconds": 677,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "MPFIZJ2a_O8",
+        "url": "https://www.youtube.com/watch?v=MPFIZJ2a_O8",
+        "thumbnail": "https://i.ytimg.com/vi/MPFIZJ2a_O8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-coran-decrit-il-vraiment-le-developpement-de-l-3f84.json"
+      }
+    },
     {
       "id": "l-enfer-n-est-presque-pas-dans-la-bible-b8ff",
       "title": "L'enfer existe-t-il dans la Bible ? Ce que disent vraiment le Shéol et la Géhenne",

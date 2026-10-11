@@ -1,9 +1,235 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-11T13:46:03.800Z",
+  "generatedAt": "2026-10-11T15:01:04.683Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387",
+      "title": "Le secret du coupeur de feu : peut-il vraiment soulager une brûlure à distance ?",
+      "format": "short",
+      "publishedAt": "2026-10-11T15:00:04.556Z",
+      "durationSeconds": 121,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Grâce à son secret ou à son don, un coupeur de feu ou un magnétiseur soulage une brûlure, même à distance, par exemple au téléphone.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Le soulagement ressenti est réel, mais il s'explique par l'évolution naturelle de la douleur, l'effet placebo et le refroidissement de la plaie. Aucun essai en double aveugle n'a montré d'effet propre du secret, et l'expérience d'Emily Rosa (JAMA, 1998) montre que des praticiens ne perçoivent pas une présence mieux que le hasard."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "mBI4uzQ-gnA",
+        "url": "https://www.youtube.com/watch?v=mBI4uzQ-gnA",
+        "thumbnail": "https://i.ytimg.com/vi/mBI4uzQ-gnA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387.json"
+      },
+      "facts": [
+        {
+          "text": "Le « secret » des coupeurs de feu est une formule transmise de génération en génération, en France rurale comme en Suisse romande.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Guérisseurs – Inventaire cantonal du patrimoine immatériel",
+              "publisher": "État de Vaud",
+              "url": "https://www.vd.ch/culture/patrimoine-mobilier-non-cantonal-et-immateriel/inventaire-cantonal-du-patrimoine-immateriel/nature-et-univers/guerisseurs"
+            },
+            {
+              "title": "Dans les secrets des coupeurs de feu",
+              "publisher": "Paris Match Belgique",
+              "url": "https://www.parismatch.be/actualites/sante/2020/01/23/dans-les-secrets-des-coupeurs-de-feu-YZSJ35MFQZCS7HMGGVCYCZAOHI/"
+            }
+          ]
+        },
+        {
+          "text": "Les coupeurs de feu disent pouvoir agir à distance, notamment par téléphone, à partir du prénom de la personne et de la zone brûlée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dans les secrets des coupeurs de feu",
+              "publisher": "Paris Match Belgique",
+              "url": "https://www.parismatch.be/actualites/sante/2020/01/23/dans-les-secrets-des-coupeurs-de-feu-YZSJ35MFQZCS7HMGGVCYCZAOHI/"
+            },
+            {
+              "title": "Coupeur de feu et radiothérapie",
+              "publisher": "RoseUp Association",
+              "url": "https://www.rose-up.fr/magazine/coupeurs-feu/"
+            }
+          ]
+        },
+        {
+          "text": "Les témoignages de personnes traitées décrivent un soulagement de la sensation de chaleur en quelques minutes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dans les secrets des coupeurs de feu",
+              "publisher": "Paris Match Belgique",
+              "url": "https://www.parismatch.be/actualites/sante/2020/01/23/dans-les-secrets-des-coupeurs-de-feu-YZSJ35MFQZCS7HMGGVCYCZAOHI/"
+            }
+          ]
+        },
+        {
+          "text": "Certains soignants en milieu hospitalier, notamment dans des services de radiothérapie, gardent des numéros de coupeurs de feu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Peut-on vraiment « couper le feu » ?",
+              "publisher": "Afis Science",
+              "url": "https://www.afis.org/Peut-on-vraiment-couper-le-feu"
+            },
+            {
+              "title": "Coupeur de feu et radiothérapie",
+              "publisher": "RoseUp Association",
+              "url": "https://www.rose-up.fr/magazine/coupeurs-feu/"
+            }
+          ]
+        },
+        {
+          "text": "La douleur d'une brûlure superficielle est maximale peu après la brûlure puis décroît spontanément.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Coupeurs de feu pour soulager les douleurs : est-ce vraiment efficace ?",
+              "publisher": "Allodocteurs (France Télévisions)",
+              "url": "https://www.allodocteurs.fr/coupeurs-de-feu-pour-soulager-les-douleurs-est-ce-vraiment-efficace-45792.html"
+            },
+            {
+              "title": "First-Degree Burns",
+              "publisher": "Children's Hospital of Philadelphia",
+              "url": "https://chop.edu/conditions-diseases/first-degree-burns"
+            }
+          ]
+        },
+        {
+          "text": "Levine, Gordon et Fields, « The mechanism of placebo analgesia », The Lancet, 1978 : la naloxone, qui bloque les opioïdes endogènes, réduit l'effet antidouleur d'un placebo.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The mechanism of placebo analgesia",
+              "publisher": "PubMed / The Lancet",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/80579/"
+            },
+            {
+              "title": "Jon Levine (neuroscientist)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jon_Levine_(neuroscientist)"
+            }
+          ]
+        },
+        {
+          "text": "Aucun essai contrôlé en double aveugle comparant le secret à une fausse récitation n'a montré d'effet propre du secret des coupeurs de feu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Peut-on vraiment « couper le feu » ?",
+              "publisher": "Afis Science",
+              "url": "https://www.afis.org/Peut-on-vraiment-couper-le-feu"
+            },
+            {
+              "title": "Coupeurs de feu pour soulager les douleurs : est-ce vraiment efficace ?",
+              "publisher": "Allodocteurs (France Télévisions)",
+              "url": "https://www.allodocteurs.fr/coupeurs-de-feu-pour-soulager-les-douleurs-est-ce-vraiment-efficace-45792.html"
+            }
+          ]
+        },
+        {
+          "text": "Rosa, Rosa, Sarner et Barrett, « A Close Look at Therapeutic Touch », JAMA, 1998 : des praticiens du toucher thérapeutique n'ont pas identifié mieux que le hasard la main au-dessus de laquelle se trouvait celle de l'expérimentatrice.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Close Look at Therapeutic Touch",
+              "publisher": "JAMA (copie St. Lawrence University)",
+              "url": "https://library.stlawu.edu/system/files/2020-12/rosa_close_look_at_therapeutic_touch.pdf"
+            },
+            {
+              "title": "Emily Rosa",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emily_Rosa"
+            }
+          ]
+        },
+        {
+          "text": "Une brûlure profonde peut être moins douloureuse qu'une brûlure superficielle parce que les terminaisons nerveuses de la peau y sont détruites.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Association between burn characteristics and pain severity",
+              "publisher": "American Journal of Emergency Medicine",
+              "url": "https://ajemjournal.com/article/S0735-67571500464-7/fulltext"
+            },
+            {
+              "title": "Burn Classification",
+              "publisher": "StatPearls",
+              "url": "https://www.statpearls.com/point-of-care/18714"
+            }
+          ]
+        },
+        {
+          "text": "Les recommandations de premiers secours préconisent de refroidir une brûlure à l'eau fraîche environ vingt minutes et de consulter un médecin si elle est étendue, au visage, aux mains ou chez un enfant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Burns and scalds – Treatment",
+              "publisher": "NHS",
+              "url": "https://www.nhs.uk/conditions/burns-and-scalds/treatment/"
+            },
+            {
+              "title": "Burn awareness",
+              "publisher": "Cheshire Fire and Rescue Service",
+              "url": "https://www.cheshirefire.gov.uk/your-safety/home-safety/in-the-event-of-a-fire/burn-awareness/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "confidence",
+        "domain": "médecine clinique et pharmacologie de la douleur (évolution naturelle de la douleur de brûlure, analgésie placebo et opioïdes endogènes, premiers secours en cas de brûlure, méthodologie des essais cli",
+        "threshold": 6.6,
+        "passages": 8,
+        "approximations": [
+          {
+            "excerpt": "Tes doigts frôlent la plaque, une prière est murmurée au téléphone, trois villages plus loin, et la brûlure s'apaise.",
+            "note": "« Trois villages plus loin » est une distance évocatrice et purement narrative. Elle ne dit rien de la santé, et l'argument ne dépend pas de sa valeur."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "le-reiki-ea8e",
       "title": "Reiki : que se passe-t-il vraiment pendant une séance ? Origines, symboles et énergie",
@@ -713,7 +939,13 @@
         "title": "Histoire du satanisme : des sorcières à l'Église de Satan, qui adore vraiment le diable ?",
         "url": "https://www.youtube.com/watch?v=yQhwW1egJYM"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Ce que l'alchimiste Ashmole cherchait vraiment en loge maçonnique",
+          "url": "https://www.youtube.com/watch?v=H7Xw6jlfVPk",
+          "publishedAt": "2026-10-11T14:42:21.638Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -21425,7 +21657,13 @@
       },
       "references": [],
       "next": null,
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Des os, puis la chair ? L'embryon dit le contraire",
+          "url": "https://www.youtube.com/watch?v=kd9Ie_p1g2Y",
+          "publishedAt": "2026-10-11T14:15:33.225Z"
+        }
+      ],
       "corrections": []
     },
     {

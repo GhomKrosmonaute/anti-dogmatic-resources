@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387",
+      "title": "Le secret du coupeur de feu : peut-il vraiment soulager une brûlure à distance ?",
+      "format": "short",
+      "publishedAt": "2026-10-11T15:00:04.556Z",
+      "durationSeconds": 121,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Grâce à son secret ou à son don, un coupeur de feu ou un magnétiseur soulage une brûlure, même à distance, par exemple au téléphone.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "mBI4uzQ-gnA",
+        "url": "https://www.youtube.com/watch?v=mBI4uzQ-gnA",
+        "thumbnail": "https://i.ytimg.com/vi/mBI4uzQ-gnA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-coupeurs-de-feu-et-les-magnetiseurs-peuvent-d387.json"
+      }
+    },
+    {
       "id": "le-reiki-ea8e",
       "title": "Reiki : que se passe-t-il vraiment pendant une séance ? Origines, symboles et énergie",
       "format": "short",
