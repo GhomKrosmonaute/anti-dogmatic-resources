@@ -41,6 +41,41 @@
   ],
   "examples": [
     {
+      "id": "l-evolution-est-elle-juste-une-theorie-9acc",
+      "title": "L'évolution n'est-elle vraiment qu'une théorie ? Ce que « théorie » veut dire en science",
+      "format": "short",
+      "publishedAt": "2026-10-12T12:00:04.082Z",
+      "durationSeconds": 133,
+      "rubric": null,
+      "claim": {
+        "statement": "L'évolution n'est qu'une théorie : une simple hypothèse, jamais prouvée.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "bcXQP5B9gXQ",
+        "url": "https://www.youtube.com/watch?v=bcXQP5B9gXQ",
+        "thumbnail": "https://i.ytimg.com/vi/bcXQP5B9gXQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evolution-est-elle-juste-une-theorie-9acc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-evolution-est-elle-juste-une-theorie-9acc.json"
+      }
+    },
+    {
       "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
       "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
       "format": "short",

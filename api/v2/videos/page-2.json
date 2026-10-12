@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 75,
+  "total": 76,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
+      "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-03T21:00:09.277Z",
+      "durationSeconds": 671,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Saint Suaire de Turin est le linceul qui a enveloppé le corps de Jésus, et son image, que la science ne sait ni expliquer ni reproduire, s'est formée de façon surnaturelle au moment de la résurrection.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "liUjpvYCsuU",
+        "url": "https://www.youtube.com/watch?v=liUjpvYCsuU",
+        "thumbnail": "https://i.ytimg.com/vi/liUjpvYCsuU/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-saint-suaire-de-turin-a-t-il-vraiment-a86b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-saint-suaire-de-turin-a-t-il-vraiment-a86b.json"
+      }
+    },
     {
       "id": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
       "title": "Les djinns peuvent-ils entrer dans le corps ? Possession et roqya selon le Coran et la Sunna",

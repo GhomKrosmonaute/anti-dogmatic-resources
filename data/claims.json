@@ -1,9 +1,250 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-12T11:31:09.631Z",
+  "generatedAt": "2026-10-12T12:01:04.216Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "l-evolution-est-elle-juste-une-theorie-9acc",
+      "title": "L'évolution n'est-elle vraiment qu'une théorie ? Ce que « théorie » veut dire en science",
+      "format": "short",
+      "publishedAt": "2026-10-12T12:00:04.082Z",
+      "durationSeconds": 133,
+      "rubric": null,
+      "claim": {
+        "statement": "L'évolution n'est qu'une théorie : une simple hypothèse, jamais prouvée.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "L'évolution est bien une théorie, mais en science ce mot désigne une explication solidement étayée, pas une supposition. Elle a permis d'annoncer Tiktaalik avant sa découverte, elle se lit dans le chromosome 2 humain et elle s'observe en laboratoire. Les « fossiles vivants » de Harun Yahya et le flagelle de Michael Behe ne la contredisent pas."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "bcXQP5B9gXQ",
+        "url": "https://www.youtube.com/watch?v=bcXQP5B9gXQ",
+        "thumbnail": "https://i.ytimg.com/vi/bcXQP5B9gXQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evolution-est-elle-juste-une-theorie-9acc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-evolution-est-elle-juste-une-theorie-9acc.json"
+      },
+      "facts": [
+        {
+          "text": "Pour de nombreux croyants chrétiens et musulmans, l'évolution n'est « qu'une théorie », au sens d'une supposition.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "15 Answers to Creationist Nonsense",
+              "publisher": "Scientific American",
+              "url": "https://www.scientificamerican.com/article/15-answers-to-creationist"
+            }
+          ]
+        },
+        {
+          "text": "Harun Yahya, nom de plume du prédicateur turc Adnan Oktar, présente dans L'Atlas de la création des fossiles d'espèces décrites comme restées identiques jusqu'à aujourd'hui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Atlas of Creation",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Atlas_of_Creation"
+            },
+            {
+              "title": "Venomous Snakes, Slippery Eels and Harun Yahya",
+              "publisher": "3 Quarks Daily (Richard Dawkins)",
+              "url": "https://3quarksdaily.com/3quarksdaily/2008/07/venomous-snakes.html"
+            }
+          ]
+        },
+        {
+          "text": "Le biochimiste Michael Behe, figure du dessein intelligent, soutient que le flagelle bactérien est d'une « complexité irréductible » qui n'a pas pu se former par étapes (Darwin's Black Box, 1996).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Darwin's Black Box",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Darwin%27s_Black_Box"
+            }
+          ]
+        },
+        {
+          "text": "L'Académie nationale des sciences des États-Unis définit une théorie scientifique comme « une explication solidement étayée d'un aspect du monde naturel » (Science, Evolution, and Creationism, 2008).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Speculatin' about Theories",
+              "publisher": "National Center for Science Education",
+              "url": "https://ncse.ngo/speculatin-about-theories"
+            },
+            {
+              "title": "Scientific theory",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Scientific_theory"
+            }
+          ]
+        },
+        {
+          "text": "La théorie atomique, la théorie des germes et la gravitation sont des théories scientifiques au même sens que l'évolution.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Scientific theory",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Scientific_theory"
+            },
+            {
+              "title": "Darwin's two-for-one deal",
+              "publisher": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/opinion/darwins-two-for-one-deal/article783690"
+            }
+          ]
+        },
+        {
+          "text": "Une équipe (Daeschler, Shubin, Jenkins) a cherché un intermédiaire entre poissons et tétrapodes dans des roches d'environ 375 millions d'années et a découvert Tiktaalik roseae en 2004 sur l'île d'Ellesmere ; ses nageoires comportent des os comparables à un poignet (Nature, 2006).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Newly found species fills evolutionary gap between fish and land animals",
+              "publisher": "University of Chicago Medicine",
+              "url": "https://www.uchicagomedicine.org/forefront/news/2006/april/newly-found-species-fills-evolutionary-gap-between-fish-and-land-animals"
+            },
+            {
+              "title": "Scientific American Biology for a Changing World, ch. 16",
+              "publisher": "Macmillan Learning",
+              "url": "https://digfir-published.macmillanusa.com/sabiology2e/sabiology2e_ch16_3.html"
+            },
+            {
+              "title": "The pectoral fin of Tiktaalik roseae and the origin of the tetrapod limb (Nature 440, 2006)",
+              "publisher": "Nature / IDEAS RePEc",
+              "url": "https://ideas.repec.org/a/nat/nature/v440y2006i7085d10.1038_nature04637.html"
+            }
+          ]
+        },
+        {
+          "text": "Le chromosome 2 humain résulte de la fusion de deux chromosomes ancestraux qui restent séparés chez les autres grands singes ; l'humain est classé parmi les grands singes (hominidés) (IJdo et al., PNAS, 1991).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Origin of human chromosome 2: an ancestral telomere-telomere fusion",
+              "publisher": "PNAS (via PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC52649"
+            },
+            {
+              "title": "Genome Research, 12(11):1651",
+              "publisher": "Genome Research",
+              "url": "https://genome.cshlp.org/content/12/11/1651"
+            },
+            {
+              "title": "Humans and other Great Apes",
+              "publisher": "Australian Museum",
+              "url": "https://australianmuseum.net.au/Humans-are-apes-Great-Apes"
+            }
+          ]
+        },
+        {
+          "text": "L'expérience d'évolution à long terme de Richard Lenski sur E. coli a débuté en 1988 ; une lignée y a acquis la capacité d'utiliser le citrate en présence d'oxygène, ce que l'espèce ne fait normalement pas (Blount, Borland et Lenski, PNAS, 2008).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Historical contingency and the evolution of a key innovation in an experimental population of Escherichia coli",
+              "publisher": "PNAS (via PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2430337"
+            },
+            {
+              "title": "A New Step In Evolution",
+              "publisher": "National Geographic",
+              "url": "https://www.nationalgeographic.com/science/article/a-new-step-in-evolution"
+            }
+          ]
+        },
+        {
+          "text": "Darwin emploie l'expression « fossiles vivants » dans De l'origine des espèces, publié en 1859.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Living fossils (Original Research article)",
+              "publisher": "Frontiers in Ecology and Evolution",
+              "url": "https://frontiersin.org/articles/10.3389/fevo.2023.1112764/full"
+            },
+            {
+              "title": "Article sur l'histoire du terme « living fossil »",
+              "publisher": "Journal of the History of Biology (Springer)",
+              "url": "https://link.springer.com/article/10.1007/s10739-025-09807-w"
+            }
+          ]
+        },
+        {
+          "text": "Le système de sécrétion de type III, une « seringue » moléculaire par laquelle certaines bactéries injectent des toxines, est formé de protéines apparentées à une partie de celles du flagelle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The type III secretion injectisome (Cornelis, Nature Reviews Microbiology 2006)",
+              "publisher": "Nature Reviews Microbiology",
+              "url": "https://fire.biol.wwu.edu/cmoyer/zztemp_fire/biol345_F10/papers/Cornelis_injectosomes_natrevmicro06.pdf"
+            },
+            {
+              "title": "The Non-Flagellar Type III Secretion System Evolved from the Bacterial Flagellum and Diversified into Host-Cell Adapted Systems",
+              "publisher": "PLOS Genetics",
+              "url": "https://journals.plos.org/plosgenetics/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002983"
+            }
+          ]
+        },
+        {
+          "text": "En décembre 2005, dans l'affaire Kitzmiller v. Dover Area School District, le juge fédéral John E. Jones III a conclu que le dessein intelligent n'est pas de la science.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Kitzmiller v. Dover Area School District, Memorandum Opinion",
+              "publisher": "TalkOrigins Archive (texte du jugement)",
+              "url": "https://talkorigins.org/faqs/dover/jones.html"
+            },
+            {
+              "title": "U.S. Judge Rules Intelligent Design Has No Place in Science Classrooms",
+              "publisher": "Education Week",
+              "url": "https://edweek.org/teaching-learning/u-s-judge-rules-intelligent-design-has-no-place-in-science-classrooms/2005/12"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "confidence",
+        "domain": "Biologie moléculaire et génétique (évolution moléculaire, microbiologie)",
+        "threshold": 6.6,
+        "passages": 5,
+        "approximations": [
+          {
+            "excerpt": "L'intermédiaire entre poissons et animaux à pattes était attendu dans des roches de 375 millions d'années ; en 2004, une équipe y déterre Tiktaalik, un poisson à poignets.",
+            "note": "« 375 millions d'années » est un âge arrondi (Dévonien supérieur, environ 375 Ma). L'argument tient au fait que la prédiction visait une tranche d'âge et un type de roche, pas à la valeur exacte. Ce chiffre ne concerne pas la santé."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "le-rasoir-d-ockham-la-methode-scientifique-et-le-0361",
       "title": "Les miracles sont-ils réels ? La science, la foi et le rasoir d'Ockham",
@@ -27365,7 +27606,13 @@
       },
       "references": [],
       "next": null,
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Vrai cristal ou simple verre : le test que les pierres ont raté",
+          "url": "https://www.youtube.com/watch?v=sSt_9rvztdI",
+          "publishedAt": "2026-10-12T11:40:19.447Z"
+        }
+      ],
       "corrections": []
     },
     {
