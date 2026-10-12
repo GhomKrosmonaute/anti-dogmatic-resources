@@ -1,9 +1,458 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-12T13:31:13.431Z",
+  "generatedAt": "2026-10-12T14:46:10.671Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263",
+      "title": "Ghost in the Shell : pourra-t-on transférer son âme dans une machine ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-12T14:45:10.524Z",
+      "durationSeconds": 707,
+      "rubric": null,
+      "claim": {
+        "statement": "Comme dans Ghost in the Shell, notre esprit est un « ghost » distinct du cerveau, et les implants cérébraux permettront bientôt de le télécharger et de le transférer dans une machine.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Les interfaces cerveau-machine existent et rendent déjà la parole ou la marche, mais elles lisent et stimulent des neurones ; aucune n'a jamais détecté d'esprit séparable. Tumeurs, médicaments et électrodes modifient désirs, humeur et personnalité, ce qui montre un esprit dépendant du cerveau, et un téléchargement, même réussi, produirait une copie plutôt qu'un transfert."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "d_cYKeU-9fE",
+        "url": "https://www.youtube.com/watch?v=d_cYKeU-9fE",
+        "thumbnail": "https://i.ytimg.com/vi/d_cYKeU-9fE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263.json"
+      },
+      "facts": [
+        {
+          "text": "Le manga Ghost in the Shell de Masamune Shirow commence à paraître en 1989 chez l'éditeur Kodansha.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ghost in the Shell (manga)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(manga)"
+            }
+          ]
+        },
+        {
+          "text": "Mamoru Oshii a réalisé l'adaptation en film d'animation de Ghost in the Shell, sortie en 1995.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ghost in the Shell (1995 film)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'œuvre, le major Kusanagi possède un corps entièrement prothétique ; seul son cerveau est d'origine humaine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ghost in the Shell (manga)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(manga)"
+            }
+          ]
+        },
+        {
+          "text": "Dans le film de 1995, le Puppet Master, un programme né dans les réseaux, réclame l'asile politique en affirmant être un être vivant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ghost in the Shell (1995 film)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)"
+            }
+          ]
+        },
+        {
+          "text": "La FDA a autorisé un premier implant cochléaire en 1984.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "History of the Cochlear Implant",
+              "publisher": "ENTtoday",
+              "url": "https://www.enttoday.org/article/history-of-the-cochlear-implant/"
+            }
+          ]
+        },
+        {
+          "text": "En 1987, à Grenoble, Alim-Louis Benabid et son équipe ont montré que la stimulation électrique profonde du cerveau peut réduire des tremblements ; la stimulation cérébrale profonde est aujourd'hui utilisée dans le monde contre la maladie de Parkinson.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Apport thérapeutique et physiopathologique de la stimulation des structures cérébrales profondes dans la maladie de Parkinson",
+              "publisher": "Académie nationale de médecine",
+              "url": "https://www.academie-medecine.fr/apport-therapeutique-et-physiopathologique-de-la-stimulation-des-structures-cerebrales-profondes-dans-la-maladie-de-parkinson/"
+            },
+            {
+              "title": "Eureka moment",
+              "publisher": "Vanderbilt University Medical Center",
+              "url": "https://news.vumc.org/medicine/eureka-moment/"
+            }
+          ]
+        },
+        {
+          "text": "En 2006, Nature (Hochberg et al.) a décrit Matthew Nagle, tétraplégique équipé d'une grille d'environ cent électrodes dans le cortex moteur, capable de déplacer un curseur et d'ouvrir une main artificielle par l'intention.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal ensemble control of prosthetic devices by a human with tetraplegia",
+              "publisher": "Nature (via RePEc IDEAS)",
+              "url": "https://ideas.repec.org/a/nat/nature/v442y2006i7099d10.1038_nature04970.html"
+            },
+            {
+              "title": "Paralysis treatment set to take a giant leap forward",
+              "publisher": "Times Higher Education",
+              "url": "https://timeshighereducation.com/cn/node/63394"
+            }
+          ]
+        },
+        {
+          "text": "En 2012, une étude BrainGate publiée dans Nature a montré une femme paralysée buvant un café à l'aide d'un bras robotisé commandé par un implant cérébral.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Reach and grasp by people with tetraplegia using a neurally controlled robotic arm",
+              "publisher": "Nature / Massachusetts General Hospital",
+              "url": "https://ecor.mgh.harvard.edu/content/files/SAC/HochbergNature2012_11076.pdf"
+            },
+            {
+              "title": "Paralyzed Woman Powers Robotic Arm With Her Mind",
+              "publisher": "PBS NewsHour",
+              "url": "https://www.pbs.org/newshour/science/paralyzed-woman-powers-robotic-arm-with-her-mind"
+            }
+          ]
+        },
+        {
+          "text": "En 2023, deux études publiées dans Nature ont décrit des neuroprothèses de la parole ; l'une (Willett et al.) atteignait soixante-deux mots par minute.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A high-performance neuroprosthesis for speech decoding and avatar control",
+              "publisher": "Nature",
+              "url": "https://www.nature.com/articles/s41586-023-06443-4"
+            },
+            {
+              "title": "Brain-Reading Devices Allow Paralyzed People to Talk Using Their Thoughts",
+              "publisher": "Scientific American",
+              "url": "https://www.scientificamerican.com/article/brain-reading-devices-allow-paralyzed-people-to-talk-using-their-thoughts"
+            }
+          ]
+        },
+        {
+          "text": "En 2023, des équipes de Lausanne et de Grenoble ont publié dans Nature (Lorach et al.) le cas d'un homme paralysé qui remarche grâce à une interface cerveau-moelle épinière.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Thought-controlled walking again after spinal cord injury",
+              "publisher": "EPFL",
+              "url": "https://actu.epfl.ch/news/thought-controlled-walking-again-after-spinal-co-2"
+            },
+            {
+              "title": "Brain Computer Interface (BCI) enables thought-controlled walking after spinal cord injury",
+              "publisher": "CEA",
+              "url": "https://www.cea.fr/english/Pages/News/brain-computer-interface-enables-thought-controlled-walking-after-spinal-cord-injury.aspx"
+            }
+          ]
+        },
+        {
+          "text": "Neuralink a annoncé son premier implant humain en janvier 2024 ; l'implant compte 1 024 électrodes réparties sur 64 fils.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuralink's first in-human brain implant has experienced a problem, company says",
+              "publisher": "NBC Chicago / CNBC",
+              "url": "https://www.nbcchicago.com/news/business/money-report/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says/3432512/"
+            }
+          ]
+        },
+        {
+          "text": "Citation de la Sixième Méditation de Descartes dans la traduction française de 1647 : « il est certain que ce moi, c'est-à-dire mon âme, par laquelle je suis ce que je suis, est entièrement et véritablement distincte de mon corps, et qu'elle peut être ou exister sans lui. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Extrait – Descartes",
+              "publisher": "Éditions Ellipses",
+              "url": "https://www.editions-ellipses.fr/PDF/9782729862343_extrait.pdf"
+            },
+            {
+              "title": "Méditations métaphysiques/Méditation sixième",
+              "publisher": "Wikisource",
+              "url": "https://fr.wikisource.org/wiki/M%C3%A9ditations_m%C3%A9taphysiques/M%C3%A9ditation_sixi%C3%A8me"
+            }
+          ]
+        },
+        {
+          "text": "L'Église catholique enseigne que l'âme est immortelle et se sépare du corps à la mort (Catéchisme de l'Église catholique, § 366).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Catechism of the Catholic Church – Part One, Section Two, Chapter One",
+              "publisher": "Saint-Siège (vatican.va)",
+              "url": "https://www.vatican.va/archive/ENG0015/__P1B.HTM"
+            }
+          ]
+        },
+        {
+          "text": "Le Coran, sourate 17, verset 85, rattache l'esprit (rûh) à l'ordre du Seigneur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surah Al-Isra – 85",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/17/85"
+            },
+            {
+              "title": "Children of Israel, The Israelites — Verse 85",
+              "publisher": "Parallel Quran",
+              "url": "https://parallelquran.com/parallel/17/85/"
+            }
+          ]
+        },
+        {
+          "text": "La Bhagavad-Gita (chapitre 2, verset 22) compare l'âme qui quitte un corps usé à un homme qui change de vêtements.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bhagavad Gita: Chapter 2, Verse 22",
+              "publisher": "Holy-Bhagavad-Gita.org",
+              "url": "https://www.holy-bhagavad-gita.org/chapter/2/verse/22/"
+            }
+          ]
+        },
+        {
+          "text": "Le philosophe David Chalmers a baptisé cette énigme, en 1994, le problème difficile de la conscience.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Papers on consciousness",
+              "publisher": "David Chalmers (consc.net)",
+              "url": "https://consc.net/?p=125"
+            },
+            {
+              "title": "How Dave Chalmers Invented the “Hard Problem”",
+              "publisher": "John Horgan, Cross-Check",
+              "url": "https://johnhorgan.org/cross-check/how-dave-chalmers-invented-the-hard-problem"
+            }
+          ]
+        },
+        {
+          "text": "En 1988, dans Mind Children, le roboticien Hans Moravec imagine un chirurgien robot qui remplacerait ton cerveau couche par couche par une simulation informatique, sans que ta conscience s'interrompe.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Matter over Mind",
+              "publisher": "The New York Review of Books",
+              "url": "https://www.nybooks.com/articles/1990/02/01/matter-over-mind/"
+            },
+            {
+              "title": "Mind Children: the future of robot and human intelligence",
+              "publisher": "Carnegie Mellon University Robotics Institute",
+              "url": "https://publications.ri.cmu.edu/mind-children-the-future-of-robot-and-human-intelligence"
+            }
+          ]
+        },
+        {
+          "text": "Le titre anglais Ghost in the Shell fait référence à l'essai d'Arthur Koestler The Ghost in the Machine, paru en 1967.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ghost in the Shell (manga)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(manga)"
+            },
+            {
+              "title": "Ghost in the Shell: Exploring the Boundary Between Mind and Machine",
+              "publisher": "Reactor (ex-Tor.com)",
+              "url": "https://reactormag.com/ghost-in-the-shell-exploring-the-boundary-between-mind-and-machine/"
+            }
+          ]
+        },
+        {
+          "text": "Koestler a emprunté l'expression « ghost in the machine » à Gilbert Ryle, philosophe d'Oxford, qui l'a forgée en 1949 dans The Concept of Mind pour désigner la doctrine de Descartes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Ghost in the Machine",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine"
+            }
+          ]
+        },
+        {
+          "text": "Ryle écrit au premier chapitre de The Concept of Mind qu'il parlera souvent de cette doctrine, « with deliberate abusiveness », comme du « dogma of the Ghost in the Machine » (traduction de la vidéo).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ryle's behaviorist view of the mind",
+              "publisher": "University of Notre Dame (Jeff Speaks)",
+              "url": "https://www3.nd.edu/~jspeaks/courses/2006-7/20208/ryle-behaviorism.html"
+            },
+            {
+              "title": "The Concept of Mind (Gilbert Ryle, 1949)",
+              "publisher": "Internet Archive",
+              "url": "https://ia801501.us.archive.org/33/items/dli.scoerat.2071theconceptofmind/dli.scoerat.2071theconceptofmind_text.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Ryle illustre l'erreur de catégorie par le visiteur qui, après avoir vu les collèges et les bibliothèques, demande où se trouve l'université.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Concept of Mind",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Concept_of_Mind"
+            }
+          ]
+        },
+        {
+          "text": "Dans le film de 1995, un éboueur croit avoir une épouse et une fille alors que ces souvenirs lui ont été implantés par un pirate.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ghost in the Shell (1995)",
+              "publisher": "Moria Reviews",
+              "url": "https://moriareviews.com/sciencefiction/ghost-in-the-shell-1995.htm"
+            },
+            {
+              "title": "Ghost in the Shell (film)",
+              "publisher": "Ghost in the Shell Wiki (Fandom)",
+              "url": "https://ghostintheshell.fandom.com/wiki/Ghost_in_the_Shell_(film)"
+            }
+          ]
+        },
+        {
+          "text": "Les interfaces de type BrainGate décodent, par apprentissage statistique, la relation entre les décharges de neurones enregistrés et l'intention de mouvement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Reach and grasp by people with tetraplegia using a neurally controlled robotic arm",
+              "publisher": "Nature / Massachusetts General Hospital",
+              "url": "https://ecor.mgh.harvard.edu/content/files/SAC/HochbergNature2012_11076.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le cerveau humain compte environ 86 milliards de neurones (Azevedo, Herculano-Houzel et al., 2009).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain",
+              "publisher": "PubMed / Journal of Comparative Neurology",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19226510/"
+            }
+          ]
+        },
+        {
+          "text": "En 1999, une équipe de la Pitié-Salpêtrière (Bejjani et al., New England Journal of Medicine) a décrit une patiente parkinsonienne plongée en quelques secondes dans un état dépressif aigu par une électrode de stimulation profonde, état disparu en moins de deux minutes après l'arrêt de la stimulation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Transient Acute Depression Induced by High-Frequency Deep-Brain Stimulation",
+              "publisher": "New England Journal of Medicine",
+              "url": "https://www.nejm.org/doi/full/10.1056/NEJM199905133401905"
+            },
+            {
+              "title": "Transient acute depression induced by high-frequency deep-brain stimulation",
+              "publisher": "PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10320386/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "Neurosciences et recherche sur la conscience (interfaces cerveau-machine, stimulation cérébrale profonde, neurologie comportementale), avec un volet de pharmacologie clinique (agonistes dopaminergique",
+        "approximations": [
+          {
+            "excerpt": "Et l'échelle reste dérisoire face aux quelque quatre-vingt-six milliards de neurones de ton cerveau, selon le décompte publié en 2009 par l'équipe de Suzana Herculano-Houzel.",
+            "note": "C'est une estimation (86 ± 8 milliards). L'argument ne repose que sur l'écart de plusieurs ordres de grandeur avec une centaine ou un millier d'électrodes."
+          },
+          {
+            "excerpt": "En 2006, la revue Nature décrit Matthew Nagle, un jeune tétraplégique porteur d'une grille d'une centaine d'électrodes dans le cortex moteur : par la seule intention, il déplace un curseur et ouvre une main artificielle.",
+            "note": "La grille de Utah comptait 96 électrodes. « Une centaine » est un arrondi sans conséquence."
+          },
+          {
+            "excerpt": "En 2024, dans Science, une équipe de Harvard et de Google a reconstruit un seul millimètre cube de cortex humain : environ cinquante-sept mille cellules, cent cinquante millions de synapses, un virgule quatre pétaoctet de données.",
+            "note": "Ce sont les chiffres arrondis de l'étude. Ils servent seulement à donner l'ampleur des données, et le fact-check les vérifiera."
+          },
+          {
+            "excerpt": "Fais le calcul : ton cerveau dépasse le million de millimètres cubes.",
+            "note": "Le volume cérébral, d'environ 1,2 à 1,3 million de mm³, varie selon les individus. Seul l'ordre de grandeur compte."
+          },
+          {
+            "excerpt": "Les seules images de sa structure excéderaient le milliard de téraoctets, sans compter l'état chimique des synapses, que ces clichés ne montrent pas.",
+            "note": "L'extrapolation donne 1,4 Po multiplié par environ 1,2 million, soit environ 1,7 milliard de To. Elle est grossière, car la densité diffère entre substance grise et substance blanche, mais l'argument ne dépend que de l'ordre de grandeur."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Le romancier Dan Brown et la conscience hors du cerveau",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=SaTJljEN6QU",
+          "own": false
+        },
+        {
+          "title": "Consciences numériques : la philosophie de l'esprit selon Greg Egan | PopPhi #3",
+          "channel": "Monsieur Phi",
+          "url": "https://www.youtube.com/watch?v=tPgmr-6A10M",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Le libre arbitre existe-t-il ? Ce que philosophie et neurosciences disent de nos choix",
+        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "point-sur-l-ia-en-2026-dd4a",
       "title": "IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi",
@@ -22631,7 +23080,13 @@
       },
       "references": [],
       "next": null,
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "L'apôtre Matthieu a recopié sa propre vocation chez Marc ?",
+          "url": "https://www.youtube.com/watch?v=BpjlGypSARM",
+          "publishedAt": "2026-10-12T13:40:19.447Z"
+        }
+      ],
       "corrections": []
     },
     {
@@ -24471,7 +24926,13 @@
       },
       "references": [],
       "next": null,
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Sourate 57 : si le fer est « descendu », alors tout est descendu",
+          "url": "https://www.youtube.com/watch?v=XF5YydXTPgo",
+          "publishedAt": "2026-10-12T14:40:19.447Z"
+        }
+      ],
       "corrections": []
     },
     {

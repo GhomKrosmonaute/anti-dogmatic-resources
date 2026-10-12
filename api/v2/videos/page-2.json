@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 77,
+  "total": 78,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
+      "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",
+      "format": "video",
+      "publishedAt": "2026-10-04T02:15:11.931Z",
+      "durationSeconds": 672,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "chaine-de-transmission",
+        "name": "La chaîne de témoins comme preuve"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yk1WcBv1jfM",
+        "url": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
+        "thumbnail": "https://i.ytimg.com/vi/yk1WcBv1jfM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f.json"
+      }
+    },
     {
       "id": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
       "title": "Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)",

@@ -6,7 +6,16 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Mon, 12 Oct 2026 13:31:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 14:46:10 GMT</lastBuildDate>
+<item>
+<title>Ghost in the Shell : pourra-t-on transférer son âme dans une machine ? Ce que dit la science</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263/</guid>
+<pubDate>Mon, 12 Oct 2026 14:45:10 GMT</pubDate>
+<description>Non démontré : « Comme dans Ghost in the Shell, notre esprit est un « ghost » distinct du cerveau, et les implants cérébraux permettront bientôt de le télécharger et de le transférer dans une machine. ». Les interfaces cerveau-machine existent et rendent déjà la parole ou la marche, mais elles lisent et stimulent des neurones ; aucune n&apos;a jamais détecté d&apos;esprit séparable. Tumeurs, médicaments et électrodes modifient désirs, humeur et personnalité, ce qui montre un esprit dépendant du cerveau, et un téléchargement, même réussi, produirait une copie plutôt qu&apos;un transfert.</description>
+<category>La caution scientifique détournée</category>
+<category>L&apos;affirmation à l&apos;épreuve de tout</category>
+</item>
 <item>
 <title>IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/point-sur-l-ia-en-2026-dd4a/</link>
@@ -522,15 +531,6 @@
 <category>La relecture après coup</category>
 <category>Le tri des cas favorables</category>
 <category>Philosophie moderne</category>
-</item>
-<item>
-<title>Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/</guid>
-<pubDate>Sun, 04 Oct 2026 02:15:11 GMT</pubDate>
-<description>Technique de manipulation : La chaîne de témoins comme preuve. La réputation d&apos;une chaîne de narrateurs suffirait à garantir qu&apos;un fait a eu lieu.</description>
-<category>La chaîne de témoins comme preuve</category>
-<category>Esprit critique</category>
 </item>
 </channel>
 </rss>

@@ -1,12 +1,47 @@
 {
   "version": 2,
-  "total": 77,
+  "total": 78,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263",
+      "title": "Ghost in the Shell : pourra-t-on transférer son âme dans une machine ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-12T14:45:10.524Z",
+      "durationSeconds": 707,
+      "rubric": null,
+      "claim": {
+        "statement": "Comme dans Ghost in the Shell, notre esprit est un « ghost » distinct du cerveau, et les implants cérébraux permettront bientôt de le télécharger et de le transférer dans une machine.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "d_cYKeU-9fE",
+        "url": "https://www.youtube.com/watch?v=d_cYKeU-9fE",
+        "thumbnail": "https://i.ytimg.com/vi/d_cYKeU-9fE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263.json"
+      }
+    },
     {
       "id": "point-sur-l-ia-en-2026-dd4a",
       "title": "IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi",
@@ -1909,34 +1944,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
-      }
-    },
-    {
-      "id": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
-      "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",
-      "format": "video",
-      "publishedAt": "2026-10-04T02:15:11.931Z",
-      "durationSeconds": 672,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "chaine-de-transmission",
-        "name": "La chaîne de témoins comme preuve"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "yk1WcBv1jfM",
-        "url": "https://www.youtube.com/watch?v=yk1WcBv1jfM",
-        "thumbnail": "https://i.ytimg.com/vi/yk1WcBv1jfM/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/des-milliers-de-temoins-fiables-peuvent-ils-tous-191f.json"
       }
     }
   ],

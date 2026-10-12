@@ -41,6 +41,41 @@
   ],
   "examples": [
     {
+      "id": "ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263",
+      "title": "Ghost in the Shell : pourra-t-on transférer son âme dans une machine ? Ce que dit la science",
+      "format": "video",
+      "publishedAt": "2026-10-12T14:45:10.524Z",
+      "durationSeconds": 707,
+      "rubric": null,
+      "claim": {
+        "statement": "Comme dans Ghost in the Shell, notre esprit est un « ghost » distinct du cerveau, et les implants cérébraux permettront bientôt de le télécharger et de le transférer dans une machine.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "d_cYKeU-9fE",
+        "url": "https://www.youtube.com/watch?v=d_cYKeU-9fE",
+        "thumbnail": "https://i.ytimg.com/vi/d_cYKeU-9fE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263.json"
+      }
+    },
+    {
       "id": "point-sur-l-ia-en-2026-dd4a",
       "title": "IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi",
       "format": "video",
