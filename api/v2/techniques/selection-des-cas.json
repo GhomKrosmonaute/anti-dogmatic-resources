@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c",
+      "title": "L'IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études",
+      "format": "video",
+      "publishedAt": "2026-10-12T20:15:16.609Z",
+      "durationSeconds": 742,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Une IA conversationnelle, qui connaît tous les textes sacrés, répond à toute heure et ne juge jamais, est un guide fiable pour les questions de foi et de sens.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lnXXuKRCBdc",
+        "url": "https://www.youtube.com/watch?v=lnXXuKRCBdc",
+        "thumbnail": "https://i.ytimg.com/vi/lnXXuKRCBdc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c.json"
+      }
+    },
+    {
       "id": "l-evolution-est-elle-juste-une-theorie-9acc",
       "title": "L'évolution n'est-elle vraiment qu'une théorie ? Ce que « théorie » veut dire en science",
       "format": "short",

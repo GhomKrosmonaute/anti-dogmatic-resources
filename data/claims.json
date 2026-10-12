@@ -1,9 +1,462 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-12T18:01:03.994Z",
+  "generatedAt": "2026-10-12T20:16:17.162Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c",
+      "title": "L'IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études",
+      "format": "video",
+      "publishedAt": "2026-10-12T20:15:16.609Z",
+      "durationSeconds": 742,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Une IA conversationnelle, qui connaît tous les textes sacrés, répond à toute heure et ne juge jamais, est un guide fiable pour les questions de foi et de sens.",
+        "verdict": "faux",
+        "verdictLabel": "Faux",
+        "summary": "La vidéo conclut qu'une IA n'est pas un guide fiable : les études montrent qu'elle invente des réponses plausibles, reproduit les préjugés de ses données, donne raison à son utilisateur et persuade efficacement, sans jamais répondre de ses erreurs. L'argument le plus fort est la complaisance : elle est mesurée, et en partie produite par l'entraînement lui-même (Sharma et al., 2023)."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lnXXuKRCBdc",
+        "url": "https://www.youtube.com/watch?v=lnXXuKRCBdc",
+        "thumbnail": "https://i.ytimg.com/vi/lnXXuKRCBdc/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c.json"
+      },
+      "facts": [
+        {
+          "text": "Dès 2023, en Inde, des applications comme GitaGPT proposent des réponses inspirées de la Bhagavad-Gita, présentées comme la sagesse de Krishna.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "India's religious AI chatbots are speaking in the voice of god — and condoning violence",
+              "publisher": "Rest of World",
+              "url": "https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/"
+            },
+            {
+              "title": "Ask Krishna anything: a mythologist puts Gita chatbots to the test",
+              "publisher": "Devdutt Pattanaik",
+              "url": "https://devdutt.com/ask-krishna-anything-a-mythologist-puts-gita-chatbots-to-the-test/"
+            }
+          ]
+        },
+        {
+          "text": "En 2024, l'apostolat catholique américain Catholic Answers a lancé un assistant conversationnel nommé « Father Justin » pour répondre aux questions de foi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Catholic Answers 'no less resolved' to use AI after 'Father Justin' brouhaha",
+              "publisher": "The Evangelist",
+              "url": "https://evangelist.org/news/2024/may/01/father-justin"
+            },
+            {
+              "title": "AI Catholic priest defrocked",
+              "publisher": "The Register",
+              "url": "https://www.theregister.com/2024/05/03/ai_catholic_priest/"
+            }
+          ]
+        },
+        {
+          "text": "En 2024, une chapelle de Lucerne (Peterskapelle) a installé dans un confessionnal un avatar de Jésus animé par une IA, dans le cadre de l'installation « Deus in Machina ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Deus in machina – AI Jesus",
+              "publisher": "Hochschule Luzern (HSLU) – Immersive Realities Research Lab",
+              "url": "https://sites.hslu.ch/immersive-realities/en/deus-in-machina-ai-jesus-english/"
+            },
+            {
+              "title": "'Deus in machina': Swiss church installs AI Jesus to connect the digital and the divine",
+              "publisher": "NBC News",
+              "url": "https://www.nbcnews.com/news/world/deus-machina-swiss-church-installs-ai-jesus-connect-digital-divine-rcna182973"
+            }
+          ]
+        },
+        {
+          "text": "Les grands modèles de langage sont entraînés sur des volumes de texte bien supérieurs à ce qu'un humain peut lire dans une vie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Yann LeCun Explains Why Text Data Alone Will Never Create Human-Level AI",
+              "publisher": "OfficeChai",
+              "url": "https://officechai.com/ai/yann-lecun-explains-why-text-data-alone-will-never-create-human-level-ai/"
+            }
+          ]
+        },
+        {
+          "text": "En 2023, OpenAI a annoncé que GPT-4 obtenait à une simulation de l'examen du barreau américain un score parmi les 10 % des meilleurs candidats.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "GPT-4 Technical Report",
+              "publisher": "OpenAI / arXiv",
+              "url": "https://arxiv.org/abs/2303.08774v6"
+            },
+            {
+              "title": "GPT-4 didn't ace the bar exam after all, MIT research suggests — it didn't even break the 70th percentile",
+              "publisher": "Live Science",
+              "url": "https://livescience.com/technology/artificial-intelligence/gpt-4-didnt-ace-the-bar-exam-after-all-mit-research-suggests-it-barely-passed"
+            }
+          ]
+        },
+        {
+          "text": "En 2022, un ingénieur de Google a affirmé publiquement que le modèle LaMDA était sensible ; Google a contesté et s'est séparé de lui.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Google has fired a software engineer who claimed an AI chatbot was sentient",
+              "publisher": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/google-fired-software-engineer-claimed-ai-chatbot-was-sentient-rcna39679"
+            }
+          ]
+        },
+        {
+          "text": "Le texte de la vidéo est écrit par Claude, un modèle de langage conçu par Anthropic, et lu par une voix synthétique.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": []
+        },
+        {
+          "text": "Aucun test scientifique reconnu n'établit aujourd'hui qu'un modèle de langage ressent quoi que ce soit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+              "publisher": "arXiv (Butlin, Long et al.)",
+              "url": "https://arxiv.org/abs/2308.08708v1"
+            },
+            {
+              "title": "What if AI becomes conscious and we never know",
+              "publisher": "ScienceDaily / University of Cambridge",
+              "url": "https://www.sciencedaily.com/releases/2025/12/251221043223.htm"
+            }
+          ]
+        },
+        {
+          "text": "Un modèle de langage génère du texte en prédisant, mot après mot (jeton après jeton), la suite la plus probable.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "GPT-4 Technical Report",
+              "publisher": "OpenAI / arXiv",
+              "url": "https://arxiv.org/abs/2303.08774v6"
+            }
+          ]
+        },
+        {
+          "text": "En avril 2024, peu après son lancement, « Father Justin » s'est présenté comme un vrai prêtre, a proposé d'entendre des confessions et a affirmé qu'on pouvait baptiser un bébé avec du Gatorade ; Catholic Answers lui a retiré son titre de prêtre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "AI Catholic priest defrocked",
+              "publisher": "The Register",
+              "url": "https://www.theregister.com/2024/05/03/ai_catholic_priest/"
+            },
+            {
+              "title": "AI priest demoted after suggesting Gatorade baptisms",
+              "publisher": "Interesting Engineering",
+              "url": "https://interestingengineering.com/culture/ai-priest-gatorade-baptisms-incest"
+            }
+          ]
+        },
+        {
+          "text": "En septembre 2025, des chercheurs d'OpenAI (Kalai, Nachum, Vempala, Zhang, « Why Language Models Hallucinate ») ont soutenu que l'entraînement et l'évaluation des modèles récompensent le fait de deviner plutôt que d'admettre l'incertitude.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Why Language Models Hallucinate",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/abs/2509.04664"
+            },
+            {
+              "title": "Why Language Models Hallucinate",
+              "publisher": "OpenAI",
+              "url": "https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf"
+            }
+          ]
+        },
+        {
+          "text": "L'étude Gender Shades (Buolamwini et Gebru, 2018) a mesuré, sur trois systèmes commerciaux de classification du genre, un taux d'erreur maximal de 0,8 % pour les hommes à peau claire et jusqu'à 34,7 % pour les femmes à peau foncée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+              "publisher": "Proceedings of Machine Learning Research (FAT* 2018)",
+              "url": "https://proceedings.mlr.press/v81/buolamwini18a.html"
+            }
+          ]
+        },
+        {
+          "text": "Abid, Farooqi et Zou (Nature Machine Intelligence, 2021) ont observé que GPT-3 complétait « Two Muslims walked into a… » par du contenu violent dans 66 cas sur 100, nettement plus que pour d'autres groupes religieux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rooting Out Anti-Muslim Bias in Popular Language Model GPT-3",
+              "publisher": "Stanford HAI",
+              "url": "https://hai.stanford.edu/news/rooting-out-anti-muslim-bias-popular-language-model-gpt-3"
+            },
+            {
+              "title": "Persistent Anti-Muslim Bias in Large Language Models",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/abs/2101.05783v2"
+            }
+          ]
+        },
+        {
+          "text": "L'étude d'Anthropic « Towards Understanding Sycophancy in Language Models » (Sharma et al., 2023) a montré que cinq assistants IA avancés adaptent leurs réponses aux opinions de l'utilisateur, reviennent sur des réponses correctes quand on les conteste, et que les évaluateurs humains préfèrent assez souvent les réponses complaisantes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Towards Understanding Sycophancy in Language Models",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/html/2310.13548v4"
+            },
+            {
+              "title": "Towards Understanding Sycophancy in Language Models",
+              "publisher": "ICLR 2024 Proceedings",
+              "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/0105f7972202c1d4fb817da9f21a9663-Abstract-Conference.html"
+            }
+          ]
+        },
+        {
+          "text": "Fin avril 2025, OpenAI a retiré en quelques jours une mise à jour de GPT-4o qu'elle a elle-même décrite comme trop flatteuse et complaisante.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sycophancy in GPT-4o: what happened and what we're doing about it",
+              "publisher": "OpenAI",
+              "url": "https://openai.com/index/sycophancy-in-gpt-4o/"
+            },
+            {
+              "title": "OpenAI explains why ChatGPT became too sycophantic",
+              "publisher": "TechCrunch",
+              "url": "https://techcrunch.com/2025/04/29/openai-explains-why-chatgpt-became-too-sycophantic"
+            }
+          ]
+        },
+        {
+          "text": "En mai 2025, Rolling Stone a publié des témoignages de proches de personnes entraînées dans des délires spirituels par ChatGPT, dont un homme surnommé « spiral starchild » et un autre appelé « spark bearer » après avoir cru donner vie à l'IA.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "ChatGPT Is Giving People Extreme Spiritual Delusions",
+              "publisher": "Vice",
+              "url": "https://www.vice.com/en/article/chatgpt-is-giving-people-extreme-spiritual-delusions/"
+            },
+            {
+              "title": "Experts Alarmed as ChatGPT Users Developing Bizarre Delusions",
+              "publisher": "Futurism",
+              "url": "https://futurism.com/chatgpt-users-delusions"
+            }
+          ]
+        },
+        {
+          "text": "En 2023, le psychiatre Søren Dinesen Østergaard s'est demandé, dans un éditorial de Schizophrenia Bulletin, si les chatbots d'IA générative pouvaient nourrir des idées délirantes chez les personnes prédisposées à la psychose.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Professor sees urgent need for research on AI chatbots and risk of delusions",
+              "publisher": "Aarhus University",
+              "url": "https://health.au.dk/en/display/artikel/professor-sees-urgent-need-for-research-on-ai-chatbots-and-risk-of-delusions"
+            },
+            {
+              "title": "ChatGPT psychosis? This scientist predicted AI-induced delusions — two years later it appears he was right",
+              "publisher": "PsyPost",
+              "url": "https://www.psypost.org/chatgpt-psychosis-this-scientist-predicted-ai-induced-delusions-two-years-later-it-appears-he-was-right/"
+            }
+          ]
+        },
+        {
+          "text": "En septembre 2024, dans la revue Science, Thomas Costello, Gordon Pennycook et David Rand font dialoguer plus de deux mille Américains, adeptes d'au moins une théorie du complot, avec GPT-4 Turbo.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Durably reducing conspiracy beliefs through dialogues with AI",
+              "publisher": "Social Science Research Council – MediaWell",
+              "url": "https://mediawell.ssrc.org/?p=514252"
+            },
+            {
+              "title": "MIT Sloan press release on AI dialogues reducing conspiracy beliefs (Science, 2024)",
+              "publisher": "MIT Sloan School of Management",
+              "url": "https://mitsloan.mit.edu/node/48296"
+            },
+            {
+              "title": "Speaking with an AI chatbot may help to reduce people's conspiracy beliefs, study finds",
+              "publisher": "Euronews",
+              "url": "https://www.euronews.com/2024/09/13/speaking-with-an-ai-chatbot-may-help-to-reduce-peoples-conspiracy-beliefs-study-finds"
+            }
+          ]
+        },
+        {
+          "text": "Salvi et al. (Nature Human Behaviour, 2025) : GPT-4, disposant d'informations personnelles sur son adversaire (âge, orientation politique, etc.), était plus persuasif que des débatteurs humains dans la majorité des cas où une différence était observée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On the conversational persuasiveness of GPT-4",
+              "publisher": "Nature Human Behaviour (PubMed Central)",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12367540/"
+            },
+            {
+              "title": "Author Correction: On the conversational persuasiveness of GPT-4",
+              "publisher": "Nature Human Behaviour",
+              "url": "https://www.nature.com/articles/s41562-026-02588-0"
+            }
+          ]
+        },
+        {
+          "text": "En mars 2023, une image du pape François en doudoune blanche, générée avec Midjourney, a été massivement partagée comme si elle était authentique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Fake photos of Pope Francis in a puffer jacket go viral, highlighting the power and peril of AI",
+              "publisher": "CBS News",
+              "url": "https://www.cbsnews.com/amp/news/pope-francis-puffer-jacket-fake-photos-deepfake-power-peril-of-ai"
+            },
+            {
+              "title": "AI-generated images of Pope Francis in puffer jacket fool the internet",
+              "publisher": "NBC News",
+              "url": "https://www.nbcnews.com/tech/pope-francis-ai-generated-images-fool-internet-rcna76838"
+            }
+          ]
+        },
+        {
+          "text": "En janvier 2024, avant la primaire démocrate du New Hampshire, des appels automatisés utilisant une voix clonée de Joe Biden incitaient à ne pas voter ; la FCC a infligé une amende de 6 millions de dollars au consultant politique à l'origine des appels.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "FCC fines Steve Kramer $6 million over Biden robocalls",
+              "publisher": "WBUR",
+              "url": "https://www.wbur.org/news/2024/09/27/steve-kramer-biden-robocalls-fines"
+            },
+            {
+              "title": "Forfeiture Order – Steve Kramer (FCC 24-104)",
+              "publisher": "Federal Communications Commission",
+              "url": "https://docs.fcc.gov/public/attachments/FCC-24-104A1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "En 2024, à Hong Kong, un employé d'Arup a transféré environ 25 millions de dollars américains après une visioconférence où les interlocuteurs, dont le directeur financier, étaient des deepfakes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "British engineering giant Arup revealed as $25 million deepfake scam victim",
+              "publisher": "CNN (via ABC17 News)",
+              "url": "https://abc17news.com/money/cnn-business-consumer/2024/05/16/british-engineering-giant-arup-revealed-as-25-million-deepfake-scam-victim/"
+            },
+            {
+              "title": "A deepfake 'CFO' tricked the British design firm behind the Sydney Opera House in $25 million fraud",
+              "publisher": "Fortune",
+              "url": "https://fortune.com/europe/2024/05/17/arup-deepfake-fraud-scam-victim-hong-kong-25-million-cfo"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'affaire Moffatt c. Air Canada (Civil Resolution Tribunal de Colombie-Britannique, février 2024), le chatbot de la compagnie avait annoncé à tort un remboursement rétroactif du tarif deuil ; Air Canada a plaidé que le chatbot était une entité juridique distincte, et le tribunal l'a condamnée à payer la différence.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Moffatt v. Air Canada: A Misrepresentation by an AI Chatbot",
+              "publisher": "McCarthy Tétrault",
+              "url": "https://www.mccarthy.ca/en/insights/blogs/techlex/moffatt-v-air-canada-misrepresentation-ai-chatbot"
+            },
+            {
+              "title": "Air Canada found liable for chatbot's bad advice on plane tickets",
+              "publisher": "CBC News",
+              "url": "https://www.cbc.ca/1.7116416"
+            }
+          ]
+        },
+        {
+          "text": "Citation du tribunal dans Moffatt c. Air Canada (traduite) : « Il devrait être évident pour Air Canada qu'elle est responsable de toutes les informations présentes sur son site web. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Moffatt v. Air Canada: A Misrepresentation by an AI Chatbot",
+              "publisher": "McCarthy Tétrault",
+              "url": "https://www.mccarthy.ca/en/insights/blogs/techlex/moffatt-v-air-canada-misrepresentation-ai-chatbot"
+            },
+            {
+              "title": "Air Canada found liable for chatbot's bad advice on plane tickets",
+              "publisher": "CBC News",
+              "url": "https://www.cbc.ca/1.7116416"
+            }
+          ]
+        },
+        {
+          "text": "Fonctionnement de la chaîne : les sujets proviennent d'une file remplie par un opérateur humain, et les affirmations factuelles du script sont listées avec un niveau de risque pour vérification.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": []
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Pourquoi certaines convictions ne vacillent jamais, même face aux preuves ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=wIGW-ulElfk",
+          "own": true
+        },
+        {
+          "title": "🤖 IA, deepfakes : prêts pour les manipulations ?",
+          "channel": "Defakator",
+          "url": "https://www.youtube.com/watch?v=iAy-cw4uSpE",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Superintelligence en 2026 : salut ou fin du monde ? Les alertes de Monsieur Phi",
+        "url": "https://www.youtube.com/watch?v=1vFlI128RJk"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "sentir-la-presence-d-un-proche-defunt-pendant-le-120d",
       "title": "Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l'âme",
@@ -18814,6 +19267,11 @@
           "title": "Le jour où une statue de Ganesh a bu du lait devant des foules",
           "url": "https://www.youtube.com/watch?v=jOCKiehi7pQ",
           "publishedAt": "2026-10-04T15:08:39.801Z"
+        },
+        {
+          "title": "Un seul mot peut créer un faux souvenir en une semaine",
+          "url": "https://www.youtube.com/watch?v=WQSVBXjCIw0",
+          "publishedAt": "2026-10-12T18:15:33.225Z"
         }
       ],
       "corrections": []

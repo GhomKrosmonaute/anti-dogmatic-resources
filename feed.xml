@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Mon, 12 Oct 2026 18:01:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:16:17 GMT</lastBuildDate>
+<item>
+<title>L&apos;IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c/</guid>
+<pubDate>Mon, 12 Oct 2026 20:15:16 GMT</pubDate>
+<description>Faux : « Une IA conversationnelle, qui connaît tous les textes sacrés, répond à toute heure et ne juge jamais, est un guide fiable pour les questions de foi et de sens. ». La vidéo conclut qu&apos;une IA n&apos;est pas un guide fiable : les études montrent qu&apos;elle invente des réponses plausibles, reproduit les préjugés de ses données, donne raison à son utilisateur et persuade efficacement, sans jamais répondre de ses erreurs. L&apos;argument le plus fort est la complaisance : elle est mesurée, et en partie produite par l&apos;entraînement lui-même (Sharma et al., 2023).</description>
+<category>L&apos;argument d&apos;autorité</category>
+<category>Le tri des cas favorables</category>
+<category>Religions</category>
+</item>
 <item>
 <title>Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l&apos;âme</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sentir-la-presence-d-un-proche-defunt-pendant-le-120d/</link>
@@ -521,17 +531,6 @@
 <category>Le tri des cas favorables</category>
 <category>Pseudo-sciences et charlatans</category>
 <category>Short</category>
-</item>
-<item>
-<title>Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/</guid>
-<pubDate>Sun, 04 Oct 2026 06:15:11 GMT</pubDate>
-<description>Trompeur : « Quand on veut, on peut : avec assez de volonté et de travail, n&apos;importe qui peut réussir, quelle que soit son origine. ». L&apos;effort compte, mais il ne suffit pas. Les récits de réussite ne retiennent que les survivants, et l&apos;entraînement n&apos;explique qu&apos;une partie des écarts de performance. Selon l&apos;OCDE, il faudrait en France six générations à une famille à bas revenus pour atteindre le revenu moyen. Le mot « méritocratie » lui-même vient d&apos;une satire qui mettait en garde contre cette idée.</description>
-<category>Le tri des cas favorables</category>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>Le faux dilemme</category>
-<category>Le système</category>
 </item>
 </channel>
 </rss>
