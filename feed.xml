@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Mon, 12 Oct 2026 12:01:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 13:31:13 GMT</lastBuildDate>
+<item>
+<title>IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/point-sur-l-ia-en-2026-dd4a/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/point-sur-l-ia-en-2026-dd4a/</guid>
+<pubDate>Mon, 12 Oct 2026 13:30:13 GMT</pubDate>
+<description>Non démontré : « La superintelligence arrive dans quelques années, et elle apportera à l&apos;humanité soit le salut, soit l&apos;extinction. ». Les progrès des IA et certains comportements inquiétants en laboratoire sont bien mesurés, mais ni l&apos;imminence d&apos;une superintelligence ni le paradis ou l&apos;apocalypse qu&apos;on lui prête ne sont établis. Les dates des prophètes reculent, les probabilités avancées sont des agrégats d&apos;intuitions qui varient de treize ans en un an, et Good lui-même faisait tout dépendre d&apos;une condition de contrôle.</description>
+<category>Le faux dilemme</category>
+<category>L&apos;affirmation à l&apos;épreuve de tout</category>
+<category>L&apos;argument d&apos;autorité</category>
+</item>
 <item>
 <title>L&apos;évolution n&apos;est-elle vraiment qu&apos;une théorie ? Ce que « théorie » veut dire en science</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evolution-est-elle-juste-une-theorie-9acc/</link>
@@ -521,17 +531,6 @@
 <description>Technique de manipulation : La chaîne de témoins comme preuve. La réputation d&apos;une chaîne de narrateurs suffirait à garantir qu&apos;un fait a eu lieu.</description>
 <category>La chaîne de témoins comme preuve</category>
 <category>Esprit critique</category>
-</item>
-<item>
-<title>Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/jesus-a-t-il-vraiment-ete-crucifie-ef5c/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/jesus-a-t-il-vraiment-ete-crucifie-ef5c/</guid>
-<pubDate>Sun, 04 Oct 2026 00:45:10 GMT</pubDate>
-<description>Faux : « Jésus n&apos;a été ni tué ni crucifié : Dieu a donné son apparence à un autre homme, crucifié à sa place, et l&apos;a élevé vivant auprès de Lui. ». Les sources les plus anciennes attestent que Jésus a été crucifié sous Ponce Pilate : Paul vers 55, puis Tacite et Josèphe. Même les historiens très critiques envers les Évangiles tiennent ce fait pour l&apos;un des plus sûrs de sa vie. Le Coran ne décrit lui-même aucune substitution : le sosie vient de conteurs venus sept siècles plus tard, qui se contredisent, et l&apos;idée reprend une théologie docète attestée dès le deuxième siècle.</description>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>L&apos;argument d&apos;autorité</category>
-<category>La chaîne de témoins comme preuve</category>
-<category>Religions</category>
 </item>
 </channel>
 </rss>

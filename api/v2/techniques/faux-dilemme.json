@@ -41,6 +41,45 @@
   ],
   "examples": [
     {
+      "id": "point-sur-l-ia-en-2026-dd4a",
+      "title": "IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi",
+      "format": "video",
+      "publishedAt": "2026-10-12T13:30:13.284Z",
+      "durationSeconds": 708,
+      "rubric": null,
+      "claim": {
+        "statement": "La superintelligence arrive dans quelques années, et elle apportera à l'humanité soit le salut, soit l'extinction.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "1vFlI128RJk",
+        "url": "https://www.youtube.com/watch?v=1vFlI128RJk",
+        "thumbnail": "https://i.ytimg.com/vi/1vFlI128RJk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/point-sur-l-ia-en-2026-dd4a/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/point-sur-l-ia-en-2026-dd4a.json"
+      }
+    },
+    {
       "id": "l-evolution-est-elle-juste-une-theorie-9acc",
       "title": "L'évolution n'est-elle vraiment qu'une théorie ? Ce que « théorie » veut dire en science",
       "format": "short",

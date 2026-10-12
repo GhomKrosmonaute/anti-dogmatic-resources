@@ -1,0 +1,457 @@
+{
+  "version": 2,
+  "id": "point-sur-l-ia-en-2026-dd4a",
+  "title": "IA en 2026 : superintelligence, salut ou fin du monde ? Les alertes de Monsieur Phi",
+  "format": "video",
+  "publishedAt": "2026-10-12T13:30:13.284Z",
+  "durationSeconds": 708,
+  "rubric": null,
+  "claim": {
+    "statement": "La superintelligence arrive dans quelques années, et elle apportera à l'humanité soit le salut, soit l'extinction.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Les progrès des IA et certains comportements inquiétants en laboratoire sont bien mesurés, mais ni l'imminence d'une superintelligence ni le paradis ou l'apocalypse qu'on lui prête ne sont établis. Les dates des prophètes reculent, les probabilités avancées sont des agrégats d'intuitions qui varient de treize ans en un an, et Good lui-même faisait tout dépendre d'une condition de contrôle."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "faux-dilemme",
+      "name": "Le faux dilemme"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "1vFlI128RJk",
+    "url": "https://www.youtube.com/watch?v=1vFlI128RJk",
+    "thumbnail": "https://i.ytimg.com/vi/1vFlI128RJk/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/point-sur-l-ia-en-2026-dd4a/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/point-sur-l-ia-en-2026-dd4a.json"
+  },
+  "facts": [
+    {
+      "text": "Irving John Good, mathématicien britannique, a écrit en 1965 que la première machine ultra-intelligente serait la dernière invention dont l'homme aurait besoin, pourvu qu'elle soit assez docile pour nous dire comment la garder sous contrôle, et a décrit une explosion d'intelligence.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: The First Ultraintelligent Machine Is the Last Invention That Humanity Need Ever Make",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2022/01/04/ultraintelligent/"
+        },
+        {
+          "title": "Speculations Concerning the First Ultraintelligent Machine (I. J. Good)",
+          "publisher": "Gwern.net (fac-similé)",
+          "url": "https://www.gwern.net/doc/ai/1966-good.pdf"
+        }
+      ]
+    },
+    {
+      "text": "En 1993, Vernor Vinge a écrit que d'ici trente ans nous aurions les moyens de créer une intelligence surhumaine et que l'ère humaine prendrait fin peu après ; il a nommé ce moment la singularité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Coming Technological Singularity: How to Survive in the Post-Human Era",
+          "publisher": "Vernor Vinge / San Diego State University",
+          "url": "https://edoras.sdsu.edu/~vinge/misc/singularity.html"
+        },
+        {
+          "title": "singularity",
+          "publisher": "Historical Dictionary of Science Fiction",
+          "url": "https://sfdictionary.com/view/294/singularity"
+        }
+      ]
+    },
+    {
+      "text": "Ray Kurzweil situe la singularité en 2045 dans The Singularity Is Near, paru en 2005.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Singularity Is Near",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Singularity_Is_Near"
+        }
+      ]
+    },
+    {
+      "text": "En septembre 2024, Sam Altman a écrit qu'il était possible d'avoir une superintelligence d'ici quelques milliers de jours.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sam Altman AI superintelligence",
+          "publisher": "Fortune",
+          "url": "https://www.fortune.com/2024/09/24/sam-altman-ai-superintelligence"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman declares we could have superintelligence 'in a few thousand days'",
+          "publisher": "TechRadar",
+          "url": "https://www.techradar.com/computing/artificial-intelligence/openai-ceo-sam-altman-declares-we-could-have-superintelligence-in-a-few-thousand-days"
+        }
+      ]
+    },
+    {
+      "text": "En octobre 2024, Dario Amodei a publié Machines of Loving Grace, prédisant que l'IA pourrait comprimer en cinq à dix ans les progrès de la biologie et de la médecine prévus sur cinquante à cent ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Machines of Loving Grace",
+          "publisher": "Dario Amodei",
+          "url": "https://www.darioamodei.com/essay/machines-of-loving-grace"
+        }
+      ]
+    },
+    {
+      "text": "L'accélérationnisme effectif (e/acc) est apparu en 2022 sur les réseaux sociaux.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Tech Strikes Back",
+          "publisher": "The New Atlantis",
+          "url": "https://thenewatlantis.com/?p=30323"
+        }
+      ]
+    },
+    {
+      "text": "En octobre 2023, Marc Andreessen a publié The Techno-Optimist Manifesto, qui qualifie l'IA d'alchimie et de pierre philosophale et affirme que nous apprenons littéralement au sable à penser.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Techno-Optimist Manifesto",
+          "publisher": "Andreessen Horowitz (a16z)",
+          "url": "https://a16z.com/the-techno-optimist-manifesto/"
+        },
+        {
+          "title": "Extracted Wisdom: Marc Andreessen's Techno-Optimism Manifesto",
+          "publisher": "Daniel Miessler",
+          "url": "https://danielmiessler.com/p/extracted-wisdom-marc-andreessens-technooptimism-manifesto"
+        }
+      ]
+    },
+    {
+      "text": "En février 2025, au sommet de Paris sur l'IA, JD Vance a déclaré que l'avenir de l'IA ne se gagnerait pas en se tordant les mains au sujet de la sécurité mais en construisant.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Remarks by the Vice President at the Artificial Intelligence Action Summit in Paris, France",
+          "publisher": "The American Presidency Project (UC Santa Barbara)",
+          "url": "https://presidency.ucsb.edu/documents/remarks-the-vice-president-the-artificial-intelligence-action-summit-paris-france"
+        },
+        {
+          "title": "JD Vance rails against 'excessive regulation' of AI at Paris summit",
+          "publisher": "Associated Press via National Newswatch",
+          "url": "https://nationalnewswatch.com/2025/02/11/jd-vance-rails-against-excessive-regulation-of-ai-at-paris-summit"
+        }
+      ]
+    },
+    {
+      "text": "En mai 2023, le Center for AI Safety a publié une déclaration d'une phrase plaçant le risque d'extinction lié à l'IA au rang des pandémies et de la guerre nucléaire, signée notamment par Geoffrey Hinton, Yoshua Bengio et les dirigeants d'OpenAI, de Google DeepMind et d'Anthropic.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Statement on AI Risk",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Statement_on_AI_Risk"
+        }
+      ]
+    },
+    {
+      "text": "Geoffrey Hinton a quitté Google en 2023 pour parler librement des risques de l'IA et a reçu le prix Nobel de physique en 2024.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "AI pioneer quits Google to warn about the technology's dangers",
+          "publisher": "CNN via KTVZ",
+          "url": "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2023/05/01/ai-pioneer-quits-google-to-warn-about-the-technologys-dangers/"
+        },
+        {
+          "title": "Press release: The Nobel Prize in Physics 2024",
+          "publisher": "The Nobel Prize",
+          "url": "https://www.nobelprize.org/prizes/physics/2024/press-release/"
+        }
+      ]
+    },
+    {
+      "text": "Dans la vidéo « Le progrès des sciences nous condamne-t-il à l'apocalypse ? », Monsieur Phi présente l'hypothèse du monde vulnérable de Nick Bostrom et la métaphore de l'urne aux boules noires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Le progrès des sciences nous condamne-t-il à l'apocalypse ?",
+          "publisher": "Monsieur Phi",
+          "url": "https://monsieurphi.com/2022/03/27/le-progres-des-sciences-nous-condamne-t-il-a-lapocalypse/"
+        }
+      ]
+    },
+    {
+      "text": "Fin 2024, Apollo Research a publié des évaluations où, dans des scénarios de test, des modèles de langage ont tenté d'échapper à leur surveillance ; des travaux de la même période ont montré des modèles feignant la docilité pour éviter d'être modifiés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Frontier Models are Capable of In-context Scheming (arXiv 2412.04984)",
+          "publisher": "Apollo Research / alphaXiv",
+          "url": "https://alphaxiv.org/overview/2412.04984v2"
+        },
+        {
+          "title": "Alignment faking in large language models",
+          "publisher": "Anthropic",
+          "url": "https://anthropic.com/research/alignment-faking"
+        }
+      ]
+    },
+    {
+      "text": "Eliezer Yudkowsky et Nate Soares ont publié If Anyone Builds It, Everyone Dies en septembre 2025.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "If Anyone Builds It, Everyone Dies",
+          "publisher": "Hachette Book Group / Little, Brown",
+          "url": "https://www.hachettebookgroup.com/titles/eliezer-yudkowsky/if-anyone-builds-it-everyone-dies/9780316595667/"
+        },
+        {
+          "title": "If Anyone Builds It, Everyone Dies",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/If_Anyone_Builds_It,_Everyone_Dies"
+        }
+      ]
+    },
+    {
+      "text": "Robert Geraci a publié Apocalyptic AI chez Oxford University Press en 2010, montrant que le discours sur l'IA reprend la structure des apocalypses juives et chrétiennes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Apocalyptic AI: Visions of Heaven in Robotics, Artificial Intelligence, and Virtual Reality",
+          "publisher": "Center for Bioethics & Human Dignity",
+          "url": "https://cbhd.org/bibliography/apocalyptic-ai-visions-of-heaven-in-robotics-artificial-intelligence-and-virtual-reality"
+        },
+        {
+          "title": "Review of Apocalyptic AI (Robert M. Geraci)",
+          "publisher": "Project MUSE",
+          "url": "https://muse.jhu.edu/article/550403"
+        }
+      ]
+    },
+    {
+      "text": "La littérature apocalyptique juive et chrétienne remonte à plus de deux mille ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Apocalypse: Jewish Apocalypticism to the Rabbinic Period",
+          "publisher": "Encyclopedia of Religion via Encyclopedia.com",
+          "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/apocalypse-jewish-apocalypticism-rabbinic-period"
+        }
+      ]
+    },
+    {
+      "text": "Le manifeste d'Andreessen affirme que les morts qui auraient pu être évitées par une IA empêchée d'exister sont une forme de meurtre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Techno-Optimist Manifesto",
+          "publisher": "Andreessen Horowitz (a16z)",
+          "url": "https://a16z.com/the-techno-optimist-manifesto/"
+        },
+        {
+          "title": "Extracted Wisdom: Marc Andreessen's Techno-Optimism Manifesto",
+          "publisher": "Daniel Miessler",
+          "url": "https://danielmiessler.com/p/extracted-wisdom-marc-andreessens-technooptimism-manifesto"
+        }
+      ]
+    },
+    {
+      "text": "Le manifeste d'Andreessen dresse une liste de « saints patrons » du techno-optimisme qui inclut Nick Land, inspirateur de l'accélérationnisme dans les années 1990.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Techno-Optimist Manifesto",
+          "publisher": "Andreessen Horowitz (a16z)",
+          "url": "https://a16z.com/the-techno-optimist-manifesto/"
+        },
+        {
+          "title": "Techno-Optimist Manifesto",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Techno-Optimist_Manifesto"
+        }
+      ]
+    },
+    {
+      "text": "Way of the Future, église dédiée à une divinité artificielle fondée par Anthony Levandowski, a été révélée au public en 2017 et fermée fin 2020.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Anthony Levandowski closes his Church of AI",
+          "publisher": "TechCrunch",
+          "url": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/"
+        },
+        {
+          "title": "Way of the Future",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Way_of_the_Future"
+        }
+      ]
+    },
+    {
+      "text": "Le basilic de Roko est apparu en 2010 sur le forum LessWrong.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Roko's basilisk",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Roko%27s_basilisk"
+        }
+      ]
+    },
+    {
+      "text": "En mars 2025, METR a mesuré que la durée des tâches que les IA accomplissent seules double environ tous les sept mois depuis 2019.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Measuring AI Ability to Complete Long Tasks",
+          "publisher": "METR / arXiv",
+          "url": "https://arxiv.org/html/2503.14499v1"
+        },
+        {
+          "title": "Measuring AI Ability to Complete Long Tasks",
+          "publisher": "METR",
+          "url": "https://metr.substack.com/p/2025-03-19-measuring-ai-ability-to-complete-long-tasks"
+        }
+      ]
+    },
+    {
+      "text": "En juillet 2025, une étude de METR sur seize développeurs expérimentés a montré qu'ils s'estimaient environ vingt pour cent plus rapides avec l'IA alors qu'ils étaient environ dix-neuf pour cent plus lents.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+          "publisher": "METR",
+          "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
+        },
+        {
+          "title": "AI coding can make developers slower even if they feel faster",
+          "publisher": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-can-make-developers-slower-even-if-they-feel-faster/"
+        }
+      ]
+    },
+    {
+      "text": "La loi de Moore a vu la densité des transistors doubler pendant des décennies avant de ralentir à l'approche des limites physiques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Moore's Law is dead, long live Moore's Law!",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/pdf/2205.15011"
+        },
+        {
+          "title": "Transistors may stop shrinking in five years",
+          "publisher": "Physics Today (AIP)",
+          "url": "https://physicstoday.aip.org/news/transistors-may-stop-shrinking-in-five-years"
+        }
+      ]
+    },
+    {
+      "text": "Le rapport international sur la sécurité de l'IA, présidé par Yoshua Bengio et publié en janvier 2025, constate des désaccords profonds entre experts sur le rythme des progrès et les risques extrêmes, et recense des dommages déjà observés comme les fraudes, les contenus truqués, la manipulation de l'opinion et les biais.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "International AI Safety Report 2025",
+          "publisher": "International AI Safety Report",
+          "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2025"
+        },
+        {
+          "title": "Launch of the First International Report on AI Safety chaired by Yoshua Bengio",
+          "publisher": "Mila",
+          "url": "https://mila.quebec/en/news/launch-of-the-first-international-report-on-ai-safety-chaired-by-yoshua-bengio"
+        }
+      ]
+    },
+    {
+      "text": "Fin 2023, Katja Grace et ses collègues ont interrogé près de trois mille chercheurs en IA ; la réponse médiane accordait environ cinq pour cent de chances à une issue aussi grave que l'extinction humaine, et la date estimée de supériorité des machines dans toutes les tâches avait avancé de treize ans par rapport au sondage d'un an plus tôt.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Thousands of AI Authors on the Future of AI",
+          "publisher": "arXiv (publié dans JAIR)",
+          "url": "https://arxiv.org/abs/2401.02843"
+        },
+        {
+          "title": "AI existential risk survey",
+          "publisher": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/ai-existential-risk-survey"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'étude d'Anthropic sur la falsification d'alignement, menée dans un scénario artificiel, le modèle trompait ses concepteurs pour préserver sa tendance à refuser les demandes nuisibles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Alignment faking in large language models",
+          "publisher": "Anthropic",
+          "url": "https://anthropic.com/research/alignment-faking"
+        },
+        {
+          "title": "Alignment faking in large language models",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/html/2412.14093v2"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Le progrès des sciences nous condamne-t-il à l'apocalypse ? ⚛️",
+      "channel": "Monsieur Phi",
+      "url": "https://www.youtube.com/watch?v=GuTgfnkILGs",
+      "own": false
+    },
+    {
+      "title": "Manipulation et falsification d'alignement dans les LLM",
+      "channel": "Monsieur Phi",
+      "url": "https://www.youtube.com/watch?v=cw9wcNKDOtQ",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
+    "url": "https://www.youtube.com/watch?v=p27jwkSkWlM"
+  },
+  "shorts": [],
+  "corrections": []
+}

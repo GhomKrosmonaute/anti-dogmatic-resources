@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 76,
+  "total": 77,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "jesus-a-t-il-vraiment-ete-crucifie-ef5c",
+      "title": "Jésus a-t-il vraiment été crucifié ? Ce que dit le Coran (sourate An-Nisa 4:157)",
+      "format": "video",
+      "publishedAt": "2026-10-04T00:45:10.638Z",
+      "durationSeconds": 688,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Jésus n'a été ni tué ni crucifié : Dieu a donné son apparence à un autre homme, crucifié à sa place, et l'a élevé vivant auprès de Lui.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "a8OZPpeJk_A",
+        "url": "https://www.youtube.com/watch?v=a8OZPpeJk_A",
+        "thumbnail": "https://i.ytimg.com/vi/a8OZPpeJk_A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/jesus-a-t-il-vraiment-ete-crucifie-ef5c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/jesus-a-t-il-vraiment-ete-crucifie-ef5c.json"
+      }
+    },
     {
       "id": "le-saint-suaire-de-turin-a-t-il-vraiment-a86b",
       "title": "Saint Suaire de Turin : a-t-il vraiment enveloppé le corps de Jésus ? Ce que dit la science",
