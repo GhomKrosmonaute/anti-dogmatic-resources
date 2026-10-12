@@ -1,0 +1,434 @@
+{
+  "version": 2,
+  "id": "le-rasoir-d-ockham-la-methode-scientifique-et-le-0361",
+  "title": "Les miracles sont-ils réels ? La science, la foi et le rasoir d'Ockham",
+  "format": "video",
+  "publishedAt": "2026-10-12T11:30:09.485Z",
+  "durationSeconds": 664,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Les miracles, les guérisons et les prophéties échappent à la méthode scientifique : on ne peut pas les tester, seulement les vivre.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Certaines croyances ne promettent rien d'observable et restent bien hors de portée de la science. Mais miracles, remèdes et prophéties prétendent agir sur le monde, donc se testent : la prière de l'étude STEP n'a rien changé, l'homéopathie n'a montré aucune efficacité fiable selon le NHMRC, et la prophétie datée de Camping a échoué deux fois."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve"
+    },
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "7MbqodhL2fM",
+    "url": "https://www.youtube.com/watch?v=7MbqodhL2fM",
+    "thumbnail": "https://i.ytimg.com/vi/7MbqodhL2fM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-rasoir-d-ockham-la-methode-scientifique-et-le-0361/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-rasoir-d-ockham-la-methode-scientifique-et-le-0361.json"
+  },
+  "facts": [
+    {
+      "text": "Guillaume d'Ockham, franciscain originaire d'Ockham dans le Surrey, a commenté les Sentences de Pierre Lombard à Oxford au début du XIVe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "William of Ockham",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/ockham/"
+        }
+      ]
+    },
+    {
+      "text": "Ockham a écrit « Pluralitas non est ponenda sine necessitate » dans son commentaire des Sentences.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Occam's Razor (W. M. Thorburn, Mind, 1918)",
+          "publisher": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Myth_of_Occam%27s_Razor"
+        },
+        {
+          "title": "Occam's razor",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+        }
+      ]
+    },
+    {
+      "text": "La formule « entia non sunt multiplicanda praeter necessitatem » vient du théologien irlandais John Punch, en 1639, et non d'Ockham.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Occam's razor",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+        },
+        {
+          "title": "John Punch (theologian)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Punch_(theologian)"
+        }
+      ]
+    },
+    {
+      "text": "Le principe de parcimonie est antérieur à Ockham ; il porte son nom parce qu'il l'employait abondamment.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "William of Ockham",
+          "publisher": "Internet Encyclopedia of Philosophy",
+          "url": "https://iep.utm.edu/ockham/"
+        },
+        {
+          "title": "Occam's razor",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+        }
+      ]
+    },
+    {
+      "text": "Pour Ockham, les articles de la foi ne peuvent pas être démontrés par la raison naturelle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "William of Ockham",
+          "publisher": "Catholic Encyclopedia (New Advent)",
+          "url": "https://www.newadvent.org/cathen/15636a.htm"
+        },
+        {
+          "title": "William of Ockham",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/William_of_Ockham"
+        }
+      ]
+    },
+    {
+      "text": "Richard Swinburne, professeur à Oxford, soutient dans Is There a God? (1996) que le théisme est l'hypothèse la plus simple.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Is There a God?",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Is_There_a_God%3F"
+        },
+        {
+          "title": "Professor Richard Swinburne FBA",
+          "publisher": "The British Academy",
+          "url": "https://www.thebritishacademy.ac.uk/fellows/profiles/richard-swinburne-FBA/"
+        }
+      ]
+    },
+    {
+      "text": "Stephen Jay Gould a défendu dans Rocks of Ages (1999) l'idée de magistères non chevauchants entre science et religion.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Non-overlapping magisteria",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Non-overlapping_magisteria"
+        }
+      ]
+    },
+    {
+      "text": "Le bureau médical de Lourdes (Bureau des constatations médicales) a été fondé en 1883 et accueille des médecins de toutes convictions.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Medical Bureau",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/en/medical-bureau/"
+        },
+        {
+          "title": "The miracles of Lourdes",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/en/the-miracles-of-lourdes/"
+        }
+      ]
+    },
+    {
+      "text": "Le sanctuaire de Lourdes recense plus de 7 000 guérisons déclarées depuis 1858, dont environ soixante-dix reconnues comme miracles par l'Église.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The miracles of Lourdes",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/en/the-miracles-of-lourdes/"
+        },
+        {
+          "title": "Lourdes announces 72nd miracle: Italian pilgrim cured of degenerative disease",
+          "publisher": "EWTN News",
+          "url": "https://www.ewtnnews.com/world/us/lourdes-announces-72nd-miracle-italian-pilgrim-cured-of-degenerative-disease"
+        }
+      ]
+    },
+    {
+      "text": "Le Comité médical international de Lourdes conclut au caractère inexpliqué d'une guérison dans l'état actuel des connaissances ; c'est l'évêque du diocèse de la personne guérie qui la déclare miraculeuse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The miracles of Lourdes",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/en/the-miracles-of-lourdes/"
+        },
+        {
+          "title": "Medical Bureau",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/en/medical-bureau/"
+        }
+      ]
+    },
+    {
+      "text": "Aucune guérison reconnue comme miraculeuse à Lourdes ne concerne la repousse d'un membre amputé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Guérisons de Lourdes",
+          "publisher": "Techno-Science.net",
+          "url": "https://www.techno-science.net/fr/definitions/guerisons-de-lourdes"
+        },
+        {
+          "title": "70 cases of unexplained cures have been recognised as miraculous by the Church",
+          "publisher": "Sanctuaire Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/en/miraculous-healings/"
+        }
+      ]
+    },
+    {
+      "text": "Karl Popper a formulé le critère de réfutabilité dans Logik der Forschung (1934).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Logic of Scientific Discovery",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery"
+        }
+      ]
+    },
+    {
+      "text": "Bertrand Russell a proposé l'image d'une théière en orbite entre la Terre et Mars dans un texte de 1952 (« Is There a God? »).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Russell's teapot",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Russell%27s_teapot"
+        }
+      ]
+    },
+    {
+      "text": "David Hume écrit dans la section « Des miracles » de l'Enquête sur l'entendement humain (1748) : « A wise man, therefore, proportions his belief to the evidence. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "An Enquiry concerning Human Understanding, Section 10: Of Miracles",
+          "publisher": "Hume Texts Online (davidhume.org)",
+          "url": "https://davidhume.org/texts/e/10"
+        }
+      ]
+    },
+    {
+      "text": "Carl Sagan a popularisé la formule « une affirmation extraordinaire exige des preuves extraordinaires » dans sa série Cosmos (1980).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Sagan standard",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sagan_standard"
+        }
+      ]
+    },
+    {
+      "text": "L'étude STEP (Benson et al., American Heart Journal, 2006) a suivi 1 802 patients de pontage coronarien : la prière d'intercession n'a pas réduit les complications, et les patients certains d'être l'objet de prières en ont eu un peu plus.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Praying for Others Does Not Prevent Surgical Complications",
+          "publisher": "American Family Physician (AAFP)",
+          "url": "https://www.aafp.org/afp/2006/0901/p824.html"
+        },
+        {
+          "title": "Study highlights difficulty of isolating effect of prayer on patients",
+          "publisher": "The Christian Science Monitor",
+          "url": "https://www.csmonitor.com/2006/0403/p13s02-lire.html"
+        }
+      ]
+    },
+    {
+      "text": "Une dilution homéopathique à 30 CH correspond à un facteur de 10 puissance 60, alors qu'une mole contient environ 6 × 10 puissance 23 molécules.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hahnemann and Avogadro",
+          "publisher": "DC's Improbable Science (David Colquhoun, UCL)",
+          "url": "https://www.dcscience.net/hahnemann"
+        }
+      ]
+    },
+    {
+      "text": "Aucune expérience reproductible n'a démontré une « mémoire de l'eau ».",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Water memory",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Water_memory"
+        },
+        {
+          "title": "Benveniste affair",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Benveniste_affair"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le NHMRC australien a examiné 176 études et n'a trouvé aucune affection pour laquelle l'homéopathie montre une efficacité fiable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "NHMRC Information Paper: Evidence on the effectiveness of homeopathy for treating health conditions",
+          "publisher": "National Health and Medical Research Council (via National Library of Australia)",
+          "url": "https://nla.gov.au/nla.obj-788185806/view"
+        },
+        {
+          "title": "Critique of the NHMRC homeopathy review",
+          "publisher": "Homeopathy (Thieme)",
+          "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1633302"
+        }
+      ]
+    },
+    {
+      "text": "En physique quantique, l'« observation » désigne une interaction avec un dispositif de mesure, non l'intention d'un observateur conscient.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Observer effect (physics)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Observer_effect_(physics)"
+        },
+        {
+          "title": "Quantum mechanics needs no consciousness (and the other way around)",
+          "publisher": "arXiv (Yu & Nikolić)",
+          "url": "https://ar5iv.labs.arxiv.org/html/1009.2404"
+        }
+      ]
+    },
+    {
+      "text": "Harold Camping, de Family Radio, avait annoncé l'enlèvement pour le 21 mai 2011 avec des affiches, puis parlé d'un jugement spirituel et reporté la fin du monde au 21 octobre 2011.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "2011 end times prediction",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2011_end_times_prediction"
+        },
+        {
+          "title": "Radio Host Reschedules Rapture Prediction To October",
+          "publisher": "CBS News / Associated Press",
+          "url": "https://www.cbsnews.com/sacramento/news/radio-host-reschedules-rapture-prediction-to-october/"
+        }
+      ]
+    },
+    {
+      "text": "Matthieu 24:36 (Segond) : « Pour ce qui est du jour et de l'heure, personne ne le sait, ni les anges des cieux, ni le Fils, mais le Père seul. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Matthieu 24:36 (LSG)",
+          "publisher": "Bible Study Tools",
+          "url": "https://www.biblestudytools.com/lsg/matthieu/24-36.html"
+        }
+      ]
+    },
+    {
+      "text": "Les Prophéties de Nostradamus ont été publiées à partir de 1555.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Les Prophéties",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Les_Proph%C3%A9ties"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "Pharmacologie et médecine clinique (homéopathie, placebo, interprétation de l'essai STEP), avec un passage de physique quantique sur la mesure",
+    "threshold": 6.6,
+    "passages": 10,
+    "approximations": [
+      {
+        "excerpt": "À Lourdes, depuis les apparitions de 1858, des milliers de malades ont déclaré une guérison, et des médecins, croyants ou non, examinent ces dossiers dans un bureau médical fondé en 1883.",
+        "note": "« Des milliers » est un ordre de grandeur volontairement vague. Il ne porte sur aucune dose, aucun risque ni aucun traitement, et l'argument ne dépend pas du nombre exact."
+      },
+      {
+        "excerpt": "Le sanctuaire recense plus de sept mille guérisons déclarées depuis 1858 ; l'Église en a reconnu environ soixante-dix comme miracles.",
+        "note": "Ce sont des comptages arrondis (le chiffre officiel des miracles reconnus évolue légèrement). Le raisonnement repose sur l'écart entre déclarations et reconnaissances, pas sur la valeur exacte. Le fact-check vérifiera les chiffres sourcés."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=p27jwkSkWlM",
+      "own": true
+    },
+    {
+      "title": "La charge de la preuve [Vite Fait]",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=j0YqGziNbUE",
+      "own": false
+    },
+    {
+      "title": "La Physique Quantique et le Charabia -Tronche en Live #12 (Julien Bobroff)",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=umoS5BN11Jo",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+    "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY"
+  },
+  "shorts": [],
+  "corrections": []
+}

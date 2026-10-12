@@ -5,6 +5,48 @@
   "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
   "items": [
     {
+      "id": "le-rasoir-d-ockham-la-methode-scientifique-et-le-0361",
+      "title": "Les miracles sont-ils réels ? La science, la foi et le rasoir d'Ockham",
+      "format": "video",
+      "publishedAt": "2026-10-12T11:30:09.485Z",
+      "durationSeconds": 664,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les miracles, les guérisons et les prophéties échappent à la méthode scientifique : on ne peut pas les tester, seulement les vivre.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "7MbqodhL2fM",
+        "url": "https://www.youtube.com/watch?v=7MbqodhL2fM",
+        "thumbnail": "https://i.ytimg.com/vi/7MbqodhL2fM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-rasoir-d-ockham-la-methode-scientifique-et-le-0361/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-rasoir-d-ockham-la-methode-scientifique-et-le-0361.json"
+      }
+    },
+    {
       "id": "l-energie-nucleaire-est-elle-vraiment-dangereuse-c718",
       "title": "Le nucléaire est-il vraiment dangereux ? Tchernobyl, Fukushima, déchets : ce qu'on sait",
       "format": "short",

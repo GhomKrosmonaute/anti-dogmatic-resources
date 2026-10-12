@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 74,
+  "total": 75,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732",
+      "title": "Les djinns peuvent-ils entrer dans le corps ? Possession et roqya selon le Coran et la Sunna",
+      "format": "video",
+      "publishedAt": "2026-10-03T20:15:09.061Z",
+      "durationSeconds": 654,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le Coran et la Sunna enseignent que les djinns peuvent entrer dans le corps humain et le posséder, et la roqya permet de les en chasser.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "FNNHc_mRp8I",
+        "url": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
+        "thumbnail": "https://i.ytimg.com/vi/FNNHc_mRp8I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-djinns-peuvent-ils-vraiment-entrer-dans-le-0732.json"
+      }
+    },
     {
       "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
       "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
