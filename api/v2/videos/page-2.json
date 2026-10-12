@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 78,
+  "total": 79,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "tout-arrive-pour-une-raison-3a38",
+      "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
+      "format": "video",
+      "publishedAt": "2026-10-04T04:30:11.892Z",
+      "durationSeconds": 696,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "EaKHThIwLtk",
+        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
+        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
+      }
+    },
     {
       "id": "des-milliers-de-temoins-fiables-peuvent-ils-tous-191f",
       "title": "Des milliers de témoins fiables peuvent-ils tous se tromper ? Hadiths, Fatima, résurrection",

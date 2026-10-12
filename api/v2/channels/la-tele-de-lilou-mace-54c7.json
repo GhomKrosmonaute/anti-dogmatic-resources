@@ -7,6 +7,58 @@
   "answers": [
     {
       "examined": {
+        "title": "Contact avec défunts_ Science, Védas et expériences vécues",
+        "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg"
+      },
+      "video": {
+        "id": "sentir-la-presence-d-un-proche-defunt-pendant-le-120d",
+        "title": "Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l'âme",
+        "format": "short",
+        "publishedAt": "2026-10-12T18:00:03.862Z",
+        "durationSeconds": 123,
+        "rubric": {
+          "id": "philosophie",
+          "name": "Philosophie moderne"
+        },
+        "claim": {
+          "statement": "Les personnes en deuil qui sentent une présence, un souffle ou voient apparaître un proche défunt ne sont pas victimes de leur imagination : ces contacts avec les morts sont réels, plus de la moitié des endeuillés les vivent, et ils montrent que l'âme survit à la mort, comme les traditions védiques l'ont toujours admis.",
+          "verdict": "trompeur",
+          "verdictLabel": "Trompeur"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "temoignage-inverifiable",
+            "name": "Le témoignage invérifiable"
+          },
+          {
+            "id": "caution-scientifique",
+            "name": "La caution scientifique détournée"
+          },
+          {
+            "id": "appel-a-l-anciennete",
+            "name": "L'appel à l'ancienneté"
+          }
+        ],
+        "answers": {
+          "title": "Contact avec défunts_ Science, Védas et expériences vécues",
+          "channel": "La Télé de Lilou Macé",
+          "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg"
+        },
+        "series": null,
+        "youtube": {
+          "id": "O1bBF6R6FwA",
+          "url": "https://www.youtube.com/watch?v=O1bBF6R6FwA",
+          "thumbnail": "https://i.ytimg.com/vi/O1bBF6R6FwA/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sentir-la-presence-d-un-proche-defunt-pendant-le-120d/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sentir-la-presence-d-un-proche-defunt-pendant-le-120d.json"
+        }
+      }
+    },
+    {
+      "examined": {
         "title": "L’âme est éternelle  même après la mort",
         "url": "https://www.youtube.com/watch?v=f1JtmPaQUX8"
       },

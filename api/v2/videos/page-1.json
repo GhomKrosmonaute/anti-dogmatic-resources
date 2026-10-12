@@ -1,12 +1,58 @@
 {
   "version": 2,
-  "total": 78,
+  "total": 79,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "sentir-la-presence-d-un-proche-defunt-pendant-le-120d",
+      "title": "Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l'âme",
+      "format": "short",
+      "publishedAt": "2026-10-12T18:00:03.862Z",
+      "durationSeconds": 123,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Les personnes en deuil qui sentent une présence, un souffle ou voient apparaître un proche défunt ne sont pas victimes de leur imagination : ces contacts avec les morts sont réels, plus de la moitié des endeuillés les vivent, et ils montrent que l'âme survit à la mort, comme les traditions védiques l'ont toujours admis.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": {
+        "title": "Contact avec défunts_ Science, Védas et expériences vécues",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg"
+      },
+      "series": null,
+      "youtube": {
+        "id": "O1bBF6R6FwA",
+        "url": "https://www.youtube.com/watch?v=O1bBF6R6FwA",
+        "thumbnail": "https://i.ytimg.com/vi/O1bBF6R6FwA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sentir-la-presence-d-un-proche-defunt-pendant-le-120d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sentir-la-presence-d-un-proche-defunt-pendant-le-120d.json"
+      }
+    },
     {
       "id": "ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263",
       "title": "Ghost in the Shell : pourra-t-on transférer son âme dans une machine ? Ce que dit la science",
@@ -1902,48 +1948,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quand-on-veut-on-peut-451d/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quand-on-veut-on-peut-451d.json"
-      }
-    },
-    {
-      "id": "tout-arrive-pour-une-raison-3a38",
-      "title": "Pourquoi tout arrive pour une raison ? Destin, karma, mektoub et synchronicité",
-      "format": "video",
-      "publishedAt": "2026-10-04T04:30:11.892Z",
-      "durationSeconds": 696,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
-        "statement": "Tout ce qui nous arrive, épreuves, rencontres et coïncidences, arrive pour une raison voulue par Dieu, le destin, le karma ou l'univers.",
-        "verdict": "inverifiable",
-        "verdictLabel": "Invérifiable"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "EaKHThIwLtk",
-        "url": "https://www.youtube.com/watch?v=EaKHThIwLtk",
-        "thumbnail": "https://i.ytimg.com/vi/EaKHThIwLtk/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/tout-arrive-pour-une-raison-3a38/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/tout-arrive-pour-une-raison-3a38.json"
       }
     }
   ]

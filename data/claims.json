@@ -1,9 +1,214 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-12T14:46:10.671Z",
+  "generatedAt": "2026-10-12T18:01:03.994Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "sentir-la-presence-d-un-proche-defunt-pendant-le-120d",
+      "title": "Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l'âme",
+      "format": "short",
+      "publishedAt": "2026-10-12T18:00:03.862Z",
+      "durationSeconds": 123,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Les personnes en deuil qui sentent une présence, un souffle ou voient apparaître un proche défunt ne sont pas victimes de leur imagination : ces contacts avec les morts sont réels, plus de la moitié des endeuillés les vivent, et ils montrent que l'âme survit à la mort, comme les traditions védiques l'ont toujours admis.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Ces expériences sont bien réelles en tant que vécus, fréquentes (entre 30 et 60 % des veufs selon les études) et le plus souvent sans rien de pathologique. Mais leur fréquence et leur intensité ne disent rien de leur origine : le cerveau prédictif et l'attachement les expliquent, et un sentiment de présence a même été provoqué en laboratoire chez des volontaires sains, sans aucun défunt."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": {
+        "title": "Contact avec défunts_ Science, Védas et expériences vécues",
+        "channel": "La Télé de Lilou Macé",
+        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+        "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg",
+        "passages": [
+          {
+            "text": "Stéphane Allix cite des études selon lesquelles c'est le cas de plus de la moitié d'entre elles."
+          },
+          {
+            "text": "Extrait de l'entretien avec Stéphane Allix et Sabrina Jecker, auteurs de La Force de l'âme."
+          }
+        ]
+      },
+      "series": null,
+      "youtube": {
+        "id": "O1bBF6R6FwA",
+        "url": "https://www.youtube.com/watch?v=O1bBF6R6FwA",
+        "thumbnail": "https://i.ytimg.com/vi/O1bBF6R6FwA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sentir-la-presence-d-un-proche-defunt-pendant-le-120d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sentir-la-presence-d-un-proche-defunt-pendant-le-120d.json"
+      },
+      "facts": [
+        {
+          "text": "Les personnes endeuillées rapportent couramment des perceptions du défunt : odeur, voix, silhouette ou sentiment de présence.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sensory and Quasi-Sensory Experiences of the Deceased in Bereavement: An Interdisciplinary and Integrative Review",
+              "publisher": "Schizophrenia Bulletin (PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065"
+            }
+          ]
+        },
+        {
+          "text": "Une synthèse de Castelnovo et collègues, publiée en 2015 dans le Journal of Affective Disorders, situe la prévalence des expériences hallucinatoires après un veuvage entre 30 et 60 % selon les études.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Post-bereavement hallucinatory experiences: A critical overview of population and clinical studies",
+              "publisher": "Università degli Studi di Milano (Journal of Affective Disorders, 2015)",
+              "url": "https://expertise.unimi.it/resource/item/403871"
+            },
+            {
+              "title": "Perceiving those who are gone: cultural research on post-bereavement perception or hallucination of the deceased",
+              "publisher": "Transcultural Psychiatry (White Rose Research Online)",
+              "url": "https://eprints.whiterose.ac.uk/166741/7/1363461520962887.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les estimations de fréquence de ces expériences varient selon les méthodes d'enquête.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sensory and Quasi-Sensory Experiences of the Deceased in Bereavement: An Interdisciplinary and Integrative Review",
+              "publisher": "Schizophrenia Bulletin (PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065"
+            }
+          ]
+        },
+        {
+          "text": "Selon les modèles du traitement prédictif, le cerveau construit la perception à partir de prédictions fondées sur l'expérience passée, ce qui peut expliquer qu'un bruit ordinaire soit perçu comme la présence d'un proche disparu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "When perception meets grief: how the brain reconstructs person networks in response to absence",
+              "publisher": "Social Cognitive and Affective Neuroscience (Oxford Academic)",
+              "url": "https://academic.oup.com/scan/article/20/1/nsaf117/8320656"
+            },
+            {
+              "title": "Grief's impact on sensorimotor expectations: an account of non-veridical bereavement experiences",
+              "publisher": "Phenomenology and the Cognitive Sciences (Springer)",
+              "url": "https://link.springer.com/article/10.1007/s11097-021-09759-6"
+            }
+          ]
+        },
+        {
+          "text": "En 2014, l'équipe d'Olaf Blanke (EPFL, Lausanne) a provoqué un sentiment de présence chez des volontaires sains à l'aide d'un robot touchant leur dos en décalage avec leurs propres mouvements (Current Biology, 2014).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neurological and robot-controlled induction of an apparition",
+              "publisher": "Archive ouverte UNIGE (Current Biology, 2014)",
+              "url": "https://archive-ouverte.unige.ch/unige:78147"
+            },
+            {
+              "title": "Ghost Illusion Created in the Lab",
+              "publisher": "Technology Networks",
+              "url": "https://www.technologynetworks.com/neuroscience/news/ghost-illusion-created-lab-282657"
+            }
+          ]
+        },
+        {
+          "text": "Les expériences sensorielles du défunt pendant le deuil sont généralement considérées comme non pathologiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sensory and Quasi-Sensory Experiences of the Deceased in Bereavement: An Interdisciplinary and Integrative Review",
+              "publisher": "Schizophrenia Bulletin (PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065"
+            },
+            {
+              "title": "Seeing, hearing or sensing someone who has died",
+              "publisher": "Cruse Bereavement Support",
+              "url": "https://www.cruse.org.uk/?p=695"
+            }
+          ]
+        },
+        {
+          "text": "La tradition védique, notamment les Upanishad, enseigne la survie d'un principe conscient (ātman) à la mort du corps.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Atman",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/topic/atman"
+            },
+            {
+              "title": "The Classical Upaniṣads: A Guide (review)",
+              "publisher": "Notre Dame Philosophical Reviews",
+              "url": "https://ndpr.nd.edu/reviews/the-classical-upanisads-a-guide/"
+            }
+          ]
+        },
+        {
+          "text": "Aucune étude contrôlée n'a démontré que ces expériences proviennent d'une conscience ayant survécu à la mort.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sensory and Quasi-Sensory Experiences of the Deceased in Bereavement: An Interdisciplinary and Integrative Review",
+              "publisher": "Schizophrenia Bulletin (PubMed Central)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065"
+            },
+            {
+              "title": "After-Death Communications (Overview)",
+              "publisher": "Society for Psychical Research – Psi Encyclopedia",
+              "url": "https://psi-encyclopedia.spr.ac.uk/articles/after-death-communications-overview/"
+            }
+          ]
+        },
+        {
+          "text": "Des psychologues spécialisés dans le deuil accompagnent les personnes que ces expériences inquiètent.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Seeing, hearing or sensing someone who has died",
+              "publisher": "Cruse Bereavement Support",
+              "url": "https://www.cruse.org.uk/?p=695"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "neurosciences et psychiatrie du deuil (hallucinations et sentiment de présence)",
+        "approximations": []
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "ghost-in-the-shell-plus-realiste-qu-on-le-pense-c263",
       "title": "Ghost in the Shell : pourra-t-on transférer son âme dans une machine ? Ce que dit la science",
@@ -32009,6 +32214,58 @@
       "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
       "subscribers": 327000,
       "answers": [
+        {
+          "examined": {
+            "title": "Contact avec défunts_ Science, Védas et expériences vécues",
+            "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg"
+          },
+          "video": {
+            "id": "sentir-la-presence-d-un-proche-defunt-pendant-le-120d",
+            "title": "Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l'âme",
+            "format": "short",
+            "publishedAt": "2026-10-12T18:00:03.862Z",
+            "durationSeconds": 123,
+            "rubric": {
+              "id": "philosophie",
+              "name": "Philosophie moderne"
+            },
+            "claim": {
+              "statement": "Les personnes en deuil qui sentent une présence, un souffle ou voient apparaître un proche défunt ne sont pas victimes de leur imagination : ces contacts avec les morts sont réels, plus de la moitié des endeuillés les vivent, et ils montrent que l'âme survit à la mort, comme les traditions védiques l'ont toujours admis.",
+              "verdict": "trompeur",
+              "verdictLabel": "Trompeur"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              },
+              {
+                "id": "caution-scientifique",
+                "name": "La caution scientifique détournée"
+              },
+              {
+                "id": "appel-a-l-anciennete",
+                "name": "L'appel à l'ancienneté"
+              }
+            ],
+            "answers": {
+              "title": "Contact avec défunts_ Science, Védas et expériences vécues",
+              "channel": "La Télé de Lilou Macé",
+              "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg"
+            },
+            "series": null,
+            "youtube": {
+              "id": "O1bBF6R6FwA",
+              "url": "https://www.youtube.com/watch?v=O1bBF6R6FwA",
+              "thumbnail": "https://i.ytimg.com/vi/O1bBF6R6FwA/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sentir-la-presence-d-un-proche-defunt-pendant-le-120d/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sentir-la-presence-d-un-proche-defunt-pendant-le-120d.json"
+            }
+          }
+        },
         {
           "examined": {
             "title": "L’âme est éternelle  même après la mort",
