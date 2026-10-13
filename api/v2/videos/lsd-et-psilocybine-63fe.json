@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "id": "lsd-et-psilocybine-63fe",
+  "title": "LSD et psilocybine : pourquoi sont-ils interdits alors qu'ils pourraient guérir ?",
+  "format": "video",
+  "publishedAt": "2026-10-13T13:30:24.790Z",
+  "durationSeconds": 747,
+  "rubric": null,
+  "claim": null,
+  "technique": null,
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "pkWmvjiYoAE",
+    "url": "https://www.youtube.com/watch?v=pkWmvjiYoAE",
+    "thumbnail": "https://i.ytimg.com/vi/pkWmvjiYoAE/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lsd-et-psilocybine-63fe/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/lsd-et-psilocybine-63fe.json"
+  },
+  "facts": [],
+  "review": {
+    "kind": "human",
+    "domain": "pharmacologie, neurosciences et médecine clinique (psychédéliques : mécanismes, essais cliniques, biostatistique)",
+    "approximations": [
+      {
+        "excerpt": "Trois jours après, il en avale volontairement un quart de milligramme, et rentre chez lui à vélo dans un monde qui ondule.",
+        "note": "La dose de 250 µg est un chiffre historique raconté, sans conséquence sur l'argument. La précision n'est pas un enjeu de santé ici."
+      },
+      {
+        "excerpt": "Deux mois plus tard, soixante-sept pour cent d'entre eux rangent cette séance parmi les cinq expériences les plus significatives de leur vie.",
+        "note": "Il s'agit de ce que l'étude a rapporté, vérifié par le fact-check. Ce n'est pas une explication scientifique."
+      },
+      {
+        "excerpt": "Dès 1902, William James notait que les états mystiques s'accompagnent d'un sentiment de connaissance, la certitude d'avoir saisi une vérité.",
+        "note": "Référence historique et philosophique, vérifiable par le fact-check. L'argument ne dépend pas d'une valeur chiffrée."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

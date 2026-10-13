@@ -6,7 +6,15 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Mon, 12 Oct 2026 20:31:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 13:31:24 GMT</lastBuildDate>
+<item>
+<title>LSD et psilocybine : pourquoi sont-ils interdits alors qu&apos;ils pourraient guérir ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lsd-et-psilocybine-63fe/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lsd-et-psilocybine-63fe/</guid>
+<pubDate>Tue, 13 Oct 2026 13:30:24 GMT</pubDate>
+<description>LSD et psilocybine : pourquoi sont-ils interdits alors qu&apos;ils pourraient guérir ?</description>
+
+</item>
 <item>
 <title>L&apos;IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c/</link>
@@ -520,17 +528,6 @@
 <description>Technique de manipulation : Le faux dilemme. On réduit les choix à deux options, dont l&apos;une est présentée comme absurde.</description>
 <category>Le faux dilemme</category>
 <category>Esprit critique</category>
-</item>
-<item>
-<title>Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/</guid>
-<pubDate>Sun, 04 Oct 2026 11:30:03 GMT</pubDate>
-<description>Faux : « L&apos;astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l&apos;ère du Verseau redistribue les cartes depuis 2020. ». Une rétrogradation n&apos;est qu&apos;un effet de perspective : aucune planète ne recule. Testée en double aveugle, notamment par Shawn Carlson dans Nature en 1985 avec un protocole approuvé par des astrologues, la lecture astrologique ne fait pas mieux que le hasard. L&apos;impression que ça marche vient de l&apos;effet Barnum, du biais de confirmation et de la prophétie autoréalisatrice.</description>
-<category>La relecture après coup</category>
-<category>Le tri des cas favorables</category>
-<category>Pseudo-sciences et charlatans</category>
-<category>Short</category>
 </item>
 </channel>
 </rss>

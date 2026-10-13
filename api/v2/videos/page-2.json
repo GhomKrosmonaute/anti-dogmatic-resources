@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 80,
+  "total": 81,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "transits-planetaires-et-retrogradations-191e",
+      "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
+      "format": "short",
+      "publishedAt": "2026-10-04T11:30:03.912Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
+      },
+      "series": null,
+      "youtube": {
+        "id": "ghN7-UhF828",
+        "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
+        "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
+      }
+    },
     {
       "id": "quand-on-veut-on-peut-451d",
       "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir dans la vie ?",

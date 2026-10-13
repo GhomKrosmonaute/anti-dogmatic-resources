@@ -1,12 +1,34 @@
 {
   "version": 2,
-  "total": 80,
+  "total": 81,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "lsd-et-psilocybine-63fe",
+      "title": "LSD et psilocybine : pourquoi sont-ils interdits alors qu'ils pourraient guérir ?",
+      "format": "video",
+      "publishedAt": "2026-10-13T13:30:24.790Z",
+      "durationSeconds": 747,
+      "rubric": null,
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pkWmvjiYoAE",
+        "url": "https://www.youtube.com/watch?v=pkWmvjiYoAE",
+        "thumbnail": "https://i.ytimg.com/vi/pkWmvjiYoAE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lsd-et-psilocybine-63fe/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/lsd-et-psilocybine-63fe.json"
+      }
+    },
     {
       "id": "les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c",
       "title": "L'IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études",
@@ -1902,48 +1924,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
-      }
-    },
-    {
-      "id": "transits-planetaires-et-retrogradations-191e",
-      "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
-      "format": "short",
-      "publishedAt": "2026-10-04T11:30:03.912Z",
-      "durationSeconds": 132,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "L'astrologie permet de lire le ciel et de prédire ce qui attend chaque signe : les positions et rétrogradations de Vénus, Mercure, Mars, Pluton et Uranus de 2026 à 2028 influencent nos vies, nos relations amoureuses et notre destin, et l'ère du Verseau redistribue les cartes depuis 2020.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": {
-        "title": "ASTROLOGIE 2026 à 2028 + HOROSCOPE ce qui attend chaque signe - Sandrine Verrycken",
-        "channel": "La Télé de Lilou Macé",
-        "url": "https://www.youtube.com/watch?v=gSt7_DGKqYY"
-      },
-      "series": null,
-      "youtube": {
-        "id": "ghN7-UhF828",
-        "url": "https://www.youtube.com/watch?v=ghN7-UhF828",
-        "thumbnail": "https://i.ytimg.com/vi/ghN7-UhF828/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/transits-planetaires-et-retrogradations-191e/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/transits-planetaires-et-retrogradations-191e.json"
       }
     }
   ],
