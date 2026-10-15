@@ -6,7 +6,18 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Thu, 15 Oct 2026 08:31:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 09:04:23 GMT</lastBuildDate>
+<item>
+<title>Cerveau de mouche numérisé : le basilic de Roko devient-il possible ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3/</guid>
+<pubDate>Thu, 15 Oct 2026 09:04:14 GMT</pubDate>
+<description>Invérifiable : « Puisqu&apos;on a cartographié le cerveau entier d&apos;une mouche, copier un esprit n&apos;est plus de la science-fiction : une superintelligence future pourrait recréer ta conscience en simulation et la faire souffrir pour l&apos;éternité, comme l&apos;annonce le basilic de Roko. ». Le connectome FlyWire est un schéma de câblage figé, utile pour analyser des circuits, pas un esprit ni une émulation. Même avec une copie parfaite, aucun test reconnu ne dirait si elle ressent quoi que ce soit : l&apos;enfer numérique reste une hypothèse philosophique, et la menace du basilic s&apos;effondre sur sa propre logique.</description>
+<category>La caution scientifique détournée</category>
+<category>L&apos;affirmation à l&apos;épreuve de tout</category>
+<category>Le faux dilemme</category>
+<category>Esprit critique</category>
+</item>
 <item>
 <title>Cafards cyborgs : peut-on vraiment télécommander le cerveau d&apos;un insecte ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-cafards-cyborgs-7922/</link>
@@ -518,17 +529,6 @@
 <category>L&apos;argument d&apos;autorité</category>
 <category>Pseudo-sciences et charlatans</category>
 <category>Short</category>
-</item>
-<item>
-<title>Nos défunts peuvent-ils vraiment nous parler à travers un médium ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/</guid>
-<pubDate>Sun, 04 Oct 2026 16:30:11 GMT</pubDate>
-<description>Non démontré : « Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium. ». Aucun médium n&apos;a jamais réussi un test contrôlé : dès qu&apos;on le prive des réactions de la personne, comme dans l&apos;étude O&apos;Keeffe et Wiseman de 2005, ses lectures ne sont pas mieux reconnues que celles destinées à d&apos;autres. Ce qui impressionne en séance s&apos;explique par la lecture à froid, l&apos;effet Barnum et la mémoire sélective, et le mouvement est né d&apos;une fraude avouée par Margaret Fox en 1888.</description>
-<category>Le témoignage invérifiable</category>
-<category>Le tri des cas favorables</category>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>Pseudo-sciences et charlatans</category>
 </item>
 </channel>
 </rss>

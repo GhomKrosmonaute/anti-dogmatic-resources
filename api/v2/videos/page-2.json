@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 82,
+  "total": 83,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "nos-proches-disparus-peuvent-ils-vraiment-nous-a65f",
+      "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T16:30:11.972Z",
+      "durationSeconds": 651,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Nos proches disparus peuvent nous parler et nous transmettre des messages à travers un médium.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "xe7folt44Ko",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko",
+        "thumbnail": "https://i.ytimg.com/vi/xe7folt44Ko/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
+      }
+    },
     {
       "id": "miracle-ou-mensonge-adab",
       "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",

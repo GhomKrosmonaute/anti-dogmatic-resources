@@ -5,6 +5,48 @@
   "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
   "items": [
     {
+      "id": "le-connectome-complet-d-une-mouche-du-vinaigre-0bf3",
+      "title": "Cerveau de mouche numérisé : le basilic de Roko devient-il possible ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T09:04:14.195Z",
+      "durationSeconds": 678,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": {
+        "statement": "Puisqu'on a cartographié le cerveau entier d'une mouche, copier un esprit n'est plus de la science-fiction : une superintelligence future pourrait recréer ta conscience en simulation et la faire souffrir pour l'éternité, comme l'annonce le basilic de Roko.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "cf11Uz3dyss",
+        "url": "https://www.youtube.com/watch?v=cf11Uz3dyss",
+        "thumbnail": "https://i.ytimg.com/vi/cf11Uz3dyss/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3.json"
+      }
+    },
+    {
       "id": "codes-secrets-de-la-torah-nombres-sacres-de-la-7a44",
       "title": "Codes secrets de la Torah, Grande Pyramide, 11:11 : les nombres cachent-ils un message ?",
       "format": "video",

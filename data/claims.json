@@ -1,9 +1,398 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-15T08:31:15.127Z",
+  "generatedAt": "2026-10-15T09:04:23.046Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "le-connectome-complet-d-une-mouche-du-vinaigre-0bf3",
+      "title": "Cerveau de mouche numérisé : le basilic de Roko devient-il possible ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T09:04:14.195Z",
+      "durationSeconds": 678,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": {
+        "statement": "Puisqu'on a cartographié le cerveau entier d'une mouche, copier un esprit n'est plus de la science-fiction : une superintelligence future pourrait recréer ta conscience en simulation et la faire souffrir pour l'éternité, comme l'annonce le basilic de Roko.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable",
+        "summary": "Le connectome FlyWire est un schéma de câblage figé, utile pour analyser des circuits, pas un esprit ni une émulation. Même avec une copie parfaite, aucun test reconnu ne dirait si elle ressent quoi que ce soit : l'enfer numérique reste une hypothèse philosophique, et la menace du basilic s'effondre sur sa propre logique."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "cf11Uz3dyss",
+        "url": "https://www.youtube.com/watch?v=cf11Uz3dyss",
+        "thumbnail": "https://i.ytimg.com/vi/cf11Uz3dyss/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3.json"
+      },
+      "facts": [
+        {
+          "text": "La drosophile, ou mouche du vinaigre, compte parmi les animaux les plus étudiés de la biologie et est attirée par le vin et les fruits.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "Le consortium FlyWire a publié dans Nature en 2024 le schéma de câblage complet du cerveau d'une mouche du vinaigre femelle adulte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "Ce connectome recense 139 255 neurones et environ 50 millions de synapses chimiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "Le cerveau a été découpé en milliers de tranches ultrafines, imagé au microscope électronique, puis reconstruit en 3D par des algorithmes dont les erreurs ont été corrigées par des relecteurs humains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "Le connectome FlyWire provient du cerveau d'une seule mouche, et constitue un schéma de câblage figé, pas une simulation ni un esprit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "Les NIH présentent cette carte comme le plus grand connectome produit à ce jour et comme une ressource pour comprendre les circuits, sans parler de simuler la conscience.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Researchers fully map neural connections of the fruit fly brain",
+              "publisher": "NIH",
+              "url": "https://www.nih.gov/news-events/news-releases/researchers-fully-map-neural-connections-fruit-fly-brain"
+            }
+          ]
+        },
+        {
+          "text": "Le connectome sert à analyser comment le cerveau de la mouche traite des informations sensorielles et prend des décisions.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "En 2026, Bates et ses collègues ont publié dans Nature un connectome étendu au cerveau et à la corde nerveuse de la mouche, utilisé pour interpréter des circuits de contrôle répartis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The complete central nervous system connectome of the fruit fly – connecting brain and body",
+              "publisher": "LIMES Institut Bonn",
+              "url": "https://limes-institut-bonn.de/en/public-relations/news/articles/news/auf-der-suche-nach-neuen-perspektiven-kopie-1/"
+            }
+          ]
+        },
+        {
+          "text": "La corde nerveuse ventrale de l'insecte est l'équivalent fonctionnel de la moelle épinière des vertébrés ; avec le cerveau, elle forme le système nerveux central.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The complete central nervous system connectome of the fruit fly – connecting brain and body",
+              "publisher": "LIMES Institut Bonn",
+              "url": "https://limes-institut-bonn.de/en/public-relations/news/articles/news/auf-der-suche-nach-neuen-perspektiven-kopie-1/"
+            }
+          ]
+        },
+        {
+          "text": "En 2008, Anders Sandberg et Nick Bostrom ont publié à Oxford une feuille de route pour l'émulation complète d'un cerveau.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ethics of Brain Emulations",
+              "publisher": "Taylor & Francis (Risks of Artificial Intelligence)",
+              "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/b19187-13&type=chapterpdf"
+            }
+          ]
+        },
+        {
+          "text": "LessWrong est un forum communautaire consacré à la rationalité et aux risques de l'IA.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Roko's basilisk",
+              "publisher": "LessWrong",
+              "url": "https://www.lesswrong.com/w/rokos-basilisk?lens=main"
+            }
+          ]
+        },
+        {
+          "text": "En juillet 2010, un utilisateur nommé Roko a publié sur LessWrong un raisonnement sur le chantage acausal par une IA future qui punirait en simulation ceux qui n'auraient pas aidé à sa création.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Roko's basilisk",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roko%27s_basilisk"
+            },
+            {
+              "title": "Roko's basilisk",
+              "publisher": "LessWrong",
+              "url": "https://www.lesswrong.com/w/rokos-basilisk?lens=main"
+            }
+          ]
+        },
+        {
+          "text": "Eliezer Yudkowsky a supprimé le message et interdit le sujet ; il jugeait le scénario peu plausible mais voulait éviter de diffuser un risque informationnel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Roko's basilisk",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roko%27s_basilisk"
+            },
+            {
+              "title": "Roko's basilisk",
+              "publisher": "LessWrong",
+              "url": "https://www.lesswrong.com/w/rokos-basilisk?lens=main"
+            }
+          ]
+        },
+        {
+          "text": "L'interdiction du sujet a amplifié la notoriété du basilic de Roko.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Roko's basilisk",
+              "publisher": "LessWrong",
+              "url": "https://www.lesswrong.com/w/rokos-basilisk?lens=main"
+            }
+          ]
+        },
+        {
+          "text": "Dans les légendes, le basilic est une créature dont le regard tue.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Roko's basilisk",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roko%27s_basilisk"
+            }
+          ]
+        },
+        {
+          "text": "En 2024, des modèles simplifiés du cerveau de la mouche tirés du connectome ont prédit les circuits déclenchant l'extension de la trompe face au sucre, prédictions ensuite vérifiées sur des mouches vivantes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Drosophila computational brain model reveals sensorimotor processing",
+              "publisher": "Nature / PMC",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11446845/"
+            }
+          ]
+        },
+        {
+          "text": "Le rapport 2025 sur l'état de l'émulation cérébrale (Zanichelli, Schons, Freeman, Shiu, Arkhipov) relève que les connectomes manquent souvent d'annotation moléculaire et que les neuromodulateurs sont difficiles à suivre à grande échelle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "State of Brain Emulation Report 2025",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/pdf/2510.15745"
+            }
+          ]
+        },
+        {
+          "text": "Les neuromodulateurs comme la dopamine ou la sérotonine modifient le fonctionnement d'un même circuit selon l'état interne de l'animal (faim, peur, sommeil).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "State of Brain Emulation Report 2025",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/pdf/2510.15745"
+            }
+          ]
+        },
+        {
+          "text": "Le système nerveux du ver Caenorhabditis elegans, qui compte 302 neurones, a été entièrement décrit en 1986 par John White et ses collègues.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gap junction innexin asymmetry in C. elegans… (cite White et al., 1986)",
+              "publisher": "Micropublication Biology",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13542893/"
+            }
+          ]
+        },
+        {
+          "text": "Aucun double numérique de C. elegans n'est à ce jour reconnu comme reproduisant fidèlement l'ensemble de ses comportements.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Frequently Asked Questions",
+              "publisher": "OpenWorm",
+              "url": "https://docs.openworm.org/faq/"
+            }
+          ]
+        },
+        {
+          "text": "Le cerveau de la mouche compte plus de 400 fois plus de neurones que le système nerveux de C. elegans (139 255 contre 302).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Neuronal wiring diagram of an adult brain",
+              "publisher": "Nature / PubMed",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39358518/"
+            }
+          ]
+        },
+        {
+          "text": "Il n'existe aujourd'hui aucun test reconnu capable de détecter la présence d'une expérience vécue dans un système.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ethics of Brain Emulations",
+              "publisher": "Taylor & Francis (Risks of Artificial Intelligence)",
+              "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/b19187-13&type=chapterpdf"
+            }
+          ]
+        },
+        {
+          "text": "Anders Sandberg a écrit en 2019 un chapitre sur l'éthique des émulations cérébrales, qui traite la souffrance d'émulations conscientes comme une hypothèse conditionnelle à des avancées qui n'existent pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ethics of Brain Emulations",
+              "publisher": "Taylor & Francis (Risks of Artificial Intelligence)",
+              "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/b19187-13&type=chapterpdf"
+            }
+          ]
+        },
+        {
+          "text": "L'objection des dieux multiples est une objection classique au pari de Pascal.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Pascal's Wager",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/pascal-wager/"
+            }
+          ]
+        },
+        {
+          "text": "Tout calcul consomme de l'énergie et aucune machine ne fonctionne indéfiniment.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Irreversibility and Heat Generation in the Computing Process",
+              "publisher": "IBM Journal of Research and Development (Landauer, 1961)",
+              "url": "https://moodle.epfl.ch/pluginfile.php/3430528/mod_resource/content/3/Irreversibility_and_Heat_Generation_in_the_Computing_Process.pdf"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "confidence",
+        "domain": "neuroscience (connectomique, modélisation et émulation cérébrale, neuromodulation, recherche sur la conscience)",
+        "threshold": 6.6,
+        "passages": 11,
+        "approximations": [
+          {
+            "excerpt": "Les chiffres donnent le tournis : cent trente-neuf mille deux cent cinquante-cinq neurones, reliés par environ cinquante millions de synapses chimiques, ces points de contact où une cellule nerveuse en informe une autre.",
+            "note": "« Environ cinquante millions » est un ordre de grandeur arrondi. L'argument ne dépend pas de la valeur exacte et le chiffre ne concerne pas la santé. Le nombre de neurones est vérifié par le fact-check."
+          },
+          {
+            "excerpt": "Et c'est sur une mouche plus de quatre cents fois mieux pourvue qu'on voudrait bâtir des damnés en silicium.",
+            "note": "Le rapport d'environ 139 000 à 302 neurones, soit près de 460, est un ordre de grandeur arrondi. L'argument ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "Aucune machine ne calcule sans consommer d'énergie, et aucune ne fonctionne indéfiniment.",
+            "note": "Affirmation qualitative sur le calcul physique et l'énergie, sans chiffre. Elle est reçue comme un truisme et ne relève pas d'un domaine pointu ici, car l'argument n'en dépend pas finement."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Consciences numériques : la philosophie de l'esprit selon Greg Egan | PopPhi #3",
+          "channel": "Monsieur Phi",
+          "url": "https://www.youtube.com/watch?v=tPgmr-6A10M",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "L'enfer dans la Bible : que disent vraiment le Shéol et la Géhenne ?",
+        "url": "https://www.youtube.com/watch?v=Zh3i--DO7tc"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "les-cafards-cyborgs-7922",
       "title": "Cafards cyborgs : peut-on vraiment télécommander le cerveau d'un insecte ?",
