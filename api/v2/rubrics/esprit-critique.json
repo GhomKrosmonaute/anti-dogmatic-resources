@@ -5,6 +5,34 @@
   "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
   "items": [
     {
+      "id": "si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e",
+      "title": "Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T10:15:16.248Z",
+      "durationSeconds": 667,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "placebo",
+        "name": "Le placebo pris pour un remède"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "VHlIdYYHDjE",
+        "url": "https://www.youtube.com/watch?v=VHlIdYYHDjE",
+        "thumbnail": "https://i.ytimg.com/vi/VHlIdYYHDjE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e.json"
+      }
+    },
+    {
       "id": "le-connectome-complet-d-une-mouche-du-vinaigre-0bf3",
       "title": "Cerveau de mouche numérisé : le basilic de Roko devient-il possible ?",
       "format": "video",

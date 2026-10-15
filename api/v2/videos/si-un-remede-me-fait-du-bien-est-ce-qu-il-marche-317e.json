@@ -1,0 +1,294 @@
+{
+  "version": 2,
+  "id": "si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e",
+  "title": "Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?",
+  "format": "video",
+  "publishedAt": "2026-10-15T10:15:16.248Z",
+  "durationSeconds": 667,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "placebo",
+    "name": "Le placebo pris pour un remède"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "VHlIdYYHDjE",
+    "url": "https://www.youtube.com/watch?v=VHlIdYYHDjE",
+    "thumbnail": "https://i.ytimg.com/vi/VHlIdYYHDjE/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e.json"
+  },
+  "facts": [
+    {
+      "text": "Le cuivre est un oligo-élément nécessaire au fonctionnement de plusieurs enzymes de l'organisme.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Copper – Fact Sheet for Consumers",
+          "publisher": "NIH Office of Dietary Supplements",
+          "url": "https://ods.od.nih.gov/factsheets/Copper-Consumer/"
+        },
+        {
+          "title": "Copper, cuproptosis, and cancer: biology concepts of a novel cell death",
+          "publisher": "Apoptosis (Springer), Eshraghi et al., 2026",
+          "url": "https://link.springer.com/article/10.1007/s10495-026-02432-w"
+        }
+      ]
+    },
+    {
+      "text": "Un bracelet en cuivre peut laisser une trace verte sur la peau.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A Baffling presentation of a greenish macule on the chest",
+          "publisher": "Indian Journal of Dermatology, 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4533550"
+        }
+      ]
+    },
+    {
+      "text": "Les bracelets en cuivre sont vendus depuis des décennies comme remède contre les douleurs articulaires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Copper bracelets and magnetic wrist straps for rheumatoid arthritis – analgesic and anti-inflammatory effects: a randomised double-blind placebo controlled crossover trial",
+          "publisher": "PLoS ONE",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071529"
+        }
+      ]
+    },
+    {
+      "text": "En 1955, l'anesthésiste américain Henry Beecher publie « The Powerful Placebo » dans le Journal of the American Medical Association et estime, à partir d'une quinzaine d'études, qu'environ un tiers des patients sont soulagés de façon satisfaisante par un placebo.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The powerful placebo effect: fact or fiction?",
+          "publisher": "Journal of Clinical Epidemiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9449934/"
+        }
+      ]
+    },
+    {
+      "text": "Beaucoup de douleurs articulaires évoluent par poussées qui flambent puis retombent spontanément.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The placebo effect for gastroenterology: tool or torment",
+          "publisher": "Clinical Gastroenterology and Hepatology / PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17081807"
+        }
+      ]
+    },
+    {
+      "text": "Bland et Altman (BMJ, 1994) : quand on sélectionne des personnes sur une valeur extrême, la mesure suivante se rapproche de la moyenne sans aucun traitement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Some examples of regression towards the mean",
+          "publisher": "BMJ",
+          "url": "https://www.bmj.com/content/309/6957/780"
+        }
+      ]
+    },
+    {
+      "text": "Une revue publiée en 2000 dans The American Journal of Gastroenterology rappelle que des patients recrutés en pleine poussée tendent à aller mieux au cours d'un essai, et que cette amélioration est souvent confondue avec un effet placebo.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The placebo effect for gastroenterology: tool or torment",
+          "publisher": "Clinical Gastroenterology and Hepatology / PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17081807"
+        }
+      ]
+    },
+    {
+      "text": "Kienle et Kiene (Journal of Clinical Epidemiology, 1997) réanalysent l'article de Beecher, n'y trouvent aucune preuve d'effet placebo et attribuent les améliorations à l'évolution spontanée, aux fluctuations des symptômes, à la régression vers la moyenne, à d'autres traitements et à des biais.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The powerful placebo effect: fact or fiction?",
+          "publisher": "Journal of Clinical Epidemiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9449934/"
+        }
+      ]
+    },
+    {
+      "text": "Les études compilées par Beecher ne comportaient pas de groupe de patients sans traitement permettant de distinguer l'effet placebo de l'évolution naturelle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The powerful placebo effect: fact or fiction?",
+          "publisher": "Journal of Clinical Epidemiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9449934/"
+        }
+      ]
+    },
+    {
+      "text": "La revue Cochrane de Hróbjartsson et Gøtzsche, mise à jour en 2010, compare placebo et absence de traitement dans plus de deux cents essais randomisés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Placebo interventions for all clinical conditions",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions"
+        }
+      ]
+    },
+    {
+      "text": "Conclusion de cette revue : pas d'effet cliniquement important du placebo en général ; tout au plus un effet faible à modéré sur des critères rapportés par les patients, comme la douleur ou la nausée, difficile à distinguer d'un biais de réponse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Placebo interventions for all clinical conditions",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions"
+        }
+      ]
+    },
+    {
+      "text": "Un essai randomisé en double aveugle publié en 2013 dans PLoS One par une équipe britannique (Richmond et al.) n'a trouvé aucun effet thérapeutique notable, au-delà du placebo, des bracelets en cuivre et des bracelets magnétiques chez des patients atteints de polyarthrite rhumatoïde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Copper bracelets and magnetic wrist straps for rheumatoid arthritis – analgesic and anti-inflammatory effects: a randomised double-blind placebo controlled crossover trial",
+          "publisher": "PLoS ONE",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071529"
+        }
+      ]
+    },
+    {
+      "text": "L'acupuncture traditionnelle affirme que des aiguilles placées en des points précis rééquilibrent la circulation du qi le long des méridiens.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Acupuncture",
+          "publisher": "Merck Manual (consumer version)",
+          "url": "https://www.merckmanuals.com/home/special-subjects/complementary-and-alternative-medicine-cam/acupuncture"
+        },
+        {
+          "title": "The origin of meridians",
+          "publisher": "Chinese Medicine, Li, Tung & Lo, 2014",
+          "url": "https://hub.hku.hk/handle/10722/199603"
+        }
+      ]
+    },
+    {
+      "text": "Essai GERAC sur la lombalgie chronique (Haake et al., Archives of Internal Medicine, 2007) : plus de mille patients répartis entre vraie acupuncture, fausse acupuncture superficielle hors des points et traitement habituel ; à six mois, vraie et fausse font presque jeu égal, chacune avec un peu moins d'un patient sur deux répondant, et toutes deux devancent la prise en charge classique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "German Acupuncture Trials (GERAC) for chronic low back pain",
+          "publisher": "PEDro (résumé Arch Intern Med 2007)",
+          "url": "https://search.pedro.org.au/search-results/record-detail/19203"
+        }
+      ]
+    },
+    {
+      "text": "Étude STEP (Benson et al., American Heart Journal, 2006), dirigée par le cardiologue Herbert Benson : plus de mille huit cents patients opérés d'un pontage coronarien ; la prière d'intercession de communautés chrétiennes n'a pas réduit les complications, et les patients informés avec certitude qu'on priait pour eux en ont connu un peu plus.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer - STEP",
+          "publisher": "American College of Cardiology",
+          "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2010/02/23/19/21/step"
+        }
+      ]
+    },
+    {
+      "text": "Wechsler et al. (New England Journal of Medicine, 2011), équipe de Boston : chez des asthmatiques, l'inhalateur placebo produit une amélioration ressentie proche de celle du bronchodilatateur, mais seul le médicament actif améliore nettement le souffle mesuré au spiromètre ; inhalateur placebo et fausse acupuncture ne font pas mieux que l'absence d'intervention.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Active albuterol or placebo, sham acupuncture, or no intervention in asthma",
+          "publisher": "New England Journal of Medicine (Harvard DASH)",
+          "url": "https://dash.harvard.edu/entities/publication/73120379-2e3d-6bd4-e053-0100007fdf3b"
+        }
+      ]
+    },
+    {
+      "text": "Un essai en double aveugle est un essai où ni les patients ni les soignants ne savent qui reçoit le traitement et qui reçoit le placebo.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "double-blind study",
+          "publisher": "NCI Dictionary of Cancer Terms",
+          "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/double-blind-study/"
+        },
+        {
+          "title": "Blinding in clinical trials (StatPearls)",
+          "publisher": "NCBI Bookshelf",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK546641/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "épidémiologie et biostatistique (méthodologie des essais cliniques, effet placebo) et pharmacologie/médecine clinique",
+    "threshold": 6.6,
+    "passages": 12,
+    "approximations": [
+      {
+        "excerpt": "il estime qu'environ un tiers des patients sont soulagés de façon satisfaisante par une substance inerte.",
+        "note": "Le chiffre d'« environ un tiers » est celui, arrondi, de Beecher et il est présenté comme un résultat discuté ; l'argument (qu'il est erroné) ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "En compilant une quinzaine d'études, il estime",
+        "note": "Le nombre d'études est un ordre de grandeur sans incidence sur l'argument."
+      },
+      {
+        "excerpt": "avec plus de deux cents essais randomisés.",
+        "note": "Nombre approximatif d'essais ; la conclusion de la revue ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "chacune soulageant un peu moins d'un patient sur deux",
+        "note": "Proportion arrondie des répondeurs ; l'argument porte sur la quasi-équivalence des deux bras, non sur la valeur exacte."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+      "own": true
+    },
+    {
+      "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=-tKV9kTwxOY",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "Comment l'homéopathie agit vraiment : similitude, dilutions CH et mémoire de l'eau",
+    "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs"
+  },
+  "shorts": [],
+  "corrections": []
+}

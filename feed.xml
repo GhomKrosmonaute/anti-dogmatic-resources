@@ -6,7 +6,16 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Thu, 15 Oct 2026 09:04:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 10:16:16 GMT</lastBuildDate>
+<item>
+<title>Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e/</guid>
+<pubDate>Thu, 15 Oct 2026 10:15:16 GMT</pubDate>
+<description>Technique de manipulation : Le placebo pris pour un remède. On se sent mieux après le traitement, donc le traitement marche.</description>
+<category>Le placebo pris pour un remède</category>
+<category>Esprit critique</category>
+</item>
 <item>
 <title>Cerveau de mouche numérisé : le basilic de Roko devient-il possible ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-connectome-complet-d-une-mouche-du-vinaigre-0bf3/</link>
@@ -518,17 +527,6 @@
 <category>L&apos;affirmation à l&apos;épreuve de tout</category>
 <category>L&apos;argument d&apos;autorité</category>
 <category>Religions</category>
-</item>
-<item>
-<title>Non, Coffeebird_official, cette Tesla ne voit pas de fantômes</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8/</guid>
-<pubDate>Sun, 04 Oct 2026 16:30:16 GMT</pubDate>
-<description>Faux : « Une Tesla détecte des fantômes : sa caméra affiche des personnes dans un cimetière où il n&apos;y a personne. ». L&apos;écran de la Tesla ne montre pas des morts : il montre les erreurs de classement de son logiciel de vision. Un réseau de neurones entraîné à repérer des piétons range dans cette case des formes verticales comme des stèles, des statues ou des croix. Ces faux positifs sont connus et documentés, et il n&apos;y a pas besoin de l&apos;au-delà pour les expliquer.</description>
-<category>La caution scientifique détournée</category>
-<category>L&apos;argument d&apos;autorité</category>
-<category>Pseudo-sciences et charlatans</category>
-<category>Short</category>
 </item>
 </channel>
 </rss>
