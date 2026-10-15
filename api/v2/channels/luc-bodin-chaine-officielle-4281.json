@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "id": "luc-bodin-chaine-officielle-4281",
+  "name": "Luc Bodin - Chaîne Officielle",
+  "url": "https://www.youtube.com/channel/UC3-xNShNjWGs0InTjVHz48A",
+  "subscribers": 283000,
+  "answers": [
+    {
+      "examined": {
+        "title": "«100 techniques pour votre santé et votre bien-être» un coffret de Luc Bodin aux édit. Guy Trédaniel",
+        "url": "https://www.youtube.com/watch?v=-rfyRznzgqg"
+      },
+      "video": {
+        "id": "les-techniques-de-luc-bodin-pour-elever-son-d6f2",
+        "title": "Luc Bodin : élever ta vibration pour ta santé ? C'est trompeur",
+        "format": "short",
+        "publishedAt": "2026-10-15T11:25:17.889Z",
+        "durationSeconds": 134,
+        "rubric": {
+          "id": "pseudo-sciences",
+          "name": "Pseudo-sciences et charlatans"
+        },
+        "claim": {
+          "statement": "Des techniques simples, rapides et accessibles à tous, comme la déprogrammation, la connexion à ses guides, le mouvement primordial ou l'élévation du niveau vibratoire, permettent de soulager de nombreux maux physiques, psychiques et émotionnels, de prévenir la maladie, de renforcer les défenses immunitaires, de clarifier sa mission de vie et d'approfondir son développement spirituel.",
+          "verdict": "trompeur",
+          "verdictLabel": "Trompeur"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "placebo",
+            "name": "Le placebo pris pour un remède"
+          },
+          {
+            "id": "caution-scientifique",
+            "name": "La caution scientifique détournée"
+          },
+          {
+            "id": "infalsifiabilite",
+            "name": "L'affirmation à l'épreuve de tout"
+          }
+        ],
+        "answers": {
+          "title": "«100 techniques pour votre santé et votre bien-être» un coffret de Luc Bodin aux édit. Guy Trédaniel",
+          "channel": "Luc Bodin - Chaîne Officielle",
+          "url": "https://www.youtube.com/watch?v=-rfyRznzgqg"
+        },
+        "series": null,
+        "youtube": {
+          "id": "VuEYAr71RK0",
+          "url": "https://www.youtube.com/watch?v=VuEYAr71RK0",
+          "thumbnail": "https://i.ytimg.com/vi/VuEYAr71RK0/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-techniques-de-luc-bodin-pour-elever-son-d6f2/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-techniques-de-luc-bodin-pour-elever-son-d6f2.json"
+        }
+      }
+    }
+  ],
+  "links": {
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/luc-bodin-chaine-officielle-4281.json"
+  }
+}

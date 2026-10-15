@@ -1,9 +1,173 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-15T11:01:13.595Z",
+  "generatedAt": "2026-10-15T11:26:18.038Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-techniques-de-luc-bodin-pour-elever-son-d6f2",
+      "title": "Luc Bodin : élever ta vibration pour ta santé ? C'est trompeur",
+      "format": "short",
+      "publishedAt": "2026-10-15T11:25:17.889Z",
+      "durationSeconds": 134,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Des techniques simples, rapides et accessibles à tous, comme la déprogrammation, la connexion à ses guides, le mouvement primordial ou l'élévation du niveau vibratoire, permettent de soulager de nombreux maux physiques, psychiques et émotionnels, de prévenir la maladie, de renforcer les défenses immunitaires, de clarifier sa mission de vie et d'approfondir son développement spirituel.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Certains gestes de détente, comme la respiration lente, s'accompagnent de marqueurs physiologiques de relaxation, et le placebo soulage modestement la douleur ressentie. Mais le niveau vibratoire n'a ni unité ni instrument, les soins énergétiques testés comme le toucher thérapeutique n'ont aucune preuve de qualité, et rien ne montre que ces techniques préviennent ou guérissent une maladie. Un apaisement réel sert ainsi de vitrine à des promesses de santé non démontrées."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": {
+        "title": "«100 techniques pour votre santé et votre bien-être» un coffret de Luc Bodin aux édit. Guy Trédaniel",
+        "channel": "Luc Bodin - Chaîne Officielle",
+        "channelId": "UC3-xNShNjWGs0InTjVHz48A",
+        "url": "https://www.youtube.com/watch?v=-rfyRznzgqg",
+        "passages": [
+          {
+            "text": "Chaque fiche décrit en détail une pratique particulière de telle manière qu’elle soit immédiatement praticable."
+          },
+          {
+            "text": "«100 techniques pour votre santé et votre bien-être» un coffret de Luc Bodin aux édit. Guy Trédaniel"
+          }
+        ]
+      },
+      "series": null,
+      "youtube": {
+        "id": "VuEYAr71RK0",
+        "url": "https://www.youtube.com/watch?v=VuEYAr71RK0",
+        "thumbnail": "https://i.ytimg.com/vi/VuEYAr71RK0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-techniques-de-luc-bodin-pour-elever-son-d6f2/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-techniques-de-luc-bodin-pour-elever-son-d6f2.json"
+      },
+      "facts": [
+        {
+          "text": "La déprogrammation, la connexion à ses guides, le mouvement primordial et l'élévation du niveau vibratoire font partie des techniques promues par l'approche de Luc Bodin, présentées comme un moyen de rééquilibrer une énergie déréglée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Luc Bodin : livres de l'auteur",
+              "publisher": "La Procure",
+              "url": "https://www.laprocure.com/author/0-183894/bodin-luc"
+            }
+          ]
+        },
+        {
+          "text": "En 2018, la revue systématique d'Andrea Zaccaro et de ses collègues, publiée dans Frontiers in Human Neuroscience, retient quinze études et associe la respiration lente, sous dix cycles par minute, à une hausse de la variabilité cardiaque et de l'activité alpha à l'EEG, signes de relaxation, tout en relevant des méthodes hétérogènes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+              "publisher": "Frontiers in Human Neuroscience (PubMed)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30245619/"
+            }
+          ]
+        },
+        {
+          "text": "En physique, une vibration se caractérise par une fréquence, mesurée en hertz.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The International System of Units (SI Brochure), 9th edition",
+              "publisher": "Bureau International des Poids et Mesures (BIPM)",
+              "url": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-EN.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le « niveau vibratoire » d'une personne ne correspond à aucune grandeur physique dotée d'une unité ou d'un instrument de mesure reconnu, ni en physique classique ni en physique quantique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Un voyage vers l'avenir : Luc Bodin en conférence à Bastia",
+              "publisher": "Corse Net Infos",
+              "url": "https://www.corsenetinfos.corsica/Un-voyage-vers-l-avenir-Luc-Bodin-en-conference-a-Bastia_a79984.html"
+            }
+          ]
+        },
+        {
+          "text": "En 2021, Bernie Garrett et Marliss Riou analysent vingt et une études sur le toucher thérapeutique et concluent qu'aucune preuve de qualité n'existe pour les bénéfices revendiqués.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A rapid evidence assessment of recent therapeutic touch research",
+              "publisher": "Nursing Open, 8(5):2318–2330",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363410/"
+            }
+          ]
+        },
+        {
+          "text": "En 2001, Asbjørn Hróbjartsson et Peter Gøtzsche trouvent au placebo un effet modeste sur la douleur et les critères subjectifs, et aucun effet significatif sur les critères binaires ou objectifs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is the Placebo Powerless? An Analysis of Clinical Trials Comparing Placebo with No Treatment",
+              "publisher": "New England Journal of Medicine 344(21):1594–1602 (résumé hébergé sur chiro.org)",
+              "url": "https://chiro.org/research/ABSTRACTS/Is_the_Placebo_Powerless.shtml"
+            }
+          ]
+        },
+        {
+          "text": "Aucune étude ne montre que l'élévation du niveau vibratoire guérisse une infection ou une tumeur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A rapid evidence assessment of recent therapeutic touch research",
+              "publisher": "Nursing Open, 8(5):2318–2330",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363410/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "Pharmacologie et médecine clinique (essais cliniques, effet placebo, biostatistiques) et physiologie/neurosciences de la respiration lente",
+        "approximations": [
+          {
+            "excerpt": "respirer lentement, sous dix cycles par minute",
+            "note": "Seuil approximatif de la respiration lente (environ 6 à 10 cycles par minute selon les études) ; il n'est pas présenté comme une dose thérapeutique et l'argument ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "En 2018, la revue d'Andrea Zaccaro réunit quinze études aux méthodes disparates",
+            "note": "Le nombre d'études incluses est un décompte vérifiable par la vérification des faits ; sa précision n'affecte pas l'argument."
+          },
+          {
+            "excerpt": "En 2021, Garrett et Riou examinent vingt et une études sur un soin énergétique, le toucher thérapeutique",
+            "note": "Nombre d'études inclus dans une revue : donnée vérifiable par la vérification des faits, sans incidence sur le raisonnement."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "la-meritocratie-recompense-t-elle-vraiment-ceux-1e36",
       "title": "La méritocratie récompense-t-elle vraiment ceux qui travaillent dur ?",
@@ -34414,6 +34578,69 @@
       ],
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/coffeebird-official-6800.json"
+      }
+    },
+    {
+      "id": "luc-bodin-chaine-officielle-4281",
+      "name": "Luc Bodin - Chaîne Officielle",
+      "url": "https://www.youtube.com/channel/UC3-xNShNjWGs0InTjVHz48A",
+      "subscribers": 283000,
+      "answers": [
+        {
+          "examined": {
+            "title": "«100 techniques pour votre santé et votre bien-être» un coffret de Luc Bodin aux édit. Guy Trédaniel",
+            "url": "https://www.youtube.com/watch?v=-rfyRznzgqg"
+          },
+          "video": {
+            "id": "les-techniques-de-luc-bodin-pour-elever-son-d6f2",
+            "title": "Luc Bodin : élever ta vibration pour ta santé ? C'est trompeur",
+            "format": "short",
+            "publishedAt": "2026-10-15T11:25:17.889Z",
+            "durationSeconds": 134,
+            "rubric": {
+              "id": "pseudo-sciences",
+              "name": "Pseudo-sciences et charlatans"
+            },
+            "claim": {
+              "statement": "Des techniques simples, rapides et accessibles à tous, comme la déprogrammation, la connexion à ses guides, le mouvement primordial ou l'élévation du niveau vibratoire, permettent de soulager de nombreux maux physiques, psychiques et émotionnels, de prévenir la maladie, de renforcer les défenses immunitaires, de clarifier sa mission de vie et d'approfondir son développement spirituel.",
+              "verdict": "trompeur",
+              "verdictLabel": "Trompeur"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "placebo",
+                "name": "Le placebo pris pour un remède"
+              },
+              {
+                "id": "caution-scientifique",
+                "name": "La caution scientifique détournée"
+              },
+              {
+                "id": "infalsifiabilite",
+                "name": "L'affirmation à l'épreuve de tout"
+              }
+            ],
+            "answers": {
+              "title": "«100 techniques pour votre santé et votre bien-être» un coffret de Luc Bodin aux édit. Guy Trédaniel",
+              "channel": "Luc Bodin - Chaîne Officielle",
+              "url": "https://www.youtube.com/watch?v=-rfyRznzgqg"
+            },
+            "series": null,
+            "youtube": {
+              "id": "VuEYAr71RK0",
+              "url": "https://www.youtube.com/watch?v=VuEYAr71RK0",
+              "thumbnail": "https://i.ytimg.com/vi/VuEYAr71RK0/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-techniques-de-luc-bodin-pour-elever-son-d6f2/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-techniques-de-luc-bodin-pour-elever-son-d6f2.json"
+            }
+          }
+        }
+      ],
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/luc-bodin-chaine-officielle-4281.json"
       }
     }
   ],
