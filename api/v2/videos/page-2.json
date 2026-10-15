@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 84,
+  "total": 85,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "l-univers-n-a-pas-ete-fait-pour-toi-fd61",
+      "title": "L'univers a-t-il été fait pour nous ? Le troublant mystère du réglage fin",
+      "format": "video",
+      "publishedAt": "2026-10-04T19:45:08.969Z",
+      "durationSeconds": 699,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "L'univers a été fait pour l'être humain : ses lois sont réglées pour nous, et les dieux, les astres et le cosmos s'intéressent à nos vies.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "5-lp18BDj2I",
+        "url": "https://www.youtube.com/watch?v=5-lp18BDj2I",
+        "thumbnail": "https://i.ytimg.com/vi/5-lp18BDj2I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-univers-n-a-pas-ete-fait-pour-toi-fd61.json"
+      }
+    },
     {
       "id": "une-tesla-affiche-des-silhouettes-de-pietons-dans-f4a8",
       "title": "Non, Coffeebird_official, cette Tesla ne voit pas de fantômes",

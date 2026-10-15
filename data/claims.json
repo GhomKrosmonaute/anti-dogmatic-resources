@@ -1,9 +1,270 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-15T10:16:16.392Z",
+  "generatedAt": "2026-10-15T11:01:13.595Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "la-meritocratie-recompense-t-elle-vraiment-ceux-1e36",
+      "title": "La méritocratie récompense-t-elle vraiment ceux qui travaillent dur ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T11:00:12.853Z",
+      "durationSeconds": 718,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Dans une société méritocratique, ceux qui travaillent dur réussissent : la place de chacun récompense son effort et son talent.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "L'effort compte, mais les données de Chetty et de l'OCDE, la reproduction sociale mesurée en France et le poids du patrimoine montrent que l'origine et la chance pèsent lourd sur la place de chacun. La réussite observée ne mesure donc pas le mérite, et la croyance en la méritocratie est même plus forte dans les pays les plus inégalitaires (Mijs, 2019)."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "9haeeU4LN4I",
+        "url": "https://www.youtube.com/watch?v=9haeeU4LN4I",
+        "thumbnail": "https://i.ytimg.com/vi/9haeeU4LN4I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-meritocratie-recompense-t-elle-vraiment-ceux-1e36/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-meritocratie-recompense-t-elle-vraiment-ceux-1e36.json"
+      },
+      "facts": [
+        {
+          "text": "Sous l'Ancien Régime, des charges de magistrat s'achetaient et se transmettaient (vénalité des offices), et les plus hautes dignités revenaient d'abord à la noblesse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Vénalité des offices",
+              "publisher": "Encyclopædia Universalis",
+              "url": "https://www.universalis.fr/encyclopedie/venalite-des-offices/"
+            }
+          ]
+        },
+        {
+          "text": "L'article 6 de la Déclaration des droits de l'homme et du citoyen, adoptée en août 1789, dispose que tous les citoyens sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "La Déclaration des droits de l'homme et du citoyen",
+              "publisher": "Élysée",
+              "url": "https://www.elysee.fr/la-presidence/la-declaration-des-droits-de-l-homme-et-du-citoyen"
+            }
+          ]
+        },
+        {
+          "text": "En France, le taux de chômage est nettement plus faible chez les diplômés du supérieur que chez les personnes sans diplôme.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Inégalités face au chômage",
+              "publisher": "Insee",
+              "url": "https://www.insee.fr/fr/statistiques/7767057"
+            }
+          ]
+        },
+        {
+          "text": "Pierre Bourdieu et Jean-Claude Passeron publient Les Héritiers en 1964 aux Éditions de Minuit, à partir d'une enquête par questionnaire auprès d'étudiants en lettres à Paris et dans quelques autres universités.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Witness about Les Héritiers (Delsaut, Arêas Peixoto, 2005)",
+              "publisher": "Tempo Social, USP",
+              "url": "https://journals.usp.br/ts/article/view/12460"
+            }
+          ]
+        },
+        {
+          "text": "Selon Les Héritiers, l'école convertit un héritage culturel lié au milieu d'origine en réussite scolaire et le présente comme un don ; Bourdieu théorisera ensuite la notion de capital culturel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Witness about Les Héritiers (Delsaut, Arêas Peixoto, 2005)",
+              "publisher": "Tempo Social, USP",
+              "url": "https://journals.usp.br/ts/article/view/12460"
+            }
+          ]
+        },
+        {
+          "text": "Le sociologue britannique Michael Young a popularisé le mot méritocratie en 1958 avec The Rise of the Meritocracy, une satire décrivant une élite sélectionnée sur ses aptitudes et convaincue de sa légitimité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Michael Young, Red Baron",
+              "publisher": "The New York Review of Books",
+              "url": "https://www.nybooks.com/articles/2018/10/11/michael-young-red-baron/"
+            }
+          ]
+        },
+        {
+          "text": "Chetty, Hendren, Kline et Saez (2014, Quarterly Journal of Economics), à partir des données fiscales de plus de 40 millions d'enfants américains, montrent qu'un écart de 10 centiles de revenu des parents correspond en moyenne à environ 3,4 centiles d'écart chez l'enfant, et que la mobilité varie fortement selon les territoires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States",
+              "publisher": "Quarterly Journal of Economics, 129(4), 1553–1623",
+              "url": "https://rajchetty.com/publication/where-is-the-land-of-opportunity-the-geography-of-intergenerational-mobility-in-the-united-states/"
+            }
+          ]
+        },
+        {
+          "text": "Le rapport de l'OCDE A Broken Social Elevator? (2018) conclut que la mobilité entre parents et enfants est faible en matière de revenus, d'éducation, de profession et de santé, avec des planchers collants en bas et des plafonds collants en haut.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Broken Social Elevator? How to Promote Social Mobility",
+              "publisher": "OCDE",
+              "url": "https://www.oecd.org/en/publications/broken-elevator-how-to-promote-social-mobility_9789264301085-en.html"
+            }
+          ]
+        },
+        {
+          "text": "Selon le sociologue Camille Peugny, interrogé par l'Observatoire des inégalités, 83 % des fils d'ouvriers et d'employés devenaient ouvriers ou employés au début des années 1980, contre 73 % aujourd'hui, soit 27 sur 100 qui échappent à ces emplois.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "La mobilité sociale est en panne : entretien avec Camille Peugny, sociologue",
+              "publisher": "Observatoire des inégalités",
+              "url": "https://www.inegalites.fr/La-mobilite-sociale-est-en-panne-entretien-avec-Camille-Peugny-sociologue"
+            }
+          ]
+        },
+        {
+          "text": "Garbinti, Goupille-Lebret et Piketty (2021, Journal of the European Economic Association) reconstituent la distribution du patrimoine en France de 1970 à 2014 et montrent que sa concentration dépend des inégalités de revenus du travail mais aussi des inégalités de taux d'épargne et de rendement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Accounting for Wealth-Inequality Dynamics: Methods, Estimates, and Simulations for France",
+              "publisher": "Journal of the European Economic Association, 19(1), 620–663",
+              "url": "https://ideas.repec.org/a/oup/jeurec/v19y2021i1p620-663..html"
+            }
+          ]
+        },
+        {
+          "text": "Les détenteurs de patrimoines élevés peuvent épargner davantage et obtenir des rendements plus élevés, ce qui accroît la concentration des fortunes indépendamment du travail.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Accounting for Wealth-Inequality Dynamics: Methods, Estimates, and Simulations for France",
+              "publisher": "Journal of the European Economic Association, 19(1), 620–663",
+              "url": "https://ideas.repec.org/a/oup/jeurec/v19y2021i1p620-663..html"
+            }
+          ]
+        },
+        {
+          "text": "Pluchino, Biondo et Rapisarda (2018, Advances in Complex Systems), dans un modèle simulé et non une enquête, montrent que les individus les plus talentueux atteignent rarement le sommet et sont dépassés par des individus moyens mais plus chanceux.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Talent versus Luck: The role of randomness in success and failure",
+              "publisher": "Advances in Complex Systems (Pluchino, Biondo, Rapisarda, 2018)",
+              "url": "https://csh.ac.at/publication/talent-vs-luck-the-role-of-randomness-in-success-and-failure/"
+            }
+          ]
+        },
+        {
+          "text": "Jonathan Mijs (2019, Socio-Economic Review), sur 25 ans de données ISSP, montre que plus un pays est inégalitaire, plus ses habitants attribuent la réussite au mérite plutôt qu'au patrimoine familial ou aux relations ; c'est le cas d'au moins deux tiers des citoyens dans presque tous les pays et de 95 % des Américains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The paradox of inequality: income inequality and belief in meritocracy go hand in hand",
+              "publisher": "Socio-Economic Review (Mijs, 2019)",
+              "url": "https://researchonline.lse.ac.uk/id/eprint/100794/"
+            }
+          ]
+        },
+        {
+          "text": "Dans les années 1960, le psychologue Melvin Lerner décrit la croyance en un monde juste, qui peut conduire des observateurs à dévaloriser les victimes plutôt qu'à admettre l'injustice de leur situation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Just-world fallacy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Just-world_fallacy"
+            }
+          ]
+        },
+        {
+          "text": "Le karma au sens populaire, la loi de l'attraction et une partie du développement personnel attribuent le sort d'une personne à ses actes, à ses pensées ou à sa motivation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Karma (Britannica Dictionary)",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/dictionary/karma"
+            },
+            {
+              "title": "karma (Britannica summary)",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://www.britannica.com/summary/karma"
+            },
+            {
+              "title": "Law of attraction (New Thought)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)"
+            }
+          ]
+        },
+        {
+          "text": "Dans The Tyranny of Merit (2020), le philosophe Michael Sandel soutient que la méritocratie conduit les gagnants à s'attribuer tout leur succès et les perdants à se croire responsables de leur échec.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Review article on The Tyranny of Merit",
+              "publisher": "Political Quarterly (City, University of London)",
+              "url": "https://openaccess.city.ac.uk/25809/3/Littler%20review%20article%20for%20Political%20Quarterly%20.pdf"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Deux notions de JUSTICE (et pourquoi aucune ne justifie l'héritage)",
+          "channel": "Monsieur Phi",
+          "url": "https://www.youtube.com/watch?v=Aj7PKDTrbjQ",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Quand on veut, on peut : la volonté suffit-elle vraiment pour réussir ?",
+        "url": "https://www.youtube.com/watch?v=zEChYJZZYGM"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e",
       "title": "Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?",

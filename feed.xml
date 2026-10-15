@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Thu, 15 Oct 2026 10:16:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 11:01:13 GMT</lastBuildDate>
+<item>
+<title>La méritocratie récompense-t-elle vraiment ceux qui travaillent dur ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-meritocratie-recompense-t-elle-vraiment-ceux-1e36/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-meritocratie-recompense-t-elle-vraiment-ceux-1e36/</guid>
+<pubDate>Thu, 15 Oct 2026 11:00:12 GMT</pubDate>
+<description>Trompeur : « Dans une société méritocratique, ceux qui travaillent dur réussissent : la place de chacun récompense son effort et son talent. ». L&apos;effort compte, mais les données de Chetty et de l&apos;OCDE, la reproduction sociale mesurée en France et le poids du patrimoine montrent que l&apos;origine et la chance pèsent lourd sur la place de chacun. La réussite observée ne mesure donc pas le mérite, et la croyance en la méritocratie est même plus forte dans les pays les plus inégalitaires (Mijs, 2019).</description>
+<category>Le tri des cas favorables</category>
+<category>L&apos;affirmation à l&apos;épreuve de tout</category>
+<category>Le système</category>
+</item>
 <item>
 <title>Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e/</link>
@@ -516,17 +526,6 @@
 <description>Technique de manipulation : L&apos;appel à l&apos;ancienneté. Si c&apos;est pratiqué depuis des siècles ou par des millions de gens, c&apos;est que ça marche.</description>
 <category>L&apos;appel à l&apos;ancienneté</category>
 <category>Esprit critique</category>
-</item>
-<item>
-<title>L&apos;univers a-t-il été fait pour nous ? Le troublant mystère du réglage fin</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-univers-n-a-pas-ete-fait-pour-toi-fd61/</guid>
-<pubDate>Sun, 04 Oct 2026 19:45:08 GMT</pubDate>
-<description>Trompeur : « L&apos;univers a été fait pour l&apos;être humain : ses lois sont réglées pour nous, et les dieux, les astres et le cosmos s&apos;intéressent à nos vies. ». Certaines constantes physiques sont bien sensibles, mais cela ne prouve aucune intention : nous ne pouvons observer qu&apos;un univers compatible avec notre existence, comme la flaque de Douglas Adams épouse son trou. Poussées jusqu&apos;au bout, les prémisses anthropocentriques mènent à l&apos;absurde : des dieux aux défauts humains, un cosmos presque entièrement mortel, et des astres qui échouent aux tests en double aveugle.</description>
-<category>Le tri des cas favorables</category>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>L&apos;argument d&apos;autorité</category>
-<category>Religions</category>
 </item>
 </channel>
 </rss>

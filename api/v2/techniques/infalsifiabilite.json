@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "la-meritocratie-recompense-t-elle-vraiment-ceux-1e36",
+      "title": "La méritocratie récompense-t-elle vraiment ceux qui travaillent dur ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T11:00:12.853Z",
+      "durationSeconds": 718,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Dans une société méritocratique, ceux qui travaillent dur réussissent : la place de chacun récompense son effort et son talent.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "9haeeU4LN4I",
+        "url": "https://www.youtube.com/watch?v=9haeeU4LN4I",
+        "thumbnail": "https://i.ytimg.com/vi/9haeeU4LN4I/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-meritocratie-recompense-t-elle-vraiment-ceux-1e36/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-meritocratie-recompense-t-elle-vraiment-ceux-1e36.json"
+      }
+    },
+    {
       "id": "le-connectome-complet-d-une-mouche-du-vinaigre-0bf3",
       "title": "Cerveau de mouche numérisé : le basilic de Roko devient-il possible ?",
       "format": "video",
