@@ -1,9 +1,380 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-13T13:31:24.942Z",
+  "generatedAt": "2026-10-15T08:31:15.127Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-cafards-cyborgs-7922",
+      "title": "Cafards cyborgs : peut-on vraiment télécommander le cerveau d'un insecte ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T08:30:14.956Z",
+      "durationSeconds": 659,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Grâce à des électrodes, les chercheurs savent désormais faire obéir le système nerveux des cafards, qui deviendront bientôt des sauveteurs télécommandés capables de retrouver des survivants sous les décombres.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "On dirige bien ces insectes, mais en déclenchant leurs réflexes de fuite et d'évitement, pas en commandant leur cerveau. Et aucun des travaux publiés ne décrit de sauvetage réel : trente minutes de recharge pour deux minutes de transmission, une stabilisation réussie dans seulement 72 % des cas, une navigation limitée à des parcours maîtrisés."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "z54NDRXZtzI",
+        "url": "https://www.youtube.com/watch?v=z54NDRXZtzI",
+        "thumbnail": "https://i.ytimg.com/vi/z54NDRXZtzI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-cafards-cyborgs-7922/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-cafards-cyborgs-7922.json"
+      },
+      "facts": [
+        {
+          "text": "En 2012, l'Université d'État de Caroline du Nord a publié un communiqué annonçant une technique pour contrôler des cafards à distance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Researchers Develop Technique to Remotely Control Cockroaches",
+              "publisher": "NC State News",
+              "url": "https://news.ncsu.edu/2012/09/wms-cockroach-steering/"
+            }
+          ]
+        },
+        {
+          "text": "Les travaux de 2012 sont dus à Tahmid Latif et Alper Bozkurt et ont été présentés sous le titre « Line Following Terrestrial Insect Biobots » à la conférence IEEE EMBS 2012.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Researchers Develop Technique to Remotely Control Cockroaches",
+              "publisher": "NC State News",
+              "url": "https://news.ncsu.edu/2012/09/wms-cockroach-steering/"
+            },
+            {
+              "title": "Alper Bozkurt develops technique to remotely control cockroaches",
+              "publisher": "NC State ECE",
+              "url": "https://ece.ncsu.edu/2012/alper-bozkurt-develops-technique-to-remotely-control-cockroaches/"
+            }
+          ]
+        },
+        {
+          "text": "Le sac à dos électronique de 2012 pesait 0,7 gramme et permettait de guider le cafard le long d'une ligne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Researchers Develop Technique to Remotely Control Cockroaches",
+              "publisher": "NC State News",
+              "url": "https://news.ncsu.edu/2012/09/wms-cockroach-steering/"
+            }
+          ]
+        },
+        {
+          "text": "Les électrodes sont reliées aux antennes et aux cerques ; la stimulation des cerques imite le souffle d'un prédateur et fait avancer le cafard, celle d'une antenne lui fait percevoir un obstacle de ce côté et il tourne à l'opposé : on exploite des réflexes, le cerveau n'est pas piraté.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Researchers Develop Technique to Remotely Control Cockroaches",
+              "publisher": "NC State News",
+              "url": "https://news.ncsu.edu/2012/09/wms-cockroach-steering/"
+            },
+            {
+              "title": "Foundational Mechanisms of Visual-Perception Control in Cyborg Insects Using UV Stimulation",
+              "publisher": "Journal of Bionic Engineering (Springer)",
+              "url": "https://link.springer.com/article/10.1007/s42235-026-00971-1"
+            }
+          ]
+        },
+        {
+          "text": "Les cerques du cafard détectent les mouvements d'air.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Researchers Develop Technique to Remotely Control Cockroaches",
+              "publisher": "NC State News",
+              "url": "https://news.ncsu.edu/2012/09/wms-cockroach-steering/"
+            }
+          ]
+        },
+        {
+          "text": "Les cafards se faufilent dans des interstices étroits et grimpent naturellement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects",
+              "publisher": "Device (Cell Press)",
+              "url": "https://www.cell.com/device/abstract/S2666-9986(26)00229-2"
+            },
+            {
+              "title": "Researchers Develop Technique to Remotely Control Cockroaches",
+              "publisher": "NC State News",
+              "url": "https://news.ncsu.edu/2012/09/wms-cockroach-steering/"
+            }
+          ]
+        },
+        {
+          "text": "Plusieurs revues à comité de lecture ont publié en 2026 des travaux sur les insectes cyborgs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects",
+              "publisher": "Device (Cell Press)",
+              "url": "https://www.cell.com/device/abstract/S2666-9986(26)00229-2"
+            },
+            {
+              "title": "Paraborg: Paramedic Cyborg Insects for In Situ Emergency Drug-Delivery",
+              "publisher": "Advanced Science (Wiley)",
+              "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.76973"
+            },
+            {
+              "title": "Foundational Mechanisms of Visual-Perception Control in Cyborg Insects Using UV Stimulation",
+              "publisher": "Journal of Bionic Engineering (Springer)",
+              "url": "https://link.springer.com/article/10.1007/s42235-026-00971-1"
+            }
+          ]
+        },
+        {
+          "text": "En 2022, Kakei et al. (npj Flexible Electronics) ont fixé sur l'abdomen d'un cafard une cellule solaire organique ultrafine produisant 17,2 mW sans entraver sa mobilité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Power-rechargeable cyborg insect",
+              "publisher": "RIKEN",
+              "url": "https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220905_2/index.html"
+            }
+          ]
+        },
+        {
+          "text": "Dans ce dispositif, 30 minutes de recharge donnent environ 2 minutes de communication sans fil, et le module de contrôle pèse encore 6,5 g.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Power-rechargeable cyborg insect",
+              "publisher": "RIKEN",
+              "url": "https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220905_2/index.html"
+            },
+            {
+              "title": "Robo-bug: rechargeable remote-controllable cyborg cockroach",
+              "publisher": "TechXplore",
+              "url": "https://techxplore.com/news/2022-09-robo-bug-rechargeable-remote-controllable-cyborg-cockroach.pdf"
+            }
+          ]
+        },
+        {
+          "text": "En 2026, Ariyanto et al. (Device, Cell Press) combinent stimulation des antennes et des cerques avec une reconnaissance du terrain en temps réel ; la navigation se fait sur terrain contrôlé et l'escalade est laissée à l'insecte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects",
+              "publisher": "Device (Cell Press)",
+              "url": "https://www.cell.com/device/abstract/S2666-9986(26)00229-2"
+            }
+          ]
+        },
+        {
+          "text": "Le projet Paraborg (Le et al., Advanced Science, 2026) vise la livraison de médicaments d'urgence et combine trois types de stimulation ; il atteint 100 % des points de passage mais ne stabilise le cafard que dans 72 % des cas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Paraborg: Paramedic Cyborg Insects for In Situ Emergency Drug-Delivery",
+              "publisher": "Advanced Science (Wiley)",
+              "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.76973"
+            },
+            {
+              "title": "Will a cyborg cockroach paramedic save your life in the future?",
+              "publisher": "New Atlas",
+              "url": "https://newatlas.com/robotics/cyborg-cockroach-paramedics/"
+            }
+          ]
+        },
+        {
+          "text": "En 2026, Refat et al. (Journal of Bionic Engineering) utilisent une batterie lithium-polymère de 40 mAh ; stimuler l'antenne gauche provoque un virage à droite, et une stimulation ultraviolette exploite la vision de l'insecte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Foundational Mechanisms of Visual-Perception Control in Cyborg Insects Using UV Stimulation",
+              "publisher": "Journal of Bionic Engineering (Springer)",
+              "url": "https://link.springer.com/article/10.1007/s42235-026-00971-1"
+            }
+          ]
+        },
+        {
+          "text": "En 2019, Cao et Sato (IEEE Transactions on Robotics) stimulent électriquement les muscles des pattes d'un coléoptère via un module sans fil et obtiennent, en remplaçant ses épines de pattes naturelles par des épines artificielles, une démarche rarement observée dans la nature.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Insect–Computer Hybrid Robot Achieves a Walking Gait Rarely Seen in Nature by Replacing the Anisotropic Natural Leg Spines With Isotropic Artificial Leg Spines",
+              "publisher": "IEEE Transactions on Robotics",
+              "url": "https://ieeexplore.ieee.org/document/8681737"
+            }
+          ]
+        },
+        {
+          "text": "La batterie d'un smartphone se compte en milliers de milliampères-heure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Samsung, Google and Apple are losing the battery race",
+              "publisher": "PhoneArena",
+              "url": "https://www.phonearena.com/news/samsung-google-and-apple-are-losing-the-battery-race_id171437"
+            }
+          ]
+        },
+        {
+          "text": "Fabriquer un robot de quelques centimètres capable de marcher sur des débris et d'escalader reste un défi d'ingénierie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects",
+              "publisher": "Device (Cell Press)",
+              "url": "https://www.cell.com/device/abstract/S2666-9986(26)00229-2"
+            }
+          ]
+        },
+        {
+          "text": "Aucun des travaux cités ne décrit d'intervention de sauvetage en conditions réelles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Biohybrid navigation through real-time terrain recognition and natural climbing in cyborg insects",
+              "publisher": "Device (Cell Press)",
+              "url": "https://www.cell.com/device/abstract/S2666-9986(26)00229-2"
+            },
+            {
+              "title": "Paraborg: Paramedic Cyborg Insects for In Situ Emergency Drug-Delivery",
+              "publisher": "Advanced Science (Wiley)",
+              "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.76973"
+            },
+            {
+              "title": "Will a cyborg cockroach paramedic save your life in the future?",
+              "publisher": "New Atlas",
+              "url": "https://newatlas.com/robotics/cyborg-cockroach-paramedics/"
+            }
+          ]
+        },
+        {
+          "text": "La science ne sait pas encore établir avec certitude ce que ressent un insecte, notamment s'il souffre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Flexible self-protection as evidence of pain-like states in house crickets",
+              "publisher": "Proceedings of the Royal Society B",
+              "url": "https://royalsocietypublishing.org/rspb/article/293/2070/20260609/481623"
+            },
+            {
+              "title": "From insect cognition to sentience: Exploring the edge",
+              "publisher": "Animal Sentience",
+              "url": "https://www.wellbeingintlstudiesrepository.org/animsent/vol10/iss38/14/"
+            }
+          ]
+        },
+        {
+          "text": "Des pendentifs vendus comme « quantiques » et des méthodes de « contrôle de l'esprit » sont proposés sans mécanisme publié ni taux d'échec mesuré.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Q-Link (SRT)",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/qlink.html"
+            },
+            {
+              "title": "From the archives: The Q-link pendant, protecting you from imaginary EMF threats",
+              "publisher": "The Skeptic",
+              "url": "https://skeptic.org.uk/?p=46178"
+            }
+          ]
+        },
+        {
+          "text": "Le mot quantique désigne une branche réelle de la physique, que ces produits invoquent sans l'appliquer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Quantum Mechanics",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/qm/"
+            },
+            {
+              "title": "Q-Link (SRT)",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/qlink.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "Neurosciences (neuroéthologie et neurophysiologie sensorielle de l'insecte, stimulation électrique du système nerveux)",
+        "approximations": [
+          {
+            "excerpt": "Un cafard, un sac à dos électronique de moins d'un gramme, et un chercheur qui le fait tourner à gauche d'une simple impulsion.",
+            "note": "« Moins d'un gramme » est un ordre de grandeur d'accroche, sans effet sur l'argument, et sans lien avec la santé."
+          },
+          {
+            "excerpt": "Reprends la cellule solaire de 2022, celle qui ne gêne pas la marche. Ses auteurs l'écrivent eux-mêmes : trente minutes de recharge donnent environ deux minutes de communication sans fil.",
+            "note": "Le « environ » signale une estimation arrondie. L'argument (autonomie très limitée) ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "Celui de Refat embarque une batterie lithium-polymère de quarante milliampères-heure, quand celle d'un téléphone se compte en milliers.",
+            "note": "La comparaison de capacités est un ordre de grandeur. La conclusion, une batterie des dizaines de fois plus petite, tient quelle que soit la valeur précise."
+          },
+          {
+            "excerpt": "Plus d'une fois sur quatre, l'insecte ne tient pas la position demandée.",
+            "note": "Arrondi de 72 % de réussite en « plus d'une fois sur quatre » (28 % d'échecs). Cela n'a aucune portée sanitaire et ne change pas l'argument."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Cet argument probabiliste va changer votre point de vue sur l'ÉTHIQUE ANIMALE",
+          "channel": "Monsieur Phi",
+          "url": "https://www.youtube.com/watch?v=HaVWbdlAiCQ",
+          "own": false
+        },
+        {
+          "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "Le libre arbitre existe-t-il ? Ce que philosophie et neurosciences disent de nos choix",
+        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "lsd-et-psilocybine-63fe",
       "title": "LSD et psilocybine : pourquoi sont-ils interdits alors qu'ils pourraient guérir ?",

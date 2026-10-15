@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "les-cafards-cyborgs-7922",
+      "title": "Cafards cyborgs : peut-on vraiment télécommander le cerveau d'un insecte ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T08:30:14.956Z",
+      "durationSeconds": 659,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Grâce à des électrodes, les chercheurs savent désormais faire obéir le système nerveux des cafards, qui deviendront bientôt des sauveteurs télécommandés capables de retrouver des survivants sous les décombres.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "z54NDRXZtzI",
+        "url": "https://www.youtube.com/watch?v=z54NDRXZtzI",
+        "thumbnail": "https://i.ytimg.com/vi/z54NDRXZtzI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-cafards-cyborgs-7922/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-cafards-cyborgs-7922.json"
+      }
+    },
+    {
       "id": "les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c",
       "title": "L'IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études",
       "format": "video",

@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Tue, 13 Oct 2026 13:31:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 08:31:15 GMT</lastBuildDate>
+<item>
+<title>Cafards cyborgs : peut-on vraiment télécommander le cerveau d&apos;un insecte ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-cafards-cyborgs-7922/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-cafards-cyborgs-7922/</guid>
+<pubDate>Thu, 15 Oct 2026 08:30:14 GMT</pubDate>
+<description>Non démontré : « Grâce à des électrodes, les chercheurs savent désormais faire obéir le système nerveux des cafards, qui deviendront bientôt des sauveteurs télécommandés capables de retrouver des survivants sous les décombres. ». On dirige bien ces insectes, mais en déclenchant leurs réflexes de fuite et d&apos;évitement, pas en commandant leur cerveau. Et aucun des travaux publiés ne décrit de sauvetage réel : trente minutes de recharge pour deux minutes de transmission, une stabilisation réussie dans seulement 72 % des cas, une navigation limitée à des parcours maîtrisés.</description>
+<category>La caution scientifique détournée</category>
+<category>Le tri des cas favorables</category>
+<category>Religions</category>
+</item>
 <item>
 <title>LSD et psilocybine : pourquoi sont-ils interdits alors qu&apos;ils pourraient guérir ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lsd-et-psilocybine-63fe/</link>
@@ -519,15 +529,6 @@
 <category>Le tri des cas favorables</category>
 <category>L&apos;affirmation à l&apos;épreuve de tout</category>
 <category>Pseudo-sciences et charlatans</category>
-</item>
-<item>
-<title>Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/</guid>
-<pubDate>Sun, 04 Oct 2026 14:00:12 GMT</pubDate>
-<description>Technique de manipulation : Le faux dilemme. On réduit les choix à deux options, dont l&apos;une est présentée comme absurde.</description>
-<category>Le faux dilemme</category>
-<category>Esprit critique</category>
 </item>
 </channel>
 </rss>

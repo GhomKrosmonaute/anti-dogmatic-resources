@@ -1,12 +1,50 @@
 {
   "version": 2,
-  "total": 81,
+  "total": 82,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "les-cafards-cyborgs-7922",
+      "title": "Cafards cyborgs : peut-on vraiment télécommander le cerveau d'un insecte ?",
+      "format": "video",
+      "publishedAt": "2026-10-15T08:30:14.956Z",
+      "durationSeconds": 659,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Grâce à des électrodes, les chercheurs savent désormais faire obéir le système nerveux des cafards, qui deviendront bientôt des sauveteurs télécommandés capables de retrouver des survivants sous les décombres.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "z54NDRXZtzI",
+        "url": "https://www.youtube.com/watch?v=z54NDRXZtzI",
+        "thumbnail": "https://i.ytimg.com/vi/z54NDRXZtzI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-cafards-cyborgs-7922/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-cafards-cyborgs-7922.json"
+      }
+    },
     {
       "id": "lsd-et-psilocybine-63fe",
       "title": "LSD et psilocybine : pourquoi sont-ils interdits alors qu'ils pourraient guérir ?",
@@ -1896,34 +1934,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-proches-disparus-peuvent-ils-vraiment-nous-a65f.json"
-      }
-    },
-    {
-      "id": "miracle-ou-mensonge-adab",
-      "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
-      "format": "video",
-      "publishedAt": "2026-10-04T14:00:12.156Z",
-      "durationSeconds": 656,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "faux-dilemme",
-        "name": "Le faux dilemme"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "ZYr31MAYp6A",
-        "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
-        "thumbnail": "https://i.ytimg.com/vi/ZYr31MAYp6A/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
       }
     }
   ],

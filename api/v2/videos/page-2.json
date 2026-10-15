@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 81,
+  "total": 82,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "miracle-ou-mensonge-adab",
+      "title": "Des centaines de témoins peuvent-ils tous se tromper sur un miracle ?",
+      "format": "video",
+      "publishedAt": "2026-10-04T14:00:12.156Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "faux-dilemme",
+        "name": "Le faux dilemme"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "ZYr31MAYp6A",
+        "url": "https://www.youtube.com/watch?v=ZYr31MAYp6A",
+        "thumbnail": "https://i.ytimg.com/vi/ZYr31MAYp6A/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-adab/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-adab.json"
+      }
+    },
     {
       "id": "transits-planetaires-et-retrogradations-191e",
       "title": "Vénus rétrograde : que dit vraiment le ciel de ta vie amoureuse ?",
