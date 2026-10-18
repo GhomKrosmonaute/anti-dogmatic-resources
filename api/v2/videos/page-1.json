@@ -1,12 +1,50 @@
 {
   "version": 2,
-  "total": 90,
+  "total": 91,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "medecine-quantique-et-bioresonance-f6d4",
+      "title": "Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T12:00:26.298Z",
+      "durationSeconds": 709,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les appareils de biorésonance captent les fréquences émises par les organes, détectent allergies et déséquilibres, et soignent en renvoyant au corps ces ondes corrigées.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "YlvZ3XArJPM",
+        "url": "https://www.youtube.com/watch?v=YlvZ3XArJPM",
+        "thumbnail": "https://i.ytimg.com/vi/YlvZ3XArJPM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/medecine-quantique-et-bioresonance-f6d4/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/medecine-quantique-et-bioresonance-f6d4.json"
+      }
+    },
     {
       "id": "pourquoi-travaille-t-on-toujours-autant-malgre-0716",
       "title": "Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?",
@@ -1888,52 +1926,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chemin-de-vie-en-numerologie-2d23.json"
-      }
-    },
-    {
-      "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
-      "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",
-      "format": "short",
-      "publishedAt": "2026-10-05T18:15:04.019Z",
-      "durationSeconds": 134,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Les positions de Pluton en Verseau et d'Uranus en Gémeaux, qui se prolongent jusqu'en 2028, influencent nos vies : elles expliquent l'intensité que nous ressentons et provoquent des métamorphoses nécessaires.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": {
-        "title": "Pluton et Uranus se tiennent la main jusqu'en 2028",
-        "channel": "La Télé de Lilou Macé",
-        "url": "https://www.youtube.com/watch?v=zujpg_kzPD8"
-      },
-      "series": null,
-      "youtube": {
-        "id": "jUXA-3UNzBE",
-        "url": "https://www.youtube.com/watch?v=jUXA-3UNzBE",
-        "thumbnail": "https://i.ytimg.com/vi/jUXA-3UNzBE/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pluton-en-verseau-et-uranus-en-gemeaux-1a46.json"
       }
     }
   ]

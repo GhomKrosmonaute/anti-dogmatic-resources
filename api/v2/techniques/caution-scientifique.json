@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "medecine-quantique-et-bioresonance-f6d4",
+      "title": "Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T12:00:26.298Z",
+      "durationSeconds": 709,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Les appareils de biorésonance captent les fréquences émises par les organes, détectent allergies et déséquilibres, et soignent en renvoyant au corps ces ondes corrigées.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "YlvZ3XArJPM",
+        "url": "https://www.youtube.com/watch?v=YlvZ3XArJPM",
+        "thumbnail": "https://i.ytimg.com/vi/YlvZ3XArJPM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/medecine-quantique-et-bioresonance-f6d4/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/medecine-quantique-et-bioresonance-f6d4.json"
+      }
+    },
+    {
       "id": "les-techniques-de-luc-bodin-pour-elever-son-d6f2",
       "title": "Luc Bodin : élever ta vibration pour ta santé ? C'est trompeur",
       "format": "short",

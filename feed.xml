@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sun, 18 Oct 2026 11:34:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 12:01:26 GMT</lastBuildDate>
+<item>
+<title>Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/medecine-quantique-et-bioresonance-f6d4/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/medecine-quantique-et-bioresonance-f6d4/</guid>
+<pubDate>Sun, 18 Oct 2026 12:00:26 GMT</pubDate>
+<description>Faux : « Les appareils de biorésonance captent les fréquences émises par les organes, détectent allergies et déséquilibres, et soignent en renvoyant au corps ces ondes corrigées. ». La biorésonance ne lit aucune fréquence propre aux organes : elle mesure la conduction de la peau, et son mécanisme supposé n&apos;est pas démontré. Testée sans indices, elle ne distingue pas les allergiques des autres (Lewith, 2001) et ne fait pas mieux qu&apos;une séance simulée (Schöni, 1997).</description>
+<category>La caution scientifique détournée</category>
+<category>Le placebo pris pour un remède</category>
+<category>Pseudo-sciences et charlatans</category>
+</item>
 <item>
 <title>Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-travaille-t-on-toujours-autant-malgre-0716/</link>
@@ -517,18 +527,6 @@
 <category>L&apos;appel à l&apos;ancienneté</category>
 <category>Le tri des cas favorables</category>
 <category>Pseudo-sciences et charlatans</category>
-</item>
-<item>
-<title>Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pluton-en-verseau-et-uranus-en-gemeaux-1a46/</guid>
-<pubDate>Mon, 05 Oct 2026 18:15:04 GMT</pubDate>
-<description>Non démontré : « Les positions de Pluton en Verseau et d&apos;Uranus en Gémeaux, qui se prolongent jusqu&apos;en 2028, influencent nos vies : elles expliquent l&apos;intensité que nous ressentons et provoquent des métamorphoses nécessaires. ». Aucun mécanisme physique ne relie ces planètes lointaines à nos vies. Les tests contrôlés de l&apos;astrologie, comme celui de Shawn Carlson publié dans Nature en 1985, ne font pas mieux que le hasard. Le sentiment de justesse s&apos;explique par l&apos;effet Barnum et la relecture après coup, et ces transits durent d&apos;ailleurs bien au-delà de 2028.</description>
-<category>La relecture après coup</category>
-<category>L&apos;affirmation à l&apos;épreuve de tout</category>
-<category>Le tri des cas favorables</category>
-<category>Pseudo-sciences et charlatans</category>
-<category>Short</category>
 </item>
 </channel>
 </rss>

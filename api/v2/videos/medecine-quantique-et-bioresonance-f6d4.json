@@ -1,0 +1,392 @@
+{
+  "version": 2,
+  "id": "medecine-quantique-et-bioresonance-f6d4",
+  "title": "Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?",
+  "format": "video",
+  "publishedAt": "2026-10-18T12:00:26.298Z",
+  "durationSeconds": 709,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Les appareils de biorésonance captent les fréquences émises par les organes, détectent allergies et déséquilibres, et soignent en renvoyant au corps ces ondes corrigées.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "La biorésonance ne lit aucune fréquence propre aux organes : elle mesure la conduction de la peau, et son mécanisme supposé n'est pas démontré. Testée sans indices, elle ne distingue pas les allergiques des autres (Lewith, 2001) et ne fait pas mieux qu'une séance simulée (Schöni, 1997)."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    },
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "YlvZ3XArJPM",
+    "url": "https://www.youtube.com/watch?v=YlvZ3XArJPM",
+    "thumbnail": "https://i.ytimg.com/vi/YlvZ3XArJPM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/medecine-quantique-et-bioresonance-f6d4/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/medecine-quantique-et-bioresonance-f6d4.json"
+  },
+  "facts": [
+    {
+      "text": "Selon ses promoteurs, la biorésonance repose sur l'idée que les organes malades émettent des oscillations électromagnétiques que l'appareil capte, inverse et renvoie pour les annuler.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "BioResonance Therapy",
+          "publisher": "Memorial Sloan Kettering Cancer Center",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/bioresonance-therapy"
+        }
+      ]
+    },
+    {
+      "text": "Lors d'une séance, le patient tient des électrodes reliées à l'appareil, qui fait passer un courant très faible et teste la réponse à diverses substances (pollen, lait, gluten, métaux lourds).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "BioResonance Therapy",
+          "publisher": "Memorial Sloan Kettering Cancer Center",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/bioresonance-therapy"
+        }
+      ]
+    },
+    {
+      "text": "Dans les années 1950, le médecin allemand Reinhold Voll a développé l'électroacupuncture, qui mesure la résistance électrique de la peau sur des points censés renseigner sur l'état des organes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Electrodermal diagnostic devices (EAV)",
+          "publisher": "Quackwatch",
+          "url": "https://quackwatch.org/related/electro.html"
+        }
+      ]
+    },
+    {
+      "text": "En 1977, le médecin allemand Franz Morell et l'ingénieur Erich Rasche ont créé l'appareil MORA, dont le nom vient de leurs deux noms, conçu pour renvoyer au corps ses signaux corrigés.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Moratherapie : non merci",
+          "publisher": "Test-Achats",
+          "url": "https://www.test-achats.be/sante/soins-de-sante/dispositifs-medicaux/reponse-dexpert/moratherapie-non-merci"
+        },
+        {
+          "title": "Biophysical mechanisms of bioresonance therapy",
+          "publisher": "Traditional Medicine, 2007",
+          "url": "http://www.tradmed.ru/index.php/tm/article/download/52/79"
+        }
+      ]
+    },
+    {
+      "text": "Le Vegatest est un test électrodermique destiné à diagnostiquer allergies et intolérances, de la même famille que les appareils de biorésonance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lewith et al., Can electrodermal testing be used to diagnose allergies?",
+          "publisher": "BMJ, 2001",
+          "url": "https://www.bmj.com/content/322/7279/131.abstract"
+        }
+      ]
+    },
+    {
+      "text": "Les promoteurs parlent aussi de médecine quantique ou informationnelle, qui soignerait l'information portée par la matière.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bioresonance, a study of pseudo-scientific language",
+          "publisher": "Forschende Komplementärmedizin und Klassische Naturheilkunde (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15249751/"
+        }
+      ]
+    },
+    {
+      "text": "Le cœur produit une activité électrique enregistrée par l'électrocardiogramme, le cerveau une activité enregistrée par l'électroencéphalogramme, et les nerfs transmettent des impulsions électriques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "ECG Guide",
+          "publisher": "Biopac",
+          "url": "https://www.biopac.com/wp-content/uploads/ECG-Guide.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Einstein a établi l'équivalence masse-énergie, et la physique quantique a montré que la matière a aussi un comportement ondulatoire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?",
+          "publisher": "A. Einstein, Annalen der Physik, 1905",
+          "url": "https://files.onepagepapers.com/physics/einstein-mass-energy-A-blueprint.pdf"
+        },
+        {
+          "title": "Davisson & Germer, diffraction of electrons by a crystal of nickel (Nature)",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/120046a0"
+        }
+      ]
+    },
+    {
+      "text": "En 1900, Max Planck a introduit l'hypothèse des quanta d'énergie pour expliquer le rayonnement d'un corps chauffé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "One Hundred Years of Quanta",
+          "publisher": "Niels Bohr Archive",
+          "url": "https://nbarchive.ku.dk/nba_calendar/1999-2011/100years_quanta/"
+        },
+        {
+          "title": "Klein, Max Planck and the beginnings of the quantum theory",
+          "publisher": "Archive for History of Exact Sciences, 1961",
+          "url": "https://www.gwern.net/doc/science/1961-klein.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La longueur d'onde associée à un objet diminue quand sa quantité de mouvement augmente : mesurable pour un électron, elle est négligeable pour une cellule et sans rôle dans le fonctionnement d'un organe.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "De Broglie Wavelength",
+          "publisher": "Salisbury University",
+          "url": "https://faculty.salisbury.edu/~arbrown/pchem_timeline/s07/deBroglie/De%20Broglie.htm"
+        },
+        {
+          "title": "Davisson & Germer, diffraction of electrons by a crystal of nickel (Nature)",
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/120046a0"
+        }
+      ]
+    },
+    {
+      "text": "Le physicien Sadri Hassani a publié en 2024 chez Springer « Quanta in distress: How New Age gurus kidnapped quantum physics », sur le détournement de la physique quantique par les gourous New Age et les médecines alternatives.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quanta in Distress by Sadri Hassani",
+          "publisher": "Kirkus Reviews",
+          "url": "https://kirkusreviews.com/book-reviews/sadri-hassani/quanta-in-distress"
+        },
+        {
+          "title": "Quanta in distress",
+          "publisher": "Hoepli",
+          "url": "https://hoepli.it/libro/quanta-in-distress/9783031652585.html"
+        }
+      ]
+    },
+    {
+      "text": "La Tronche en Biais a consacré un Tronche en Live, « La Physique Quantique et le Charabia », avec le physicien Julien Bobroff, au mauvais usage de la physique quantique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "La Physique Quantique et le Charabia - Tronche en Live #12 (Julien Bobroff)",
+          "publisher": "La Tronche en Biais",
+          "url": "https://tronchebiais.org/videos/watch/a11a1b7d-54ab-4ac9-9f08-84380700d463"
+        },
+        {
+          "title": "La Tronche en Live: La Physique Quantique et le Charabia",
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/title/tt8959906/"
+        }
+      ]
+    },
+    {
+      "text": "Une fréquence est un nombre de répétitions par seconde, mesuré en hertz ; un cœur au repos bat autour d'un hertz.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Heart rate: What's normal?",
+          "publisher": "Mayo Clinic",
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/heart-rate/faq-20057979"
+        }
+      ]
+    },
+    {
+      "text": "Le Memorial Sloan Kettering Cancer Center juge non démontré le mécanisme supposé de la biorésonance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "BioResonance Therapy",
+          "publisher": "Memorial Sloan Kettering Cancer Center",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/bioresonance-therapy"
+        }
+      ]
+    },
+    {
+      "text": "Les appareils électrodermiques mesurent la conduction électrique de la peau, qui varie avec la sueur, l'humidité et la pression exercée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Electrodermal diagnostic devices (EAV)",
+          "publisher": "Quackwatch",
+          "url": "https://quackwatch.org/related/electro.html"
+        }
+      ]
+    },
+    {
+      "text": "Heinrich Hertz a produit et détecté des ondes radio en laboratoire à la fin des années 1880, et l'expérience a été reproduite par d'autres.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Milestones: First Generation and Experimental Proof of Electromagnetic Waves, 1886-1888",
+          "publisher": "IEEE ETHW",
+          "url": "https://ethw.org/Milestones:First_Generation_and_Experimental_Proof_of_Electromagnetic_Waves,_1886-1888"
+        }
+      ]
+    },
+    {
+      "text": "En 2004, Edzard Ernst a publié « Bioresonance, a study of pseudo-scientific language », où il juge que ce vocabulaire habille de science une pratique sans fondement et fait courir un risque aux patients.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bioresonance, a study of pseudo-scientific language",
+          "publisher": "Forschende Komplementärmedizin und Klassische Naturheilkunde (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15249751/"
+        }
+      ]
+    },
+    {
+      "text": "L'étude de Lewith et collègues (BMJ, 2001) sur 30 sujets (15 allergiques, 15 non allergiques), menée sans que sujets ni opérateurs connaissent la substance testée, montre que le Vegatest ne concorde pas avec les tests cutanés et ne distingue pas les allergiques des autres.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lewith et al., Can electrodermal testing be used to diagnose allergies?",
+          "publisher": "BMJ, 2001",
+          "url": "https://www.bmj.com/content/322/7279/131.abstract"
+        }
+      ]
+    },
+    {
+      "text": "L'essai de Schöni, Nikolaizik et Schöni-Affolter (1997) sur 32 enfants hospitalisés à Davos pour dermatite atopique, randomisé contre biorésonance simulée, montre une amélioration dans les deux groupes due à l'hospitalisation et au traitement conventionnel, sans effet supplémentaire de la biorésonance active.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Efficacy trial of bioresonance in children with atopic dermatitis",
+          "publisher": "International Archives of Allergy and Immunology (notice Wikidata)",
+          "url": "https://wikidp.org/Q28305643"
+        }
+      ]
+    },
+    {
+      "text": "Les allergies, l'eczéma, la fatigue et les troubles digestifs fluctuent spontanément, ce qui peut produire une amélioration sans lien avec le traitement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Efficacy trial of bioresonance in children with atopic dermatitis",
+          "publisher": "International Archives of Allergy and Immunology (notice Wikidata)",
+          "url": "https://wikidp.org/Q28305643"
+        }
+      ]
+    },
+    {
+      "text": "Un test qui ne distingue pas les allergiques des non-allergiques peut produire de faux diagnostics d'intolérance comme de fausses réassurances.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lewith et al., Can electrodermal testing be used to diagnose allergies?",
+          "publisher": "BMJ, 2001",
+          "url": "https://www.bmj.com/content/322/7279/131.abstract"
+        }
+      ]
+    },
+    {
+      "text": "L'article R. 4127-39 du code de la santé publique dispose : « Les médecins ne peuvent proposer aux malades ou à leurs proches comme salutaire ou sans danger un remède ou un procédé illusoire ou insuffisamment éprouvé. Toute pratique de charlatanisme est interdite. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Article 39 - Charlatanisme",
+          "publisher": "Conseil national de l'Ordre des médecins",
+          "url": "https://www.conseil-national.medecin.fr/code-deontologie/devoirs-patients-art-32-55/article-39-charlatanisme"
+        }
+      ]
+    },
+    {
+      "text": "Les chambres disciplinaires de l'Ordre des médecins peuvent prononcer des sanctions allant de l'avertissement à la radiation.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Conseil d'État, 30 mai 2011, n° 339496",
+          "publisher": "AP-HP Affaires juridiques",
+          "url": "https://affairesjuridiques.aphp.fr/textes/conseil-detat-30-mai-2011-n-339496-medecin-sanction-traitements-illusoires/"
+        }
+      ]
+    },
+    {
+      "text": "En France, les naturopathes ne relèvent d'aucun ordre professionnel.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Naturopathe : statut juridique",
+          "publisher": "Wisestart",
+          "url": "https://wisestart.fr/guides/juridique/naturopathe-statut-juridique/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "Physique quantique (vulgarisation de la longueur d'onde de matière et de la quantification) et méthodologie des essais cliniques (allergologie, dermatologie, effet placebo, régression vers la moyenne)",
+    "threshold": 6.6,
+    "passages": 12,
+    "approximations": [
+      {
+        "excerpt": "Ton cœur au repos bat autour d'un hertz, et l'électrocardiogramme le montre avec des capteurs étalonnés, sur un tracé que n'importe quel cardiologue peut relire.",
+        "note": "« Autour d'un hertz » est un ordre de grandeur de la fréquence cardiaque au repos (environ 1 à 1,7 Hz). L'argument ne dépend pas de la valeur exacte, seulement du fait qu'elle est mesurable et vérifiable."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "La Physique Quantique et le Charabia -Tronche en Live #12 (Julien Bobroff)",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=umoS5BN11Jo",
+      "own": false
+    },
+    {
+      "title": "Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=VHlIdYYHDjE",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+    "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg"
+  },
+  "shorts": [],
+  "corrections": []
+}
