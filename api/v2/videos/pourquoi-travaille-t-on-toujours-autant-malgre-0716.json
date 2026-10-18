@@ -1,0 +1,376 @@
+{
+  "version": 2,
+  "id": "pourquoi-travaille-t-on-toujours-autant-malgre-0716",
+  "title": "Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?",
+  "format": "video",
+  "publishedAt": "2026-10-18T11:33:10.829Z",
+  "durationSeconds": 688,
+  "rubric": {
+    "id": "systeme",
+    "name": "Le système"
+  },
+  "claim": {
+    "statement": "Si l'on travaille toujours autant malgré les machines, c'est que travailler une quarantaine d'heures par semaine est l'ordre naturel des choses : il faut bien produire, et chaque besoin satisfait en crée un autre.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "La vidéo conclut que cette durée n'a rien de naturel : selon les séries de Huberman et Minns reprises par Our World in Data, les heures annuelles par travailleur ont baissé de près de 60 % en Allemagne depuis 1870, et en France la journée de huit heures a été fixée par une loi en 1919. Keynes lui-même conditionnait sa prédiction et jugeait les besoins relatifs peut-être insatiables, tandis que la thèse des bullshit jobs reste minoritaire dans les données et que la loi de Parkinson est une satire."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "rjP6LYf5280",
+    "url": "https://www.youtube.com/watch?v=rjP6LYf5280",
+    "thumbnail": "https://i.ytimg.com/vi/rjP6LYf5280/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-travaille-t-on-toujours-autant-malgre-0716/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-travaille-t-on-toujours-autant-malgre-0716.json"
+  },
+  "facts": [
+    {
+      "text": "John Maynard Keynes publie en 1930 l'essai Economic Possibilities for our Grandchildren.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "Keynes y estime que, dans cent ans, grâce au progrès technique et à l'accumulation du capital, le niveau de vie des pays avancés serait de quatre à huit fois plus élevé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "Keynes y envisage des semaines d'environ quinze heures.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "Keynes conditionne sa prédiction à l'absence de guerres importantes et d'augmentation importante de la population (citation traduite).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "Keynes présente des postes de trois heures ou une semaine de quinze heures comme un moyen de repousser le problème du désœuvrement en partageant le travail restant (citation traduite).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "Keynes distingue besoins absolus et besoins relatifs, et écrit que ces derniers sont peut-être insatiables.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Chapitre de Hirata sur les besoins absolus et relatifs chez Keynes",
+          "publisher": "IDEAS/RePEc (Springer)",
+          "url": "https://ideas.repec.org/h/spr/sprchp/978-3-030-15835-4_13.html"
+        }
+      ]
+    },
+    {
+      "text": "Keynes évoque dès 1930 le chômage technologique comme un mal nouveau dont on entendra beaucoup parler.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "Keynes décrit le problème permanent de l'humanité comme l'usage du loisir pour vivre sagement, agréablement et bien (citation traduite).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Quote Origin: People Will Only Work Fifteen Hours a Week In the Future",
+          "publisher": "Quote Investigator",
+          "url": "https://quoteinvestigator.com/2025/02/03/work-week/"
+        }
+      ]
+    },
+    {
+      "text": "L'essai paraît peu après le krach de 1929, au début de la crise économique mondiale.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Economic Possibilities for our Grandchildren (1930)",
+          "publisher": "HET website (texte de Keynes)",
+          "url": "https://www.hetwebsite.net/het/texts/keynes/keynes1930grandchildren.htm"
+        }
+      ]
+    },
+    {
+      "text": "La Seconde Guerre mondiale éclate en 1939, neuf ans après l'essai de Keynes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Economic Possibilities for our Grandchildren (1930)",
+          "publisher": "HET website (texte de Keynes)",
+          "url": "https://www.hetwebsite.net/het/texts/keynes/keynes1930grandchildren.htm"
+        },
+        {
+          "title": "Invasion of Poland, Fall 1939",
+          "publisher": "United States Holocaust Memorial Museum",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939"
+        }
+      ]
+    },
+    {
+      "text": "Keynes est un économiste britannique dont les théories ont inspiré de nombreuses politiques économiques du XXe siècle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Keynes, John Maynard (1883–1946)",
+          "publisher": "SAGE Encyclopedia of Consumer Culture",
+          "url": "https://sk.sagepub.com/ency/edvol/embed/consumerculture/chpt/keynes-john-maynard-1883-1946"
+        }
+      ]
+    },
+    {
+      "text": "Les gains de productivité successifs (vapeur, électricité, moteur, informatique) ont multiplié la production par heure de travail.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Annual working hours per worker vs. GDP per capita, 1870 to 2017",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/grapher/annual-working-hours-per-worker-vs-gdp-per-capita-long-run"
+        }
+      ]
+    },
+    {
+      "text": "Selon les séries de Huberman et Minns reprises par Our World in Data, les heures annuelles par travailleur en Allemagne sont passées de 3 284 en 1870 à 1 354 en 2017, soit près de 60 % de moins.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Working more than ever? (Our World in Data, d'après les données de Huberman et Minns)",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/working-more-than-ever"
+        },
+        {
+          "title": "Annual working hours per worker",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/grapher/annual-working-hours-per-worker"
+        }
+      ]
+    },
+    {
+      "text": "Au Royaume-Uni, la baisse des heures annuelles par travailleur depuis 1870 avoisine 44 %.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Working more than ever? (Our World in Data, d'après les données de Huberman et Minns)",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/working-more-than-ever"
+        },
+        {
+          "title": "The times they are not changin': Days and hours of work in Old and New Worlds, 1870-2000 (Huberman & Minns, 2007)",
+          "publisher": "Explorations in Economic History",
+          "url": "https://personal.lse.ac.uk/minns/Huberman_Minns_EEH_2007.pdf"
+        },
+        {
+          "title": "Annual working hours per worker",
+          "publisher": "Our World in Data",
+          "url": "https://archive.ourworldindata.org/20250909-093708/grapher/annual-working-hours-per-worker.html"
+        }
+      ]
+    },
+    {
+      "text": "Les séries d'heures travaillées d'avant et d'après 1950 ne couvrent pas les mêmes populations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Working more than ever? (Our World in Data, d'après les données de Huberman et Minns)",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/working-more-than-ever"
+        },
+        {
+          "title": "Annual working hours per worker",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/grapher/annual-working-hours-per-worker"
+        }
+      ]
+    },
+    {
+      "text": "1 354 heures annuelles réparties sur 52 semaines font un peu plus de 26 heures par semaine, et 3 284 heures représentent environ deux fois et demie 1 354 heures.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Working more than ever? (Our World in Data, d'après les données de Huberman et Minns)",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/working-more-than-ever"
+        },
+        {
+          "title": "Working Hours",
+          "publisher": "Our World in Data",
+          "url": "https://ourworldindata.org/working-hours"
+        }
+      ]
+    },
+    {
+      "text": "Genèse 3, 19 (traduction Louis Segond) : « C'est à la sueur de ton visage que tu mangeras du pain, jusqu'à ce que tu retournes dans la terre, d'où tu as été pris. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Genèse 3:19 – Louis Segond",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Gen%C3%A8se+3%3A19&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "2 Thessaloniciens 3, 10, épître attribuée à Paul : « Si quelqu'un ne veut pas travailler, qu'il ne mange pas non plus. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "2 Thessaloniciens 3:10 – Louis Segond",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=2+Thessaloniciens+3%3A10&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Max Weber soutient au début du XXe siècle, dans L'Éthique protestante et l'esprit du capitalisme, que l'éthique du travail de certains courants protestants est une racine du capitalisme moderne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Max Weber, The Protestant Ethic and the Spirit of Capitalism (1905)",
+          "publisher": "German History in Documents and Images",
+          "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/max-weber-the-protestant-ethic-and-the-spirit-of-capitalism-1905.pdf"
+        }
+      ]
+    },
+    {
+      "text": "L'anthropologue David Graeber publie en 2013 dans le magazine militant Strike! l'essai On the phenomenon of bullshit jobs, qui part de la prédiction de Keynes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "On the phenomenon of bullshit jobs",
+          "publisher": "Strike! Magazine (dépôt LSE Research Online)",
+          "url": "https://researchonline.lse.ac.uk/id/eprint/53243"
+        }
+      ]
+    },
+    {
+      "text": "Graeber y écrit que d'immenses pans de la population passent leur vie professionnelle à accomplir des tâches dont ils pensent secrètement qu'elles n'ont pas besoin d'être accomplies (citation traduite).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "On the phenomenon of bullshit jobs",
+          "publisher": "Strike! Magazine (dépôt LSE Research Online)",
+          "url": "https://researchonline.lse.ac.uk/id/eprint/53243"
+        }
+      ]
+    },
+    {
+      "text": "L'essai de Graeber devient en 2018 le livre Bullshit Jobs: A Theory ; il s'agit d'une thèse argumentée et non d'une étude empirique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "On the phenomenon of bullshit jobs",
+          "publisher": "Strike! Magazine (dépôt LSE Research Online)",
+          "url": "https://researchonline.lse.ac.uk/id/eprint/53243"
+        },
+        {
+          "title": "Bullshit Jobs",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bullshit_Jobs"
+        }
+      ]
+    },
+    {
+      "text": "Dur et van Lent (2018), sur environ 100 000 travailleurs de 47 pays : environ 8 % jugent leur emploi socialement inutile, 17 % en doutent, bien moins que ce qu'avançait Graeber, sans tendance dans le temps.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Socially Useless Jobs",
+          "publisher": "Tinbergen Institute Discussion Paper 18-034 / IZA DP 11927 (document de travail)",
+          "url": "https://repec.tinbergen.nl/tin/wpaper/18034.rdf"
+        }
+      ]
+    },
+    {
+      "text": "Cyril Northcote Parkinson publie le 19 novembre 1955 dans The Economist un article qui s'ouvre sur l'idée que le travail s'étend pour remplir le temps disponible (citation traduite).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Parkinson's law",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parkinson%27s_law"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": {
+    "title": "La méritocratie récompense-t-elle vraiment ceux qui travaillent dur ?",
+    "url": "https://www.youtube.com/watch?v=9haeeU4LN4I"
+  },
+  "shorts": [],
+  "corrections": []
+}

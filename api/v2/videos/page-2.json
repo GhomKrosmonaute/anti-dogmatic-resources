@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 89,
+  "total": 90,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "guerisons-miraculeuses-experiences-de-mort-4f09",
+      "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T17:45:08.682Z",
+      "durationSeconds": 684,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "temoignage-inverifiable",
+        "name": "Le témoignage invérifiable"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "6ZEHqdNAHRY",
+        "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+        "thumbnail": "https://i.ytimg.com/vi/6ZEHqdNAHRY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/guerisons-miraculeuses-experiences-de-mort-4f09.json"
+      }
+    },
     {
       "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
       "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",

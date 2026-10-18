@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sun, 18 Oct 2026 11:33:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 11:34:11 GMT</lastBuildDate>
+<item>
+<title>Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-travaille-t-on-toujours-autant-malgre-0716/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-travaille-t-on-toujours-autant-malgre-0716/</guid>
+<pubDate>Sun, 18 Oct 2026 11:33:10 GMT</pubDate>
+<description>Faux : « Si l&apos;on travaille toujours autant malgré les machines, c&apos;est que travailler une quarantaine d&apos;heures par semaine est l&apos;ordre naturel des choses : il faut bien produire, et chaque besoin satisfait en crée un autre. ». La vidéo conclut que cette durée n&apos;a rien de naturel : selon les séries de Huberman et Minns reprises par Our World in Data, les heures annuelles par travailleur ont baissé de près de 60 % en Allemagne depuis 1870, et en France la journée de huit heures a été fixée par une loi en 1919. Keynes lui-même conditionnait sa prédiction et jugeait les besoins relatifs peut-être insatiables, tandis que la thèse des bullshit jobs reste minoritaire dans les données et que la loi de Parkinson est une satire.</description>
+<category>L&apos;appel à l&apos;ancienneté</category>
+<category>L&apos;argument d&apos;autorité</category>
+<category>Le système</category>
+</item>
 <item>
 <title>Camus et l&apos;absurde : peut-on vraiment vivre sans Dieu ni espoir d&apos;au-delà ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/camus-et-l-absurde-e332/</link>
@@ -519,15 +529,6 @@
 <category>Le tri des cas favorables</category>
 <category>Pseudo-sciences et charlatans</category>
 <category>Short</category>
-</item>
-<item>
-<title>Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/</guid>
-<pubDate>Mon, 05 Oct 2026 17:45:08 GMT</pubDate>
-<description>Technique de manipulation : Le témoignage invérifiable. Une guérison, une vision ou une conversion racontée tient lieu de preuve.</description>
-<category>Le témoignage invérifiable</category>
-<category>Esprit critique</category>
 </item>
 </channel>
 </rss>

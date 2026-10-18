@@ -69,6 +69,44 @@
   ],
   "examples": [
     {
+      "id": "pourquoi-travaille-t-on-toujours-autant-malgre-0716",
+      "title": "Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:33:10.829Z",
+      "durationSeconds": 688,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Si l'on travaille toujours autant malgré les machines, c'est que travailler une quarantaine d'heures par semaine est l'ordre naturel des choses : il faut bien produire, et chaque besoin satisfait en crée un autre.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "rjP6LYf5280",
+        "url": "https://www.youtube.com/watch?v=rjP6LYf5280",
+        "thumbnail": "https://i.ytimg.com/vi/rjP6LYf5280/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-travaille-t-on-toujours-autant-malgre-0716/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-travaille-t-on-toujours-autant-malgre-0716.json"
+      }
+    },
+    {
       "id": "camus-et-l-absurde-e332",
       "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
       "format": "video",
