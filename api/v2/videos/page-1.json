@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 93,
+  "total": 94,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3",
+      "title": "Quand la prophétie échoue : pourquoi nos croyances résistent-elles aux preuves ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T19:00:27.359Z",
+      "durationSeconds": 775,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "infalsifiabilite",
+        "name": "L'affirmation à l'épreuve de tout"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Vj0FLPCpE3Q",
+        "url": "https://www.youtube.com/watch?v=Vj0FLPCpE3Q",
+        "thumbnail": "https://i.ytimg.com/vi/Vj0FLPCpE3Q/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3.json"
+      }
+    },
     {
       "id": "sommes-nous-dieu-deguise-ef82",
       "title": "Non, Elohim, Alan Watts n'a pas prouvé que tu es Dieu déguisé",
@@ -1902,34 +1930,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/avons-nous-chacun-une-mission-sur-terre-eeaa/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/avons-nous-chacun-une-mission-sur-terre-eeaa.json"
-      }
-    },
-    {
-      "id": "personne-n-a-jamais-prouve-le-contraire-1cf1",
-      "title": "Si la science n'a jamais prouvé le contraire, a-t-on le droit d'y croire ?",
-      "format": "video",
-      "publishedAt": "2026-10-06T10:15:09.435Z",
-      "durationSeconds": 665,
-      "rubric": {
-        "id": "esprit-critique",
-        "name": "Esprit critique"
-      },
-      "claim": null,
-      "technique": {
-        "id": "charge-de-la-preuve",
-        "name": "Le renversement de la charge de la preuve"
-      },
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "mJXyMNvHVT0",
-        "url": "https://www.youtube.com/watch?v=mJXyMNvHVT0",
-        "thumbnail": "https://i.ytimg.com/vi/mJXyMNvHVT0/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/personne-n-a-jamais-prouve-le-contraire-1cf1/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/personne-n-a-jamais-prouve-le-contraire-1cf1.json"
       }
     }
   ]

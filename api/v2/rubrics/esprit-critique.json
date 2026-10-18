@@ -5,6 +5,34 @@
   "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
   "items": [
     {
+      "id": "pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3",
+      "title": "Quand la prophétie échoue : pourquoi nos croyances résistent-elles aux preuves ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T19:00:27.359Z",
+      "durationSeconds": 775,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "infalsifiabilite",
+        "name": "L'affirmation à l'épreuve de tout"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Vj0FLPCpE3Q",
+        "url": "https://www.youtube.com/watch?v=Vj0FLPCpE3Q",
+        "thumbnail": "https://i.ytimg.com/vi/Vj0FLPCpE3Q/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3.json"
+      }
+    },
+    {
       "id": "l-argument-d-autorite-de-grands-savants-y-97e9",
       "title": "Newton, Pasteur, Einstein : pourquoi tant de grands savants croyaient-ils à l'invisible ?",
       "format": "video",

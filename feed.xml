@@ -6,7 +6,16 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sun, 18 Oct 2026 14:41:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 19:01:27 GMT</lastBuildDate>
+<item>
+<title>Quand la prophétie échoue : pourquoi nos croyances résistent-elles aux preuves ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3/</guid>
+<pubDate>Sun, 18 Oct 2026 19:00:27 GMT</pubDate>
+<description>Technique de manipulation : L&apos;affirmation à l&apos;épreuve de tout. Aucune observation ne pourrait jamais la contredire : chaque échec reçoit une excuse.</description>
+<category>L&apos;affirmation à l&apos;épreuve de tout</category>
+<category>Esprit critique</category>
+</item>
 <item>
 <title>Non, Elohim, Alan Watts n&apos;a pas prouvé que tu es Dieu déguisé</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sommes-nous-dieu-deguise-ef82/</link>
@@ -519,15 +528,6 @@
 <category>Le tri des cas favorables</category>
 <category>La relecture après coup</category>
 <category>Philosophie moderne</category>
-</item>
-<item>
-<title>Si la science n&apos;a jamais prouvé le contraire, a-t-on le droit d&apos;y croire ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/personne-n-a-jamais-prouve-le-contraire-1cf1/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/personne-n-a-jamais-prouve-le-contraire-1cf1/</guid>
-<pubDate>Tue, 06 Oct 2026 10:15:09 GMT</pubDate>
-<description>Technique de manipulation : Le renversement de la charge de la preuve. « Prouve-moi que c&apos;est faux » : c&apos;est au sceptique de démontrer, plus à celui qui affirme.</description>
-<category>Le renversement de la charge de la preuve</category>
-<category>Esprit critique</category>
 </item>
 </channel>
 </rss>

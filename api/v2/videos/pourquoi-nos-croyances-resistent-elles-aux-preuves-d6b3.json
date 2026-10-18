@@ -1,0 +1,388 @@
+{
+  "version": 2,
+  "id": "pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3",
+  "title": "Quand la prophétie échoue : pourquoi nos croyances résistent-elles aux preuves ?",
+  "format": "video",
+  "publishedAt": "2026-10-18T19:00:27.359Z",
+  "durationSeconds": 775,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "infalsifiabilite",
+    "name": "L'affirmation à l'épreuve de tout"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "Vj0FLPCpE3Q",
+    "url": "https://www.youtube.com/watch?v=Vj0FLPCpE3Q",
+    "thumbnail": "https://i.ytimg.com/vi/Vj0FLPCpE3Q/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-nos-croyances-resistent-elles-aux-preuves-d6b3.json"
+  },
+  "facts": [
+    {
+      "text": "William Miller, fermier baptiste de l'État de New York, a annoncé à partir de ses calculs sur Daniel 8:14 le retour du Christ vers 1843-1844, sans prétendre à aucune vision, en publiant ses calculs.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Millerism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Millerism"
+        },
+        {
+          "title": "Millerism (entrée encyclopédique)",
+          "publisher": "encyclopedia.pub",
+          "url": "https://encyclopedia.pub/entry/33868"
+        }
+      ]
+    },
+    {
+      "text": "Daniel 8:14 dans la traduction Louis Segond : « Et il me dit : Deux mille trois cents soirs et matins ; puis le sanctuaire sera purifié. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Daniel 8:14 (Louis Segond)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Daniel+8:14&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Miller appliquait le principe jour-année, déjà utilisé par des commentateurs avant lui, et faisait partir le compte d'un décret perse de 457 avant notre ère autorisant la reconstruction de Jérusalem.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Millerism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Millerism"
+        },
+        {
+          "title": "The Prophetic Faith of Our Fathers, vol. 4",
+          "publisher": "Ellen G. White Estate",
+          "url": "https://m.egwwritings.org/it/book/1583.4632"
+        }
+      ]
+    },
+    {
+      "text": "Samuel Snow a fixé la date au 22 octobre 1844 en la calant sur le jour des Expiations.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Where Did October 22 Come From?",
+          "publisher": "Adventist Today",
+          "url": "https://atoday.org/where-did-october-22-come-from/"
+        },
+        {
+          "title": "The Rise and Fall of 1844 – Part 1",
+          "publisher": "Adventist Today",
+          "url": "https://atoday.org/the-rise-and-fall-of-1844-part-1/"
+        }
+      ]
+    },
+    {
+      "text": "Des dizaines de milliers d'Américains, surtout dans le nord-est des États-Unis, attendaient le retour du Christ le 22 octobre 1844 (ordre de grandeur donné notamment par Numbers et Butler).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "“The Year of Jubilee is Come”: Black Millerites and the Politics of Christian Apocalypticism",
+          "publisher": "Church History (Cambridge)",
+          "url": "https://www.cambridge.org/core/journals/church-history/article/year-of-jubilee-is-come-black-millerites-and-the-politics-of-christian-apocalypticism/F654158C8F277412AD0B6B19F55B6688"
+        }
+      ]
+    },
+    {
+      "text": "L'échec a été appelé la Grande Déception, et Miller a ensuite reconnu son erreur sur la date.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Great Disappointment",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Great_Disappointment"
+        },
+        {
+          "title": "Millerism",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Millerism"
+        }
+      ]
+    },
+    {
+      "text": "Hiram Edson, de Port Gibson, a raconté avoir compris, en traversant un champ de maïs le lendemain, que le Christ était entré ce jour-là dans la partie la plus sainte d'un sanctuaire céleste.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hiram Edson: The Man and the Myth",
+          "publisher": "Spectrum Magazine",
+          "url": "https://spectrummagazine.org/culture/hiram-edson-man-and-myth/"
+        },
+        {
+          "title": "Hiram Edson: Disappointed Millerite – Part 4",
+          "publisher": "Adventist Faith",
+          "url": "https://www.adventistfaith.com/news/hiram-edson-disappointed-millerite-part-4/"
+        }
+      ]
+    },
+    {
+      "text": "Hébreux 8:1-5 et 9:11-24 présentent le Christ comme le souverain sacrificateur du tabernacle céleste, dont le sanctuaire terrestre n'est que l'image et l'ombre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hébreux 8:1-5 (Louis Segond)",
+          "publisher": "BibleGateway",
+          "url": "https://www.biblegateway.com/passage/?search=H%C3%A9breux+8:1-5&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "L'Église adventiste du septième jour a été organisée en 1863, revendique des millions de membres et compte le ministère du Christ dans le sanctuaire céleste parmi ses croyances fondamentales.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Seventh-day Adventist World Church Statistics Summary 2024",
+          "publisher": "Adventist Archives",
+          "url": "https://documents.adventistarchives.org/Statistics/Other/SDAWorldChurchStatsSummary2024.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Popper écrit dans Conjectures and Refutations qu'une théorie qu'aucun événement concevable ne peut réfuter n'est pas scientifique, et que l'irréfutabilité est un vice, pas une vertu (traduction de la vidéo).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Irrefutability Quotations (Karl Popper)",
+          "publisher": "Today in Science History",
+          "url": "https://todayinsci.com/QuotationsCategories/I_Cat/Irrefutability-Quotations.htm"
+        }
+      ]
+    },
+    {
+      "text": "En 1846, Urbain Le Verrier a expliqué les écarts de l'orbite d'Uranus par une planète inconnue dont il a calculé la position, et Neptune a été observée tout près de cette position.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Urbain-Jean-Joseph Le Verrier",
+          "publisher": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/print/article/333461"
+        },
+        {
+          "title": "Neptune's existence confirmed",
+          "publisher": "APS News",
+          "url": "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed"
+        }
+      ]
+    },
+    {
+      "text": "En 1956, Festinger, Riecken et Schachter publient When Prophecy Fails, où ils décrivent un groupe qui attendait un déluge pour décembre 1954 et dont des membres se sont mis au prosélytisme après l'échec, en l'expliquant par la dissonance cognitive.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "When Prophecy Fails",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/When_Prophecy_Fails"
+        },
+        {
+          "title": "Dorothy Martin (spiritualist)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dorothy_Martin_(spiritualist)"
+        }
+      ]
+    },
+    {
+      "text": "En 2026, Thomas Kelly a accusé les auteurs de When Prophecy Fails d'avoir déformé leur étude, et Baggio et Amouroux lui ont répondu dans le Journal of the History of the Behavioral Sciences.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "When Criticism Fails: An Answer to Kelly (2026) on Debunking When Prophecy Fails",
+          "publisher": "Journal of the History of the Behavioral Sciences",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70076"
+        }
+      ]
+    },
+    {
+      "text": "Hugo Mercier nuance l'idée d'un biais de confirmation universel et propose plutôt un biais « myside », favorable à son propre camp.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Confirmation bias – myside bias",
+          "publisher": "Cognitive Illusions (Routledge)",
+          "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003154730-7/confirmation-bias-myside-bias-hugo-mercier"
+        }
+      ]
+    },
+    {
+      "text": "En 1665, Nathan de Gaza proclame Sabbataï Tsevi Messie et une grande partie du monde juif l'acclame ; en septembre 1666, à Edirne, sous la menace de la mort, Sabbataï se convertit à l'islam ; selon Gershom Scholem, Nathan justifie cette apostasie par la descente du Messie dans les écorces (forces de l'impureté) pour en libérer les étincelles divines.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Shabbetai Zvi",
+          "publisher": "Jewish Virtual Library",
+          "url": "https://www.jewishvirtuallibrary.org/shabbetai-zvi"
+        },
+        {
+          "title": "Shabbetai Tzevi",
+          "publisher": "Encyclopedia.com",
+          "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shabbetai-tzevi-also-sabbatai-sevi-zevi-or-zebi"
+        }
+      ]
+    },
+    {
+      "text": "À partir des années 1930, des parapsychologues ont testé la télépathie avec des cartes à deviner ; J. B. Rhine a appelé psi-missing des scores nettement inférieurs au hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Joseph Banks Rhine",
+          "publisher": "Psi Encyclopedia (Society for Psychical Research)",
+          "url": "https://psi-encyclopedia.spr.ac.uk/articles/jb-rhine"
+        },
+        {
+          "title": "Zener cards",
+          "publisher": "The Skeptic's Dictionary",
+          "url": "https://skepdic.com/zener.html"
+        }
+      ]
+    },
+    {
+      "text": "Gertrude Schmeidler a décrit un effet mouton-chèvre, invoqué pour expliquer des résultats divergents : les sujets qui croient au phénomène obtiendraient de meilleurs scores que ceux qui n'y croient pas.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Australian sheep-goat scale: an evaluation of factor structure and convergent validity",
+          "publisher": "Frontiers in Psychology",
+          "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01594/full"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Organon (§§ 155-161), Hahnemann décrit une aggravation légère et brève des symptômes après le remède, qu'il interprète comme un signe favorable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Is an \"initial aggravation\" proof of the effect of homeopathy?",
+          "publisher": "Netzwerk Homöopathie",
+          "url": "https://netzwerk-homoeopathie.info/en/?p=10252"
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le National Health and Medical Research Council australien n'a trouvé aucune maladie pour laquelle l'efficacité de l'homéopathie soit établie de façon fiable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Homeopathic drugs ineffective",
+          "publisher": "ANSA",
+          "url": "https://www.ansa.it/english/news/science_tecnology/2015/03/12/homeopathic-drugs-ineffective_f3fff266-a998-422a-8e09-fc4819a9d805.html"
+        }
+      ]
+    },
+    {
+      "text": "Dans The Secret, l'échec d'un vœu est volontiers attribué au doute ou aux pensées négatives, logique analysée par Barbara Ehrenreich dans Smile or Die.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Smile or Die: How Positive Thinking Fooled America and the World (review)",
+          "publisher": "New Humanist",
+          "url": "https://newhumanist.org.uk/articles/smile-or-die-how-positive-thinking-fooled-america-and-the-world-by-barbara-ehrenreich/"
+        }
+      ]
+    },
+    {
+      "text": "Dans le premier chapitre de Conjectures and Refutations, Popper jugeait que les théories de Freud et d'Adler expliquaient aussi bien l'homme qui pousse un enfant à l'eau que celui qui risque sa vie pour le sauver.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Irrefutable Yet False",
+          "publisher": "Clear of Cant",
+          "url": "https://clearofcant.substack.com/p/irrefutable-yet-false"
+        }
+      ]
+    },
+    {
+      "text": "En 1984, Adolf Grünbaum a contesté le verdict de Popper en soutenant que les thèses de Freud sont testables.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Is Freudian psychoanalytic theory pseudo-scientific by Karl Popper's criterion of demarcation?",
+          "publisher": "Arguing About Science (Routledge)",
+          "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9780203718087-4&type=chapterpdf"
+        }
+      ]
+    },
+    {
+      "text": "Nyhan, Porter, Reifler et Wood (2020, Political Behavior) montrent que les vérifications de faits corrigent les croyances factuelles avec peu d'effet boomerang, mais changent à peine l'opinion sur le candidat visé.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Taking Fact-checks Literally But Not Seriously? The Effects of Journalistic Fact-checking on Factual Beliefs and Candidate Favorability",
+          "publisher": "University of Southampton ePrints / Political Behavior",
+          "url": "https://eprints.soton.ac.uk/497059/"
+        }
+      ]
+    },
+    {
+      "text": "Ecker, Lewandowsky et leurs collègues (2011) montrent qu'une information fausse continue d'influencer le raisonnement après sa rectification.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Correcting false information in memory: Manipulating the strength of misinformation encoding and its retraction",
+          "publisher": "Psychonomic Bulletin & Review",
+          "url": "https://link.springer.com/article/10.3758/s13423-011-0065-1"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=p27jwkSkWlM",
+      "own": true
+    },
+    {
+      "title": "Faut-il balancer la dissonance cognitive à la poubelle ?",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=pyzZCJ4ry0A",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Témoigner, débattre ou se taire : peut-on vraiment faire changer quelqu'un d'avis ?",
+    "url": "https://www.youtube.com/watch?v=NB6iXbIfo-w"
+  },
+  "shorts": [],
+  "corrections": []
+}
