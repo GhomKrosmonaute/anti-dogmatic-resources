@@ -5,6 +5,44 @@
   "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie",
   "items": [
     {
+      "id": "camus-et-l-absurde-e332",
+      "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:32:04.563Z",
+      "durationSeconds": 722,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Avec Le Mythe de Sisyphe, Camus montre qu'on peut vivre lucide et heureux sans aucune consolation, sans Dieu ni promesse d'au-delà.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "9jQ08mCSFRE",
+        "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE",
+        "thumbnail": "https://i.ytimg.com/vi/9jQ08mCSFRE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/camus-et-l-absurde-e332/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/camus-et-l-absurde-e332.json"
+      }
+    },
+    {
       "id": "sentir-la-presence-d-un-proche-defunt-pendant-le-120d",
       "title": "Non, La Télé de Lilou Macé, sentir un défunt ne prouve pas l'âme",
       "format": "short",

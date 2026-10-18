@@ -1,0 +1,220 @@
+{
+  "version": 2,
+  "id": "comment-se-passe-vraiment-une-seance-de-voyance-7f10",
+  "title": "Comment se passe vraiment une séance de voyance, du rendez-vous au dernier tirage ?",
+  "format": "video",
+  "publishedAt": "2026-10-18T11:30:25.522Z",
+  "durationSeconds": 676,
+  "rubric": {
+    "id": "pseudo-sciences",
+    "name": "Pseudo-sciences et charlatans"
+  },
+  "claim": {
+    "statement": "Pendant une séance, une vraie voyante perçoit sur toi des choses que tu ne lui as jamais dites.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "La justesse ressentie pendant une séance est bien réelle, mais elle naît de la lecture à froid, de l'effet Barnum et du tri que fait la mémoire du consultant entre réussites et ratés. Dès qu'on retire les indices, comme dans le test en aveugle d'O'Keeffe et Wiseman (2005) où médiums et consultants ne se rencontraient jamais, aucune faculté authentique n'apparaît."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "Jbcn3B6SW6U",
+    "url": "https://www.youtube.com/watch?v=Jbcn3B6SW6U",
+    "thumbnail": "https://i.ytimg.com/vi/Jbcn3B6SW6U/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-se-passe-vraiment-une-seance-de-voyance-7f10/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-se-passe-vraiment-une-seance-de-voyance-7f10.json"
+  },
+  "facts": [
+    {
+      "text": "Les consultations de voyance par téléphone sont souvent facturées à la minute.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Numéros surtaxés : des professionnels pris la main dans le sac",
+          "publisher": "UFC-Que Choisir",
+          "url": "https://www.quechoisir.org/actualite-numeros-surtaxes-des-professionnels-pris-la-main-dans-le-sac-n165452/"
+        }
+      ]
+    },
+    {
+      "text": "Ian Rowland est mentaliste et a publié The Full Facts Book of Cold Reading, dont la première édition date de 1998, qui décrit le fonctionnement d'une lecture « psychique » ; c'est le témoignage d'un praticien sceptique, pas une étude académique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Full Facts Book of Cold Reading by Ian Rowland (compte rendu)",
+          "publisher": "Vanishing Inc. Magic (recension citant Jamy Ian Swiss, Genii)",
+          "url": "https://www.vanishingincmagic.com/magic-book-reviews/the-full-facts-book-of-cold-reading/"
+        }
+      ]
+    },
+    {
+      "text": "Dans son ouvrage, Ian Rowland décrit des procédés qu'il nomme « vanishing negative » (le négatif qui s'évanouit) et « rainbow ruse » (une affirmation qui attribue un trait et son contraire).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cold reading techniques",
+          "publisher": "Ian Rowland",
+          "url": "https://www.ianrowland.com/cold-reading-techniques"
+        }
+      ]
+    },
+    {
+      "text": "La validation subjective désigne la tendance à juger exact un propos qui semble nous concerner en cherchant dans sa propre vie ce qui lui correspond.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Subjective validation",
+          "publisher": "The Skeptic's Dictionary",
+          "url": "https://www.skepdic.com/subjectivevalidation.html"
+        }
+      ]
+    },
+    {
+      "text": "En 1949, Bertram Forer a remis à ses étudiants un même portrait de personnalité, composé de phrases tirées d'un horoscope et présenté comme issu d'un test ; ils l'ont jugé très exact.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Fallacy of Personal Validation: A Classroom Demonstration of Gullibility",
+          "publisher": "Forer, B. R. (1949), J. Abnormal and Social Psychology",
+          "url": "https://www.scribd.com/doc/17378132/The-Fallacy-of-Personal-Validation-a-Classroom-Demonstration-of-Gullibility"
+        }
+      ]
+    },
+    {
+      "text": "Le portrait de Forer commence par des phrases traduisibles par « Vous avez grandement besoin que les autres vous apprécient et vous admirent. Vous avez tendance à être critique envers vous-même. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Fallacy of Personal Validation: A Classroom Demonstration of Gullibility",
+          "publisher": "Forer, B. R. (1949), J. Abnormal and Social Psychology",
+          "url": "https://www.scribd.com/doc/17378132/The-Fallacy-of-Personal-Validation-a-Classroom-Demonstration-of-Gullibility"
+        }
+      ]
+    },
+    {
+      "text": "La revue de Dickson et Kelly (1985) montre que l'acceptation d'un portrait vague dépend de sa pertinence perçue et de son caractère flatteur, et que le prestige de la source la renforce.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The 'Barnum Effect' in Personality Assessment: A Review of the Literature",
+          "publisher": "Psychological Reports, 57, 367-382 (copie hébergée par CorTeCS)",
+          "url": "https://cortecs.org/wp-content/uploads/2014/12/the-barnum-effect-in-personality-assessment-a-review-of-the-literature.pdf"
+        }
+      ]
+    },
+    {
+      "text": "O'Keeffe et Wiseman (2005, British Journal of Psychology) ont testé en aveugle cinq médiums professionnels et cinq consultants, soit vingt-cinq lectures, sans que médiums et consultants se rencontrent, et n'ont trouvé aucun résultat en faveur d'une faculté authentique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Testing mediums (BPS Research Digest)",
+          "publisher": "British Psychological Society, Research Digest",
+          "url": "https://www.bps.org.uk/research-digest/testing-mediums"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'étude d'O'Keeffe et Wiseman, les consultants ont noté les lectures sans savoir lesquelles leur étaient destinées.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Testing mediums (BPS Research Digest)",
+          "publisher": "British Psychological Society, Research Digest",
+          "url": "https://www.bps.org.uk/research-digest/testing-mediums"
+        }
+      ]
+    },
+    {
+      "text": "Et la British Psychological Society relève un détail parlant : les déclarations générales récoltaient les meilleures notes, quel que soit leur destinataire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Testing mediums (BPS Research Digest)",
+          "publisher": "British Psychological Society, Research Digest",
+          "url": "https://www.bps.org.uk/research-digest/testing-mediums"
+        }
+      ]
+    },
+    {
+      "text": "L'article 223-15-2 du Code pénal réprime l'abus frauduleux de l'état d'ignorance ou de la situation de faiblesse d'une personne particulièrement vulnérable, lorsqu'il la conduit à un acte ou une abstention gravement préjudiciable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Circulaire relative à la loi du 12 juin 2001",
+          "publisher": "Ministère de la Justice",
+          "url": "https://justice.gouv.fr/sites/default/files/migrations/textes/art_pix/JUSD1125511C.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Le psychologue Ray Hyman a raconté qu'adolescent il lisait les lignes de la main et croyait à son talent, jusqu'à ce que le mentaliste Stanley Jaks lui suggère d'annoncer l'inverse de ce qu'indiquaient les lignes, et que ses clients le trouvent tout aussi juste.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hyman, Cold Reading manual",
+          "publisher": "Ray Hyman",
+          "url": "https://www.deceptionary.com/ftp/Hyman-CRManual.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La Tronche en Biais a consacré un hors-série, « William le medium », au discours d'un médium qui l'avait démarchée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "William le medium - TeB Hors Série #1",
+          "publisher": "TheTVDB",
+          "url": "https://thetvdb.com/series/la-tronche-en-biais/episodes/7592308"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "William le medium -- TeB Hors Série #1",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=5E6fPSeTWVM",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+    "url": "https://www.youtube.com/watch?v=xe7folt44Ko"
+  },
+  "shorts": [],
+  "corrections": []
+}

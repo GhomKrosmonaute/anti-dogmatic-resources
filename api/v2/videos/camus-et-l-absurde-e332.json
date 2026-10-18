@@ -1,0 +1,370 @@
+{
+  "version": 2,
+  "id": "camus-et-l-absurde-e332",
+  "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+  "format": "video",
+  "publishedAt": "2026-10-18T11:32:04.563Z",
+  "durationSeconds": 722,
+  "rubric": {
+    "id": "philosophie",
+    "name": "Philosophie moderne"
+  },
+  "claim": {
+    "statement": "Avec Le Mythe de Sisyphe, Camus montre qu'on peut vivre lucide et heureux sans aucune consolation, sans Dieu ni promesse d'au-delà.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Le Mythe de Sisyphe répond brillamment à la question du suicide, mais ne démontre pas qu'on puisse vivre sans consolation. Après avoir condamné chez Kierkegaard, Chestov et Jaspers le fait de tirer espoir de ce qui les écrase, Camus conclut en décrétant Sisyphe heureux : un bonheur imposé par un « il faut », sans au-delà, mais qui fonctionne comme un réconfort."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "9jQ08mCSFRE",
+    "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE",
+    "thumbnail": "https://i.ytimg.com/vi/9jQ08mCSFRE/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/camus-et-l-absurde-e332/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/camus-et-l-absurde-e332.json"
+  },
+  "facts": [
+    {
+      "text": "Le Mythe de Sisyphe d'Albert Camus a été publié en 1942 chez Gallimard, la même année que le roman L'Étranger.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Albert Camus est né en Algérie en 1913.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Albert Camus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+        }
+      ]
+    },
+    {
+      "text": "Albert Camus a reçu le prix Nobel de littérature en 1957 et est mort dans un accident de voiture en janvier 1960.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Albert Camus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+        }
+      ]
+    },
+    {
+      "text": "Le Mythe de Sisyphe s'ouvre sur la phrase : « Il n'y a qu'un problème philosophique vraiment sérieux : c'est le suicide. Juger que la vie vaut ou ne vaut pas la peine d'être vécue, c'est répondre à la question fondamentale de la philosophie. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit dans Le Mythe de Sisyphe : « Lever, tramway, quatre heures de bureau ou d'usine, repas, tramway, quatre heures de travail, repas, sommeil et lundi mardi mercredi jeudi vendredi et samedi sur le même rythme. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit : « Ce monde en lui-même n'est pas raisonnable, c'est tout ce qu'on en peut dire. Mais ce qui est absurde, c'est la confrontation de cet irrationnel et de ce désir éperdu de clarté dont l'appel résonne au plus profond de l'homme. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit : « Je tire ainsi de l'absurde trois conséquences qui sont ma révolte, ma liberté et ma passion. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Revolt, Freedom, Passion",
+          "publisher": "Inquiry into Inquiry",
+          "url": "https://inquiryintoinquiry.com/2013/04/23/revolt-freedom-passion/"
+        }
+      ]
+    },
+    {
+      "text": "Camus oppose à la fuite dans l'espoir la révolte et la lucidité.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus Summary",
+          "publisher": "SparkNotes",
+          "url": "https://www.sparknotes.com/philosophy/sisyphus/summary/"
+        }
+      ]
+    },
+    {
+      "text": "Dans le mythe grec repris par Camus, Sisyphe est condamné par les dieux à rouler un rocher jusqu'au sommet d'une montagne, d'où la pierre retombe sans cesse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit à propos de la redescente de Sisyphe : « Cette heure qui est comme une respiration et qui revient aussi sûrement que son malheur, cette heure est celle de la conscience. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit : « Il n'est pas de destin qui ne se surmonte par le mépris. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Le Mythe de Sisyphe se conclut par : « La lutte elle-même vers les sommets suffit à remplir un cœur d'homme. Il faut imaginer Sisyphe heureux. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Dans le chapitre « Le suicide philosophique », Camus reproche à Kierkegaard, Chestov, Jaspers, ainsi qu'à Husserl et Heidegger, de fuir l'absurde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus lit Kierkegaard comme faisant le saut dans la foi, Chestov comme faisant de Dieu le recours de l'impossible, et Jaspers comme lisant dans l'échec de la pensée le signe d'une transcendance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit des philosophes existentiels : « Ils divinisent ce qui les écrase et trouvent une raison d'espérer dans ce qui les démunit. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus qualifie l'espoir d'esquive dans Le Mythe de Sisyphe.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "En commentant Kierkegaard, Camus écrit : « L'absurde, c'est le péché sans Dieu. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Dans le dernier chapitre du Mythe de Sisyphe, Camus écrit : « Le bonheur et l'absurde sont deux fils de la même terre. Ils sont inséparables. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "En 1943, Sartre publie « Explication de L'Étranger », reprise dans Situations I, où il remarque que Camus cite Kierkegaard, Jaspers et Heidegger sans toujours bien les comprendre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Explication de L'Étranger",
+          "publisher": "BookBrainz",
+          "url": "https://bookbrainz.org/work/46ca7e85-ad5f-4eb6-9090-f669eb7212ca"
+        },
+        {
+          "title": "Jean-Paul Sartre bibliography",
+          "publisher": "Nobel Prize",
+          "url": "https://nobelprize.org/prizes/literature/1964/sartre/bibliography"
+        }
+      ]
+    },
+    {
+      "text": "L'Homme révolté paraît en 1951 et contient la formule « Je me révolte, donc nous sommes. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "L'Homme révolté, fiche de lecture",
+          "publisher": "Encyclopædia Universalis",
+          "url": "https://www.universalis.fr/encyclopedie/l-homme-revolte/2-la-pensee-de-midi/"
+        }
+      ]
+    },
+    {
+      "text": "En mai 1952, Les Temps modernes, revue dirigée par Sartre, publient une critique de L'Homme révolté signée Francis Jeanson ; Camus répond et Sartre réplique en août 1952 par une lettre ouverte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Francis Jeanson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Francis_Jeanson"
+        },
+        {
+          "title": "The Camus-Sartre spat and a “unique dissident voice.”",
+          "publisher": "Stanford",
+          "url": "https://anotherlook.stanford.edu/?p=2391"
+        }
+      ]
+    },
+    {
+      "text": "Dans sa réponse à Camus de 1952, Sartre écrit : « Votre morale s'est d'abord changée en moralisme, aujourd'hui elle n'est plus que littérature, demain elle sera peut-être immoralité. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Camus-Sartre spat and a “unique dissident voice.”",
+          "publisher": "Stanford",
+          "url": "https://anotherlook.stanford.edu/?p=2391"
+        }
+      ]
+    },
+    {
+      "text": "La querelle Camus-Sartre de 1952 portait d'abord sur la révolution et l'Union soviétique, sur fond de guerre froide.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Camus-Sartre spat and a “unique dissident voice.”",
+          "publisher": "Stanford",
+          "url": "https://anotherlook.stanford.edu/?p=2391"
+        }
+      ]
+    },
+    {
+      "text": "Camus écrit : « L'absurde naît de cette confrontation entre l'appel humain et le silence déraisonnable du monde. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Myth of Sisyphus",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+        }
+      ]
+    },
+    {
+      "text": "Camus emploie dans Le Mythe de Sisyphe l'expression « nostalgie d'unité » pour désigner le besoin humain d'un monde qui ait un sens.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The concept of nostalgia for unity and the feeling of the absurd in Albert Camus's The myth of Sisyphus",
+          "publisher": "Saber Humano",
+          "url": "https://saberhumano.emnuvens.com.br/sh/article/view/710"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [
+    {
+      "title": "Peut-on vivre sans croire en rien ? Nihilisme, doute et ce qui se passe dans le cerveau",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=1iPKqdJlIpI",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+    "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU"
+  },
+  "shorts": [],
+  "corrections": []
+}

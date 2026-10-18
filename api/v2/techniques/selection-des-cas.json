@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "comment-se-passe-vraiment-une-seance-de-voyance-7f10",
+      "title": "Comment se passe vraiment une séance de voyance, du rendez-vous au dernier tirage ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:30:25.522Z",
+      "durationSeconds": 676,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Pendant une séance, une vraie voyante perçoit sur toi des choses que tu ne lui as jamais dites.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Jbcn3B6SW6U",
+        "url": "https://www.youtube.com/watch?v=Jbcn3B6SW6U",
+        "thumbnail": "https://i.ytimg.com/vi/Jbcn3B6SW6U/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-se-passe-vraiment-une-seance-de-voyance-7f10/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-se-passe-vraiment-une-seance-de-voyance-7f10.json"
+      }
+    },
+    {
       "id": "la-meritocratie-recompense-t-elle-vraiment-ceux-1e36",
       "title": "La méritocratie récompense-t-elle vraiment ceux qui travaillent dur ?",
       "format": "video",

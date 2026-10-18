@@ -1,9 +1,1017 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-15T11:26:18.038Z",
+  "generatedAt": "2026-10-18T11:33:05.144Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "camus-et-l-absurde-e332",
+      "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:32:04.563Z",
+      "durationSeconds": 722,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Avec Le Mythe de Sisyphe, Camus montre qu'on peut vivre lucide et heureux sans aucune consolation, sans Dieu ni promesse d'au-delà.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Le Mythe de Sisyphe répond brillamment à la question du suicide, mais ne démontre pas qu'on puisse vivre sans consolation. Après avoir condamné chez Kierkegaard, Chestov et Jaspers le fait de tirer espoir de ce qui les écrase, Camus conclut en décrétant Sisyphe heureux : un bonheur imposé par un « il faut », sans au-delà, mais qui fonctionne comme un réconfort."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "9jQ08mCSFRE",
+        "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE",
+        "thumbnail": "https://i.ytimg.com/vi/9jQ08mCSFRE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/camus-et-l-absurde-e332/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/camus-et-l-absurde-e332.json"
+      },
+      "facts": [
+        {
+          "text": "Le Mythe de Sisyphe d'Albert Camus a été publié en 1942 chez Gallimard, la même année que le roman L'Étranger.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Albert Camus est né en Algérie en 1913.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Albert Camus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+            }
+          ]
+        },
+        {
+          "text": "Albert Camus a reçu le prix Nobel de littérature en 1957 et est mort dans un accident de voiture en janvier 1960.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Albert Camus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+            }
+          ]
+        },
+        {
+          "text": "Le Mythe de Sisyphe s'ouvre sur la phrase : « Il n'y a qu'un problème philosophique vraiment sérieux : c'est le suicide. Juger que la vie vaut ou ne vaut pas la peine d'être vécue, c'est répondre à la question fondamentale de la philosophie. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit dans Le Mythe de Sisyphe : « Lever, tramway, quatre heures de bureau ou d'usine, repas, tramway, quatre heures de travail, repas, sommeil et lundi mardi mercredi jeudi vendredi et samedi sur le même rythme. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit : « Ce monde en lui-même n'est pas raisonnable, c'est tout ce qu'on en peut dire. Mais ce qui est absurde, c'est la confrontation de cet irrationnel et de ce désir éperdu de clarté dont l'appel résonne au plus profond de l'homme. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit : « Je tire ainsi de l'absurde trois conséquences qui sont ma révolte, ma liberté et ma passion. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Revolt, Freedom, Passion",
+              "publisher": "Inquiry into Inquiry",
+              "url": "https://inquiryintoinquiry.com/2013/04/23/revolt-freedom-passion/"
+            }
+          ]
+        },
+        {
+          "text": "Camus oppose à la fuite dans l'espoir la révolte et la lucidité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus Summary",
+              "publisher": "SparkNotes",
+              "url": "https://www.sparknotes.com/philosophy/sisyphus/summary/"
+            }
+          ]
+        },
+        {
+          "text": "Dans le mythe grec repris par Camus, Sisyphe est condamné par les dieux à rouler un rocher jusqu'au sommet d'une montagne, d'où la pierre retombe sans cesse.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit à propos de la redescente de Sisyphe : « Cette heure qui est comme une respiration et qui revient aussi sûrement que son malheur, cette heure est celle de la conscience. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit : « Il n'est pas de destin qui ne se surmonte par le mépris. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Le Mythe de Sisyphe se conclut par : « La lutte elle-même vers les sommets suffit à remplir un cœur d'homme. Il faut imaginer Sisyphe heureux. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Dans le chapitre « Le suicide philosophique », Camus reproche à Kierkegaard, Chestov, Jaspers, ainsi qu'à Husserl et Heidegger, de fuir l'absurde.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus lit Kierkegaard comme faisant le saut dans la foi, Chestov comme faisant de Dieu le recours de l'impossible, et Jaspers comme lisant dans l'échec de la pensée le signe d'une transcendance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit des philosophes existentiels : « Ils divinisent ce qui les écrase et trouvent une raison d'espérer dans ce qui les démunit. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus qualifie l'espoir d'esquive dans Le Mythe de Sisyphe.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "En commentant Kierkegaard, Camus écrit : « L'absurde, c'est le péché sans Dieu. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Dans le dernier chapitre du Mythe de Sisyphe, Camus écrit : « Le bonheur et l'absurde sont deux fils de la même terre. Ils sont inséparables. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "En 1943, Sartre publie « Explication de L'Étranger », reprise dans Situations I, où il remarque que Camus cite Kierkegaard, Jaspers et Heidegger sans toujours bien les comprendre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Explication de L'Étranger",
+              "publisher": "BookBrainz",
+              "url": "https://bookbrainz.org/work/46ca7e85-ad5f-4eb6-9090-f669eb7212ca"
+            },
+            {
+              "title": "Jean-Paul Sartre bibliography",
+              "publisher": "Nobel Prize",
+              "url": "https://nobelprize.org/prizes/literature/1964/sartre/bibliography"
+            }
+          ]
+        },
+        {
+          "text": "L'Homme révolté paraît en 1951 et contient la formule « Je me révolte, donc nous sommes. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "L'Homme révolté, fiche de lecture",
+              "publisher": "Encyclopædia Universalis",
+              "url": "https://www.universalis.fr/encyclopedie/l-homme-revolte/2-la-pensee-de-midi/"
+            }
+          ]
+        },
+        {
+          "text": "En mai 1952, Les Temps modernes, revue dirigée par Sartre, publient une critique de L'Homme révolté signée Francis Jeanson ; Camus répond et Sartre réplique en août 1952 par une lettre ouverte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Francis Jeanson",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Francis_Jeanson"
+            },
+            {
+              "title": "The Camus-Sartre spat and a “unique dissident voice.”",
+              "publisher": "Stanford",
+              "url": "https://anotherlook.stanford.edu/?p=2391"
+            }
+          ]
+        },
+        {
+          "text": "Dans sa réponse à Camus de 1952, Sartre écrit : « Votre morale s'est d'abord changée en moralisme, aujourd'hui elle n'est plus que littérature, demain elle sera peut-être immoralité. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Camus-Sartre spat and a “unique dissident voice.”",
+              "publisher": "Stanford",
+              "url": "https://anotherlook.stanford.edu/?p=2391"
+            }
+          ]
+        },
+        {
+          "text": "La querelle Camus-Sartre de 1952 portait d'abord sur la révolution et l'Union soviétique, sur fond de guerre froide.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Camus-Sartre spat and a “unique dissident voice.”",
+              "publisher": "Stanford",
+              "url": "https://anotherlook.stanford.edu/?p=2391"
+            }
+          ]
+        },
+        {
+          "text": "Camus écrit : « L'absurde naît de cette confrontation entre l'appel humain et le silence déraisonnable du monde. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Myth of Sisyphus",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus"
+            }
+          ]
+        },
+        {
+          "text": "Camus emploie dans Le Mythe de Sisyphe l'expression « nostalgie d'unité » pour désigner le besoin humain d'un monde qui ait un sens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The concept of nostalgia for unity and the feeling of the absurd in Albert Camus's The myth of Sisyphus",
+              "publisher": "Saber Humano",
+              "url": "https://saberhumano.emnuvens.com.br/sh/article/view/710"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Peut-on vivre sans croire en rien ? Nihilisme, doute et ce qui se passe dans le cerveau",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=1iPKqdJlIpI",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "« Sans Dieu, tout est permis » : anatomie d'un chantage moral",
+        "url": "https://www.youtube.com/watch?v=xr-j1jeo9YU"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "l-argument-d-autorite-de-grands-savants-y-97e9",
+      "title": "Newton, Pasteur, Einstein : pourquoi tant de grands savants croyaient-ils à l'invisible ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:31:13.965Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JJy7kRdmGKM",
+        "url": "https://www.youtube.com/watch?v=JJy7kRdmGKM",
+        "thumbnail": "https://i.ytimg.com/vi/JJy7kRdmGKM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-de-grands-savants-y-97e9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-de-grands-savants-y-97e9.json"
+      },
+      "facts": [
+        {
+          "text": "Newton est mort en 1727 et ses papiers contiennent une masse importante de notes alchimiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Newton, the Last Magician",
+              "publisher": "National Endowment for the Humanities",
+              "url": "https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician"
+            }
+          ]
+        },
+        {
+          "text": "William Newman, dans Newton the Alchemist (Princeton University Press, 2019), montre, manuscrits et reproductions d'expériences à l'appui, que Newton a pratiqué l'alchimie plus de trente ans en expérimentateur, ni pur rationaliste ni mage, et que cette alchimie a nourri d'autres recherches, dont l'optique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Newton the Alchemist: Science, Enigma, and the Quest for Nature's \"Secret Fire\"",
+              "publisher": "Princeton University Press",
+              "url": "https://press.princeton.edu/node/6739"
+            }
+          ]
+        },
+        {
+          "text": "Le talent de Newton n'a pas rendu l'alchimie vraie : aucune transmutation n'a été obtenue.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "William R. Newman on Newton the Alchemist",
+              "publisher": "Princeton University Press",
+              "url": "https://press.princeton.edu/node/5578"
+            },
+            {
+              "title": "Newton's Alchemical Sublimations",
+              "publisher": "University of Oxford",
+              "url": "https://www.cabinet.ox.ac.uk/node/11108"
+            }
+          ]
+        },
+        {
+          "text": "John Maynard Keynes a acheté une partie des papiers de Newton aux enchères en 1936 et a écrit que Newton n'était pas le premier de l'âge de la raison mais le dernier des magiciens.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Newton, the Last Magician",
+              "publisher": "National Endowment for the Humanities",
+              "url": "https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician"
+            }
+          ]
+        },
+        {
+          "text": "La phrase « Un peu de science éloigne de Dieu, beaucoup de science y ramène » est attribuée à Pasteur sans texte ni date d'origine identifiés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Citation de Louis Pasteur : Un peu de science éloigne de Dieu...",
+              "publisher": "L'Internaute",
+              "url": "https://www.linternaute.fr/citation/3519/un-peu-de-science-eloigne-de-dieu--beaucoup-de-science-y-ramene---louis-pasteur/"
+            }
+          ]
+        },
+        {
+          "text": "Francis Bacon, dans son essai Of Atheism (début du XVIIe siècle), écrit qu'un peu de philosophie incline à l'athéisme et que la profondeur en philosophie ramène à la religion.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Essay 16, \"Of Atheism\"",
+              "publisher": "University of Pennsylvania",
+              "url": "https://knarf.english.upenn.edu/EtAlia/bacon16.html"
+            },
+            {
+              "title": "Quote Investigator : A little philosophy...",
+              "publisher": "Quote Investigator",
+              "url": "https://quoteinvestigator.com/2018/08/25/philosophy/"
+            }
+          ]
+        },
+        {
+          "text": "Pasteur est associé à la pasteurisation et au vaccin contre la rage, et a combattu la génération spontanée avec des ballons à col de cygne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Louis Pasteur",
+              "publisher": "New World Encyclopedia",
+              "url": "https://newworldencyclopedia.org/entry/Louis_Pasteur"
+            },
+            {
+              "title": "Medical science: Pasteur's swan-neck flask",
+              "publisher": "Medical Museum",
+              "url": "https://medicalmuseum.org.uk/medical-science-pasteurs-swan-neck-flask"
+            }
+          ]
+        },
+        {
+          "text": "Einstein a écrit dans un texte publié en 1941 que la science sans la religion est boiteuse et la religion sans la science aveugle, et le même texte invite les religions à abandonner l'idée d'un Dieu personnel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "\"Science and Religion\" by Albert Einstein",
+              "publisher": "Rutgers",
+              "url": "https://crab.rutgers.edu/users/scharme/einstein.htm"
+            }
+          ]
+        },
+        {
+          "text": "En 1929, Einstein a répondu par télégramme au rabbin Herbert Goldstein qu'il croyait au Dieu de Spinoza, et non à un Dieu qui se soucie du destin et des actes des humains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Did Einstein Say He Believed in the Pantheistic God of Baruch Spinoza?",
+              "publisher": "Snopes",
+              "url": "https://www.snopes.com/fact-check/einstein-pantheism-baruch-spinoza/"
+            },
+            {
+              "title": "How One Quiet Man Became Everyone's Sage: The Spiritual Recasting of Einstein",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/pdf/2505.19695"
+            }
+          ]
+        },
+        {
+          "text": "Dans sa lettre à Eric Gutkind de 1954, Einstein écrit que le mot Dieu n'est que l'expression et le produit des faiblesses humaines et que la Bible est un recueil de légendes vénérables mais assez primitives.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Einstein letter doubting God auctioned for $2.89 mln",
+              "publisher": "Daily Maverick (Reuters)",
+              "url": "https://www.dailymaverick.co.za/article/2018-12-05-einstein-letter-doubting-god-auctioned-for-2-89-mln"
+            }
+          ]
+        },
+        {
+          "text": "La lettre à Gutkind a été vendue 2,89 millions de dollars chez Christie's en décembre 2018.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Einstein letter doubting God auctioned for $2.89 mln",
+              "publisher": "Daily Maverick (Reuters)",
+              "url": "https://www.dailymaverick.co.za/article/2018-12-05-einstein-letter-doubting-god-auctioned-for-2-89-mln"
+            },
+            {
+              "title": "Une lettre d'Einstein sur Dieu vendue 2,89 millions de dollars",
+              "publisher": "RTBF",
+              "url": "https://www.rtbf.be/article/une-lettre-d-einstein-sur-dieu-vendue-2-89-millions-de-dollars-10089867"
+            }
+          ]
+        },
+        {
+          "text": "Linus Pauling est le seul lauréat de deux prix Nobel non partagés : chimie en 1954 et paix en 1962.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Linus Pauling – Biographical",
+              "publisher": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/peace/1962/pauling/biographical/"
+            }
+          ]
+        },
+        {
+          "text": "Pauling a défendu la vitamine C à haute dose contre le rhume et contre le cancer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Losing and finding a way at C: New promise for pharmacologic ascorbate in cancer treatment",
+              "publisher": "Free Radical Biology & Medicine",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2981594"
+            },
+            {
+              "title": "High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy: a randomized double-blind comparison",
+              "publisher": "New England Journal of Medicine (PubMed)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3880867/"
+            }
+          ]
+        },
+        {
+          "text": "Newton a écrit en 1675 avoir vu loin parce qu'il se tenait sur des épaules de géants.",
+          "status": "waived",
+          "note": "Imprécision mineure levée automatiquement. La lettre à Hooke est datée du 5 février 1675 en ancien style, soit 1676 en calendrier actuel ; « en 1675 » est donc ambigu sans mention « ancien style » (date de mémoire, non retrouvée en ligne). Correction proposée : Newton a écrit à Hooke, le 5 février 1675/6 (soit 1676 en style moderne), qu'il avait vu plus loin parce qu'il se tenait sur les épaules de géants.",
+          "sources": []
+        },
+        {
+          "text": "Ces savants ont contribué au calcul infinitésimal, à la théorie des germes, à la relativité et à la compréhension de la liaison chimique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Linus Pauling – Biographical",
+              "publisher": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/peace/1962/pauling/biographical/"
+            }
+          ]
+        },
+        {
+          "text": "Selon Wagemans (Argumentation, 2011), l'appel à l'opinion d'expert n'est pas fallacieux en soi et s'évalue par les questions critiques de Walton : compétence dans le domaine, accord des autres experts, appui sur des preuves.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The assessment of argumentation from expert opinion",
+              "publisher": "Argumentation (Springer)",
+              "url": "https://link.springer.com/article/10.1007/s10503-011-9225-8"
+            }
+          ]
+        },
+        {
+          "text": "L'effet de halo a été décrit par Edward Thorndike en 1920.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A constant error in psychological ratings (1920)",
+              "publisher": "Journal of Applied Psychology (copie Gwern)",
+              "url": "https://www.gwern.net/doc/psychology/personality/1920-thorndike.pdf"
+            }
+          ]
+        },
+        {
+          "text": "La chimie du XVIIIe siècle, fondée sur des pesées précises, a supplanté l'alchimie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Antoine-Laurent Lavoisier",
+              "publisher": "Science History Institute",
+              "url": "https://www.sciencehistory.org/education/scientific-biographies/antoine-laurent-lavoisier"
+            },
+            {
+              "title": "Lavoisier and the Traité élémentaire de chimie",
+              "publisher": "ChemistryViews",
+              "url": "https://www.chemistryviews.org/?p=40134"
+            }
+          ]
+        },
+        {
+          "text": "La relativité générale a été testée par des observations d'éclipses et des mesures d'horloges.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bending space–time: a commentary on Dyson, Eddington and Davidson (1920)",
+              "publisher": "Philosophical Transactions of the Royal Society A (Longair, 2015)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360090"
+            },
+            {
+              "title": "Hafele–Keating experiment",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment"
+            }
+          ]
+        },
+        {
+          "text": "Cameron et Pauling ont publié en 1976 et 1978 dans PNAS des séries rétrospectives de patients cancéreux traités à la vitamine C, critiquées pour l'absence de placebo et d'aveugle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Losing and finding a way at C: New promise for pharmacologic ascorbate in cancer treatment",
+              "publisher": "Free Radical Biology & Medicine",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2981594"
+            },
+            {
+              "title": "High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy: a randomized double-blind comparison",
+              "publisher": "New England Journal of Medicine (PubMed)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3880867/"
+            }
+          ]
+        },
+        {
+          "text": "Ewan Cameron était un chirurgien écossais.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ewan Cameron",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ewan_Cameron"
+            },
+            {
+              "title": "Ewan Cameron Papers – Biographical Note",
+              "publisher": "Oregon State University Special Collections",
+              "url": "https://scarc.library.oregonstate.edu/coll/cameron/biographicalnote.html"
+            }
+          ]
+        },
+        {
+          "text": "L'essai de Moertel et coll. (1985), randomisé en double aveugle sur 100 patients atteints d'un cancer colorectal avancé, n'a montré aucun avantage de 10 g/jour de vitamine C sur le placebo, ni pour la progression ni pour la survie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy: a randomized double-blind comparison",
+              "publisher": "New England Journal of Medicine (PubMed)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3880867/"
+            }
+          ]
+        },
+        {
+          "text": "Les essais de la Mayo Clinic n'ont utilisé que la voie orale, qui n'atteint pas les concentrations de la voie intraveineuse ; la question de l'intraveineuse reste ouverte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Losing and finding a way at C: New promise for pharmacologic ascorbate in cancer treatment",
+              "publisher": "Free Radical Biology & Medicine",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2981594"
+            },
+            {
+              "title": "Intravenously administered vitamin C as cancer therapy: three cases",
+              "publisher": "CMAJ",
+              "url": "https://www.cmaj.ca/custom-print/144810"
+            }
+          ]
+        },
+        {
+          "text": "Newton a réfuté la théorie des tourbillons de Descartes et Einstein a corrigé la gravitation newtonienne.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Smeenk, draft on Newton's General Scholium and vortices",
+              "publisher": "University of Western Ontario",
+              "url": "https://publish.uwo.ca/~csmeenk2/files/SmeenkGSDraftWeb.pdf"
+            },
+            {
+              "title": "Janssen and Renn, Einstein and the perihelion motion of Mercury",
+              "publisher": "arXiv",
+              "url": "https://arxiv.org/abs/2111.11238v1"
+            }
+          ]
+        },
+        {
+          "text": "Le Dieu de Spinoza s'identifie à la nature et à ses lois, sans volonté personnelle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Baruch Spinoza",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/archives/spr2006/entries/spinoza/"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "confidence",
+        "domain": "pharmacologie et médecine clinique (essais cliniques en oncologie, biostatistique)",
+        "threshold": 6.6,
+        "passages": 6,
+        "approximations": [
+          {
+            "excerpt": "Newton a consacré plus de trente ans à l'alchimie, Einstein parlait de Dieu, on cite partout la foi de Pasteur, et Linus Pauling, deux fois prix Nobel, ne jurait que par la vitamine C.",
+            "note": "« Plus de trente ans » est une durée approximative d'historien, sans conséquence sur l'argument, qui ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "Cette lettre a été adjugée deux millions huit cent quatre-vingt-dix mille dollars chez Christie's, en décembre 2018.",
+            "note": "Montant d'enchère, vérifié par le fact-check ; sans lien avec la santé ni avec une explication scientifique."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "NEWTON ALCHIMISTE et savant flou 2/2",
+          "channel": "Balade Mentale",
+          "url": "https://www.youtube.com/watch?v=rTiHcXpFOJ4",
+          "own": false
+        },
+        {
+          "title": "Armstrong, la NASA, Einstein : pourquoi tant de savants semblent-ils confirmer la foi ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=Bcmlc37zuUc",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+        "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg"
+      },
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "comment-se-passe-vraiment-une-seance-de-voyance-7f10",
+      "title": "Comment se passe vraiment une séance de voyance, du rendez-vous au dernier tirage ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:30:25.522Z",
+      "durationSeconds": 676,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Pendant une séance, une vraie voyante perçoit sur toi des choses que tu ne lui as jamais dites.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "La justesse ressentie pendant une séance est bien réelle, mais elle naît de la lecture à froid, de l'effet Barnum et du tri que fait la mémoire du consultant entre réussites et ratés. Dès qu'on retire les indices, comme dans le test en aveugle d'O'Keeffe et Wiseman (2005) où médiums et consultants ne se rencontraient jamais, aucune faculté authentique n'apparaît."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Jbcn3B6SW6U",
+        "url": "https://www.youtube.com/watch?v=Jbcn3B6SW6U",
+        "thumbnail": "https://i.ytimg.com/vi/Jbcn3B6SW6U/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-se-passe-vraiment-une-seance-de-voyance-7f10/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-se-passe-vraiment-une-seance-de-voyance-7f10.json"
+      },
+      "facts": [
+        {
+          "text": "Les consultations de voyance par téléphone sont souvent facturées à la minute.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Numéros surtaxés : des professionnels pris la main dans le sac",
+              "publisher": "UFC-Que Choisir",
+              "url": "https://www.quechoisir.org/actualite-numeros-surtaxes-des-professionnels-pris-la-main-dans-le-sac-n165452/"
+            }
+          ]
+        },
+        {
+          "text": "Ian Rowland est mentaliste et a publié The Full Facts Book of Cold Reading, dont la première édition date de 1998, qui décrit le fonctionnement d'une lecture « psychique » ; c'est le témoignage d'un praticien sceptique, pas une étude académique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Full Facts Book of Cold Reading by Ian Rowland (compte rendu)",
+              "publisher": "Vanishing Inc. Magic (recension citant Jamy Ian Swiss, Genii)",
+              "url": "https://www.vanishingincmagic.com/magic-book-reviews/the-full-facts-book-of-cold-reading/"
+            }
+          ]
+        },
+        {
+          "text": "Dans son ouvrage, Ian Rowland décrit des procédés qu'il nomme « vanishing negative » (le négatif qui s'évanouit) et « rainbow ruse » (une affirmation qui attribue un trait et son contraire).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Cold reading techniques",
+              "publisher": "Ian Rowland",
+              "url": "https://www.ianrowland.com/cold-reading-techniques"
+            }
+          ]
+        },
+        {
+          "text": "La validation subjective désigne la tendance à juger exact un propos qui semble nous concerner en cherchant dans sa propre vie ce qui lui correspond.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Subjective validation",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/subjectivevalidation.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1949, Bertram Forer a remis à ses étudiants un même portrait de personnalité, composé de phrases tirées d'un horoscope et présenté comme issu d'un test ; ils l'ont jugé très exact.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Fallacy of Personal Validation: A Classroom Demonstration of Gullibility",
+              "publisher": "Forer, B. R. (1949), J. Abnormal and Social Psychology",
+              "url": "https://www.scribd.com/doc/17378132/The-Fallacy-of-Personal-Validation-a-Classroom-Demonstration-of-Gullibility"
+            }
+          ]
+        },
+        {
+          "text": "Le portrait de Forer commence par des phrases traduisibles par « Vous avez grandement besoin que les autres vous apprécient et vous admirent. Vous avez tendance à être critique envers vous-même. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Fallacy of Personal Validation: A Classroom Demonstration of Gullibility",
+              "publisher": "Forer, B. R. (1949), J. Abnormal and Social Psychology",
+              "url": "https://www.scribd.com/doc/17378132/The-Fallacy-of-Personal-Validation-a-Classroom-Demonstration-of-Gullibility"
+            }
+          ]
+        },
+        {
+          "text": "La revue de Dickson et Kelly (1985) montre que l'acceptation d'un portrait vague dépend de sa pertinence perçue et de son caractère flatteur, et que le prestige de la source la renforce.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The 'Barnum Effect' in Personality Assessment: A Review of the Literature",
+              "publisher": "Psychological Reports, 57, 367-382 (copie hébergée par CorTeCS)",
+              "url": "https://cortecs.org/wp-content/uploads/2014/12/the-barnum-effect-in-personality-assessment-a-review-of-the-literature.pdf"
+            }
+          ]
+        },
+        {
+          "text": "O'Keeffe et Wiseman (2005, British Journal of Psychology) ont testé en aveugle cinq médiums professionnels et cinq consultants, soit vingt-cinq lectures, sans que médiums et consultants se rencontrent, et n'ont trouvé aucun résultat en faveur d'une faculté authentique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Testing mediums (BPS Research Digest)",
+              "publisher": "British Psychological Society, Research Digest",
+              "url": "https://www.bps.org.uk/research-digest/testing-mediums"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'étude d'O'Keeffe et Wiseman, les consultants ont noté les lectures sans savoir lesquelles leur étaient destinées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Testing mediums (BPS Research Digest)",
+              "publisher": "British Psychological Society, Research Digest",
+              "url": "https://www.bps.org.uk/research-digest/testing-mediums"
+            }
+          ]
+        },
+        {
+          "text": "Et la British Psychological Society relève un détail parlant : les déclarations générales récoltaient les meilleures notes, quel que soit leur destinataire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Testing mediums (BPS Research Digest)",
+              "publisher": "British Psychological Society, Research Digest",
+              "url": "https://www.bps.org.uk/research-digest/testing-mediums"
+            }
+          ]
+        },
+        {
+          "text": "L'article 223-15-2 du Code pénal réprime l'abus frauduleux de l'état d'ignorance ou de la situation de faiblesse d'une personne particulièrement vulnérable, lorsqu'il la conduit à un acte ou une abstention gravement préjudiciable.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Circulaire relative à la loi du 12 juin 2001",
+              "publisher": "Ministère de la Justice",
+              "url": "https://justice.gouv.fr/sites/default/files/migrations/textes/art_pix/JUSD1125511C.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le psychologue Ray Hyman a raconté qu'adolescent il lisait les lignes de la main et croyait à son talent, jusqu'à ce que le mentaliste Stanley Jaks lui suggère d'annoncer l'inverse de ce qu'indiquaient les lignes, et que ses clients le trouvent tout aussi juste.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hyman, Cold Reading manual",
+              "publisher": "Ray Hyman",
+              "url": "https://www.deceptionary.com/ftp/Hyman-CRManual.pdf"
+            }
+          ]
+        },
+        {
+          "text": "La Tronche en Biais a consacré un hors-série, « William le medium », au discours d'un médium qui l'avait démarchée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "William le medium - TeB Hors Série #1",
+              "publisher": "TheTVDB",
+              "url": "https://thetvdb.com/series/la-tronche-en-biais/episodes/7592308"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "William le medium -- TeB Hors Série #1",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=5E6fPSeTWVM",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Nos défunts peuvent-ils vraiment nous parler à travers un médium ?",
+        "url": "https://www.youtube.com/watch?v=xe7folt44Ko"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "les-techniques-de-luc-bodin-pour-elever-son-d6f2",
       "title": "Luc Bodin : élever ta vibration pour ta santé ? C'est trompeur",

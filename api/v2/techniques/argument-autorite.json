@@ -11,6 +11,34 @@
   "question": "Si de grands savants y croyaient, n'est-ce pas que c'est vrai ?",
   "taughtBy": [
     {
+      "id": "l-argument-d-autorite-de-grands-savants-y-97e9",
+      "title": "Newton, Pasteur, Einstein : pourquoi tant de grands savants croyaient-ils à l'invisible ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:31:13.965Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JJy7kRdmGKM",
+        "url": "https://www.youtube.com/watch?v=JJy7kRdmGKM",
+        "thumbnail": "https://i.ytimg.com/vi/JJy7kRdmGKM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-de-grands-savants-y-97e9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-de-grands-savants-y-97e9.json"
+      }
+    },
+    {
       "id": "l-argument-d-autorite-ab9c",
       "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
       "format": "video",
@@ -40,6 +68,44 @@
     }
   ],
   "examples": [
+    {
+      "id": "camus-et-l-absurde-e332",
+      "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:32:04.563Z",
+      "durationSeconds": 722,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Avec Le Mythe de Sisyphe, Camus montre qu'on peut vivre lucide et heureux sans aucune consolation, sans Dieu ni promesse d'au-delà.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "9jQ08mCSFRE",
+        "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE",
+        "thumbnail": "https://i.ytimg.com/vi/9jQ08mCSFRE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/camus-et-l-absurde-e332/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/camus-et-l-absurde-e332.json"
+      }
+    },
     {
       "id": "les-vrais-dangers-de-l-ia-etudes-scientifiques-a-c05c",
       "title": "L'IA peut-elle être un guide spirituel fiable ? Ce que disent vraiment les études",

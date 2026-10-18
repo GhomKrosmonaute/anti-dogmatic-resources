@@ -1,12 +1,120 @@
 {
   "version": 2,
-  "total": 86,
+  "total": 89,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "camus-et-l-absurde-e332",
+      "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:32:04.563Z",
+      "durationSeconds": 722,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Avec Le Mythe de Sisyphe, Camus montre qu'on peut vivre lucide et heureux sans aucune consolation, sans Dieu ni promesse d'au-delà.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "9jQ08mCSFRE",
+        "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE",
+        "thumbnail": "https://i.ytimg.com/vi/9jQ08mCSFRE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/camus-et-l-absurde-e332/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/camus-et-l-absurde-e332.json"
+      }
+    },
+    {
+      "id": "l-argument-d-autorite-de-grands-savants-y-97e9",
+      "title": "Newton, Pasteur, Einstein : pourquoi tant de grands savants croyaient-ils à l'invisible ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:31:13.965Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JJy7kRdmGKM",
+        "url": "https://www.youtube.com/watch?v=JJy7kRdmGKM",
+        "thumbnail": "https://i.ytimg.com/vi/JJy7kRdmGKM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-de-grands-savants-y-97e9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-de-grands-savants-y-97e9.json"
+      }
+    },
+    {
+      "id": "comment-se-passe-vraiment-une-seance-de-voyance-7f10",
+      "title": "Comment se passe vraiment une séance de voyance, du rendez-vous au dernier tirage ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:30:25.522Z",
+      "durationSeconds": 676,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Pendant une séance, une vraie voyante perçoit sur toi des choses que tu ne lui as jamais dites.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "Jbcn3B6SW6U",
+        "url": "https://www.youtube.com/watch?v=Jbcn3B6SW6U",
+        "thumbnail": "https://i.ytimg.com/vi/Jbcn3B6SW6U/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-se-passe-vraiment-une-seance-de-voyance-7f10/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-se-passe-vraiment-une-seance-de-voyance-7f10.json"
+      }
+    },
     {
       "id": "les-techniques-de-luc-bodin-pour-elever-son-d6f2",
       "title": "Luc Bodin : élever ta vibration pour ta santé ? C'est trompeur",
@@ -1816,124 +1924,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/guerisons-miraculeuses-experiences-de-mort-4f09/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/guerisons-miraculeuses-experiences-de-mort-4f09.json"
-      }
-    },
-    {
-      "id": "le-libre-arbitre-existe-t-il-vraiment-e244",
-      "title": "Le libre arbitre existe-t-il vraiment ? Ce que philosophie et neurosciences disent de nos choix",
-      "format": "video",
-      "publishedAt": "2026-10-05T15:45:09.131Z",
-      "durationSeconds": 713,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
-        "statement": "Notre volonté est libre : au moment de choisir, nous aurions pu vouloir et faire autrement, et nous le savons sans preuve, par l'expérience intime que nous en avons.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "pIoZtbVyQXY",
-        "url": "https://www.youtube.com/watch?v=pIoZtbVyQXY",
-        "thumbnail": "https://i.ytimg.com/vi/pIoZtbVyQXY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-libre-arbitre-existe-t-il-vraiment-e244/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-libre-arbitre-existe-t-il-vraiment-e244.json"
-      }
-    },
-    {
-      "id": "ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff",
-      "title": "Où va vraiment l'argent que tu déposes à la banque ? Le système bancaire expliqué",
-      "format": "video",
-      "publishedAt": "2026-10-05T14:45:09.542Z",
-      "durationSeconds": 682,
-      "rubric": {
-        "id": "systeme",
-        "name": "Le système"
-      },
-      "claim": {
-        "statement": "Quand tu déposes ton argent à la banque, elle en garde une partie en réserve et prête le reste à d'autres clients ; et la monnaie vaut quelque chose parce qu'elle repose sur une richesse bien réelle.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "3pjP8BcdJJc",
-        "url": "https://www.youtube.com/watch?v=3pjP8BcdJJc",
-        "thumbnail": "https://i.ytimg.com/vi/3pjP8BcdJJc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ou-va-vraiment-l-argent-que-vous-deposez-a-la-b6ff.json"
-      }
-    },
-    {
-      "id": "pourquoi-combattre-la-pseudoscience-et-la-religion-e698",
-      "title": "Pourquoi les sceptiques s'attaquent-ils à la foi ? Zététique et The Satanic Temple",
-      "format": "video",
-      "publishedAt": "2026-10-05T00:00:11.813Z",
-      "durationSeconds": 672,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Croire ne fait de mal à personne : chacun ses croyances, et les remettre en question ne sert à rien.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "charge-de-la-preuve",
-          "name": "Le renversement de la charge de la preuve"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "GgT4uql9Vv4",
-        "url": "https://www.youtube.com/watch?v=GgT4uql9Vv4",
-        "thumbnail": "https://i.ytimg.com/vi/GgT4uql9Vv4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-combattre-la-pseudoscience-et-la-religion-e698/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-combattre-la-pseudoscience-et-la-religion-e698.json"
       }
     }
   ],

@@ -5,7 +5,7 @@
       "id": "esprit-critique",
       "name": "Esprit critique",
       "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
-      "videos": 14,
+      "videos": 15,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/esprit-critique.json"
       }
@@ -23,7 +23,7 @@
       "id": "philosophie",
       "name": "Philosophie moderne",
       "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie",
-      "videos": 7,
+      "videos": 8,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/philosophie.json"
       }
@@ -32,7 +32,7 @@
       "id": "pseudo-sciences",
       "name": "Pseudo-sciences et charlatans",
       "description": "astrologie, voyance, numérologie, tarot, médecines alternatives, bullshit quantique, lithothérapie, développement personnel",
-      "videos": 17,
+      "videos": 18,
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/rubrics/pseudo-sciences.json"
       }

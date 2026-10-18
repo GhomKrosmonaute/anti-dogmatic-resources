@@ -5,6 +5,34 @@
   "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
   "items": [
     {
+      "id": "l-argument-d-autorite-de-grands-savants-y-97e9",
+      "title": "Newton, Pasteur, Einstein : pourquoi tant de grands savants croyaient-ils à l'invisible ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T11:31:13.965Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "JJy7kRdmGKM",
+        "url": "https://www.youtube.com/watch?v=JJy7kRdmGKM",
+        "thumbnail": "https://i.ytimg.com/vi/JJy7kRdmGKM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-de-grands-savants-y-97e9/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-de-grands-savants-y-97e9.json"
+      }
+    },
+    {
       "id": "si-un-remede-me-fait-du-bien-est-ce-qu-il-marche-317e",
       "title": "Je vais mieux depuis que je le prends : est-ce la preuve que ça marche ?",
       "format": "video",
