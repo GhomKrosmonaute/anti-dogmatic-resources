@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 91,
+  "total": 92,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "miracles-de-lourdes-dd62",
+      "title": "Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T14:14:27.297Z",
+      "durationSeconds": 682,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les guérisons reconnues à Lourdes, examinées par des médecins qui ne leur trouvent aucune explication, prouvent qu'un miracle s'y produit.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "o0NXp2b2Bpg",
+        "url": "https://www.youtube.com/watch?v=o0NXp2b2Bpg",
+        "thumbnail": "https://i.ytimg.com/vi/o0NXp2b2Bpg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracles-de-lourdes-dd62/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracles-de-lourdes-dd62.json"
+      }
+    },
     {
       "id": "medecine-quantique-et-bioresonance-f6d4",
       "title": "Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?",
@@ -1884,48 +1926,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-bouddhisme-est-il-une-religion-ou-une-5c18/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-bouddhisme-est-il-une-religion-ou-une-5c18.json"
-      }
-    },
-    {
-      "id": "le-chemin-de-vie-en-numerologie-2d23",
-      "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
-      "format": "video",
-      "publishedAt": "2026-10-05T20:00:10.317Z",
-      "durationSeconds": 712,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "G1IOo80G-P8",
-        "url": "https://www.youtube.com/watch?v=G1IOo80G-P8",
-        "thumbnail": "https://i.ytimg.com/vi/G1IOo80G-P8/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chemin-de-vie-en-numerologie-2d23.json"
       }
     }
   ],

@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 91,
+  "total": 92,
   "pageSize": 50,
   "page": 2,
   "pages": 2,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": null,
   "items": [
+    {
+      "id": "le-chemin-de-vie-en-numerologie-2d23",
+      "title": "Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?",
+      "format": "video",
+      "publishedAt": "2026-10-05T20:00:10.317Z",
+      "durationSeconds": 712,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": {
+        "statement": "Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "numerologie",
+          "name": "Les coïncidences comptées"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "G1IOo80G-P8",
+        "url": "https://www.youtube.com/watch?v=G1IOo80G-P8",
+        "thumbnail": "https://i.ytimg.com/vi/G1IOo80G-P8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chemin-de-vie-en-numerologie-2d23.json"
+      }
+    },
     {
       "id": "pluton-en-verseau-et-uranus-en-gemeaux-1a46",
       "title": "Non, La Télé de Lilou Macé, Pluton et Uranus ne te préparent rien",

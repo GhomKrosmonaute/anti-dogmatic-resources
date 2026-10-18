@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "miracles-de-lourdes-dd62",
+      "title": "Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?",
+      "format": "video",
+      "publishedAt": "2026-10-18T14:14:27.297Z",
+      "durationSeconds": 682,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les guérisons reconnues à Lourdes, examinées par des médecins qui ne leur trouvent aucune explication, prouvent qu'un miracle s'y produit.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "o0NXp2b2Bpg",
+        "url": "https://www.youtube.com/watch?v=o0NXp2b2Bpg",
+        "thumbnail": "https://i.ytimg.com/vi/o0NXp2b2Bpg/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracles-de-lourdes-dd62/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracles-de-lourdes-dd62.json"
+      }
+    },
+    {
       "id": "le-rasoir-d-ockham-la-methode-scientifique-et-le-0361",
       "title": "Les miracles sont-ils réels ? La science, la foi et le rasoir d'Ockham",
       "format": "video",

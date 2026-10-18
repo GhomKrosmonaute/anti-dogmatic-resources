@@ -6,7 +6,18 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sun, 18 Oct 2026 12:01:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 14:14:43 GMT</lastBuildDate>
+<item>
+<title>Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracles-de-lourdes-dd62/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracles-de-lourdes-dd62/</guid>
+<pubDate>Sun, 18 Oct 2026 14:14:27 GMT</pubDate>
+<description>Non démontré : « Les guérisons reconnues à Lourdes, examinées par des médecins qui ne leur trouvent aucune explication, prouvent qu&apos;un miracle s&apos;y produit. ». Le comité médical ne certifie qu&apos;une guérison « inexpliquée en l&apos;état actuel de nos connaissances » ; le passage au miracle est une décision d&apos;évêque fondée sur ce manque d&apos;explication. Des régressions inexpliquées existent hors de Lourdes, et sans dénominateur ni groupe de comparaison, rien ne montre qu&apos;elles y soient plus fréquentes qu&apos;ailleurs.</description>
+<category>Le renversement de la charge de la preuve</category>
+<category>Le tri des cas favorables</category>
+<category>L&apos;argument d&apos;autorité</category>
+<category>Religions</category>
+</item>
 <item>
 <title>Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/medecine-quantique-et-bioresonance-f6d4/</link>
@@ -516,17 +527,6 @@
 <category>Le renversement de la charge de la preuve</category>
 <category>L&apos;affirmation à l&apos;épreuve de tout</category>
 <category>Religions</category>
-</item>
-<item>
-<title>Chemin de vie en numérologie : que révèle vraiment ta date de naissance ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chemin-de-vie-en-numerologie-2d23/</guid>
-<pubDate>Mon, 05 Oct 2026 20:00:10 GMT</pubDate>
-<description>Faux : « Le chemin de vie, calculé à partir de la date de naissance selon une méthode héritée de Pythagore, révèle la personnalité profonde et la direction du destin de chacun. ». Le chemin de vie n&apos;a rien de pythagoricien : la méthode date du début du XXe siècle. Elle s&apos;applique à un calendrier fixé par Rome, un pape et des gouvernements, au point qu&apos;une même personne, comme George Washington, peut avoir deux chemins de vie. Le calcul se ramène au reste d&apos;une division par neuf, et ses portraits conviennent à tout le monde par effet Barnum, comme Forer l&apos;a montré en 1949.</description>
-<category>Les coïncidences comptées</category>
-<category>L&apos;appel à l&apos;ancienneté</category>
-<category>Le tri des cas favorables</category>
-<category>Pseudo-sciences et charlatans</category>
 </item>
 </channel>
 </rss>

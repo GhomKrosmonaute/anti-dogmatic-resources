@@ -1,0 +1,428 @@
+{
+  "version": 2,
+  "id": "miracles-de-lourdes-dd62",
+  "title": "Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?",
+  "format": "video",
+  "publishedAt": "2026-10-18T14:14:27.297Z",
+  "durationSeconds": 682,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Les guérisons reconnues à Lourdes, examinées par des médecins qui ne leur trouvent aucune explication, prouvent qu'un miracle s'y produit.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Le comité médical ne certifie qu'une guérison « inexpliquée en l'état actuel de nos connaissances » ; le passage au miracle est une décision d'évêque fondée sur ce manque d'explication. Des régressions inexpliquées existent hors de Lourdes, et sans dénominateur ni groupe de comparaison, rien ne montre qu'elles y soient plus fréquentes qu'ailleurs."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "charge-de-la-preuve",
+      "name": "Le renversement de la charge de la preuve"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "o0NXp2b2Bpg",
+    "url": "https://www.youtube.com/watch?v=o0NXp2b2Bpg",
+    "thumbnail": "https://i.ytimg.com/vi/o0NXp2b2Bpg/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracles-de-lourdes-dd62/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracles-de-lourdes-dd62.json"
+  },
+  "facts": [
+    {
+      "text": "Le 11 février 1858, Bernadette Soubirous, alors âgée de quatorze ans, déclare voir une dame vêtue de blanc dans la grotte de Massabielle, à Lourdes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lourdes : les 18 apparitions de la Vierge à Bernadette",
+          "publisher": "Aleteia",
+          "url": "https://fr.aleteia.org/2022/07/15/lourdes-les-18-apparitions-de-la-vierge-a-bernadette/"
+        },
+        {
+          "title": "Lourdes apparitions",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lourdes_apparitions"
+        }
+      ]
+    },
+    {
+      "text": "Bernadette Soubirous rapporte dix-huit apparitions au total, la dernière en juillet 1858.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lourdes : les 18 apparitions de la Vierge à Bernadette",
+          "publisher": "Aleteia",
+          "url": "https://fr.aleteia.org/2022/07/15/lourdes-les-18-apparitions-de-la-vierge-a-bernadette/"
+        },
+        {
+          "title": "Lourdes apparitions",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lourdes_apparitions"
+        }
+      ]
+    },
+    {
+      "text": "Bernadette rapporte avoir reçu la consigne « Allez boire à la fontaine et vous y laver », après quoi elle gratte la terre et une source apparaît, qui coule toujours.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "25th February: Ninth Apparition",
+          "publisher": "Sanctuaires Notre-Dame de Lourdes",
+          "url": "https://lourdes-france.com/en/?p=798595"
+        },
+        {
+          "title": "La grotte des apparitions",
+          "publisher": "Tourisme Occitanie",
+          "url": "https://www.tourisme-occitanie.com/fr/fiche/patrimoine-culturel/la-grotte-des-apparitions-lourdes_TFOPCUMID065FS00035/"
+        }
+      ]
+    },
+    {
+      "text": "Le Bureau des constatations médicales de Lourdes a été fondé en 1883.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        }
+      ]
+    },
+    {
+      "text": "Des millions de visiteurs se rendent chaque année au sanctuaire de Lourdes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Communiqué Assomption 2019",
+          "publisher": "Sanctuaires Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/wp-content/uploads/2019/08/2019-communiqu%C3%A9-N19-Assomption.pdf"
+        },
+        {
+          "title": "Lettre décembre 2025",
+          "publisher": "Sanctuaires Notre-Dame de Lourdes",
+          "url": "https://www.lourdes-france.org/wp-content/uploads/2026/08/Decembre_2025.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La procédure commence par la déclaration volontaire de la personne au Bureau médical, passe ensuite au CMIL, qui vote une guérison « inexpliquée en l'état actuel de nos connaissances », puis l'évêque du diocèse d'origine décide de la reconnaissance du miracle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        },
+        {
+          "title": "Comment l'Église authentifie-t-elle une guérison miraculeuse ?",
+          "publisher": "Aleteia",
+          "url": "https://fr.aleteia.org/2021/05/04/comment-leglise-authentifie-t-elle-une-guerison-miraculeuse/"
+        }
+      ]
+    },
+    {
+      "text": "Alessandro de Franciscis, président du Bureau des constatations médicales, décrit en 2018 dans le Catholic Medical Quarterly une enquête qui réunit les médecins présents à Lourdes, croyants ou non.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        }
+      ]
+    },
+    {
+      "text": "Le CMIL a été fondé en 1947 et est devenu international en 1954.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        }
+      ]
+    },
+    {
+      "text": "Les critères appliqués ont été fixés au XVIIIe siècle par le cardinal Prospero Lambertini, futur pape Benoît XIV.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Comment l'Église authentifie-t-elle une guérison miraculeuse ?",
+          "publisher": "Aleteia",
+          "url": "https://fr.aleteia.org/2021/05/04/comment-leglise-authentifie-t-elle-une-guerison-miraculeuse/"
+        },
+        {
+          "title": "Miracles of Lourdes: New EWTN Docudrama Goes Behind the Scenes",
+          "publisher": "National Catholic Register",
+          "url": "https://www.ncregister.com/blog/miracles-of-lourdes-docudrama-goes-behind-the-scenes"
+        }
+      ]
+    },
+    {
+      "text": "Le sanctuaire liste sept critères : maladie grave, organique, objectivée par des examens, sans traitement pouvant expliquer la guérison, et guérison soudaine, complète et durable.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dr de Franciscis, médecin du Bureau des constatations médicales de Lourdes",
+          "publisher": "Le Quotidien du Médecin",
+          "url": "https://cardiologie.lequotidiendumedecin.fr/temoignages/dr-de-franciscis-medecin-du-bureau-des-constatations-medicales-de-lourdes-jatteste-dune-remission"
+        }
+      ]
+    },
+    {
+      "text": "Le sanctuaire déclare plus de 7 000 guérisons signalées et 70 reconnues miraculeuses par l'Église (de Franciscis en comptait 69 en 2018 ; le total a pu évoluer depuis).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        },
+        {
+          "title": "70th miracle of Lourdes affirmed by the Church",
+          "publisher": "Catholic World Report",
+          "url": "https://www.catholicworldreport.com/2018/02/13/70th-miracle-of-lourdes-affirmed-by-the-church/"
+        },
+        {
+          "title": "À Lourdes, un bureau des miracles",
+          "publisher": "Slate.fr",
+          "url": "https://www.slate.fr/story/165935/miracles-lourdes-bureau-verification"
+        }
+      ]
+    },
+    {
+      "text": "La 70e guérison reconnue est celle de sœur Bernadette Moriau, guérie en 2008, reconnue en 2018 par l'évêque de Beauvais.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "70th miracle of Lourdes affirmed by the Church",
+          "publisher": "Catholic World Report",
+          "url": "https://www.catholicworldreport.com/2018/02/13/70th-miracle-of-lourdes-affirmed-by-the-church/"
+        }
+      ]
+    },
+    {
+      "text": "Le CMIL ne certifie aucun miracle, seulement le caractère inexpliqué d'une guérison selon les connaissances médicales actuelles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        },
+        {
+          "title": "Dr de Franciscis, médecin du Bureau des constatations médicales de Lourdes",
+          "publisher": "Le Quotidien du Médecin",
+          "url": "https://cardiologie.lequotidiendumedecin.fr/temoignages/dr-de-franciscis-medecin-du-bureau-des-constatations-medicales-de-lourdes-jatteste-dune-remission"
+        }
+      ]
+    },
+    {
+      "text": "L'appel à l'ignorance est un sophisme qui conclut à une cause à partir de l'absence d'explication connue.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Appeal to Ignorance",
+          "publisher": "The Fallacy Files",
+          "url": "https://fallacyfiles.org/ignorant.html"
+        },
+        {
+          "title": "Argument from ignorance",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Argument_from_ignorance"
+        }
+      ]
+    },
+    {
+      "text": "Challis et Stam (Acta Oncologica, 1990) ont recensé 741 cas publiés de régression spontanée de cancer entre 1900 et 1987.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Spontaneous Regression of Cancer: A review of cases from 1900 to 1987",
+          "publisher": "Acta Oncologica 29(5):545–550",
+          "url": "https://medicaljournalssweden.se/actaoncologica/article/view/32607"
+        }
+      ]
+    },
+    {
+      "text": "Pour près de la moitié de ces cas, aucune explication n'est avancée, et la littérature n'établit pas les mécanismes avec certitude.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Spontaneous Regression of Cancer: A review of cases from 1900 to 1987",
+          "publisher": "Acta Oncologica 29(5):545–550",
+          "url": "https://medicaljournalssweden.se/actaoncologica/article/view/32607"
+        }
+      ]
+    },
+    {
+      "text": "La soudaineté d'une guérison repose sur des examens forcément espacés et sur le récit du malade et de ses proches.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        }
+      ]
+    },
+    {
+      "text": "Un événement rare répété sur un très grand nombre de personnes produit un nombre de cas attendu non nul et prévisible (loi des grands nombres).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Binomial distribution",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Binomial_distribution"
+        }
+      ]
+    },
+    {
+      "text": "Plus de 80 % des guérisons reconnues concernent des femmes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Les guérisons miraculeuses, une affaire de religion et de médecine",
+          "publisher": "Pourquoi Docteur",
+          "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/6281-Les-guerisons-miraculeuses-une-affaire-de-religion-et-de-medecine"
+        },
+        {
+          "title": "L'eau de Lourdes, une source de miracles",
+          "publisher": "RCF",
+          "url": "https://www.rcf.fr/articles/vie-spirituelle/leau-de-lourdes-une-source-de-miracles"
+        },
+        {
+          "title": "Miracles of Lourdes between science and faith",
+          "publisher": "Agensir",
+          "url": "https://www.agensir.it/chiesa/2025/05/16/miracles-lourdes-between-science-and-faith-72-healings-recognised-as-miracles/"
+        },
+        {
+          "title": "Guérisons de Lourdes",
+          "publisher": "Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Gu%C3%A9risons_de_Lourdes"
+        }
+      ]
+    },
+    {
+      "text": "Le Bureau est un service du sanctuaire, le CMIL a été créé par l'Église et la décision finale revient à un évêque.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        }
+      ]
+    },
+    {
+      "text": "La procédure décrite ne prévoit ni groupe de comparaison, ni relecture par des experts ignorant la provenance des dossiers, ni contre-expertise extérieure.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cures, Miracles, Doctors and Medicine in Lourdes. A brief historical outline",
+          "publisher": "Catholic Medical Quarterly, vol. 68(2)",
+          "url": "https://cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html"
+        }
+      ]
+    },
+    {
+      "text": "Un nouveau médicament doit être évalué contre un groupe témoin et soumis à une agence indépendante du fabricant.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "21 CFR 314.126 Adequate and well-controlled studies",
+          "publisher": "eCFR",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-314/subpart-D/section-314.126"
+        }
+      ]
+    },
+    {
+      "text": "Des bénévoles accompagnent les malades à Lourdes, et le sanctuaire dispose de piscines d'eau froide.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Livret de pèlerinage (Lourdes)",
+          "publisher": "Diocèse de Cambrai",
+          "url": "https://media.cathocambrai.com/665164.pdf"
+        },
+        {
+          "title": "Les piscines du sanctuaire de Lourdes rouvrent progressivement",
+          "publisher": "Aleteia",
+          "url": "https://fr.aleteia.org/2024/07/25/les-piscines-du-sanctuaire-de-lourdes-rouvrent-progressivement/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "épidémiologie et biostatistique, médecine clinique (régressions spontanées de cancer, conception des essais, taux de base)",
+    "approximations": [
+      {
+        "excerpt": "Plus de sept mille guérisons déclarées à Lourdes, et soixante-dix seulement reconnues comme miracles par l'Église.",
+        "note": "Ce sont des ordres de grandeur d'un décompte historique. Ils ne concernent ni dose ni risque, et l'argument (rareté de la reconnaissance, absence de dénominateur) ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "Le bilan impressionne : plus de sept mille guérisons déclarées depuis les débuts, et seulement soixante-dix reconnues comme miraculeuses, à peine une sur cent.",
+        "note": "Le ratio « une sur cent » est arrondi. La conclusion (la sélection est sévère) reste la même si le rapport est légèrement différent."
+      },
+      {
+        "excerpt": "Aujourd'hui encore, des millions de visiteurs se pressent chaque année devant Massabielle, dont des malades venus en train, sur des brancards, en chaise roulante.",
+        "note": "« Des millions » est un ordre de grandeur de fréquentation, sans lien avec la santé, et l'argument n'en dépend pas."
+      },
+      {
+        "excerpt": "Le sanctuaire publie pourtant un détail curieux : plus de quatre-vingts pour cent des guérisons reconnues concernent des femmes.",
+        "note": "Pourcentage approximatif. Le script n'en tire aucune conclusion médicale, seulement une remarque sur les étapes du parcours."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "La loi des grands nombres",
+      "channel": "Chat Sceptique",
+      "url": "https://www.youtube.com/watch?v=poABWE2kNdo",
+      "own": false
+    }
+  ],
+  "next": {
+    "title": "La science peut-elle vraiment juger un miracle ? Le rasoir d'Ockham et la foi",
+    "url": "https://www.youtube.com/watch?v=7MbqodhL2fM"
+  },
+  "shorts": [],
+  "corrections": []
+}
