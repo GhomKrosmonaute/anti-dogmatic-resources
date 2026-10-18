@@ -5,6 +5,52 @@
   "description": "christianismes, islam, judaïsme, hindouisme, bouddhisme, mormonisme, sectes et nouvelles religions",
   "items": [
     {
+      "id": "sommes-nous-dieu-deguise-ef82",
+      "title": "Non, Elohim, Alan Watts n'a pas prouvé que tu es Dieu déguisé",
+      "format": "short",
+      "publishedAt": "2026-10-18T14:40:35.177Z",
+      "durationSeconds": 135,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Nous sommes tous Dieu déguisé : selon Alan Watts, chaque être humain est une manifestation de la conscience divine ou universelle, qui joue à s'oublier elle-même, et notre identité profonde ne fait qu'un avec Dieu.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": {
+        "title": "Vous êtes Dieu déguisé... Alan Watts révèle TOUT #dieu #alanwatts  #conscience",
+        "channel": "Elohim",
+        "url": "https://www.youtube.com/watch?v=oMS22rM8AuQ"
+      },
+      "series": null,
+      "youtube": {
+        "id": "E22nGOZnyrQ",
+        "url": "https://www.youtube.com/watch?v=E22nGOZnyrQ",
+        "thumbnail": "https://i.ytimg.com/vi/E22nGOZnyrQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sommes-nous-dieu-deguise-ef82/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sommes-nous-dieu-deguise-ef82.json"
+      }
+    },
+    {
       "id": "miracles-de-lourdes-dd62",
       "title": "Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?",
       "format": "video",

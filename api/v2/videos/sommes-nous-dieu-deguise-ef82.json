@@ -1,0 +1,240 @@
+{
+  "version": 2,
+  "id": "sommes-nous-dieu-deguise-ef82",
+  "title": "Non, Elohim, Alan Watts n'a pas prouvé que tu es Dieu déguisé",
+  "format": "short",
+  "publishedAt": "2026-10-18T14:40:35.177Z",
+  "durationSeconds": 135,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Nous sommes tous Dieu déguisé : selon Alan Watts, chaque être humain est une manifestation de la conscience divine ou universelle, qui joue à s'oublier elle-même, et notre identité profonde ne fait qu'un avec Dieu.",
+    "verdict": "inverifiable",
+    "verdictLabel": "Invérifiable",
+    "summary": "L'idée vient de l'Advaita Vedanta, reformulée par Watts pour un public occidental, et sa version académique, le cosmopsychisme, reste une hypothèse aux prises avec le problème de la combinaison. Aucune observation ne permet de la départager de son contraire : le vécu de dissolution du moi est réel, mais il s'interprète aussi comme un cerveau qui met en veille son modèle du soi."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    }
+  ],
+  "answers": {
+    "title": "Vous êtes Dieu déguisé... Alan Watts révèle TOUT #dieu #alanwatts  #conscience",
+    "channel": "Elohim",
+    "channelId": "UC2w81_CZFXgQ1RJWgjQlZcQ",
+    "url": "https://www.youtube.com/watch?v=oMS22rM8AuQ",
+    "passages": [
+      {
+        "text": "Elles ne constituent pas des conseils professionnels."
+      }
+    ]
+  },
+  "series": null,
+  "youtube": {
+    "id": "E22nGOZnyrQ",
+    "url": "https://www.youtube.com/watch?v=E22nGOZnyrQ",
+    "thumbnail": "https://i.ytimg.com/vi/E22nGOZnyrQ/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sommes-nous-dieu-deguise-ef82/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sommes-nous-dieu-deguise-ef82.json"
+  },
+  "facts": [
+    {
+      "text": "Alan Watts expose l'image d'un divin jouant à cache-cache avec lui-même dans The Book: On the Taboo Against Knowing Who You Are, publié en 1966.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Book: On the Taboo Against Knowing Who You Are",
+          "publisher": "LibraryThing",
+          "url": "https://www.librarything.com/work/8026799"
+        },
+        {
+          "title": "Alan Watts' 'dramatic model' and the pursuit of peace",
+          "publisher": "J. Bennett, Self & Society, 2015",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/03060497.2016.1142257"
+        }
+      ]
+    },
+    {
+      "text": "L'Advaita Vedanta enseigne l'identité entre l'Atman, le soi, et le Brahman, l'absolu ; c'est la source indienne de l'idée de Watts, fondée sur la réalisation spirituelle et non sur une vérification scientifique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Does the Ineffability of Brahman Lead to Quietism? Śaṅkara on the Indispensability of Language",
+          "publisher": "Hurdoyal-Chekhori, Springer, 2022",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-16-3223-5_4"
+        },
+        {
+          "title": "The Book by Alan W. Watts – Plot Summary",
+          "publisher": "SuperSummary",
+          "url": "https://www.supersummary.com/the-book-alan-w-watts/summary/"
+        }
+      ]
+    },
+    {
+      "text": "Selon J. J. Clarke (Oriental Enlightenment, 2002), Watts reformule le Vedanta, le zen et le taoïsme pour un public occidental plutôt qu'il ne les transmet fidèlement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Oriental Enlightenment: The Encounter between Asian and Western Thought",
+          "publisher": "Routledge (Taylor & Francis)",
+          "url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780203004388&type=googlepdf"
+        }
+      ]
+    },
+    {
+      "text": "Itay Shani (2015) défend le cosmopsychisme, selon lequel la conscience fondamentale est celle du cosmos entier, comme réponse au problème difficile de la conscience ; c'est une hypothèse métaphysique, non un fait établi.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Continuous dual-aspect panexperiential monism (cite Shani 2015 parmi les cosmopsychistes)",
+          "publisher": "M. A. Surkes (préprint, 2026)",
+          "url": "https://www.michaelasurkes.com/CDAPM_preprint.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Luke Roelofs (2019) examine le problème de la combinaison, objection centrale à toute théorie où une conscience unique se manifeste en plusieurs sujets.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Can we sum subjects? Evaluating Panpsychism's hard problem",
+          "publisher": "The Routledge Handbook of Panpsychism",
+          "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315717708-21&type=chapterpdf"
+        }
+      ]
+    },
+    {
+      "text": "Thomas Metzinger (Being No One, 2003) soutient que le soi n'est pas une chose mais un modèle construit par le cerveau, ce qui ne conduit pas à une conscience divine ou universelle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Book review: The elephant and the blind (Metzinger)",
+          "publisher": "Journal for Person-Oriented Research (L. G. Lundh, 2026)",
+          "url": "https://portal.research.lu.se/en/publications/book-review-the-elephant-and-the-blind-the-experience-of-pure-con/"
+        }
+      ]
+    },
+    {
+      "text": "Des pratiquants de méditation de traditions diverses rapportent des expériences où leur moi semble se dissoudre dans un tout.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Book review: The elephant and the blind (Metzinger)",
+          "publisher": "Journal for Person-Oriented Research (L. G. Lundh, 2026)",
+          "url": "https://portal.research.lu.se/en/publications/book-review-the-elephant-and-the-blind-the-experience-of-pure-con/"
+        }
+      ]
+    },
+    {
+      "text": "Le vécu de dissolution du moi peut s'interpréter comme la mise en veille du modèle du soi construit par le cerveau, sans impliquer l'existence d'une conscience divine.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Navigating the Therapeutic Potential of Ego Dissolution: Introducing the Ego Dissolution Integration Framework (EDIF)",
+          "publisher": "Journal of Anomalous Experience and Cognition (R. Malm, 2026)",
+          "url": "https://journals.lub.lu.se/jaex/article/view/28663"
+        }
+      ]
+    },
+    {
+      "text": "De nombreux théologiens juifs, chrétiens et musulmans considèrent l'identification de l'être humain à Dieu comme une confusion entre Créateur et créature.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dei Filius, canons sur Dieu créateur (exemple catholique)",
+          "publisher": "IntraText",
+          "url": "https://www.intratext.com/IXT/ENG0063/__P9.HTM"
+        }
+      ]
+    },
+    {
+      "text": "Ibn Taymiyya a critiqué, au nom du tawhid, l'école d'Ibn Arabi, associée à l'unicité de l'être, en l'accusant de confondre le Créateur et la création.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "İbn Teymiyye'nin Vahdet-i Vücud Anlayışına Dair Ontolojik Eleştirileri",
+          "publisher": "V. Tatar, Sakarya Üniversitesi (2023)",
+          "url": "https://acikerisim.sakarya.edu.tr/handle/20.500.12619/100835"
+        }
+      ]
+    },
+    {
+      "text": "Le premier concile du Vatican, par la constitution Dei Filius de 1870, condamne l'affirmation selon laquelle la substance de Dieu et celle de toutes choses seraient une seule et même.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Dei Filius, canons sur Dieu créateur (exemple catholique)",
+          "publisher": "IntraText",
+          "url": "https://www.intratext.com/IXT/ENG0063/__P9.HTM"
+        },
+        {
+          "title": "Constitutio dogmatica Dei Filius, 24 aprilis 1870",
+          "publisher": "Vatican",
+          "url": "https://c.vatican.va/content/pius-ix/it/documents/constitutio-dogmatica-dei-filius-24-aprilis-1870.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Watts présentait le cache-cache divin comme un récit philosophique, sans en apporter de preuve.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Alan Watts' 'dramatic model' and the pursuit of peace",
+          "publisher": "J. Bennett, Self & Society, 2015",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/03060497.2016.1142257"
+        },
+        {
+          "title": "The Book by Alan W. Watts – Plot Summary",
+          "publisher": "SuperSummary",
+          "url": "https://www.supersummary.com/the-book-alan-w-watts/summary/"
+        }
+      ]
+    },
+    {
+      "text": "Aucune expérience connue ne permet de confirmer ou d'infirmer l'hypothèse d'une conscience universelle unique dont chaque individu serait une manifestation.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Can we sum subjects? Evaluating Panpsychism's hard problem",
+          "publisher": "The Routledge Handbook of Panpsychism",
+          "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315717708-21&type=chapterpdf"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

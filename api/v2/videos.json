@@ -1,12 +1,58 @@
 {
   "version": 2,
-  "total": 92,
+  "total": 93,
   "pageSize": 50,
   "page": 1,
   "pages": 2,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "sommes-nous-dieu-deguise-ef82",
+      "title": "Non, Elohim, Alan Watts n'a pas prouvé que tu es Dieu déguisé",
+      "format": "short",
+      "publishedAt": "2026-10-18T14:40:35.177Z",
+      "durationSeconds": 135,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Nous sommes tous Dieu déguisé : selon Alan Watts, chaque être humain est une manifestation de la conscience divine ou universelle, qui joue à s'oublier elle-même, et notre identité profonde ne fait qu'un avec Dieu.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": {
+        "title": "Vous êtes Dieu déguisé... Alan Watts révèle TOUT #dieu #alanwatts  #conscience",
+        "channel": "Elohim",
+        "url": "https://www.youtube.com/watch?v=oMS22rM8AuQ"
+      },
+      "series": null,
+      "youtube": {
+        "id": "E22nGOZnyrQ",
+        "url": "https://www.youtube.com/watch?v=E22nGOZnyrQ",
+        "thumbnail": "https://i.ytimg.com/vi/E22nGOZnyrQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/sommes-nous-dieu-deguise-ef82/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/sommes-nous-dieu-deguise-ef82.json"
+      }
+    },
     {
       "id": "miracles-de-lourdes-dd62",
       "title": "Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?",
@@ -1884,48 +1930,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/personne-n-a-jamais-prouve-le-contraire-1cf1/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/personne-n-a-jamais-prouve-le-contraire-1cf1.json"
-      }
-    },
-    {
-      "id": "le-bouddhisme-est-il-une-religion-ou-une-5c18",
-      "title": "Le bouddhisme est-il une religion ou une philosophie ? Ce qu'enseignait vraiment le Bouddha",
-      "format": "video",
-      "publishedAt": "2026-10-06T09:00:09.143Z",
-      "durationSeconds": 700,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le bouddhisme n'est pas vraiment une religion mais une philosophie : une sagesse sans dieu ni dogme, qui invite à tout vérifier par soi-même et que la science confirme, de la méditation au karma.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "charge-de-la-preuve",
-          "name": "Le renversement de la charge de la preuve"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "l4ANI17qsCc",
-        "url": "https://www.youtube.com/watch?v=l4ANI17qsCc",
-        "thumbnail": "https://i.ytimg.com/vi/l4ANI17qsCc/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-bouddhisme-est-il-une-religion-ou-une-5c18/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-bouddhisme-est-il-une-religion-ou-une-5c18.json"
       }
     }
   ],
