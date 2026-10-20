@@ -1,0 +1,245 @@
+{
+  "version": 2,
+  "id": "les-soins-energetiques-a-distance-guides-de-f774",
+  "title": "Soins énergétiques à distance : ce que Luc Bodin ne te dit pas",
+  "format": "short",
+  "publishedAt": "2026-10-20T10:34:37.064Z",
+  "durationSeconds": 125,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Les soins énergétiques, y compris à distance, agissent réellement sur le corps et les émotions : des guides de lumière et des messages de l'âme existent, nos émotions sont liées à nos maladies, et la Terre connaît une élévation vibratoire qui bouleverse notre époque.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Les tests en aveugle et les essais contrôlés n'ont trouvé ni champ d'énergie perceptible (Rosa et al., 1998) ni effet de la prière à distance (STEP, 2006 ; Cochrane, 2009), et la revue sur le Reiki reste non concluante. Le mieux-être ressenti peut venir de l'attention, de la détente et des attentes, tandis que l'élévation vibratoire ne correspond à aucune grandeur physique mesurable."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    }
+  ],
+  "answers": {
+    "title": "La médecine de l’invisible",
+    "channel": "Luc Bodin - Chaîne Officielle",
+    "channelId": "UC3-xNShNjWGs0InTjVHz48A",
+    "url": "https://www.youtube.com/watch?v=07J7vzmZWm4",
+    "passages": [
+      {
+        "text": "Dans cet entretien avec Rémi Comte Offenbach de la chaine Point Zéro, Luc Bodin partage son parcours de la médecine classique aux soins énergétiques."
+      },
+      {
+        "text": "Il y présente aussi sa vision de l’élévation vibratoire de la Terre et des bouleversements que nous traversons."
+      },
+      {
+        "text": "Il explore les liens entre nos émotions, notre corps et notre cheminement intérieur."
+      }
+    ]
+  },
+  "series": null,
+  "youtube": {
+    "id": "UrhNoXOUrQI",
+    "url": "https://www.youtube.com/watch?v=UrhNoXOUrQI",
+    "thumbnail": "https://i.ytimg.com/vi/UrhNoXOUrQI/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-soins-energetiques-a-distance-guides-de-f774/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-soins-energetiques-a-distance-guides-de-f774.json"
+  },
+  "facts": [
+    {
+      "text": "Des personnes qui reçoivent des soins énergétiques rapportent des sensations de chaleur ou d'apaisement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Does Reiki Benefit Mental Health Symptoms Above Placebo?",
+          "publisher": "Frontiers in Psychology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326483/"
+        }
+      ]
+    },
+    {
+      "text": "En 1998, la revue JAMA a publié un test du toucher thérapeutique conçu et mené par une écolière de neuf ans (Emily Rosa).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch",
+          "publisher": "JAMA (vol. 279, n° 13, p. 1005-1010)",
+          "url": "https://library.stlawu.edu/system/files/2020-12/rosa_close_look_at_therapeutic_touch.pdf"
+        },
+        {
+          "title": "A close look at therapeutic touch",
+          "publisher": "JAMA 1998 (résumé)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        }
+      ]
+    },
+    {
+      "text": "Dans ce test, vingt et un praticiens du toucher thérapeutique devaient sentir, derrière un écran, au-dessus de laquelle de leurs mains l'expérimentatrice plaçait la sienne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch",
+          "publisher": "JAMA (vol. 279, n° 13, p. 1005-1010)",
+          "url": "https://library.stlawu.edu/system/files/2020-12/rosa_close_look_at_therapeutic_touch.pdf"
+        },
+        {
+          "title": "A close look at therapeutic touch",
+          "publisher": "JAMA 1998 (résumé)",
+          "url": "https://qigonginstitute.org/abstract-print/2694"
+        }
+      ]
+    },
+    {
+      "text": "Les praticiens n'ont donné la bonne réponse que 123 fois sur 280, soit environ 44 %, le niveau du hasard.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch",
+          "publisher": "JAMA (vol. 279, n° 13, p. 1005-1010)",
+          "url": "https://library.stlawu.edu/system/files/2020-12/rosa_close_look_at_therapeutic_touch.pdf"
+        }
+      ]
+    },
+    {
+      "text": "L'étude STEP (Benson et al., 2006) a suivi 1 802 patients de pontage coronarien : 52 % de complications chez les patients pour qui l'on priait, 51 % chez les autres, et 59 % chez ceux qui savaient qu'on priait pour eux.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) (résumé de l'essai de Benson et al., American Heart Journal, 2006, 151:934-942)",
+          "publisher": "American College of Cardiology (résumé de l'essai paru dans l'American Heart Journal)",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Clinical-Trials/2010/02/23/19/21/STEP"
+        },
+        {
+          "title": "Praying for Others Does Not Prevent Surgical Complications",
+          "publisher": "American Family Physician",
+          "url": "https://www.aafp.org/afp/2006/0901/p824.html"
+        }
+      ]
+    },
+    {
+      "text": "Une revue Cochrane de 2009 portant sur 10 essais randomisés (7 646 personnes) juge les preuves sur la prière d'intercession non concluantes, la majorité des essais ne montrant pas d'effet.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Intercessory prayer for the alleviation of ill health",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/evidence/CD000368_intercessory-prayer-alleviation-ill-health"
+        },
+        {
+          "title": "Intercessory prayer for the alleviation of ill health",
+          "publisher": "PubMed / Cochrane",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17253449/"
+        }
+      ]
+    },
+    {
+      "text": "Une revue systématique de 2022 (Zadro et Stapleton) portant sur 14 essais contre placebo suggère un effet du Reiki sur le stress, mais ses auteurs jugent les résultats non concluants.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Does Reiki Benefit Mental Health Symptoms Above Placebo?",
+          "publisher": "Frontiers in Psychology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326483/"
+        }
+      ]
+    },
+    {
+      "text": "L'attention reçue, la détente et l'espoir d'aller mieux peuvent réduire un stress indépendamment de toute énergie supposée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Does Reiki Benefit Mental Health Symptoms Above Placebo?",
+          "publisher": "Frontiers in Psychology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326483/"
+        }
+      ]
+    },
+    {
+      "text": "Aucune des études citées (toucher thérapeutique, prière à distance, Reiki) n'établit qu'un soin agit sur le corps sans contact.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "A close look at therapeutic touch",
+          "publisher": "JAMA (vol. 279, n° 13, p. 1005-1010)",
+          "url": "https://library.stlawu.edu/system/files/2020-12/rosa_close_look_at_therapeutic_touch.pdf"
+        },
+        {
+          "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) (résumé de l'essai de Benson et al., American Heart Journal, 2006, 151:934-942)",
+          "publisher": "American College of Cardiology (résumé de l'essai paru dans l'American Heart Journal)",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Clinical-Trials/2010/02/23/19/21/STEP"
+        },
+        {
+          "title": "Does Reiki Benefit Mental Health Symptoms Above Placebo?",
+          "publisher": "Frontiers in Psychology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326483/"
+        },
+        {
+          "title": "Intercessory prayer for the alleviation of ill health",
+          "publisher": "Cochrane",
+          "url": "https://www.cochrane.org/evidence/CD000368_intercessory-prayer-alleviation-ill-health"
+        }
+      ]
+    },
+    {
+      "text": "En physique, une vibration se caractérise par une fréquence mesurée en hertz.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Brochure sur le SI, 9e édition (version concise)",
+          "publisher": "BIPM",
+          "url": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-concise-FR.pdf"
+        }
+      ]
+    },
+    {
+      "text": "L'« élévation vibratoire » de la Terre ne correspond à aucune grandeur physique définie et mesurable.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Revue sur les thérapies du biochamp (résultat de recherche, article non lu)",
+          "publisher": "PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8296239"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "confidence",
+    "domain": "Médecine clinique et biostatistique (lecture d'essais cliniques sur le toucher thérapeutique, la prière à distance et le Reiki, effet placebo)",
+    "threshold": 6.6,
+    "passages": 8,
+    "approximations": [
+      {
+        "excerpt": "Cent vingt-trois réussites sur deux cent quatre-vingts : autant tirer à pile ou face.",
+        "note": "Le taux de 44 % est assimilé à un niveau de chance de 50 %. C'est une approximation de langage qui ne touche pas à la santé, et l'argument tient à l'absence de performance supérieure au hasard, pas à la valeur exacte."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

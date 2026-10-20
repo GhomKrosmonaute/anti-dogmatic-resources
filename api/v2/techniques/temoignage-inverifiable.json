@@ -41,6 +41,52 @@
   ],
   "examples": [
     {
+      "id": "les-soins-energetiques-a-distance-guides-de-f774",
+      "title": "Soins énergétiques à distance : ce que Luc Bodin ne te dit pas",
+      "format": "short",
+      "publishedAt": "2026-10-20T10:34:37.064Z",
+      "durationSeconds": 125,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les soins énergétiques, y compris à distance, agissent réellement sur le corps et les émotions : des guides de lumière et des messages de l'âme existent, nos émotions sont liées à nos maladies, et la Terre connaît une élévation vibratoire qui bouleverse notre époque.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        }
+      ],
+      "answers": {
+        "title": "La médecine de l’invisible",
+        "channel": "Luc Bodin - Chaîne Officielle",
+        "url": "https://www.youtube.com/watch?v=07J7vzmZWm4"
+      },
+      "series": null,
+      "youtube": {
+        "id": "UrhNoXOUrQI",
+        "url": "https://www.youtube.com/watch?v=UrhNoXOUrQI",
+        "thumbnail": "https://i.ytimg.com/vi/UrhNoXOUrQI/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-soins-energetiques-a-distance-guides-de-f774/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-soins-energetiques-a-distance-guides-de-f774.json"
+      }
+    },
+    {
       "id": "sommes-nous-dieu-deguise-ef82",
       "title": "Non, Elohim, Alan Watts n'a pas prouvé que tu es Dieu déguisé",
       "format": "short",
