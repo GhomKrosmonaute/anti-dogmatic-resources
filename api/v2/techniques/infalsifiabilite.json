@@ -69,6 +69,48 @@
   ],
   "examples": [
     {
+      "id": "l-evangile-de-la-prosperite-bb5f",
+      "title": "Dieu veut-il que tu sois riche ? Ce que dit vraiment la Bible sur l'argent",
+      "format": "video",
+      "publishedAt": "2026-11-03T23:30:21.638Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Dieu veut que ses enfants soient riches : la Bible le promet, et celui qui donne la dîme avec assez de foi récoltera la prospérité matérielle.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "97_sH9cvWNM",
+        "url": "https://www.youtube.com/watch?v=97_sH9cvWNM",
+        "thumbnail": "https://i.ytimg.com/vi/97_sH9cvWNM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evangile-de-la-prosperite-bb5f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-evangile-de-la-prosperite-bb5f.json"
+      }
+    },
+    {
       "id": "bruno-groning-et-l-onde-curative-57ed",
       "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
       "format": "short",

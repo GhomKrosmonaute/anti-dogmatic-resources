@@ -1,12 +1,103 @@
 {
   "version": 2,
-  "total": 99,
+  "total": 101,
   "pageSize": 50,
   "page": 1,
-  "pages": 2,
+  "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "bruno-groning-et-l-onde-curative-bc00",
+      "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
+      "format": "short",
+      "publishedAt": "2026-11-03T23:30:25.234Z",
+      "durationSeconds": 129,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Bruno Gröning a transmis une force divine de guérison (l'onde curative) : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris de maladies graves, par une aide venue de Dieu.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": {
+        "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+        "channel": "Cercle des Amis de Bruno Gröning",
+        "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+      },
+      "series": {
+        "part": 3,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "q9pJuljoNZo",
+        "url": "https://www.youtube.com/watch?v=q9pJuljoNZo",
+        "thumbnail": "https://i.ytimg.com/vi/q9pJuljoNZo/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-bc00.json"
+      }
+    },
+    {
+      "id": "l-evangile-de-la-prosperite-bb5f",
+      "title": "Dieu veut-il que tu sois riche ? Ce que dit vraiment la Bible sur l'argent",
+      "format": "video",
+      "publishedAt": "2026-11-03T23:30:21.638Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Dieu veut que ses enfants soient riches : la Bible le promet, et celui qui donne la dîme avec assez de foi récoltera la prospérité matérielle.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "97_sH9cvWNM",
+        "url": "https://www.youtube.com/watch?v=97_sH9cvWNM",
+        "thumbnail": "https://i.ytimg.com/vi/97_sH9cvWNM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evangile-de-la-prosperite-bb5f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-evangile-de-la-prosperite-bb5f.json"
+      }
+    },
     {
       "id": "bruno-groning-et-l-onde-curative-57ed",
       "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
@@ -1895,90 +1986,11 @@
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/militer-pour-l-humanisme-et-l-esprit-critique-86c2.json"
       }
-    },
-    {
-      "id": "nihilisme-et-detachement-57cd",
-      "title": "Peut-on vivre sans croire en rien ? Pourquoi certains cerveaux arrivent à prendre du recul",
-      "format": "video",
-      "publishedAt": "2026-10-07T11:15:11.586Z",
-      "durationSeconds": 701,
-      "rubric": {
-        "id": "philosophie",
-        "name": "Philosophie moderne"
-      },
-      "claim": {
-        "statement": "Prendre du recul sur ses croyances mène au nihilisme, et le nihilisme mène au désespoir : sans certitudes, la vie perd son sens.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "1iPKqdJlIpI",
-        "url": "https://www.youtube.com/watch?v=1iPKqdJlIpI",
-        "thumbnail": "https://i.ytimg.com/vi/1iPKqdJlIpI/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nihilisme-et-detachement-57cd/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nihilisme-et-detachement-57cd.json"
-      }
-    },
-    {
-      "id": "anthropocentrisme-et-anthropomorphisme-f503",
-      "title": "L'homme est-il fait pour manger de la viande ? Ce que disent la Bible, nos dents et la nature",
-      "format": "video",
-      "publishedAt": "2026-10-06T23:00:12.844Z",
-      "durationSeconds": 714,
-      "rubric": {
-        "id": "systeme",
-        "name": "Le système"
-      },
-      "claim": {
-        "statement": "L'humain est naturellement herbivore : ses petites canines, ses mains sans griffes et son long intestin le prouvent, et la viande, inadaptée à son corps, pourrit dans son côlon.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "4ojC0a3f7AY",
-        "url": "https://www.youtube.com/watch?v=4ojC0a3f7AY",
-        "thumbnail": "https://i.ytimg.com/vi/4ojC0a3f7AY/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/anthropocentrisme-et-anthropomorphisme-f503/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/anthropocentrisme-et-anthropomorphisme-f503.json"
-      }
     }
   ],
   "pageLinks": [
     "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
-    "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json"
+    "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
+    "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-3.json"
   ]
 }

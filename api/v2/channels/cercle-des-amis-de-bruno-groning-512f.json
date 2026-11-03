@@ -11,6 +11,61 @@
         "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
       },
       "video": {
+        "id": "bruno-groning-et-l-onde-curative-bc00",
+        "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
+        "format": "short",
+        "publishedAt": "2026-11-03T23:30:25.234Z",
+        "durationSeconds": 129,
+        "rubric": {
+          "id": "religions",
+          "name": "Religions"
+        },
+        "claim": {
+          "statement": "Bruno Gröning a transmis une force divine de guérison (l'onde curative) : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris de maladies graves, par une aide venue de Dieu.",
+          "verdict": "inverifiable",
+          "verdictLabel": "Invérifiable"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "temoignage-inverifiable",
+            "name": "Le témoignage invérifiable"
+          },
+          {
+            "id": "selection-des-cas",
+            "name": "Le tri des cas favorables"
+          },
+          {
+            "id": "placebo",
+            "name": "Le placebo pris pour un remède"
+          }
+        ],
+        "answers": {
+          "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+          "channel": "Cercle des Amis de Bruno Gröning",
+          "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+        },
+        "series": {
+          "part": 3,
+          "parts": 3
+        },
+        "youtube": {
+          "id": "q9pJuljoNZo",
+          "url": "https://www.youtube.com/watch?v=q9pJuljoNZo",
+          "thumbnail": "https://i.ytimg.com/vi/q9pJuljoNZo/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-bc00.json"
+        }
+      }
+    },
+    {
+      "examined": {
+        "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+        "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+      },
+      "video": {
         "id": "bruno-groning-et-l-onde-curative-57ed",
         "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
         "format": "short",

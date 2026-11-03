@@ -1,9 +1,515 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-03T21:11:40.687Z",
+  "generatedAt": "2026-11-03T23:31:25.773Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "bruno-groning-et-l-onde-curative-bc00",
+      "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
+      "format": "short",
+      "publishedAt": "2026-11-03T23:30:25.234Z",
+      "durationSeconds": 129,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Bruno Gröning a transmis une force divine de guérison (l'onde curative) : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris de maladies graves, par une aide venue de Dieu.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable",
+        "summary": "Les documentaires et témoignages mis en avant montrent des vécus sincères et des soulagements réels, mais ni une caméra ni un récit ne peuvent établir qu'une force divine en est la cause. Un recul de la maladie s'explique aussi par une rémission spontanée, un autre traitement ou une erreur de diagnostic, et une intervention surnaturelle échappe par nature aux méthodes de la science."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": {
+        "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+        "channel": "Cercle des Amis de Bruno Gröning",
+        "channelId": "UCoF0Pnl5WcCGOJ1Au76K3-A",
+        "url": "https://www.youtube.com/watch?v=rXENj-J8gBc",
+        "passages": [
+          {
+            "text": "Film documentaire : « Le phénomène de la guérison »"
+          },
+          {
+            "text": "Film documentaire : « Aux côtés de Bruno Gröning »"
+          }
+        ]
+      },
+      "series": {
+        "part": 3,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "q9pJuljoNZo",
+        "url": "https://www.youtube.com/watch?v=q9pJuljoNZo",
+        "thumbnail": "https://i.ytimg.com/vi/q9pJuljoNZo/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-bc00.json"
+      },
+      "facts": [
+        {
+          "text": "Les adeptes de Bruno Gröning présentent la guérison comme l'œuvre d'une force divine qu'il transmettait, accessible à qui s'y ouvre par la foi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+              "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+              "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+            },
+            {
+              "title": "Bruno Gröning-Freundeskreis",
+              "publisher": "Nomos (M. Utsch, 2024)",
+              "url": "https://www.nomos-elibrary.de/document/download/pdf/uuid/3301877d-25a9-3a5b-8da0-ad8f0f261264"
+            }
+          ]
+        },
+        {
+          "text": "Des personnes rapportent avoir ressenti des sensations physiques, comme une chaleur ou le recul d'une douleur, et une amélioration qu'elles attribuent à Gröning.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+              "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+              "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+            }
+          ]
+        },
+        {
+          "text": "En 2019, l'historien de la médecine Florian Mildenberger décrit Bruno Gröning comme un prêtre de substitution (Ersatzpriester) pour ses fidèles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+              "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+              "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+            }
+          ]
+        },
+        {
+          "text": "Gröning a été suivi comme guérisseur par un très grand nombre de personnes dans l'Allemagne de l'Ouest de l'après-guerre, en quête de sens autant que de soin.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+              "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+              "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+            },
+            {
+              "title": "Religiöse Heiler im medizinischen Pluralismus in Deutschland",
+              "publisher": "Franz Steiner Verlag / IGM Bosch (Teut, Dinges, Jütte, 2019)",
+              "url": "https://www.igm-bosch.de/files/img/pdf-dokumente-publikationen/beihefte/MedGG_Beiheft_71.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Un recueil de témoignages filmés ne montre que les personnes qui se déclarent améliorées et acceptent de témoigner ; il ne permet ni de compter les échecs ni de comparer avec l'évolution de la maladie sans intervention.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning-Freundeskreis",
+              "publisher": "Nomos (M. Utsch, 2024)",
+              "url": "https://www.nomos-elibrary.de/document/download/pdf/uuid/3301877d-25a9-3a5b-8da0-ad8f0f261264"
+            }
+          ]
+        },
+        {
+          "text": "Un examen médical montrant le recul d'une maladie n'en établit pas la cause : une rémission spontanée, un autre traitement ou un diagnostic initial erroné peuvent l'expliquer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+              "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+              "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+            }
+          ]
+        },
+        {
+          "text": "En 2009, Jørgensen, Hróbjartsson et Gøtzsche soutiennent, à propos de la recherche sur la prière d'intercession, qu'une intervention surnaturelle sort du champ de ce que la méthode scientifique peut tester.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Divine intervention? A Cochrane review on intercessory prayer gone beyond science and reason",
+              "publisher": "Journal of Negative Results in Biomedicine",
+              "url": "https://link.springer.com/article/10.1186/1477-5751-8-7"
+            }
+          ]
+        },
+        {
+          "text": "L'origine divine des guérisons attribuées à Gröning ne peut pas être vérifiée, et aucune démonstration contrôlée n'établit que sa méthode guérit au-delà des explications ordinaires.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Divine intervention? A Cochrane review on intercessory prayer gone beyond science and reason",
+              "publisher": "Journal of Negative Results in Biomedicine",
+              "url": "https://link.springer.com/article/10.1186/1477-5751-8-7"
+            },
+            {
+              "title": "Bruno Gröning-Freundeskreis",
+              "publisher": "Nomos (M. Utsch, 2024)",
+              "url": "https://www.nomos-elibrary.de/document/download/pdf/uuid/3301877d-25a9-3a5b-8da0-ad8f0f261264"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "l-evangile-de-la-prosperite-bb5f",
+      "title": "Dieu veut-il que tu sois riche ? Ce que dit vraiment la Bible sur l'argent",
+      "format": "video",
+      "publishedAt": "2026-11-03T23:30:21.638Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Dieu veut que ses enfants soient riches : la Bible le promet, et celui qui donne la dîme avec assez de foi récoltera la prospérité matérielle.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Les versets cités existent, mais lus dans leur contexte ils parlent de récoltes collectives, d'un vœu adressé à un ami et de la vie elle-même, et d'autres passages mettent en garde contre la richesse. La mécanique du don à rendement relève d'une histoire américaine du vingtième siècle aux racines débattues, elle impute tout échec au manque de foi, et les comptes des grands ministères ont échappé même à l'enquête du Sénat américain."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "97_sH9cvWNM",
+        "url": "https://www.youtube.com/watch?v=97_sH9cvWNM",
+        "thumbnail": "https://i.ytimg.com/vi/97_sH9cvWNM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evangile-de-la-prosperite-bb5f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-evangile-de-la-prosperite-bb5f.json"
+      },
+      "facts": [
+        {
+          "text": "Blessed: A History of the American Prosperity Gospel de Kate Bowler, paru en 2013, est la première monographie universitaire sur l'histoire du mouvement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Blessed: A History of the American Prosperity Gospel",
+              "publisher": "Oxford University Press (fiche Duke University)",
+              "url": "https://graduateprograminreligion.duke.edu/books/blessed-history-american-prosperity-gospel"
+            },
+            {
+              "title": "Prosperity Gospel Is Surprisingly Mainstream",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2013/08/prosperity-gospel-is-surprisingly-mainstream/"
+            }
+          ]
+        },
+        {
+          "text": "Selon Kate Bowler, environ un chrétien américain sur six s'identifie au mouvement de la prospérité et plus d'un million de personnes fréquentent chaque dimanche des mégachurches de la prospérité (des millions de chrétiens adhèrent à ces lectures).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Prosperity Gospel Is Surprisingly Mainstream",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2013/08/prosperity-gospel-is-surprisingly-mainstream/"
+            }
+          ]
+        },
+        {
+          "text": "En 2006, le Pew Research Center a interrogé des pentecôtistes dans dix pays ; dans neuf d'entre eux, la plupart disent que Dieu accorde la prospérité matérielle à tous les croyants qui ont assez de foi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Spirit and Power: A 10-Country Survey of Pentecostals",
+              "publisher": "Pew Research Center",
+              "url": "https://www.pewresearch.org/religion/2006/10/05/spirit-and-power/"
+            }
+          ]
+        },
+        {
+          "text": "Malachie 3:10 est souvent lu au moment de l'offrande dans les Églises qui prêchent la prospérité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Prosperity Gospel Is Surprisingly Mainstream",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2013/08/prosperity-gospel-is-surprisingly-mainstream/"
+            }
+          ]
+        },
+        {
+          "text": "Texte de Malachie 3:10 (Louis Segond 1910) tel que lu dans la vidéo ; Malachie 3:11 promet de menacer « celui qui dévore », afin qu'il ne détruise pas les fruits de la terre et que la vigne ne soit pas stérile dans les campagnes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Malachie 3:10-11 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Malachie+3:10-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Texte de 3 Jean 1:2 (Louis Segond 1910) tel que lu dans la vidéo, à vérifier mot à mot, notamment « et sois en bonne santé » ; 3 Jean 1:1 nomme le destinataire, Gaïus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "3 Jean 1:1-2 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=3+Jean+1:1-2&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Jean 10:10 dans la Louis Segond 1910, lu comme se terminant par « et qu'elles l'aient en abondance » (à vérifier mot à mot) ; Jean 10:11 : le bon berger donne sa vie pour ses brebis.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jean 10:10-11 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Jean+10:10-11&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Deutéronome 14:28-29 : la troisième année, la dîme est déposée dans les villes pour le Lévite, l'étranger, l'orphelin et la veuve.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Deutéronome 14:28-29 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Deut%C3%A9ronome+14:28-29&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Abraham (Genèse 13:2) et Salomon (1 Rois 10) sont décrits comme très riches, et Deutéronome 28 promet l'abondance à qui obéit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Genèse 13:2 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Gen%C3%A8se+13:2&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Le livre de Job est largement lu comme une remise en cause de l'idée que le juste prospère toujours ; Job, décrit comme intègre (Job 1:1), perd ses troupeaux et ses enfants (Job 1), ses amis lient malheur et faute, Dieu leur reproche de ne pas avoir parlé de lui avec droiture (Job 42:7) et Job reçoit le double de ses biens (Job 42:10).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Job 42:7-10 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Job+42:7-10&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "Texte de Marc 10:25 (Louis Segond 1910) tel que lu dans la vidéo.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Marc 10:25 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=Marc+10:25&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "La sourate 102 du Coran (At-Takathur) s'ouvre sur le reproche d'une course aux richesses qui distrait les hommes jusqu'à la tombe.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Sourate 102 At-Takathur",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/102"
+            }
+          ]
+        },
+        {
+          "text": "La Nouvelle Pensée (New Thought) est un courant métaphysique américain qui affirme le pouvoir de l'esprit sur la matière.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "New Thought",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/New_Thought"
+            }
+          ]
+        },
+        {
+          "text": "Selon D. R. McConnell (A Different Gospel, 1988), les enseignements de Kenneth Hagin viennent d'E. W. Kenyon, lui-même nourri de la Nouvelle Pensée ; cette filiation est débattue, d'autres auteurs insistant sur la tradition des guérisseurs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Prosperity Gospel Is Surprisingly Mainstream",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2013/08/prosperity-gospel-is-surprisingly-mainstream/"
+            }
+          ]
+        },
+        {
+          "text": "Paul parle de semer et de moissonner dans la deuxième lettre aux Corinthiens (2 Corinthiens 9:6).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "2 Corinthiens 9:6 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=2+Corinthiens+9:6&version=LSG"
+            }
+          ]
+        },
+        {
+          "text": "L'histoire du mouvement retracée par Kate Bowler va de figures du début du vingtième siècle et de la pensée positive de Norman Vincent Peale à Oral Roberts, Kenneth Hagin et aux mégachurches actuelles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Blessed: A History of the American Prosperity Gospel",
+              "publisher": "Oxford University Press (fiche Duke University)",
+              "url": "https://graduateprograminreligion.duke.edu/books/blessed-history-american-prosperity-gospel"
+            }
+          ]
+        },
+        {
+          "text": "En 2007, le sénateur Chuck Grassley a ouvert une enquête sur les finances de six ministères télévisés : Benny Hinn, Creflo Dollar, Eddie Long, Joyce Meyer, Kenneth Copeland, Paula et Randy White.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Grassley Investigation Ends with No Penalty for Televangelists",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2011/01/grassley-investigation-ends-with-no-penalty-for/"
+            }
+          ]
+        },
+        {
+          "text": "Quatre des six ministères n'ont répondu que partiellement ou pas du tout ; l'enquête s'est close en janvier 2011 sur un rapport de 61 pages, sans sanction.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Grassley Investigation Ends with No Penalty for Televangelists",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2011/01/grassley-investigation-ends-with-no-penalty-for/"
+            }
+          ]
+        },
+        {
+          "text": "Grassley a renvoyé la question de la transparence à l'organisme d'autorégulation ECFA et a posé la question d'obliger les Églises à déposer des formulaires financiers détaillés auprès de l'IRS.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Grassley Investigation Ends with No Penalty for Televangelists",
+              "publisher": "Christianity Today",
+              "url": "https://www.christianitytoday.com/2011/01/grassley-investigation-ends-with-no-penalty-for/"
+            }
+          ]
+        },
+        {
+          "text": "Kate Bowler a reçu en 2015, à 35 ans, un diagnostic de cancer du côlon de stade 4, et a publié en 2018 Everything Happens for a Reason, qui critique la manière dont la logique de la bénédiction rend la maladie suspecte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Kate Bowler",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kate_Bowler"
+            }
+          ]
+        },
+        {
+          "text": "Les chapitres 8 et 9 de la deuxième lettre aux Corinthiens organisent une collecte pour les chrétiens démunis de Jérusalem.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "2 Corinthiens 8-9 (Louis Segond)",
+              "publisher": "BibleGateway",
+              "url": "https://www.biblegateway.com/passage/?search=2+Corinthiens+8:1-9:15&version=LSG"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Physique quantique et loi de l'attraction : nos pensées créent-elles vraiment la réalité ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=hGHuqnHvlmg",
+          "own": true
+        },
+        {
+          "title": "COMMENT LA PRIÈRE M'A SAUVÉ (témoignage)",
+          "channel": "Chat Sceptique",
+          "url": "https://www.youtube.com/watch?v=i0u_7jJ9JLg",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Ruissellement et premiers de cordée : la réussite des plus riches profite-t-elle à tous ?",
+        "url": "https://www.youtube.com/watch?v=BRlmf9tRcd0"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "bruno-groning-et-l-onde-curative-57ed",
       "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
@@ -38329,6 +38835,182 @@
       }
     },
     {
+      "id": "cercle-des-amis-de-bruno-groning-512f",
+      "name": "Cercle des Amis de Bruno Gröning",
+      "url": "https://www.youtube.com/channel/UCoF0Pnl5WcCGOJ1Au76K3-A",
+      "subscribers": 19000,
+      "answers": [
+        {
+          "examined": {
+            "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+            "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+          },
+          "video": {
+            "id": "bruno-groning-et-l-onde-curative-bc00",
+            "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
+            "format": "short",
+            "publishedAt": "2026-11-03T23:30:25.234Z",
+            "durationSeconds": 129,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Bruno Gröning a transmis une force divine de guérison (l'onde curative) : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris de maladies graves, par une aide venue de Dieu.",
+              "verdict": "inverifiable",
+              "verdictLabel": "Invérifiable"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              },
+              {
+                "id": "selection-des-cas",
+                "name": "Le tri des cas favorables"
+              },
+              {
+                "id": "placebo",
+                "name": "Le placebo pris pour un remède"
+              }
+            ],
+            "answers": {
+              "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+              "channel": "Cercle des Amis de Bruno Gröning",
+              "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+            },
+            "series": {
+              "part": 3,
+              "parts": 3
+            },
+            "youtube": {
+              "id": "q9pJuljoNZo",
+              "url": "https://www.youtube.com/watch?v=q9pJuljoNZo",
+              "thumbnail": "https://i.ytimg.com/vi/q9pJuljoNZo/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-bc00.json"
+            }
+          }
+        },
+        {
+          "examined": {
+            "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+            "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+          },
+          "video": {
+            "id": "bruno-groning-et-l-onde-curative-57ed",
+            "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
+            "format": "short",
+            "publishedAt": "2026-11-03T21:10:40.507Z",
+            "durationSeconds": 130,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et en suivant la voie spirituelle qu'il enseignait, on peut retrouver la santé, même face à des maladies graves, grâce à une aide venue de Dieu.",
+              "verdict": "inverifiable",
+              "verdictLabel": "Invérifiable"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              },
+              {
+                "id": "placebo",
+                "name": "Le placebo pris pour un remède"
+              },
+              {
+                "id": "infalsifiabilite",
+                "name": "L'affirmation à l'épreuve de tout"
+              }
+            ],
+            "answers": {
+              "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+              "channel": "Cercle des Amis de Bruno Gröning",
+              "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+            },
+            "series": {
+              "part": 2,
+              "parts": 3
+            },
+            "youtube": {
+              "id": "9j3CuDxDwNA",
+              "url": "https://www.youtube.com/watch?v=9j3CuDxDwNA",
+              "thumbnail": "https://i.ytimg.com/vi/9j3CuDxDwNA/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-57ed/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-57ed.json"
+            }
+          }
+        },
+        {
+          "examined": {
+            "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+            "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+          },
+          "video": {
+            "id": "bruno-groning-et-l-onde-curative-b91e",
+            "title": "Cercle des Amis de Bruno Gröning, où sont les preuves ? (partie 1/3)",
+            "format": "short",
+            "publishedAt": "2026-11-03T20:49:09.166Z",
+            "durationSeconds": 127,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris face à des maladies graves, grâce à une aide venue de Dieu.",
+              "verdict": "non_demontre",
+              "verdictLabel": "Non démontré"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              },
+              {
+                "id": "placebo",
+                "name": "Le placebo pris pour un remède"
+              },
+              {
+                "id": "selection-des-cas",
+                "name": "Le tri des cas favorables"
+              }
+            ],
+            "answers": {
+              "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+              "channel": "Cercle des Amis de Bruno Gröning",
+              "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+            },
+            "series": {
+              "part": 1,
+              "parts": 3
+            },
+            "youtube": {
+              "id": "cIT9MYFd2f4",
+              "url": "https://www.youtube.com/watch?v=cIT9MYFd2f4",
+              "thumbnail": "https://i.ytimg.com/vi/cIT9MYFd2f4/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-b91e.json"
+            }
+          }
+        }
+      ],
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/cercle-des-amis-de-bruno-groning-512f.json"
+      }
+    },
+    {
       "id": "elohim-b7b2",
       "name": "Elohim",
       "url": "https://www.youtube.com/channel/UC2w81_CZFXgQ1RJWgjQlZcQ",
@@ -38485,127 +39167,6 @@
       ],
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/elohim-b7b2.json"
-      }
-    },
-    {
-      "id": "cercle-des-amis-de-bruno-groning-512f",
-      "name": "Cercle des Amis de Bruno Gröning",
-      "url": "https://www.youtube.com/channel/UCoF0Pnl5WcCGOJ1Au76K3-A",
-      "subscribers": 19000,
-      "answers": [
-        {
-          "examined": {
-            "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
-            "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
-          },
-          "video": {
-            "id": "bruno-groning-et-l-onde-curative-57ed",
-            "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
-            "format": "short",
-            "publishedAt": "2026-11-03T21:10:40.507Z",
-            "durationSeconds": 130,
-            "rubric": {
-              "id": "religions",
-              "name": "Religions"
-            },
-            "claim": {
-              "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et en suivant la voie spirituelle qu'il enseignait, on peut retrouver la santé, même face à des maladies graves, grâce à une aide venue de Dieu.",
-              "verdict": "inverifiable",
-              "verdictLabel": "Invérifiable"
-            },
-            "technique": null,
-            "techniques": [
-              {
-                "id": "temoignage-inverifiable",
-                "name": "Le témoignage invérifiable"
-              },
-              {
-                "id": "placebo",
-                "name": "Le placebo pris pour un remède"
-              },
-              {
-                "id": "infalsifiabilite",
-                "name": "L'affirmation à l'épreuve de tout"
-              }
-            ],
-            "answers": {
-              "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
-              "channel": "Cercle des Amis de Bruno Gröning",
-              "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
-            },
-            "series": {
-              "part": 2,
-              "parts": 3
-            },
-            "youtube": {
-              "id": "9j3CuDxDwNA",
-              "url": "https://www.youtube.com/watch?v=9j3CuDxDwNA",
-              "thumbnail": "https://i.ytimg.com/vi/9j3CuDxDwNA/hqdefault.jpg"
-            },
-            "links": {
-              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-57ed/",
-              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-57ed.json"
-            }
-          }
-        },
-        {
-          "examined": {
-            "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
-            "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
-          },
-          "video": {
-            "id": "bruno-groning-et-l-onde-curative-b91e",
-            "title": "Cercle des Amis de Bruno Gröning, où sont les preuves ? (partie 1/3)",
-            "format": "short",
-            "publishedAt": "2026-11-03T20:49:09.166Z",
-            "durationSeconds": 127,
-            "rubric": {
-              "id": "religions",
-              "name": "Religions"
-            },
-            "claim": {
-              "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris face à des maladies graves, grâce à une aide venue de Dieu.",
-              "verdict": "non_demontre",
-              "verdictLabel": "Non démontré"
-            },
-            "technique": null,
-            "techniques": [
-              {
-                "id": "temoignage-inverifiable",
-                "name": "Le témoignage invérifiable"
-              },
-              {
-                "id": "placebo",
-                "name": "Le placebo pris pour un remède"
-              },
-              {
-                "id": "selection-des-cas",
-                "name": "Le tri des cas favorables"
-              }
-            ],
-            "answers": {
-              "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
-              "channel": "Cercle des Amis de Bruno Gröning",
-              "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
-            },
-            "series": {
-              "part": 1,
-              "parts": 3
-            },
-            "youtube": {
-              "id": "cIT9MYFd2f4",
-              "url": "https://www.youtube.com/watch?v=cIT9MYFd2f4",
-              "thumbnail": "https://i.ytimg.com/vi/cIT9MYFd2f4/hqdefault.jpg"
-            },
-            "links": {
-              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/",
-              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-b91e.json"
-            }
-          }
-        }
-      ],
-      "links": {
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/cercle-des-amis-de-bruno-groning-512f.json"
       }
     },
     {

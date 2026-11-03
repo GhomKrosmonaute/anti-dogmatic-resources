@@ -41,6 +41,97 @@
   ],
   "examples": [
     {
+      "id": "bruno-groning-et-l-onde-curative-bc00",
+      "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
+      "format": "short",
+      "publishedAt": "2026-11-03T23:30:25.234Z",
+      "durationSeconds": 129,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Bruno Gröning a transmis une force divine de guérison (l'onde curative) : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris de maladies graves, par une aide venue de Dieu.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": {
+        "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+        "channel": "Cercle des Amis de Bruno Gröning",
+        "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+      },
+      "series": {
+        "part": 3,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "q9pJuljoNZo",
+        "url": "https://www.youtube.com/watch?v=q9pJuljoNZo",
+        "thumbnail": "https://i.ytimg.com/vi/q9pJuljoNZo/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-bc00.json"
+      }
+    },
+    {
+      "id": "l-evangile-de-la-prosperite-bb5f",
+      "title": "Dieu veut-il que tu sois riche ? Ce que dit vraiment la Bible sur l'argent",
+      "format": "video",
+      "publishedAt": "2026-11-03T23:30:21.638Z",
+      "durationSeconds": 698,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Dieu veut que ses enfants soient riches : la Bible le promet, et celui qui donne la dîme avec assez de foi récoltera la prospérité matérielle.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "97_sH9cvWNM",
+        "url": "https://www.youtube.com/watch?v=97_sH9cvWNM",
+        "thumbnail": "https://i.ytimg.com/vi/97_sH9cvWNM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-evangile-de-la-prosperite-bb5f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-evangile-de-la-prosperite-bb5f.json"
+      }
+    },
+    {
       "id": "bruno-groning-et-l-onde-curative-57ed",
       "title": "Cercle des Amis de Bruno Gröning, Dieu ne se teste pas (partie 2/3)",
       "format": "short",

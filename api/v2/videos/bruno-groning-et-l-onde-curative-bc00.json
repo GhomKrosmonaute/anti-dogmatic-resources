@@ -1,0 +1,181 @@
+{
+  "version": 2,
+  "id": "bruno-groning-et-l-onde-curative-bc00",
+  "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
+  "format": "short",
+  "publishedAt": "2026-11-03T23:30:25.234Z",
+  "durationSeconds": 129,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Bruno Gröning a transmis une force divine de guérison (l'onde curative) : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris de maladies graves, par une aide venue de Dieu.",
+    "verdict": "inverifiable",
+    "verdictLabel": "Invérifiable",
+    "summary": "Les documentaires et témoignages mis en avant montrent des vécus sincères et des soulagements réels, mais ni une caméra ni un récit ne peuvent établir qu'une force divine en est la cause. Un recul de la maladie s'explique aussi par une rémission spontanée, un autre traitement ou une erreur de diagnostic, et une intervention surnaturelle échappe par nature aux méthodes de la science."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "selection-des-cas",
+      "name": "Le tri des cas favorables"
+    },
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède"
+    }
+  ],
+  "answers": {
+    "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+    "channel": "Cercle des Amis de Bruno Gröning",
+    "channelId": "UCoF0Pnl5WcCGOJ1Au76K3-A",
+    "url": "https://www.youtube.com/watch?v=rXENj-J8gBc",
+    "passages": [
+      {
+        "text": "Film documentaire : « Le phénomène de la guérison »"
+      },
+      {
+        "text": "Film documentaire : « Aux côtés de Bruno Gröning »"
+      }
+    ]
+  },
+  "series": {
+    "part": 3,
+    "parts": 3
+  },
+  "youtube": {
+    "id": "q9pJuljoNZo",
+    "url": "https://www.youtube.com/watch?v=q9pJuljoNZo",
+    "thumbnail": "https://i.ytimg.com/vi/q9pJuljoNZo/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-bc00.json"
+  },
+  "facts": [
+    {
+      "text": "Les adeptes de Bruno Gröning présentent la guérison comme l'œuvre d'une force divine qu'il transmettait, accessible à qui s'y ouvre par la foi.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+          "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+          "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+        },
+        {
+          "title": "Bruno Gröning-Freundeskreis",
+          "publisher": "Nomos (M. Utsch, 2024)",
+          "url": "https://www.nomos-elibrary.de/document/download/pdf/uuid/3301877d-25a9-3a5b-8da0-ad8f0f261264"
+        }
+      ]
+    },
+    {
+      "text": "Des personnes rapportent avoir ressenti des sensations physiques, comme une chaleur ou le recul d'une douleur, et une amélioration qu'elles attribuent à Gröning.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+          "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+          "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+        }
+      ]
+    },
+    {
+      "text": "En 2019, l'historien de la médecine Florian Mildenberger décrit Bruno Gröning comme un prêtre de substitution (Ersatzpriester) pour ses fidèles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+          "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+          "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+        }
+      ]
+    },
+    {
+      "text": "Gröning a été suivi comme guérisseur par un très grand nombre de personnes dans l'Allemagne de l'Ouest de l'après-guerre, en quête de sens autant que de soin.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+          "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+          "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+        },
+        {
+          "title": "Religiöse Heiler im medizinischen Pluralismus in Deutschland",
+          "publisher": "Franz Steiner Verlag / IGM Bosch (Teut, Dinges, Jütte, 2019)",
+          "url": "https://www.igm-bosch.de/files/img/pdf-dokumente-publikationen/beihefte/MedGG_Beiheft_71.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Un recueil de témoignages filmés ne montre que les personnes qui se déclarent améliorées et acceptent de témoigner ; il ne permet ni de compter les échecs ni de comparer avec l'évolution de la maladie sans intervention.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bruno Gröning-Freundeskreis",
+          "publisher": "Nomos (M. Utsch, 2024)",
+          "url": "https://www.nomos-elibrary.de/document/download/pdf/uuid/3301877d-25a9-3a5b-8da0-ad8f0f261264"
+        }
+      ]
+    },
+    {
+      "text": "Un examen médical montrant le recul d'une maladie n'en établit pas la cause : une rémission spontanée, un autre traitement ou un diagnostic initial erroné peuvent l'expliquer.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "„Im Gewand des Geistlichen\", Bruno Gröning als Ersatzpriester",
+          "publisher": "Teut/Dinges/Jütte (Hg.), Franz Steiner Verlag",
+          "url": "https://biblioscout.net/de/content/10.25162/9783515125192.pdf#page=36"
+        }
+      ]
+    },
+    {
+      "text": "En 2009, Jørgensen, Hróbjartsson et Gøtzsche soutiennent, à propos de la recherche sur la prière d'intercession, qu'une intervention surnaturelle sort du champ de ce que la méthode scientifique peut tester.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Divine intervention? A Cochrane review on intercessory prayer gone beyond science and reason",
+          "publisher": "Journal of Negative Results in Biomedicine",
+          "url": "https://link.springer.com/article/10.1186/1477-5751-8-7"
+        }
+      ]
+    },
+    {
+      "text": "L'origine divine des guérisons attribuées à Gröning ne peut pas être vérifiée, et aucune démonstration contrôlée n'établit que sa méthode guérit au-delà des explications ordinaires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Divine intervention? A Cochrane review on intercessory prayer gone beyond science and reason",
+          "publisher": "Journal of Negative Results in Biomedicine",
+          "url": "https://link.springer.com/article/10.1186/1477-5751-8-7"
+        },
+        {
+          "title": "Bruno Gröning-Freundeskreis",
+          "publisher": "Nomos (M. Utsch, 2024)",
+          "url": "https://www.nomos-elibrary.de/document/download/pdf/uuid/3301877d-25a9-3a5b-8da0-ad8f0f261264"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}
