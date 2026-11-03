@@ -7,6 +7,58 @@
   "answers": [
     {
       "examined": {
+        "title": "Servir les anges ou s'en servir ?",
+        "url": "https://www.youtube.com/watch?v=DDiEGPfE4Pg"
+      },
+      "video": {
+        "id": "les-dialogues-avec-l-ange-gitta-mallasz-8f0f",
+        "title": "Lilou Macé, personne ne sait qui sert vraiment les anges",
+        "format": "short",
+        "publishedAt": "2026-11-03T19:11:57.801Z",
+        "durationSeconds": 132,
+        "rubric": {
+          "id": "religions",
+          "name": "Religions"
+        },
+        "claim": {
+          "statement": "Certaines personnes servent réellement les anges et d'autres s'en servent ; les Dialogues avec l'ange sont une communication authentique avec des anges, et Marguerite Kardos, leur traductrice et ambassadrice, sait distinguer les vrais serviteurs des profiteurs.",
+          "verdict": "non_demontre",
+          "verdictLabel": "Non démontré"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "faux-dilemme",
+            "name": "Le faux dilemme"
+          },
+          {
+            "id": "argument-autorite",
+            "name": "L'argument d'autorité"
+          },
+          {
+            "id": "temoignage-inverifiable",
+            "name": "Le témoignage invérifiable"
+          }
+        ],
+        "answers": {
+          "title": "Servir les anges ou s'en servir ?",
+          "channel": "La Télé de Lilou Macé",
+          "url": "https://www.youtube.com/watch?v=DDiEGPfE4Pg"
+        },
+        "series": null,
+        "youtube": {
+          "id": "n9SJBj0kJdE",
+          "url": "https://www.youtube.com/watch?v=n9SJBj0kJdE",
+          "thumbnail": "https://i.ytimg.com/vi/n9SJBj0kJdE/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-dialogues-avec-l-ange-gitta-mallasz-8f0f/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-dialogues-avec-l-ange-gitta-mallasz-8f0f.json"
+        }
+      }
+    },
+    {
+      "examined": {
         "title": "Contact avec défunts_ Science, Védas et expériences vécues",
         "url": "https://www.youtube.com/watch?v=s3GeA8W-Uxg"
       },

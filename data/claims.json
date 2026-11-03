@@ -1,9 +1,181 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-20T10:35:37.257Z",
+  "generatedAt": "2026-11-03T19:12:57.993Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "les-dialogues-avec-l-ange-gitta-mallasz-8f0f",
+      "title": "Lilou Macé, personne ne sait qui sert vraiment les anges",
+      "format": "short",
+      "publishedAt": "2026-11-03T19:11:57.801Z",
+      "durationSeconds": 132,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Certaines personnes servent réellement les anges et d'autres s'en servent ; les Dialogues avec l'ange sont une communication authentique avec des anges, et Marguerite Kardos, leur traductrice et ambassadrice, sait distinguer les vrais serviteurs des profiteurs.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Les Dialogues avec l'ange reposent sur un document historique réel : des séances datées, tenues en Hongrie en 1943 et 1944, où Hanna Dallos parlait et où Gitta Mallasz et Lili Strausz prenaient des notes. Rien n'établit pourtant que ces paroles venaient d'anges : la psychologie de la dissociation en propose une explication humaine, et l'opposition entre serviteurs et profiteurs oublie la personne sincère qui se trompe sur l'origine de ses mots. Sans critère vérifiable, aucun tri entre vrais serviteurs et profiteurs ne peut être fondé."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": {
+        "title": "Servir les anges ou s'en servir ?",
+        "channel": "La Télé de Lilou Macé",
+        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+        "url": "https://www.youtube.com/watch?v=DDiEGPfE4Pg",
+        "passages": [
+          {
+            "text": "Marguerite Kardos, traductrice et ambassadrice des Dialogues avec l'ange est catégorique !"
+          }
+        ]
+      },
+      "series": null,
+      "youtube": {
+        "id": "n9SJBj0kJdE",
+        "url": "https://www.youtube.com/watch?v=n9SJBj0kJdE",
+        "thumbnail": "https://i.ytimg.com/vi/n9SJBj0kJdE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-dialogues-avec-l-ange-gitta-mallasz-8f0f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-dialogues-avec-l-ange-gitta-mallasz-8f0f.json"
+      },
+      "facts": [
+        {
+          "text": "Les séances à l'origine des Dialogues avec l'ange ont commencé en 1943 en Hongrie et réunissaient quatre amis : Hanna Dallos, Gitta Mallasz, Lili Strausz et Joseph Kreutzer.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Talking with Angels – Dialogues in Buda",
+              "publisher": "dialogues-ange.fr",
+              "url": "https://dialogues-ange.fr/talking_with_angels/dialogues_buda_en.html"
+            },
+            {
+              "title": "Gitta Mallasz",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gitta_Mallasz"
+            }
+          ]
+        },
+        {
+          "text": "Pendant ces séances, Hanna Dallos prononçait des paroles que le groupe attribuait à des anges, et Gitta Mallasz et Lili Strausz les notaient à la main lors de séances datées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hanna Dallos",
+              "publisher": "dialogues-ange.fr",
+              "url": "https://dialogues-ange.fr/talking_with_angels/hanna_dallos_en.html"
+            },
+            {
+              "title": "Gitta Mallasz",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gitta_Mallasz"
+            }
+          ]
+        },
+        {
+          "text": "En 1943, la Hongrie appliquait des lois antijuives.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Anti-Jewish laws in Hungary",
+              "publisher": "US Holocaust Memorial Museum",
+              "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/anti-jewish-laws-in-hungary"
+            }
+          ]
+        },
+        {
+          "text": "Trois des quatre amis, Hanna Dallos, Lili Strausz et Joseph Kreutzer, sont morts en déportation ; Gitta Mallasz a survécu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Talking with Angels – Dialogues",
+              "publisher": "dialogues-ange.fr",
+              "url": "https://dialogues-ange.fr/talking_with_angels/dialogues_en.html"
+            },
+            {
+              "title": "Gitta Mallasz",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gitta_Mallasz"
+            }
+          ]
+        },
+        {
+          "text": "En 2014, le psychologue Everton Maraldi a proposé un modèle reliant l'écriture automatique et la médiumnité à la dissociation, aux croyances paranormales et à l'estime de soi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Medium or author? A preliminary model relating dissociation, paranormal belief systems and self-esteem",
+              "publisher": "Journal of the Society for Psychical Research",
+              "url": "https://www.researchgate.net/profile/Everton-Maraldi/publication/264121912_Medium_or_Author_A_Preliminary_Model_Relating_Dissociation_Paranormal_Belief_Systems_and_Self-Esteem/links/551cb1630cf20d5fbde55967/Medium-or-Author-A-Preliminary-Model-Relating-Dissociation-Paranormal-Belief-Systems-and-Self-Esteem.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le chercheur Carlos Alvarado montre que, dès le XIXe siècle, l'écriture automatique et les œuvres de médiums étaient expliquées par la dissociation et l'inconscient.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dissociation and the unconscious mind: nineteenth-century perspectives on mediumship",
+              "publisher": "Carlos S. Alvarado (2020)",
+              "url": "https://books.google.com/books?hl=fr&lr=&id=JafuEQAAQBAJ&oi=fnd&pg=PA248&dq=Alvarado+automatic+writing+dissociation+unconscious+nineteenth+century+mediumship&ots=A3Gz2Rb8YL&sig=d4b4ZsEw8kLh9P-lOsKJcMnlBhg"
+            },
+            {
+              "title": "Nineteenth century pioneers in the study of dissociation: William James and psychical research",
+              "publisher": "Journal of Consciousness Studies (Alvarado & Krippner, 2010)",
+              "url": "https://www.ingentaconnect.com/content/imp/jcs/2010/00000017/F0020011/art00003"
+            }
+          ]
+        },
+        {
+          "text": "Les messages sont connus uniquement par les notes des participantes : transmis par Hanna Dallos, notés par Gitta Mallasz et Lili Strausz, puis édités par Gitta Mallasz ; aucune trace indépendante n'atteste leur origine angélique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gitta Mallasz",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gitta_Mallasz"
+            },
+            {
+              "title": "Talking with Angels – Dialogues",
+              "publisher": "dialogues-ange.fr",
+              "url": "https://dialogues-ange.fr/talking_with_angels/dialogues_en.html"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "les-soins-energetiques-a-distance-guides-de-f774",
       "title": "Soins énergétiques à distance : ce que Luc Bodin ne te dit pas",
@@ -37276,6 +37448,58 @@
       "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
       "subscribers": 327000,
       "answers": [
+        {
+          "examined": {
+            "title": "Servir les anges ou s'en servir ?",
+            "url": "https://www.youtube.com/watch?v=DDiEGPfE4Pg"
+          },
+          "video": {
+            "id": "les-dialogues-avec-l-ange-gitta-mallasz-8f0f",
+            "title": "Lilou Macé, personne ne sait qui sert vraiment les anges",
+            "format": "short",
+            "publishedAt": "2026-11-03T19:11:57.801Z",
+            "durationSeconds": 132,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Certaines personnes servent réellement les anges et d'autres s'en servent ; les Dialogues avec l'ange sont une communication authentique avec des anges, et Marguerite Kardos, leur traductrice et ambassadrice, sait distinguer les vrais serviteurs des profiteurs.",
+              "verdict": "non_demontre",
+              "verdictLabel": "Non démontré"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "faux-dilemme",
+                "name": "Le faux dilemme"
+              },
+              {
+                "id": "argument-autorite",
+                "name": "L'argument d'autorité"
+              },
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              }
+            ],
+            "answers": {
+              "title": "Servir les anges ou s'en servir ?",
+              "channel": "La Télé de Lilou Macé",
+              "url": "https://www.youtube.com/watch?v=DDiEGPfE4Pg"
+            },
+            "series": null,
+            "youtube": {
+              "id": "n9SJBj0kJdE",
+              "url": "https://www.youtube.com/watch?v=n9SJBj0kJdE",
+              "thumbnail": "https://i.ytimg.com/vi/n9SJBj0kJdE/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-dialogues-avec-l-ange-gitta-mallasz-8f0f/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-dialogues-avec-l-ange-gitta-mallasz-8f0f.json"
+            }
+          }
+        },
         {
           "examined": {
             "title": "Contact avec défunts_ Science, Védas et expériences vécues",
