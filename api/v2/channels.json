@@ -32,6 +32,16 @@
       }
     },
     {
+      "id": "cercle-des-amis-de-bruno-groning-512f",
+      "name": "Cercle des Amis de Bruno Gröning",
+      "url": "https://www.youtube.com/channel/UCoF0Pnl5WcCGOJ1Au76K3-A",
+      "subscribers": 19000,
+      "answers": 1,
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/cercle-des-amis-de-bruno-groning-512f.json"
+      }
+    },
+    {
       "id": "coffeebird-official-6800",
       "name": "Coffeebird_official",
       "url": "https://www.youtube.com/channel/UCmkxA7DNnj4HCFLeUHgCjmg",

@@ -1,9 +1,264 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-03T20:44:24.992Z",
+  "generatedAt": "2026-11-03T20:50:09.317Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "bruno-groning-et-l-onde-curative-b91e",
+      "title": "Cercle des Amis de Bruno Gröning, où sont les preuves ? (partie 1/3)",
+      "format": "short",
+      "publishedAt": "2026-11-03T20:49:09.166Z",
+      "durationSeconds": 127,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris face à des maladies graves, grâce à une aide venue de Dieu.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "Rien ne démontre que l'onde curative guérisse des maladies graves : les guérisons attribuées à Gröning reposent sur des témoignages, sans suivi médical vérifiable dans les sources disponibles. Une intervention divine échappe aux essais, comme le note la revue Cochrane de 2009, mais une guérison se vérifie, et cette vérification manque."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+        "channel": "Cercle des Amis de Bruno Gröning",
+        "channelId": "UCoF0Pnl5WcCGOJ1Au76K3-A",
+        "url": "https://www.youtube.com/watch?v=rXENj-J8gBc",
+        "passages": [
+          {
+            "text": "Il a prononcé ce discours le 5 octobre 1958 à Springe, devant l'un de ses cercles d'amis."
+          },
+          {
+            "text": "Extrait d'un discours à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17"
+          }
+        ]
+      },
+      "series": {
+        "part": 1,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "cIT9MYFd2f4",
+        "url": "https://www.youtube.com/watch?v=cIT9MYFd2f4",
+        "thumbnail": "https://i.ytimg.com/vi/cIT9MYFd2f4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-b91e.json"
+      },
+      "facts": [
+        {
+          "text": "En 1949, à Herford, une foule de malades s'est rassemblée autour de Bruno Gröning.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipédia (de)",
+              "url": "https://de.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            }
+          ]
+        },
+        {
+          "text": "Bruno Gröning n'avait aucune formation médicale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipédia (de)",
+              "url": "https://de.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            }
+          ]
+        },
+        {
+          "text": "Les adeptes de Gröning décrivent un courant de guérison d'origine divine, reçu par la foi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Le Cercle des Amis de Bruno Gröning",
+              "publisher": "UNADFI",
+              "url": "https://www.unadfi.org/wp-content/uploads/2019/01/Le-Cercle-des-Amis-de-Bruno-Gr%C3%B6ning.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Gröning a fait l'objet d'une interdiction d'exercer en mai 1949.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipédia (de)",
+              "url": "https://de.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            }
+          ]
+        },
+        {
+          "text": "Avant octobre 1958, Gröning avait été poursuivi pour exercice illégal de la médecine et pour homicide par négligence.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipédia (de)",
+              "url": "https://de.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            }
+          ]
+        },
+        {
+          "text": "Bruno Gröning est mort à Paris le 26 janvier 1959 d'un cancer de l'estomac, soit moins de quatre mois après le 5 octobre 1958.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipédia (de)",
+              "url": "https://de.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            }
+          ]
+        },
+        {
+          "text": "Les sources historiques consultées ne citent aucun suivi médical vérifiable des guérisons attribuées à Gröning.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            },
+            {
+              "title": "Bruno Gröning",
+              "publisher": "Wikipédia (de)",
+              "url": "https://de.wikipedia.org/wiki/Bruno_Gr%C3%B6ning"
+            }
+          ]
+        },
+        {
+          "text": "Une amélioration racontée de bonne foi peut s'expliquer par l'effet placebo, l'évolution naturelle de la maladie, la reconstruction des souvenirs ou un traitement suivi en parallèle.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Placebo interventions for all clinical conditions",
+              "publisher": "Cochrane Database of Systematic Reviews (Hróbjartsson & Gøtzsche, 2004)",
+              "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003974.pub2/abstract"
+            }
+          ]
+        },
+        {
+          "text": "La revue Cochrane de Roberts, Ahmed et Davison (2009) a réuni dix essais randomisés sur la prière d'intercession, portant sur 7 646 patients.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Intercessory prayer for the alleviation of ill health",
+              "publisher": "Cochrane",
+              "url": "https://www.cochrane.org/evidence/CD000368_intercessory-prayer-alleviation-ill-health"
+            },
+            {
+              "title": "Intercessory prayer for the alleviation of ill health",
+              "publisher": "Cochrane Database of Systematic Reviews",
+              "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000368/abstract"
+            }
+          ]
+        },
+        {
+          "text": "Cette revue conclut que les preuves ne permettent ni de recommander ni de déconseiller la prière d'intercession, et ses auteurs notent que l'effet d'une réponse divine ne peut être ni prouvé ni réfuté par des essais.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Intercessory prayer for the alleviation of ill health",
+              "publisher": "Cochrane Database of Systematic Reviews",
+              "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000368/abstract"
+            },
+            {
+              "title": "Intercessory prayer for the alleviation of ill health",
+              "publisher": "Cochrane",
+              "url": "https://www.cochrane.org/evidence/CD000368_intercessory-prayer-alleviation-ill-health"
+            }
+          ]
+        },
+        {
+          "text": "La ruqya est une pratique islamique de guérison par la récitation de versets du Coran.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Understanding the Use of Ruqyah (Healing Method Based on The Quran and Hadith) in the Treatment of Disease",
+              "publisher": "Al-Bayan: Journal of Qur'an and Hadith Studies, Brill (Ahmad, Ramli & Ab Rahman, 2016)",
+              "url": "https://brill.com/view/journals/jqhs/14/2/article-p168_4.xml"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "Les témoignages affluent ; à Rosenheim, des dizaines de milliers de personnes accourent.",
+            "note": "Ordre de grandeur de l'affluence, sans lien avec la santé (ni dose, ni risque, ni traitement). L'argument ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "Herford, 1949 : une foule de malades entoure Bruno Gröning, un homme sans formation médicale.",
+            "note": "« Une foule » est une estimation qualitative de l'affluence. L'argument ne dépend pas de son ampleur exacte."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d",
       "title": "Frère Paul-Adrien, rien ne prouve que nos morts nous voient",
@@ -38153,6 +38408,72 @@
       ],
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/luc-bodin-chaine-officielle-4281.json"
+      }
+    },
+    {
+      "id": "cercle-des-amis-de-bruno-groning-512f",
+      "name": "Cercle des Amis de Bruno Gröning",
+      "url": "https://www.youtube.com/channel/UCoF0Pnl5WcCGOJ1Au76K3-A",
+      "subscribers": 19000,
+      "answers": [
+        {
+          "examined": {
+            "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+            "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+          },
+          "video": {
+            "id": "bruno-groning-et-l-onde-curative-b91e",
+            "title": "Cercle des Amis de Bruno Gröning, où sont les preuves ? (partie 1/3)",
+            "format": "short",
+            "publishedAt": "2026-11-03T20:49:09.166Z",
+            "durationSeconds": 127,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris face à des maladies graves, grâce à une aide venue de Dieu.",
+              "verdict": "non_demontre",
+              "verdictLabel": "Non démontré"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              },
+              {
+                "id": "placebo",
+                "name": "Le placebo pris pour un remède"
+              },
+              {
+                "id": "selection-des-cas",
+                "name": "Le tri des cas favorables"
+              }
+            ],
+            "answers": {
+              "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+              "channel": "Cercle des Amis de Bruno Gröning",
+              "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+            },
+            "series": {
+              "part": 1,
+              "parts": 3
+            },
+            "youtube": {
+              "id": "cIT9MYFd2f4",
+              "url": "https://www.youtube.com/watch?v=cIT9MYFd2f4",
+              "thumbnail": "https://i.ytimg.com/vi/cIT9MYFd2f4/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-b91e.json"
+            }
+          }
+        }
+      ],
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/cercle-des-amis-de-bruno-groning-512f.json"
       }
     },
     {

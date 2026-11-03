@@ -41,6 +41,55 @@
   ],
   "examples": [
     {
+      "id": "bruno-groning-et-l-onde-curative-b91e",
+      "title": "Cercle des Amis de Bruno Gröning, où sont les preuves ? (partie 1/3)",
+      "format": "short",
+      "publishedAt": "2026-11-03T20:49:09.166Z",
+      "durationSeconds": 127,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Bruno Gröning a transmis une force divine de guérison, l'onde curative : en s'ouvrant à elle par la foi et la voie spirituelle qu'il enseignait, on peut retrouver la santé, y compris face à des maladies graves, grâce à une aide venue de Dieu.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "Extrait d'un discours  à Springe le 5 octobre 1958 – Bruno Gröning s'exprime – partie 17",
+        "channel": "Cercle des Amis de Bruno Gröning",
+        "url": "https://www.youtube.com/watch?v=rXENj-J8gBc"
+      },
+      "series": {
+        "part": 1,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "cIT9MYFd2f4",
+        "url": "https://www.youtube.com/watch?v=cIT9MYFd2f4",
+        "thumbnail": "https://i.ytimg.com/vi/cIT9MYFd2f4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/bruno-groning-et-l-onde-curative-b91e.json"
+      }
+    },
+    {
       "id": "nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d",
       "title": "Frère Paul-Adrien, rien ne prouve que nos morts nous voient",
       "format": "short",

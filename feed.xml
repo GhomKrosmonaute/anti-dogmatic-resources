@@ -6,7 +6,19 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:44:25 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:50:09 GMT</lastBuildDate>
+<item>
+<title>Cercle des Amis de Bruno Gröning, où sont les preuves ? (partie 1/3)</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-b91e/</guid>
+<pubDate>Tue, 03 Nov 2026 20:49:09 GMT</pubDate>
+<description>Non démontré : « Bruno Gröning a transmis une force divine de guérison, l&apos;onde curative : en s&apos;ouvrant à elle par la foi et la voie spirituelle qu&apos;il enseignait, on peut retrouver la santé, y compris face à des maladies graves, grâce à une aide venue de Dieu. ». Rien ne démontre que l&apos;onde curative guérisse des maladies graves : les guérisons attribuées à Gröning reposent sur des témoignages, sans suivi médical vérifiable dans les sources disponibles. Une intervention divine échappe aux essais, comme le note la revue Cochrane de 2009, mais une guérison se vérifie, et cette vérification manque.</description>
+<category>Le témoignage invérifiable</category>
+<category>Le placebo pris pour un remède</category>
+<category>Le tri des cas favorables</category>
+<category>Religions</category>
+<category>Short</category>
+</item>
 <item>
 <title>Frère Paul-Adrien, rien ne prouve que nos morts nous voient</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d/</link>
@@ -521,17 +533,6 @@
 <description>Technique de manipulation : Les coïncidences comptées. On compte des mots, des lettres ou des dates jusqu&apos;à trouver un nombre qui « tombe juste ».</description>
 <category>Les coïncidences comptées</category>
 <category>Esprit critique</category>
-</item>
-<item>
-<title>L&apos;acupuncture, ça marche vraiment ? Méridiens, énergie qi et ce qu&apos;en dit la science</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-acupuncture-a-l-epreuve-des-faits-3acc/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-acupuncture-a-l-epreuve-des-faits-3acc/</guid>
-<pubDate>Tue, 06 Oct 2026 17:45:15 GMT</pubDate>
-<description>Trompeur : « En piquant des points précis situés sur les méridiens, l&apos;acupuncture rééquilibre la circulation du qi et soigne : les patients qui vont mieux en sont la preuve. ». Le soulagement ressenti par les patients est réel, mais aucun méridien n&apos;a jamais été identifié en anatomie. Dans les essais contrôlés, une acupuncture simulée, avec des aiguilles hors des points, des aiguilles rétractables ou un cure-dent, soulage presque autant que la vraie : le bénéfice vient du rituel, de la relation et des attentes, pas du qi.</description>
-<category>Le placebo pris pour un remède</category>
-<category>L&apos;appel à l&apos;ancienneté</category>
-<category>L&apos;argument d&apos;autorité</category>
-<category>Pseudo-sciences et charlatans</category>
 </item>
 </channel>
 </rss>
