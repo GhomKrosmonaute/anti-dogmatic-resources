@@ -69,6 +69,52 @@
   ],
   "examples": [
     {
+      "id": "nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d",
+      "title": "Frère Paul-Adrien, rien ne prouve que nos morts nous voient",
+      "format": "short",
+      "publishedAt": "2026-11-03T20:43:24.773Z",
+      "durationSeconds": 116,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les défunts continuent d'exister après la mort : leur âme survit, peut nous voir, entendre nos prières et intercéder pour nous, et la communion des saints maintient un lien d'amour entre les vivants et les morts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": {
+        "title": "Les MORTS nous VOIENT-ILS ? Fantômes, signes, purgatoire… les réponses d’un prêtre de @montligeon",
+        "channel": "Frère Paul-Adrien",
+        "url": "https://www.youtube.com/watch?v=OrnSPDx61-c"
+      },
+      "series": null,
+      "youtube": {
+        "id": "Yj0vH1kIfb0",
+        "url": "https://www.youtube.com/watch?v=Yj0vH1kIfb0",
+        "thumbnail": "https://i.ytimg.com/vi/Yj0vH1kIfb0/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d.json"
+      }
+    },
+    {
       "id": "sommes-nous-dieu-deguise-ef82",
       "title": "Non, Elohim, Alan Watts n'a pas prouvé que tu es Dieu déguisé",
       "format": "short",

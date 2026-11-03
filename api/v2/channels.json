@@ -40,6 +40,16 @@
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/coffeebird-official-6800.json"
       }
+    },
+    {
+      "id": "frere-paul-adrien-5d5b",
+      "name": "Frère Paul-Adrien",
+      "url": "https://www.youtube.com/channel/UCWsPptxhLaTv8ATmceTOTog",
+      "subscribers": 689000,
+      "answers": 1,
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/frere-paul-adrien-5d5b.json"
+      }
     }
   ]
 }

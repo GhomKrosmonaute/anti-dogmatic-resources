@@ -1,0 +1,173 @@
+{
+  "version": 2,
+  "id": "nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d",
+  "title": "Frère Paul-Adrien, rien ne prouve que nos morts nous voient",
+  "format": "short",
+  "publishedAt": "2026-11-03T20:43:24.773Z",
+  "durationSeconds": 116,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "Les défunts continuent d'exister après la mort : leur âme survit, peut nous voir, entendre nos prières et intercéder pour nous, et la communion des saints maintient un lien d'amour entre les vivants et les morts.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Que nos défunts nous voient ou nous entendent n'est pas démontré : c'est un article de foi, porté par des doctrines qui ont une histoire, comme le purgatoire ou le barzakh, et non un fait observé. Les signes et présences ressentis appartiennent au deuil, et les rares travaux qui y lisent une survie restent très minoritaires."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    }
+  ],
+  "answers": {
+    "title": "Les MORTS nous VOIENT-ILS ? Fantômes, signes, purgatoire… les réponses d’un prêtre de @montligeon",
+    "channel": "Frère Paul-Adrien",
+    "channelId": "UCWsPptxhLaTv8ATmceTOTog",
+    "url": "https://www.youtube.com/watch?v=OrnSPDx61-c",
+    "passages": [
+      {
+        "text": "⛪ Sanctuaire Notre-Dame de Montligeon, consacré à la prière pour les défunts :"
+      },
+      {
+        "text": "Pour répondre à toutes ces questions, je suis allé au sanctuaire Notre-Dame de Montligeon rencontrer don Paul Denizot, spécialiste des questions de l'au-delà et du purgatoire."
+      }
+    ]
+  },
+  "series": null,
+  "youtube": {
+    "id": "Yj0vH1kIfb0",
+    "url": "https://www.youtube.com/watch?v=Yj0vH1kIfb0",
+    "thumbnail": "https://i.ytimg.com/vi/Yj0vH1kIfb0/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/nos-defunts-nous-voient-ils-depuis-l-au-dela-d49d.json"
+  },
+  "facts": [
+    {
+      "text": "La doctrine catholique enseigne que l'âme survit à la mort et que les âmes qui ne sont pas encore prêtes pour le paradis sont purifiées au purgatoire.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Catéchisme de l'Église catholique, nos 1030-1032 (purgatoire)",
+          "publisher": "Vatican (vatican.va)",
+          "url": "https://www.vatican.va/archive/FRA0013/__P2I.HTM"
+        }
+      ]
+    },
+    {
+      "text": "Selon la doctrine catholique de la communion des saints, les vivants peuvent prier pour les défunts et les défunts intercéder pour les vivants (Catéchisme de l'Église catholique, n° 958).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Catéchisme de l'Église catholique, nos 954-958 (communion des saints)",
+          "publisher": "Vatican (vatican.va)",
+          "url": "https://www.vatican.va/archive/FRA0013/__P25.HTM"
+        }
+      ]
+    },
+    {
+      "text": "L'historien Jacques Le Goff situe la « naissance » du purgatoire au XIIe siècle (La Naissance du purgatoire, 1981).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Purgatory: 'Birth' or Evolution?",
+          "publisher": "The Journal of Ecclesiastical History (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/purgatory-birth-or-evolution/9617CDF79F003981950DAF9470BAC6B2"
+        }
+      ]
+    },
+    {
+      "text": "En 1985, dans The Journal of Ecclesiastical History, G. R. Edwards discute la thèse de Le Goff et soutient que la doctrine du purgatoire s'est formée progressivement.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Purgatory: 'Birth' or Evolution?",
+          "publisher": "The Journal of Ecclesiastical History (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/purgatory-birth-or-evolution/9617CDF79F003981950DAF9470BAC6B2"
+        }
+      ]
+    },
+    {
+      "text": "Selon Tommaso Tesei (2016), le mot barzakh désigne d'abord, dans le Coran, une barrière, puis l'état intermédiaire des morts entre la mort et la résurrection.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The barzakh and the Intermediate State of the Dead in the Quran",
+          "publisher": "Locating Hell in Islamic Traditions (Brill, via OAPEN)",
+          "url": "https://library.oapen.org/bitstream/handle/20.500.12657/32317/1/612691.pdf#page=45"
+        }
+      ]
+    },
+    {
+      "text": "Mäkikomsi et ses collègues (Mortality, 2023) décrivent les signes et présences perçus après un décès comme une part du deuil et du lien poursuivi avec le défunt.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Unexplained experiences in the context of bereavement – qualitative analysis",
+          "publisher": "Mortality (Taylor & Francis)",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/13576275.2021.1991903"
+        }
+      ]
+    },
+    {
+      "text": "Ressentir la présence d'un défunt est une expérience reconnue du deuil, longtemps étiquetée hallucination ; son existence ne démontre pas que le défunt perçoive les vivants.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Unexplained experiences in the context of bereavement – qualitative analysis",
+          "publisher": "Mortality (Taylor & Francis)",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/13576275.2021.1991903"
+        },
+        {
+          "title": "Sensing the presence of the deceased: A narrative review",
+          "publisher": "Mental Health, Religion & Culture (Keen, Murray, Payne, 2013)",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/13674676.2012.678987"
+        },
+        {
+          "title": "The phenomenology and impact of hallucinations concerning the deceased",
+          "publisher": "BJPsych Open (Elsaesser et al., 2021)",
+          "url": "https://www.cambridge.org/core/journals/bjpsych-open/article/phenomenology-and-impact-of-hallucinations-concerning-the-deceased/1AA7D2F7BB52C491462566785D752E02"
+        }
+      ]
+    },
+    {
+      "text": "Aucune étude n'a établi que les défunts voient ou entendent les vivants.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Scientific research on mediumship and mind-brain relationship: Reviewing the evidence",
+          "publisher": "Archives of Clinical Psychiatry (São Paulo)",
+          "url": "https://revistas.usp.br/acp/article/view/78778"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}
