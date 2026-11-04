@@ -5,6 +5,35 @@
   "description": "nihilisme, absurde, libre arbitre, conscience, morale sans dieu, sens de la vie",
   "items": [
     {
+      "id": "epicure-contre-la-peur-de-la-mort-122f",
+      "title": "Peut-on ne plus avoir peur de mourir ? Ce qu'Épicure répondait il y a 2300 ans",
+      "format": "video",
+      "publishedAt": "2026-11-04T01:00:20.317Z",
+      "durationSeconds": 701,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "La mort n'est rien pour nous : quand nous sommes, elle n'est pas là, et quand elle est là, nous ne sommes plus ; on peut donc cesser de la craindre sans aucune promesse d'au-delà.",
+        "verdict": "exact",
+        "verdictLabel": "Exact"
+      },
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "P5mCUf3i8Cs",
+        "url": "https://www.youtube.com/watch?v=P5mCUf3i8Cs",
+        "thumbnail": "https://i.ytimg.com/vi/P5mCUf3i8Cs/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/epicure-contre-la-peur-de-la-mort-122f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/epicure-contre-la-peur-de-la-mort-122f.json"
+      }
+    },
+    {
       "id": "camus-et-l-absurde-e332",
       "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
       "format": "video",

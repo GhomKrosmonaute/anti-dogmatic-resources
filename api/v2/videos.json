@@ -1,12 +1,41 @@
 {
   "version": 2,
-  "total": 101,
+  "total": 102,
   "pageSize": 50,
   "page": 1,
   "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "epicure-contre-la-peur-de-la-mort-122f",
+      "title": "Peut-on ne plus avoir peur de mourir ? Ce qu'Épicure répondait il y a 2300 ans",
+      "format": "video",
+      "publishedAt": "2026-11-04T01:00:20.317Z",
+      "durationSeconds": 701,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "La mort n'est rien pour nous : quand nous sommes, elle n'est pas là, et quand elle est là, nous ne sommes plus ; on peut donc cesser de la craindre sans aucune promesse d'au-delà.",
+        "verdict": "exact",
+        "verdictLabel": "Exact"
+      },
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "P5mCUf3i8Cs",
+        "url": "https://www.youtube.com/watch?v=P5mCUf3i8Cs",
+        "thumbnail": "https://i.ytimg.com/vi/P5mCUf3i8Cs/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/epicure-contre-la-peur-de-la-mort-122f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/epicure-contre-la-peur-de-la-mort-122f.json"
+      }
+    },
     {
       "id": "bruno-groning-et-l-onde-curative-bc00",
       "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",
@@ -1947,44 +1976,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-chat-compagnon-des-introvertis-685d/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-chat-compagnon-des-introvertis-685d.json"
-      }
-    },
-    {
-      "id": "militer-pour-l-humanisme-et-l-esprit-critique-86c2",
-      "title": "Peut-on vraiment faire changer quelqu'un d'avis ? Témoigner, débattre ou se taire",
-      "format": "video",
-      "publishedAt": "2026-10-07T13:00:09.679Z",
-      "durationSeconds": 702,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Si l'on expose les faits et les bons arguments avec assez de clarté et de force, ceux qui se trompent finissent par changer d'avis.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "NB6iXbIfo-w",
-        "url": "https://www.youtube.com/watch?v=NB6iXbIfo-w",
-        "thumbnail": "https://i.ytimg.com/vi/NB6iXbIfo-w/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/militer-pour-l-humanisme-et-l-esprit-critique-86c2.json"
       }
     }
   ],

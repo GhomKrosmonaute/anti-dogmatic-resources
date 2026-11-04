@@ -1,9 +1,418 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-03T23:46:05.095Z",
+  "generatedAt": "2026-11-04T01:01:20.522Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "epicure-contre-la-peur-de-la-mort-122f",
+      "title": "Peut-on ne plus avoir peur de mourir ? Ce qu'Épicure répondait il y a 2300 ans",
+      "format": "video",
+      "publishedAt": "2026-11-04T01:00:20.317Z",
+      "durationSeconds": 701,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "La mort n'est rien pour nous : quand nous sommes, elle n'est pas là, et quand elle est là, nous ne sommes plus ; on peut donc cesser de la craindre sans aucune promesse d'au-delà.",
+        "verdict": "exact",
+        "verdictLabel": "Exact",
+        "summary": "L'argument tient contre la peur d'être mort : toute souffrance suppose quelqu'un pour l'éprouver, et les études sur le cerveau mourant ne montrent que quelques secondes d'activité avant le silence, sans trace d'expérience au-delà. Il ne dissipe pas le regret de perdre les biens de la vie, que Thomas Nagel décrit comme une privation, mais ce regret plaide pour cette vie et non pour un autre monde."
+      },
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "P5mCUf3i8Cs",
+        "url": "https://www.youtube.com/watch?v=P5mCUf3i8Cs",
+        "thumbnail": "https://i.ytimg.com/vi/P5mCUf3i8Cs/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/epicure-contre-la-peur-de-la-mort-122f/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/epicure-contre-la-peur-de-la-mort-122f.json"
+      },
+      "facts": [
+        {
+          "text": "La première épître aux Corinthiens, chapitre 15, verset 55, dit : « O mort, où est ta victoire ? O mort, où est ton aiguillon ? »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1 Corinthiens 15:55 (Louis Segond)",
+              "publisher": "Bible.com",
+              "url": "https://www.bible.com/fr/bible/93/1CO.15.55.LSG"
+            }
+          ]
+        },
+        {
+          "text": "Le Coran décrit à plusieurs reprises le paradis comme des jardins sous lesquels coulent des ruisseaux, notamment en sourate 2, verset 25.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Coran 2:25",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/2/25"
+            }
+          ]
+        },
+        {
+          "text": "Dans la Bhagavad-Gîtâ, chapitre 2, verset 22, Krishna compare le passage de l'âme d'un corps à l'autre au fait de quitter des vêtements usés pour en prendre de neufs.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Bhagavad Gita, chapitre 2, verset 22",
+              "publisher": "Holy Bhagavad Gita",
+              "url": "https://www.holy-bhagavad-gita.org/chapter/2/verse/22"
+            }
+          ]
+        },
+        {
+          "text": "Le spiritisme d'Allan Kardec, au XIXe siècle, enseignait que les défunts restent proches des vivants et peuvent se manifester.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Spirits Book",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Spirits_Book"
+            }
+          ]
+        },
+        {
+          "text": "Des personnes ayant frôlé la mort rapportent des expériences de tunnel, de lumière et de paix.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands (van Lommel et al., 2001)",
+              "publisher": "The Lancet 358:2039-2045",
+              "url": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_miscellaneous_764136172"
+            }
+          ]
+        },
+        {
+          "text": "Épicure est né à Samos en 341 avant notre ère et a fondé son école, le Jardin, à Athènes vers 306 avant notre ère.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Epicurus",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/epicurus/"
+            }
+          ]
+        },
+        {
+          "text": "De l'œuvre d'Épicure subsistent surtout trois lettres et des maximes, transmises par Diogène Laërce au livre X de ses Vies et doctrines des philosophes illustres, environ cinq siècles après la mort d'Épicure.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Epicurus",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/epicurus/"
+            },
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            }
+          ]
+        },
+        {
+          "text": "La Lettre à Ménécée affirme que la mort n'est rien pour nous, car bien et mal résident dans la sensation et la mort est la privation de sensation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            },
+            {
+              "title": "Letter to Menoeceus",
+              "publisher": "Epicurus Wiki",
+              "url": "https://wiki.epicurism.info/Letter_to_Menoeceus/"
+            }
+          ]
+        },
+        {
+          "text": "La Lettre à Ménécée affirme que quand nous sommes, la mort n'est pas là, et quand la mort est là, nous ne sommes plus.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            }
+          ]
+        },
+        {
+          "text": "Selon la Lettre à Ménécée, comprendre que la mort n'est rien pour nous rend joyeuse la condition mortelle, non en ajoutant un temps infini mais en ôtant le désir d'immortalité.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            },
+            {
+              "title": "Epicurus: Letter to Menoeceus",
+              "publisher": "New Epicurean",
+              "url": "https://newepicurean.com/suggested-reading/letter-to-menoeceus/"
+            }
+          ]
+        },
+        {
+          "text": "La Lettre à Ménécée qualifie de sot celui qui craint la mort non parce qu'elle le fera souffrir quand elle sera là, mais parce qu'il souffre de son attente.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            }
+          ]
+        },
+        {
+          "text": "Pour Épicure, les dieux existent mais ne interviennent pas dans les affaires humaines et n'infligent pas de châtiments.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Epicurus",
+              "publisher": "Stanford Encyclopedia of Philosophy",
+              "url": "https://plato.stanford.edu/entries/epicurus/"
+            },
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            }
+          ]
+        },
+        {
+          "text": "La formule du tétrapharmakon (les dieux ne sont pas à craindre, la mort n'est pas à redouter, le bien est facile à obtenir, le mal facile à supporter) est attestée chez Philodème de Gadara, épicurien du Ier siècle avant notre ère, et sa substance correspond aux premières Maximes capitales transmises par Diogène Laërce.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "On Philodemus' Scroll 1005",
+              "publisher": "Society of Epicurus",
+              "url": "https://societyofepicurus.com/?p=4196"
+            },
+            {
+              "title": "Don't Fear, Don't Worry, Don't Bother: the Tetrapharmakon",
+              "publisher": "Epicurus Today",
+              "url": "https://www.epicurustoday.epicureanfriends.com/introduction/tetrapharmakon/"
+            }
+          ]
+        },
+        {
+          "text": "De nombreuses doctrines de l'au-delà associent la survie à un jugement, à un enfer ou, dans les traditions du karma, à des conséquences dans une vie suivante.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Coran 2:25",
+              "publisher": "Quran.com",
+              "url": "https://quran.com/2/25"
+            },
+            {
+              "title": "Bhagavad Gita, chapitre 2, verset 22",
+              "publisher": "Holy Bhagavad Gita",
+              "url": "https://www.holy-bhagavad-gita.org/chapter/2/verse/22"
+            }
+          ]
+        },
+        {
+          "text": "Lucrèce, poète latin du Ier siècle avant notre ère, écrit au livre III du De rerum natura, vers 830, que la mort n'est rien pour nous.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lucretius, De rerum natura III, 830",
+              "publisher": "Perseus Digital Library",
+              "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0131:book=3:card=830"
+            }
+          ]
+        },
+        {
+          "text": "Lucrèce formule au livre III du De rerum natura, à partir du vers 972, l'argument de symétrie : le temps d'avant la naissance est un miroir de celui d'après la mort.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lucretius, De rerum natura III, 830",
+              "publisher": "Perseus Digital Library",
+              "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0131:book=3:card=830"
+            }
+          ]
+        },
+        {
+          "text": "Pour Lucrèce, l'âme est faite de corpuscules très fins qui se dispersent à la mort du corps.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Lucretius, De rerum natura, Book III",
+              "publisher": "Poetry in Translation",
+              "url": "https://poetryintranslation.com/PITBR/Latin/LucretiusDeRerumNaturaBkIII.php"
+            },
+            {
+              "title": "Animus and anima in Lucretius (abstract CAMWS 2018)",
+              "publisher": "CAMWS",
+              "url": "https://camws.org/sites/default/files/meeting2018/abstracts/331.animusanima.pdf"
+            }
+          ]
+        },
+        {
+          "text": "En 2013, Borjigin et ses collègues ont observé dans PNAS, chez 9 rats, une brève flambée d'activité gamma synchronisée de moins de 30 secondes après l'arrêt cardiaque, avant l'EEG plat.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surge of neurophysiological coherence and connectivity in the dying brain",
+              "publisher": "PNAS (Borjigin et al., 2013)",
+              "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1308285110"
+            }
+          ]
+        },
+        {
+          "text": "En 2023, une étude rétrospective publiée dans PNAS sur 4 patients comateux après retrait de la ventilation a montré chez 2 d'entre eux une hausse de l'activité gamma et de la connectivité aux jonctions temporo-pariéto-occipitales, de signification fonctionnelle inconnue.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain",
+              "publisher": "PNAS (Xu et al., 2023)",
+              "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2216268120"
+            }
+          ]
+        },
+        {
+          "text": "Dans une lettre à PNAS en 2013, Greyson, Kelly et Dunseath ont objecté qu'on ne peut savoir ce que vivaient les rats, que l'activité post-arrêt n'est qu'une infime fraction de l'activité normale et que chez l'humain l'EEG devient isoélectrique en 10 à 20 secondes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surge of neurophysiological activity in the dying brain",
+              "publisher": "PNAS (Greyson, Kelly, Dunseath, 2013)",
+              "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1316937110"
+            }
+          ]
+        },
+        {
+          "text": "Aucune des études disponibles sur le cerveau mourant ne montre d'expérience vécue qui survivrait à l'arrêt de l'activité cérébrale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain",
+              "publisher": "PNAS (Xu et al., 2023)",
+              "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2216268120"
+            }
+          ]
+        },
+        {
+          "text": "Thomas Nagel a publié en 1970 un article intitulé « Death » soutenant que la mort peut être un mal par privation des biens que la vie aurait apportés.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Death",
+              "publisher": "Noûs (Nagel, 1970)",
+              "url": "https://www.jstor.org/stable/2214297"
+            }
+          ]
+        },
+        {
+          "text": "Dans « Death », Nagel prend l'exemple d'une personne intelligente réduite par une lésion cérébrale à l'état mental d'un nourrisson satisfait.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Death",
+              "publisher": "Noûs (Nagel, 1970)",
+              "url": "https://www.jstor.org/stable/2214297"
+            }
+          ]
+        },
+        {
+          "text": "Une objection à l'argument de symétrie soutient que la naissance et la mort ne sont pas des images miroir.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Death",
+              "publisher": "Noûs (Nagel, 1970)",
+              "url": "https://www.jstor.org/stable/2214297"
+            }
+          ]
+        },
+        {
+          "text": "La Lettre à Ménécée compare le choix du temps le plus agréable plutôt que le plus long au choix de la nourriture la plus agréable plutôt que la plus abondante.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Diogenes Laertius, Lives, X.121-140",
+              "publisher": "Perseids",
+              "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/10.1.121-10.1.140"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "human",
+        "domain": "Neuroscience et recherche sur la conscience (activité cérébrale à l'approche de la mort, lien entre cerveau et expérience subjective)",
+        "approximations": [
+          {
+            "excerpt": "Il y a vingt-trois siècles, Épicure a répondu à la peur de mourir par une phrase : « la mort n'est rien pour nous ».",
+            "note": "Ordre de grandeur historique arrondi. Sans lien avec la santé, et l'argument n'en dépend pas."
+          },
+          {
+            "excerpt": "De ses écrits, il reste surtout trois lettres et des maximes, recopiées environ cinq siècles plus tard par Diogène Laërce, au livre dix de ses Vies et doctrines des philosophes illustres.",
+            "note": "« Environ cinq siècles » est une estimation de l'écart de temps. La précision exacte n'a pas d'importance pour l'argument."
+          },
+          {
+            "excerpt": "Deux siècles plus tard, le poète latin Lucrèce reprend l'argument dans le De rerum natura.",
+            "note": "Écart chronologique arrondi, sans incidence sur le raisonnement."
+          },
+          {
+            "excerpt": "Épicure fonde son école à Athènes vers 306 avant notre ère.",
+            "note": "Date approximative signalée par « vers ». Son exactitude ne conditionne pas l'argument."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Le plus sulfureux des philosophes | Epicure",
+          "channel": "Monsieur Phi",
+          "url": "https://www.youtube.com/watch?v=fFyveQxiyEE",
+          "own": false
+        },
+        {
+          "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+        "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "bruno-groning-et-l-onde-curative-bc00",
       "title": "Cercle des Amis de Bruno Gröning, filmer n'est pas prouver (partie 3/3)",

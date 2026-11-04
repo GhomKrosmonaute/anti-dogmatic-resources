@@ -6,7 +6,15 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Tue, 03 Nov 2026 23:46:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 01:01:20 GMT</lastBuildDate>
+<item>
+<title>Peut-on ne plus avoir peur de mourir ? Ce qu&apos;Épicure répondait il y a 2300 ans</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/epicure-contre-la-peur-de-la-mort-122f/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/epicure-contre-la-peur-de-la-mort-122f/</guid>
+<pubDate>Wed, 04 Nov 2026 01:00:20 GMT</pubDate>
+<description>Exact : « La mort n&apos;est rien pour nous : quand nous sommes, elle n&apos;est pas là, et quand elle est là, nous ne sommes plus ; on peut donc cesser de la craindre sans aucune promesse d&apos;au-delà. ». L&apos;argument tient contre la peur d&apos;être mort : toute souffrance suppose quelqu&apos;un pour l&apos;éprouver, et les études sur le cerveau mourant ne montrent que quelques secondes d&apos;activité avant le silence, sans trace d&apos;expérience au-delà. Il ne dissipe pas le regret de perdre les biens de la vie, que Thomas Nagel décrit comme une privation, mais ce regret plaide pour cette vie et non pour un autre monde.</description>
+<category>Philosophie moderne</category>
+</item>
 <item>
 <title>Cercle des Amis de Bruno Gröning, filmer n&apos;est pas prouver (partie 3/3)</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/bruno-groning-et-l-onde-curative-bc00/</link>
@@ -527,16 +535,6 @@
 <category>La caution scientifique détournée</category>
 <category>Le tri des cas favorables</category>
 <category>L&apos;appel à l&apos;ancienneté</category>
-<category>Religions</category>
-</item>
-<item>
-<title>Peut-on vraiment faire changer quelqu&apos;un d&apos;avis ? Témoigner, débattre ou se taire</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/militer-pour-l-humanisme-et-l-esprit-critique-86c2/</guid>
-<pubDate>Wed, 07 Oct 2026 13:00:09 GMT</pubDate>
-<description>Trompeur : « Si l&apos;on expose les faits et les bons arguments avec assez de clarté et de force, ceux qui se trompent finissent par changer d&apos;avis. ». Les faits corrigent bien les erreurs ponctuelles : l&apos;effet retour de flamme s&apos;est révélé rare dans les réplications de Wood et Porter. Mais les convictions liées à l&apos;identité bougent à peine sous les corrections et la moquerie braque ; ce sont l&apos;échange sans jugement et le contact, mesurés par Broockman et Kalla ou Pettigrew et Tropp, qui déplacent durablement les attitudes.</description>
-<category>Le tri des cas favorables</category>
-<category>Le témoignage invérifiable</category>
 <category>Religions</category>
 </item>
 </channel>
