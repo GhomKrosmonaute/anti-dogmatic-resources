@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 104,
+  "total": 105,
   "pageSize": 50,
   "page": 2,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-3.json",
   "items": [
+    {
+      "id": "le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c",
+      "title": "One Piece, Naruto, Bleach : les mangas révèlent-ils qui dirige vraiment notre monde ?",
+      "format": "video",
+      "publishedAt": "2026-10-08T18:44:36.332Z",
+      "durationSeconds": 687,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Comme le Gouvernement mondial de One Piece, une élite cachée dirige en secret notre monde, efface l'histoire et fait taire ceux qui cherchent ; ces mangas ne font que le montrer à mots couverts.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "29QVCxxBqbY",
+        "url": "https://www.youtube.com/watch?v=29QVCxxBqbY",
+        "thumbnail": "https://i.ytimg.com/vi/29QVCxxBqbY/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
+      }
+    },
     {
       "id": "le-mouvement-raelien-f9a5",
       "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
@@ -1842,48 +1884,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-le-coran-a-t-il-ete-transmis-depuis-le-0b28.json"
-      }
-    },
-    {
-      "id": "le-pari-de-pascal-55c1",
-      "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
-      "format": "video",
-      "publishedAt": "2026-09-25T08:30:12.640Z",
-      "durationSeconds": 444,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
-        "verdict": "non_demontre",
-        "verdictLabel": "Non démontré"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "IMmyIhAADD4",
-        "url": "https://www.youtube.com/watch?v=IMmyIhAADD4",
-        "thumbnail": "https://i.ytimg.com/vi/IMmyIhAADD4/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
       }
     }
   ]

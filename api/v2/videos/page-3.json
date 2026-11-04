@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 104,
+  "total": 105,
   "pageSize": 50,
   "page": 3,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "next": null,
   "items": [
+    {
+      "id": "le-pari-de-pascal-55c1",
+      "title": "Le pari de Pascal démonté : pourquoi l'argument « gagnant » s'effondre",
+      "format": "video",
+      "publishedAt": "2026-09-25T08:30:12.640Z",
+      "durationSeconds": 444,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le pari de Pascal prouve qu'il est rationnel de croire en Dieu : on ne perd rien à croire et on peut tout gagner, puisque la mise est finie et le gain infini.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "IMmyIhAADD4",
+        "url": "https://www.youtube.com/watch?v=IMmyIhAADD4",
+        "thumbnail": "https://i.ytimg.com/vi/IMmyIhAADD4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-pari-de-pascal-55c1/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-pari-de-pascal-55c1.json"
+      }
+    },
     {
       "id": "la-donation-de-constantin-83d1",
       "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",

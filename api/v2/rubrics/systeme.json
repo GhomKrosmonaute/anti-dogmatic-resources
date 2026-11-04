@@ -5,6 +5,44 @@
   "description": "travail, argent, institutions, médias, politique, méritocratie, bureaucratie",
   "items": [
     {
+      "id": "pourquoi-les-bureaucraties-grossissent-elles-982d",
+      "title": "Pourquoi les bureaucraties grossissent-elles toujours, de l'État aux religions ?",
+      "format": "video",
+      "publishedAt": "2026-11-04T18:45:29.844Z",
+      "durationSeconds": 726,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Si une administration grossit, c'est parce que les besoins qu'elle sert grossissent : chaque nouveau service répond à un besoin réel de contrôle et de protection.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "_LefemUm6dM",
+        "url": "https://www.youtube.com/watch?v=_LefemUm6dM",
+        "thumbnail": "https://i.ytimg.com/vi/_LefemUm6dM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-bureaucraties-grossissent-elles-982d/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-les-bureaucraties-grossissent-elles-982d.json"
+      }
+    },
+    {
       "id": "la-croissance-economique-peut-elle-durer-a8f7",
       "title": "La croissance économique peut-elle vraiment durer éternellement ?",
       "format": "video",

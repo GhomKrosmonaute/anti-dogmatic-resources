@@ -1,0 +1,356 @@
+{
+  "version": 2,
+  "id": "pourquoi-les-bureaucraties-grossissent-elles-982d",
+  "title": "Pourquoi les bureaucraties grossissent-elles toujours, de l'État aux religions ?",
+  "format": "video",
+  "publishedAt": "2026-11-04T18:45:29.844Z",
+  "durationSeconds": 726,
+  "rubric": {
+    "id": "systeme",
+    "name": "Le système"
+  },
+  "claim": {
+    "statement": "Si une administration grossit, c'est parce que les besoins qu'elle sert grossissent : chaque nouveau service répond à un besoin réel de contrôle et de protection.",
+    "verdict": "trompeur",
+    "verdictLabel": "Trompeur",
+    "summary": "Le besoin explique souvent la création d'un service, pas à lui seul sa croissance : le principe de Peter est mesuré chez des vendeurs du privé (Benson, Li et Shue, 2019) et un modèle publié dans PNAS (Yang et Grenier, 2026) montre qu'une administration peut proliférer sans mauvaise intention, par accumulation de procédures. À l'inverse, le « toujours » des cyniques n'est pas démontré : la loi de Parkinson est une satire et le modèle de Niskanen reste difficile à tester."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "faux-dilemme",
+      "name": "Le faux dilemme"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "_LefemUm6dM",
+    "url": "https://www.youtube.com/watch?v=_LefemUm6dM",
+    "thumbnail": "https://i.ytimg.com/vi/_LefemUm6dM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-bureaucraties-grossissent-elles-982d/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-les-bureaucraties-grossissent-elles-982d.json"
+  },
+  "facts": [
+    {
+      "text": "En France, l'affaire du Mediator a abouti à la loi du 29 décembre 2011 relative au renforcement de la sécurité sanitaire du médicament, et l'Afssaps a été remplacée par l'ANSM en 2012.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Loi n° 2011-2012 du 29 décembre 2011 relative au renforcement de la sécurité sanitaire du médicament et des produits de santé",
+          "publisher": "APHP Affaires juridiques",
+          "url": "https://affairesjuridiques.aphp.fr/textes/loi-n-2011-2012-du-29-decembre-2011-relative-au-renforcement-de-la-securite-sanitaire-du-medicament-et-des-produits-de-sante/"
+        },
+        {
+          "title": "Adieu l'Afssaps",
+          "publisher": "Vidal",
+          "url": "https://www.vidal.fr/actualites/18235-adieu-l-afssaps.html"
+        }
+      ]
+    },
+    {
+      "text": "Max Weber est mort en 1920 ; Wirtschaft und Gesellschaft a paru à titre posthume en 1922.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Economy and Society",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Economy_and_Society"
+        }
+      ]
+    },
+    {
+      "text": "Dans Wirtschaft und Gesellschaft, Weber décrit l'administration bureaucratique (fonctions définies, dossiers écrits, décisions impersonnelles) et la juge techniquement supérieure aux autres formes d'administration.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Economy and Society",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Economy_and_Society"
+        }
+      ]
+    },
+    {
+      "text": "Weber a forgé le concept de routinisation du charisme (Veralltäglichung des Charismas) pour décrire la transformation d'un mouvement charismatique en organisation après la disparition de son fondateur.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Life After Death: The Routinisation of Charismatic Leadership at Apple and Hewlett-Packard",
+          "publisher": "University of Sydney",
+          "url": "https://ses.library.usyd.edu.au/handle/2123/16955?show=full"
+        }
+      ]
+    },
+    {
+      "text": "L'article « Parkinson's Law » de C. Northcote Parkinson, historien de la marine, a paru dans The Economist le 19 novembre 1955 et c'est un texte satirique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Parkinson's Law (reproduction of the article first published in The Economist, 19 November 1955)",
+          "publisher": "The Economist (reproduction on doc.cat-v.org)",
+          "url": "https://doc.cat-v.org/economics/parkinsons-law"
+        },
+        {
+          "title": "Parkinson's Law",
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/news/1955/11/19/parkinsons-law"
+        }
+      ]
+    },
+    {
+      "text": "La première phrase de l'article contient la formule selon laquelle le travail s'étend de façon à remplir le temps disponible pour son achèvement (citée en traduction).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Parkinson's Law (reproduction of the article first published in The Economist, 19 November 1955)",
+          "publisher": "The Economist (reproduction on doc.cat-v.org)",
+          "url": "https://doc.cat-v.org/economics/parkinsons-law"
+        },
+        {
+          "title": "Parkinson's Law",
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/news/1955/11/19/parkinsons-law"
+        }
+      ]
+    },
+    {
+      "text": "Parkinson avance deux moteurs : un fonctionnaire veut multiplier ses subordonnés, pas ses rivaux ; les fonctionnaires se créent du travail les uns aux autres (cités en traduction).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Parkinson's Law (reproduction of the article first published in The Economist, 19 November 1955)",
+          "publisher": "The Economist (reproduction on doc.cat-v.org)",
+          "url": "https://doc.cat-v.org/economics/parkinsons-law"
+        },
+        {
+          "title": "Parkinson's Law",
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/news/1955/11/19/parkinsons-law"
+        }
+      ]
+    },
+    {
+      "text": "Selon les tableaux de Parkinson, entre 1914 et 1928 les grands navires de guerre (capital ships) en service passent de 62 à 20, tandis que les fonctionnaires de l'Amirauté passent d'environ 2 000 à 3 569. À vérifier sur l'original : la copie fournie n'a pas pu être lue en entier.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Parkinson's Law (reproduction of the article first published in The Economist, 19 November 1955)",
+          "publisher": "The Economist (reproduction on doc.cat-v.org)",
+          "url": "https://doc.cat-v.org/economics/parkinsons-law"
+        },
+        {
+          "title": "Challenging Parkinson's Law",
+          "publisher": "U.S. Naval Institute, Naval History",
+          "url": "https://www.usni.org/magazines/naval-history-magazine/1994/december-1/challenging-parkinsons-law"
+        },
+        {
+          "title": "Admiralty and Outport Establishments, HC Deb 28 February 1924",
+          "publisher": "UK Parliament, Hansard",
+          "url": "https://api.parliament.uk/historic-hansard/written-answers/1924/feb/28/admiralty-and-outport-establishments"
+        }
+      ]
+    },
+    {
+      "text": "The Peter Principle, de Laurence J. Peter et Raymond Hull, paraît en 1969 et formule l'idée que dans une hiérarchie, tout employé a tendance à s'élever à son niveau d'incompétence (citée en traduction).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Peter principle",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peter_principle"
+        },
+        {
+          "title": "Peter Principle",
+          "publisher": "New World Encyclopedia",
+          "url": "https://www.newworldencyclopedia.org/entry/Peter_Principle"
+        }
+      ]
+    },
+    {
+      "text": "Benson, Li et Shue (Quarterly Journal of Economics, 2019) montrent, sur des données de vendeurs dans plus d'une centaine d'entreprises (214 dans la version NBER, 131 dans la version publiée), que les entreprises promeuvent surtout leurs meilleurs vendeurs du moment alors que d'autres traits prédisent mieux le talent de manager.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Promotions and the Peter Principle",
+          "publisher": "Quarterly Journal of Economics (RePEc)",
+          "url": "https://econpapers.repec.org/RePEc:oup:qjecon:v:134:y:2019:i:4:p:2085-2134."
+        },
+        {
+          "title": "Promotions and the Peter Principle (NBER w24343)",
+          "publisher": "NBER (RePEc)",
+          "url": "https://econpapers.repec.org/RePEc:nbr:nberwo:24343"
+        }
+      ]
+    },
+    {
+      "text": "Edward Lazear (NBER, 2001) explique une part de la baisse de performance après promotion par la régression vers la moyenne, sans incompétence absolue.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Peter Principle: Promotions and Declining Productivity",
+          "publisher": "NBER",
+          "url": "https://nber.org/papers/w8094"
+        },
+        {
+          "title": "The Peter Principle: Promotions and Declining Productivity",
+          "publisher": "RePEc / IDEAS",
+          "url": "https://ideas.repec.org/p/nbr/nberwo/8094.html"
+        }
+      ]
+    },
+    {
+      "text": "William Niskanen a proposé en 1971 le modèle du bureaucrate qui maximise son budget.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bureaucracy and Representative Government",
+          "publisher": "Routledge",
+          "url": "https://www.routledge.com/Bureaucracy-and-Representative-Government/Niskanen/p/book/9780202309590"
+        },
+        {
+          "title": "William A. Niskanen profile",
+          "publisher": "History of Economic Thought website",
+          "url": "https://hetwebsite.net/het/profiles/niskanen.htm"
+        }
+      ]
+    },
+    {
+      "text": "Patrick Dunleavy discute la difficulté de tester empiriquement le modèle de Niskanen et lui oppose le modèle du bureau-shaping, où les hauts fonctionnaires chercheraient à façonner un service à leur goût plutôt qu'à maximiser leur budget.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Bureaucrats, Budgets and the Growth of the State: Reconstructing an Instrumental Model",
+          "publisher": "British Journal of Political Science (Cambridge University Press)",
+          "url": "https://resolve.cambridge.org/core/journals/british-journal-of-political-science/article/bureaucrats-budgets-and-the-growth-of-the-state-reconstructing-an-instrumental-model/8B8AA71D531AC8E3427680E40D5CA330"
+        },
+        {
+          "title": "Bureau-shaping model",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bureau-shaping_model"
+        }
+      ]
+    },
+    {
+      "text": "Yang et Grenier (PNAS, 2026) proposent un modèle dynamique où la prolifération administrative apparaît sans mauvaise intention des bureaucrates, par accumulation de procédures et de coûts de coordination ; c'est un modèle, pas une mesure.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "What Leads to Administrative Bloat? A Dynamic Model of Administrative Cost and Waste",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2412.15378"
+        }
+      ]
+    },
+    {
+      "text": "Robert Michels formule en 1911, à partir de l'étude des partis socialistes, la loi d'airain de l'oligarchie : même les organisations égalitaires produisent une élite dirigeante qui défend ses intérêts et la survie de l'appareil.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Oligarchy, Iron Law of",
+          "publisher": "Encyclopedia.com",
+          "url": "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/oligarchy-iron-law"
+        },
+        {
+          "title": "Robert Michels",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Robert_Michels"
+        }
+      ]
+    },
+    {
+      "text": "Dans le bouddhisme theravada, le Patimokkha compte 227 règles pour les moines, et le Vinaya rapporte pour chacune l'incident qui l'aurait motivée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Introduction to the Patimokkha Rules",
+          "publisher": "Access to Insight (Thanissaro Bhikkhu)",
+          "url": "https://accesstoinsight.org/tipitaka/vin/sv/bhikkhu-pati-intro.html"
+        }
+      ]
+    },
+    {
+      "text": "La constitution apostolique Praedicate Evangelium, promulguée en 2022, réorganise la Curie romaine et regroupe congrégations et conseils pontificaux en dicastères.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Communiqué du Bureau de presse du Saint-Siège, 19.03.2022",
+          "publisher": "Saint-Siège",
+          "url": "https://www.vatican.va/content/salastampa/en/bollettino/pubblico/2022/03/19/220319c.pdf"
+        },
+        {
+          "title": "Pope Francis promulgates constitution Praedicate Evangelium",
+          "publisher": "Vatican News",
+          "url": "https://vaticannews.va/en/pope/news/2022-03/pope-francis-promulgates-constitution-praedicate-evangelium.html"
+        }
+      ]
+    },
+    {
+      "text": "L'islam sunnite ne connaît pas de clergé centralisé comparable à une Église hiérarchique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Who speaks for Muslims",
+          "publisher": "Oasis Center",
+          "url": "https://oasiscenter.eu/en/religious-authorities-islam"
+        },
+        {
+          "title": "Leading from Everywhere: History of Centralized Islamic Religious Authority",
+          "publisher": "Carnegie Endowment for International Peace",
+          "url": "https://carnegieendowment.org/2015/06/15/leading-from-everywhere-history-of-centralized-islamic-religious-authority-pub-60413"
+        }
+      ]
+    },
+    {
+      "text": "En Turquie, la Présidence des affaires religieuses (Diyanet) a été créée le 3 mars 1924, le jour même de l'abolition du califat.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ministry of Sharia and the Foundations",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ministry_of_Sharia_and_the_Foundations"
+        },
+        {
+          "title": "Did Republican Turkey Really Abolish the Ottoman Caliphate? The Curious Case of Law No. 431",
+          "publisher": "Islamic Law Blog",
+          "url": "https://islamiclaw.blog/2019/07/16/did-republican-turkey-really-abolish-the-ottoman-caliphate-the-curious-case-of-law-no-431/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": []
+  },
+  "references": [],
+  "next": {
+    "title": "Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?",
+    "url": "https://www.youtube.com/watch?v=rjP6LYf5280"
+  },
+  "shorts": [],
+  "corrections": []
+}
