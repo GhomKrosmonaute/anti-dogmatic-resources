@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "la-croissance-economique-peut-elle-durer-a8f7",
+      "title": "La croissance économique peut-elle vraiment durer éternellement ?",
+      "format": "video",
+      "publishedAt": "2026-11-04T03:00:21.574Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Grâce à l'innovation et aux gains de productivité, la croissance économique peut se poursuivre indéfiniment, sans buter sur les limites physiques de la planète.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "kv0Io7mBXoE",
+        "url": "https://www.youtube.com/watch?v=kv0Io7mBXoE",
+        "thumbnail": "https://i.ytimg.com/vi/kv0Io7mBXoE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-croissance-economique-peut-elle-durer-a8f7/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-croissance-economique-peut-elle-durer-a8f7.json"
+      }
+    },
+    {
       "id": "les-dialogues-avec-l-ange-gitta-mallasz-8f0f",
       "title": "Lilou Macé, personne ne sait qui sert vraiment les anges",
       "format": "short",

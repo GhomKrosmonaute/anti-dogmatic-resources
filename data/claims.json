@@ -1,9 +1,413 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-04T01:01:20.522Z",
+  "generatedAt": "2026-11-04T03:01:21.753Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "la-croissance-economique-peut-elle-durer-a8f7",
+      "title": "La croissance économique peut-elle vraiment durer éternellement ?",
+      "format": "video",
+      "publishedAt": "2026-11-04T03:00:21.574Z",
+      "durationSeconds": 656,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Grâce à l'innovation et aux gains de productivité, la croissance économique peut se poursuivre indéfiniment, sans buter sur les limites physiques de la planète.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Deux siècles de hausse du niveau de vie et le rôle moteur des idées sont bien réels, mais on les prolonge à l'infini sans preuve. Aucune quantité de matière ou d'énergie ne peut croître à taux fixe pour toujours, et la revue systématique de Haberl et al. (2020) ne trouve que des cas rares et dispersés de découplage absolu, et aucun pour l'exergie utile."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        },
+        {
+          "id": "faux-dilemme",
+          "name": "Le faux dilemme"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "kv0Io7mBXoE",
+        "url": "https://www.youtube.com/watch?v=kv0Io7mBXoE",
+        "thumbnail": "https://i.ytimg.com/vi/kv0Io7mBXoE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-croissance-economique-peut-elle-durer-a8f7/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-croissance-economique-peut-elle-durer-a8f7.json"
+      },
+      "facts": [
+        {
+          "text": "Selon la Maddison Project Database, le PIB moyen par habitant mondial a été multiplié par plus de dix depuis 1820.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Maddison Project: new 2023 update illuminates origins of modern economic growth",
+              "publisher": "University of Groningen",
+              "url": "https://www.rug.nl/feb/research/frn/news/archief/2024/240429-the-maddison-project-new-2023-update-illuminates-origins-of-modern-economic-growth"
+            },
+            {
+              "title": "GDP per capita, Maddison Project Database",
+              "publisher": "Our World in Data",
+              "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-2020"
+            }
+          ]
+        },
+        {
+          "text": "Avant 1800 environ, le revenu moyen par habitant progressait très lentement ; les données d'avant 1900 sont des reconstructions moins fiables, faute de statistiques officielles complètes.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Maddison Project: new 2023 update illuminates origins of modern economic growth",
+              "publisher": "University of Groningen",
+              "url": "https://www.rug.nl/feb/research/frn/news/archief/2024/240429-the-maddison-project-new-2023-update-illuminates-origins-of-modern-economic-growth"
+            }
+          ]
+        },
+        {
+          "text": "Thomas Malthus, ecclésiastique anglais, publie en 1798 l'Essai sur le principe de population, où il soutient que la population croît plus vite que les subsistances.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "An Essay on the Principle of Population [1798, 1st ed.]",
+              "publisher": "Library of Economics and Liberty",
+              "url": "https://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-1798-1st-ed"
+            },
+            {
+              "title": "An Essay on the Principle of Population by T. R. Malthus",
+              "publisher": "Project Gutenberg",
+              "url": "https://gutenberg.org/ebooks/4239"
+            }
+          ]
+        },
+        {
+          "text": "La population mondiale a atteint huit milliards d'habitants (ONU, novembre 2022), sans les famines généralisées que Malthus jugeait inévitables.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "World set to reach 8 billion people on 15 November 2022",
+              "publisher": "UNFPA",
+              "url": "https://www.unfpa.org/press/world-set-reach-8-billion-people-15-november-2022"
+            }
+          ]
+        },
+        {
+          "text": "Romer (1990, Journal of Political Economy, « Endogenous Technological Change ») : la technologie naît d'investissements délibérés et constitue un bien non rival, ce qui permet une croissance tirée par l'innovation sans que le capital physique soit le facteur limitant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Endogenous Technological Change",
+              "publisher": "Journal of Political Economy / RePEc",
+              "url": "https://econpapers.repec.org/RePEc:ucp:jpolec:v:98:y:1990:i:5:p:s71-102"
+            },
+            {
+              "title": "Endogenous Technological Change (NBER Working Paper 3210)",
+              "publisher": "NBER",
+              "url": "https://www.nber.org/papers/w3210"
+            }
+          ]
+        },
+        {
+          "text": "Paul Romer a reçu en 2018 le prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "William D. Nordhaus and Paul M. Romer awarded the Prize in Economic Sciences for 2018",
+              "publisher": "Sveriges Riksbank",
+              "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/notices/2018/william-d.-nordhaus-and-paul-m.-romer-awarded-the-prize-in-economic-sciences-for-2018"
+            }
+          ]
+        },
+        {
+          "text": "Pari Simon-Ehrlich : en 1980, Julian Simon défie Paul Ehrlich sur le prix, corrigé de l'inflation, de cinq métaux choisis par Ehrlich ; en 1990 les cinq prix ont baissé et Ehrlich envoie un chèque de 576,07 dollars.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A bet: five metals and the future of the planet",
+              "publisher": "NPR / HPPR",
+              "url": "https://www.hppr.org/2014-01-02/a-bet-five-metals-and-the-future-of-the-planet"
+            }
+          ]
+        },
+        {
+          "text": "Julian Simon publie The Ultimate Resource en 1981 ; il y présente l'esprit humain comme la ressource ultime.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Ultimate Resource",
+              "publisher": "Princeton University Press",
+              "url": "https://press.princeton.edu/node/25588"
+            }
+          ]
+        },
+        {
+          "text": "The Limits to Growth (1972), écrit par Donella et Dennis Meadows, Jørgen Randers et William Behrens au MIT pour le Club de Rome, repose sur le modèle informatique World3.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A comparison of The Limits to Growth with 30 years of reality",
+              "publisher": "Global Environmental Change (Turner, 2008)",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0959378008000435"
+            }
+          ]
+        },
+        {
+          "text": "Le rapport de 1972 conclut que, si les tendances de croissance se poursuivent sans changement, les limites de la croissance seront atteintes au cours des cent prochaines années (citation traduite de l'anglais).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Limits to Growth (1972) and Beyond the Limits (1992)",
+              "publisher": "Encyclopedia.com",
+              "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/limits-growth-1972-and-beyond-limits-1992"
+            }
+          ]
+        },
+        {
+          "text": "Turner (2008, Global Environmental Change) : les données de 1970 à 2000 s'accordent avec le scénario « business as usual » de World3 et mal avec les scénarios technologiques ; le rapport ne prédisait pas d'effondrement avant 2000.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A comparison of The Limits to Growth with 30 years of reality",
+              "publisher": "Global Environmental Change (Turner, 2008)",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0959378008000435"
+            }
+          ]
+        },
+        {
+          "text": "Herrington (2021, Journal of Industrial Ecology) : les données récentes restent proches des scénarios de World3 ; les deux plus proches annoncent un arrêt de la croissance d'ici une décennie environ, et un seul dessine un effondrement, causé par la pollution.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Update to limits to growth: Comparing the World3 model with empirical data",
+              "publisher": "Journal of Industrial Ecology (Herrington, 2021)",
+              "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13084"
+            }
+          ]
+        },
+        {
+          "text": "Chez Herrington (2021), l'autre scénario le plus proche des données suppose un progrès technique massif (scénario « Comprehensive Technology ») et voit la croissance s'arrêter sans effondrement.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Update to limits to growth: Comparing the World3 model with empirical data",
+              "publisher": "Journal of Industrial Ecology (Herrington, 2021)",
+              "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13084"
+            }
+          ]
+        },
+        {
+          "text": "À 2 % par an, une quantité double environ tous les 35 ans (règle de 70) ; dix doublements multiplient par environ mille, soit en trois siècles et demi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "6.5 The “Rule of 70” and Differences in Growth Rates",
+              "publisher": "eCampusOntario Pressbooks (Principles of Macroeconomics)",
+              "url": "https://ecampusontario.pressbooks.pub/principlesofmacroeconomicscdn/?p=1239"
+            },
+            {
+              "title": "Rule of 70",
+              "publisher": "Corporate Finance Institute",
+              "url": "https://corporatefinanceinstitute.com/resources/knowledge/finance/rule-of-70/"
+            }
+          ]
+        },
+        {
+          "text": "La Terre reçoit du Soleil environ neuf mille fois la consommation mondiale actuelle d'énergie primaire ; à 2 % de hausse annuelle, ce plafond serait atteint en environ quatre siècles et demi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Statistical Review of World Energy",
+              "publisher": "Energy Institute",
+              "url": "https://energyinst.org/statistical-review"
+            },
+            {
+              "title": "Energy Institute releases 2024 Statistical Review of World Energy",
+              "publisher": "DieselNet",
+              "url": "https://dieselnet.com/news/2024/06energyreview.php"
+            }
+          ]
+        },
+        {
+          "text": "Selon le deuxième principe de la thermodynamique, l'énergie utilisée finit dégradée en chaleur.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Entropy and efficiency limits",
+              "publisher": "Encyclopaedia Britannica",
+              "url": "https://britannica.com/science/thermodynamics/Entropy"
+            }
+          ]
+        },
+        {
+          "text": "Nicholas Georgescu-Roegen publie The Entropy Law and the Economic Process en 1971 ; il y soutient qu'aucun recyclage n'est parfait et que rassembler la matière dispersée exige de l'énergie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mayumi, The fourth law of thermodynamics in Georgescu-Roegen's thought (Journal of Interdisciplinary Economics, 1992)",
+              "publisher": "IDEAS/RePEc",
+              "url": "https://ideas.repec.org/a/sae/jinter/v4y1992i2p101-129.html"
+            },
+            {
+              "title": "The Entropy Law and the Economic Process",
+              "publisher": "LibraryThing",
+              "url": "https://www.librarything.nl/work/241610"
+            }
+          ]
+        },
+        {
+          "text": "Haberl et al. (2020, Environmental Research Letters) : plus de 11 500 articles examinés, 835 études empiriques analysées ; découplage relatif fréquent pour les matières et les GES, preuves de découplage absolu rares et dispersées, aucun découplage pour l'exergie utile.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A systematic review of the evidence on decoupling of GDP, resource use and GHG emissions, part II",
+              "publisher": "Environmental Research Letters (Haberl et al., 2020)",
+              "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ab842a/meta"
+            }
+          ]
+        },
+        {
+          "text": "Hickel et Kallis (2020, New Political Economy) : aucune preuve empirique de découplage absolu de l'usage des ressources à l'échelle mondiale ; un découplage des émissions assez rapide pour tenir 1,5 °C ou 2 °C est très improbable.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is Green Growth Possible?",
+              "publisher": "New Political Economy 25(4), 469-486",
+              "url": "https://research.gold.ac.uk/26392"
+            },
+            {
+              "title": "Is green growth possible?",
+              "publisher": "New Political Economy, Taylor & Francis",
+              "url": "https://www.tandfonline.com/doi/abs/10.1080/13563467.2019.1598964"
+            }
+          ]
+        },
+        {
+          "text": "Jason Hickel et Giorgos Kallis défendent publiquement la décroissance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Is Green Growth Possible?",
+              "publisher": "New Political Economy / RePEc",
+              "url": "https://econpapers.repec.org/RePEc:taf:cnpexx:v:25:y:2020:i:4:p:469-486"
+            },
+            {
+              "title": "Is Green Growth Possible?",
+              "publisher": "New Political Economy 25(4), 469-486",
+              "url": "https://research.gold.ac.uk/26392"
+            }
+          ]
+        },
+        {
+          "text": "Le mot « croissance » a désigné le développement des êtres vivants avant de prendre son sens économique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "CROISSANCE : Etymologie de CROISSANCE",
+              "publisher": "CNRTL",
+              "url": "https://www.cnrtl.fr/etymologie/croissance"
+            }
+          ]
+        },
+        {
+          "text": "Les cellules cancéreuses se caractérisent par une prolifération qui échappe aux signaux d'arrêt de la croissance.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hallmarks of cancer: The next generation (Hanahan & Weinberg, Cell 144, 2011, doi:10.1016/j.cell.2011.02.013)",
+              "publisher": "US EPA HERO",
+              "url": "https://heronext.epa.gov/reference/758924"
+            }
+          ]
+        },
+        {
+          "text": "En 1930, Keynes prédisait que les gains de productivité permettraient à ses petits-enfants de travailler environ quinze heures par semaine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Keynes's unfulfilled promise",
+              "publisher": "Metropolis Barcelona",
+              "url": "https://www.barcelona.cat/metropolis/en/contents/keyness-unfulfilled-promise"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "Le Soleil envoie sur la Terre environ neuf mille fois ce que l'humanité consomme aujourd'hui.",
+            "note": "Ordre de grandeur : le flux solaire reçu est d'environ 170 000 TW, contre une consommation humaine de quelques dizaines de TW. L'argument tient pour toute valeur proche de ce rapport, et la durée de quatre siècles et demi change peu."
+          },
+          {
+            "excerpt": "Fais le calcul : neuf mille, c'est un peu plus de treize doublements, soit à 2 % par an quelque quatre siècles et demi.",
+            "note": "Calcul arrondi (log2 de 9 000 ≈ 13,1 doublements, soit environ 460 ans). Le « quelque » signale l'approximation, et la conclusion ne dépend pas de la valeur exacte."
+          },
+          {
+            "excerpt": "À 2 % par an, une économie double environ tous les trente-cinq ans : divise soixante-dix par le taux, tu obtiens la durée d'un doublement.",
+            "note": "Règle des 70, approximation classique des intérêts composés (ln 2 ≈ 0,69). Elle n'a aucun enjeu sanitaire, et l'argument ne dépend pas de la décimale."
+          },
+          {
+            "excerpt": "Dix doublements, soit trois siècles et demi, et elle pèse mille fois son poids actuel.",
+            "note": "2^10 = 1 024, arrondi à mille. L'arrondi est sans conséquence pour l'argument."
+          },
+          {
+            "excerpt": "Les chercheurs du projet Maddison ont reconstitué le PIB par habitant de presque tous les pays sur des siècles. Leurs séries, reprises par Our World in Data, montrent que le revenu moyen mondial a été multiplié par plus de dix depuis 1820.",
+            "note": "Estimation de long terme dont la fiabilité avant 1900 est signalée dans la narration. Seul compte l'ordre de grandeur (« plus de dix »), pas la valeur exacte."
+          },
+          {
+            "excerpt": "Le monde compte aujourd'hui huit milliards d'habitants, et les famines qu'il jugeait inévitables n'ont pas suivi.",
+            "note": "Population arrondie. Ni le chiffre exact ni sa date n'influencent l'argument."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Environnement, économie & Fin du monde - Tronche en Live #26 (le réveilleur)",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=Jn5oGHBGFiA",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Pourquoi travaille-t-on toujours autant alors que Keynes promettait 15 heures par semaine ?",
+        "url": "https://www.youtube.com/watch?v=rjP6LYf5280"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "epicure-contre-la-peur-de-la-mort-122f",
       "title": "Peut-on ne plus avoir peur de mourir ? Ce qu'Épicure répondait il y a 2300 ans",
@@ -410,7 +814,13 @@
         "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
         "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE"
       },
-      "shorts": [],
+      "shorts": [
+        {
+          "title": "Imagine-toi mort : qui, exactement, a peur ?",
+          "url": "https://www.youtube.com/watch?v=dDZJWj-vKUo",
+          "publishedAt": "2026-11-04T02:09:18.493Z"
+        }
+      ],
       "corrections": []
     },
     {
