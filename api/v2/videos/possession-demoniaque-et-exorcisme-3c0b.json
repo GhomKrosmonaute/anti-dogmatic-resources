@@ -1,0 +1,370 @@
+{
+  "version": 2,
+  "id": "possession-demoniaque-et-exorcisme-3c0b",
+  "title": "Possession démoniaque : que vivent vraiment les possédés, et l'exorcisme les délivre-t-il ?",
+  "format": "video",
+  "publishedAt": "2026-11-04T13:45:24.445Z",
+  "durationSeconds": 710,
+  "rubric": {
+    "id": "religions",
+    "name": "Religions"
+  },
+  "claim": {
+    "statement": "La possession démoniaque est réelle : des personnes peuvent vivre des expériences de présence démoniaque, et les exorcismes, pratiqués par de grands exorcistes, permettent de s'en délivrer.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Les expériences décrites sont réelles, mais rien de ce qui a pu être vérifié n'exige un démon : paralysie du sommeil, troubles dissociatifs, épilepsie, psychose et suggestion en rendent compte, tandis que les signes « surnaturels » du Rituel romain n'existent qu'en récits. La délivrance soulage certains mais peut aggraver les épisodes et éloigner des soins, comme l'ont montré le cas polonais de 2022 et la mort d'Anneliese Michel en 1976."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    },
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "placebo",
+      "name": "Le placebo pris pour un remède"
+    }
+  ],
+  "answers": {
+    "title": "\"J'AI VÉCU DES EXPÉRIENCES DE PRÉSENCE DÉMONIAQUE\" : Une vie bouleversée | Témoignage de Coralie",
+    "channel": "SAJE Distribution",
+    "channelId": "UCih-yIVyHv7JAdYKiOHrlCA",
+    "url": "https://www.youtube.com/watch?v=Kl5hx8Qf3Jw",
+    "passages": []
+  },
+  "series": null,
+  "youtube": {
+    "id": "fSxhNhplxS8",
+    "url": "https://www.youtube.com/watch?v=fSxhNhplxS8",
+    "thumbnail": "https://i.ytimg.com/vi/fSxhNhplxS8/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/possession-demoniaque-et-exorcisme-3c0b/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/possession-demoniaque-et-exorcisme-3c0b.json"
+  },
+  "facts": [
+    {
+      "text": "Marc 5, 9 (traduction Louis Segond) : « Légion est mon nom, lui répondit-il, car nous sommes plusieurs », dans le récit du démoniaque du pays des Géraséniens qui vit parmi les tombeaux et brise ses chaînes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Marc 5:9 – Louis Segond",
+          "publisher": "BibleGateway",
+          "url": "https://www.biblegateway.com/passage/?search=Marc+5%3A9&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Dans l'Église catholique, l'exorcisme majeur ne peut être pratiqué que par un prêtre ayant reçu la permission expresse de l'évêque du lieu (Code de droit canonique, canon 1172).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Code de droit canonique, canons 1166-1172",
+          "publisher": "Vatican.va",
+          "url": "https://www.vatican.va/archive/cod-iuris-canonici/fra/documents/cic_libro4_cann1166-1172_fr.html"
+        }
+      ]
+    },
+    {
+      "text": "La ruqya consiste à réciter des passages du Coran sur la personne, souvent la Fatiha, le verset du Trône (sourate 2, verset 255) et les sourates 113 et 114 ; les réactions de la personne pendant la récitation sont interprétées par le raqi comme celles du djinn.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The practices of a raqi (Islamic exorcist) in Stockholm",
+          "publisher": "Åbo Akademi / Contemporary Islam (Marlow)",
+          "url": "https://research.abo.fi/en/publications/the-practices-of-a-raqi-islamic-exorcist-in-stockholm/"
+        }
+      ]
+    },
+    {
+      "text": "Le Rituel romain de 1614 demande à l'exorciste de ne pas croire facilement à une possession et de distinguer le possédé de ceux qui souffrent de mélancolie (atra bilis) ou d'une autre maladie ; il cite comme signes parler ou comprendre une langue inconnue, révéler des choses lointaines ou cachées, montrer une force au-dessus de l'âge ou de la condition.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Exorcism in the Catholic Church",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Exorcism_in_the_Catholic_Church"
+        },
+        {
+          "title": "Roman Ritual of Exorcism (translation)",
+          "publisher": "fisheaters.com",
+          "url": "https://fisheaters.com/praeternaturalworld6.html"
+        }
+      ]
+    },
+    {
+      "text": "Le rituel catholique de l'exorcisme a été révisé en 1999 (De exorcismis et supplicationibus quibusdam).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Of Exorcisms and Certain Supplications",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Of_Exorcisms_and_Certain_Supplications"
+        },
+        {
+          "title": "1999 Revision of the Rite of Exorcism",
+          "publisher": "isidore.co",
+          "url": "https://isidore.co/misc/Res%20pro%20Deo/Other%20Documents/1999-Revision-of-the-Rite-of-Exorcism.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Des prêtres exorcistes catholiques collaborent avec des psychiatres pour distinguer trouble psychiatrique et possession ; l'enquête de Thomas Csordas sur le renouveau de l'exorcisme en Italie et aux États-Unis présente ses résultats comme préliminaires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Contemporary Roman Catholic Exorcism Prayer in the United States and Italy",
+          "publisher": "Center for Global Mental Health, UC San Diego",
+          "url": "https://cgmh.ucsd.edu/research/research-project/europe/exorcism.html"
+        }
+      ]
+    },
+    {
+      "text": "SAJE Distribution a publié sur YouTube la vidéo « J'AI VÉCU DES EXPÉRIENCES DE PRÉSENCE DÉMONIAQUE : Une vie bouleversée ».",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Les films les plus regardés sur SAJE",
+          "publisher": "Aleteia",
+          "url": "https://fr.aleteia.org/2025/05/11/les-films-les-plus-regardes-sur-saje-en/"
+        }
+      ]
+    },
+    {
+      "text": "Philip M. Coons (1993, revue Dissociation, vol. 6, no 4) rappelle que le syndrome de possession n'a jamais été un diagnostic psychiatrique officiellement approuvé et distingue les états de possession de la croyance religieuse et de la transe rituelle.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The differential diagnosis of possession states",
+          "publisher": "Dissociation (Ridgeview Institute / International Society for the Study of Dissociation), vol. 6, no 4, p. 213-221",
+          "url": "https://scholarsbank.uoregon.edu/items/8e44c369-2350-449c-9c4e-71828c28d733/full"
+        }
+      ]
+    },
+    {
+      "text": "La CIM-11 de l'OMS contient un « trouble de transe de possession », qui suppose un état involontaire, non désiré et ne faisant pas partie d'une pratique culturelle ou religieuse collective.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "6B63 Possession trance disorder",
+          "publisher": "findacode.com (miroir CIM-11 OMS)",
+          "url": "https://findacode.com/icd-11/code-1374925579.html"
+        }
+      ]
+    },
+    {
+      "text": "Le DSM-5 indique que le trouble dissociatif de l'identité, caractérisé par plusieurs états de personnalité distincts, peut être décrit dans certaines cultures comme une expérience de possession.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "DSM-5 Diagnostic Criteria for Dissociative Identity Disorder",
+          "publisher": "Macmillan (manuel de psychologie)",
+          "url": "https://digfir-published.macmillanusa.com/rkabpsych2e/asset/img_ch8/table_8_5.html"
+        }
+      ]
+    },
+    {
+      "text": "Pendant le sommeil paradoxal, le tonus musculaire est aboli ; dans la paralysie du sommeil, la conscience revient alors que cette atonie persiste, avec parfois des hallucinations de présence et une oppression thoracique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lifetime prevalence rates of sleep paralysis: a systematic review",
+          "publisher": "Sleep Medicine Reviews (Sharpless & Barber, 2011)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156892/"
+        }
+      ]
+    },
+    {
+      "text": "La méta-analyse de Molendijk et al. (2017, Frontiers in Psychiatry ; 13 études, 6 079 personnes) trouve une prévalence vie entière de 19 % du phénomène de l'incube (11 % en population générale, 41 % dans des échantillons sélectionnés), interprété selon les cultures comme un démon, un mort ou un extraterrestre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Prevalence rates of the incubus phenomenon: a systematic review and meta-analysis",
+          "publisher": "Frontiers in Psychiatry",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2017.00253/full"
+        }
+      ]
+    },
+    {
+      "text": "Le mot « cauchemar » vient de « caucher » (presser) et de « mare », fantôme nocturne emprunté au néerlandais.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cauchemar",
+          "publisher": "Dire, ne pas dire – Académie française",
+          "url": "https://dictionnaire-academie.fr/article/DNP0677"
+        },
+        {
+          "title": "Cauchemar",
+          "publisher": "Larousse",
+          "url": "https://www.larousse.fr/dictionnaires/francais/Cauchemar"
+        }
+      ]
+    },
+    {
+      "text": "Certaines épilepsies du lobe temporal provoquent des peurs soudaines et des sensations de présence ; les psychoses produisent des voix vécues comme étrangères ; les troubles dissociatifs donnent un sentiment de détachement de sa propre vie ; ces troubles peuvent se traiter.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Neurological and robot-controlled induction of an apparition",
+          "publisher": "Current Biology (Blanke et al., 2014)",
+          "url": "https://archive-ouverte.unige.ch/unige:78147"
+        }
+      ]
+    },
+    {
+      "text": "La suggestion et les attentes créées par le rituel et l'assistance influencent les manifestations pendant les séances de délivrance.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Trapped Between Theological and Medical Notions of Possession: A Case of Possession Trance Disorder With a 3-Year Follow-Up",
+          "publisher": "Frontiers in Psychiatry",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.891859/full"
+        }
+      ]
+    },
+    {
+      "text": "Pietkiewicz, Kłosińska et Tomalski (2022, Frontiers in Psychiatry) décrivent une patiente polonaise suivie trois ans dont les séances de délivrance aggravaient les épisodes (« si il prie, ça ne fait que prolonger tout ») et chez qui le diagnostic de transe de possession a renforcé la croyance en une cause surnaturelle et la réticence au traitement psychiatrique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Trapped Between Theological and Medical Notions of Possession: A Case of Possession Trance Disorder With a 3-Year Follow-Up",
+          "publisher": "Frontiers in Psychiatry",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.891859/full"
+        }
+      ]
+    },
+    {
+      "text": "À Loudun, à partir de 1632, des ursulines se disent possédées ; les exorcismes deviennent publics et attirent des visiteurs ; Urbain Grandier est brûlé vif en 1634 et les possessions se poursuivent après sa mort ; Michel de Certeau a consacré à l'affaire « La Possession de Loudun » (1970).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lacanian Jesuit (compte rendu de The Possession at Loudun)",
+          "publisher": "London Review of Books",
+          "url": "https://lrb.co.uk/v23/n19/david-wootton/lacanian-jesuit"
+        }
+      ]
+    },
+    {
+      "text": "Van Duijl et al. (2005) trouvent en Ouganda du Sud-Ouest une validité seulement partielle des catégories dissociatives du DSM-IV ; les guérisseurs locaux lisent le trouble dissociatif de l'identité comme une transe de possession.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The validity of DSM-IV dissociative disorders categories in SW Uganda",
+          "publisher": "Lund University / Transcultural Psychiatry",
+          "url": "https://portal.research.lu.se/en/publications/the-validity-of-dsm-iv-dissociative-disorders-categories-in-sw-ug/"
+        }
+      ]
+    },
+    {
+      "text": "Dans le vodou haïtien, la possession rituelle par un lwa (être « chevauché ») est recherchée et valorisée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Faces of the Gods: Vodou and Roman Catholicism in Haiti",
+          "publisher": "University of North Carolina Press (Desmangles, 1992)",
+          "url": "https://uncpress.org/9780807843932/the-faces-of-the-gods/"
+        },
+        {
+          "title": "Trance Possession and Vodou Ritual in Haiti",
+          "publisher": "Lund University (Cardeña & Desmangles, 1996)",
+          "url": "https://lup.lub.lu.se/search/publication/8b24653e-a26b-4ca0-9ab1-1a8544613f07"
+        }
+      ]
+    },
+    {
+      "text": "Aucun cas publié ne documente de façon vérifiable (enregistrement analysé par des linguistes, information contrôlée à l'avance) les signes de possession décrits par le Rituel romain.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Past Tongues Remembered?",
+          "publisher": "Skeptical Inquirer (Thomason, 1987)",
+          "url": "https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165313/p49.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Anneliese Michel, de Klingenberg (Bavière), suivie pour une épilepsie à partir de la fin des années 1960, a subi des dizaines de séances d'exorcisme autorisées par l'évêque de Wurtzbourg pendant près d'un an, et est morte le 1er juillet 1976, amaigrie et déshydratée.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Anneliese Michel",
+          "publisher": "Wikipedia (miroir)",
+          "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Anneliese_Michel"
+        }
+      ]
+    },
+    {
+      "text": "En 1978, le tribunal d'Aschaffenbourg a condamné les parents d'Anneliese Michel et les deux prêtres exorcistes pour homicide par négligence.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Anneliese Michel",
+          "publisher": "cavac.at",
+          "url": "https://cavac.at/cavacopedia/Anneliese%20Michel"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "neuroscience et médecine clinique (médecine du sommeil, psychiatrie, troubles dissociatifs)",
+    "approximations": [
+      {
+        "excerpt": "Avec l'accord de l'évêque de Wurtzbourg, deux prêtres mènent sur elle des dizaines de séances d'exorcisme pendant près d'un an.",
+        "note": "Le nombre de séances et la durée sont approximatifs. Le propos (un cadre qui retarde ou remplace le soin) ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "Presque toutes les grandes traditions ont une réponse.",
+        "note": "Généralisation non chiffrée. L'argument tient sans décompte précis."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Vivre une anomalie : Expérience du Paranormal (Le Bénéfice du doute #3)",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=Yuxz7gmuQeE",
+      "own": false
+    },
+    {
+      "title": "Les djinns peuvent-ils entrer dans le corps ? Ce que disent vraiment le Coran et la Sunna",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=FNNHc_mRp8I",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+    "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY"
+  },
+  "shorts": [],
+  "corrections": []
+}

@@ -1,12 +1,58 @@
 {
   "version": 2,
-  "total": 103,
+  "total": 104,
   "pageSize": 50,
   "page": 1,
   "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "possession-demoniaque-et-exorcisme-3c0b",
+      "title": "Possession démoniaque : que vivent vraiment les possédés, et l'exorcisme les délivre-t-il ?",
+      "format": "video",
+      "publishedAt": "2026-11-04T13:45:24.445Z",
+      "durationSeconds": 710,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "La possession démoniaque est réelle : des personnes peuvent vivre des expériences de présence démoniaque, et les exorcismes, pratiqués par de grands exorcistes, permettent de s'en délivrer.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        }
+      ],
+      "answers": {
+        "title": "\"J'AI VÉCU DES EXPÉRIENCES DE PRÉSENCE DÉMONIAQUE\" : Une vie bouleversée | Témoignage de Coralie",
+        "channel": "SAJE Distribution",
+        "url": "https://www.youtube.com/watch?v=Kl5hx8Qf3Jw"
+      },
+      "series": null,
+      "youtube": {
+        "id": "fSxhNhplxS8",
+        "url": "https://www.youtube.com/watch?v=fSxhNhplxS8",
+        "thumbnail": "https://i.ytimg.com/vi/fSxhNhplxS8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/possession-demoniaque-et-exorcisme-3c0b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/possession-demoniaque-et-exorcisme-3c0b.json"
+      }
+    },
     {
       "id": "la-croissance-economique-peut-elle-durer-a8f7",
       "title": "La croissance économique peut-elle vraiment durer éternellement ?",
@@ -1934,48 +1980,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-parallele-entre-nos-systemes-de-pouvoir-reels-a66c.json"
-      }
-    },
-    {
-      "id": "le-mouvement-raelien-f9a5",
-      "title": "Les Elohim de la Bible étaient-ils des extraterrestres ? Le message de Raël expliqué",
-      "format": "video",
-      "publishedAt": "2026-10-08T17:15:21.913Z",
-      "durationSeconds": 735,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Les Elohim de la Bible sont des extraterrestres venus du ciel qui ont créé toute la vie sur Terre, l'humanité comprise, dans leurs laboratoires, comme ils l'ont révélé à Raël en 1973.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "relecture-a-posteriori",
-          "name": "La relecture après coup"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "hCHVMo-ZpJU",
-        "url": "https://www.youtube.com/watch?v=hCHVMo-ZpJU",
-        "thumbnail": "https://i.ytimg.com/vi/hCHVMo-ZpJU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mouvement-raelien-f9a5/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mouvement-raelien-f9a5.json"
       }
     }
   ]

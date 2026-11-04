@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 103,
+  "total": 104,
   "pageSize": 50,
   "page": 3,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "next": null,
   "items": [
+    {
+      "id": "la-donation-de-constantin-83d1",
+      "title": "La Donation de Constantin : le faux qui a fait des papes des rois (et comment on l'a démasqué)",
+      "format": "video",
+      "publishedAt": "2026-09-25T08:00:12.889Z",
+      "durationSeconds": 426,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "La Donation de Constantin est un acte authentique : l'empereur Constantin, guéri de la lèpre et baptisé par le pape Sylvestre, aurait cédé à l'Église de Rome le palais du Latran, la ville de Rome et les provinces d'Occident, faisant du pape le maître de l'Occident.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "chaine-de-transmission",
+          "name": "La chaîne de témoins comme preuve"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "YnNocnkAkvM",
+        "url": "https://www.youtube.com/watch?v=YnNocnkAkvM",
+        "thumbnail": "https://i.ytimg.com/vi/YnNocnkAkvM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-donation-de-constantin-83d1/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-donation-de-constantin-83d1.json"
+      }
+    },
     {
       "id": "le-fardeau-de-la-preuve-19ef",
       "title": "« Prouve que Dieu n'existe pas » : le renversement qui trahit la thèse",

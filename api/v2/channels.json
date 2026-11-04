@@ -60,6 +60,16 @@
       "links": {
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/frere-paul-adrien-5d5b.json"
       }
+    },
+    {
+      "id": "saje-distribution-d712",
+      "name": "SAJE Distribution",
+      "url": "https://www.youtube.com/channel/UCih-yIVyHv7JAdYKiOHrlCA",
+      "subscribers": null,
+      "answers": 1,
+      "links": {
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/channels/saje-distribution-d712.json"
+      }
     }
   ]
 }
