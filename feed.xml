@@ -6,7 +6,16 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Wed, 04 Nov 2026 18:46:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 12:16:21 GMT</lastBuildDate>
+<item>
+<title>Pourquoi les prédictions semblent-elles toujours se réaliser ? Nostradamus, voyants, prophètes</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-propheties-semblent-elles-toujours-1db7/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-propheties-semblent-elles-toujours-1db7/</guid>
+<pubDate>Thu, 05 Nov 2026 12:15:21 GMT</pubDate>
+<description>Technique de manipulation : Le tri des cas favorables. On retient les réussites et on oublie les échecs.</description>
+<category>Le tri des cas favorables</category>
+<category>Esprit critique</category>
+</item>
 <item>
 <title>Pourquoi les bureaucraties grossissent-elles toujours, de l&apos;État aux religions ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-bureaucraties-grossissent-elles-982d/</link>
@@ -524,16 +533,6 @@
 <category>Le témoignage invérifiable</category>
 <category>L&apos;affirmation à l&apos;épreuve de tout</category>
 <category>L&apos;argument d&apos;autorité</category>
-<category>Religions</category>
-</item>
-<item>
-<title>Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-religions-dans-les-mangas-e696/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-religions-dans-les-mangas-e696/</guid>
-<pubDate>Thu, 08 Oct 2026 20:21:35 GMT</pubDate>
-<description>Trompeur : « Evangelion, Death Note, Berserk et les autres mangas qui mettent en scène Dieu, les anges et les prophètes cachent un message religieux profond derrière leurs symboles. ». Les croix, les anges et les prophètes de ces mangas renvoient bien à de vrais textes, mais l&apos;équipe d&apos;Evangelion a reconnu les avoir choisis pour leur exotisme, et les œuvres qui traitent vraiment de religion montrent des dieux fabriqués et des prophètes manipulateurs plutôt qu&apos;une révélation. Le sens qu&apos;on y trouve vient surtout du lecteur, comme le montrent les biais d&apos;interprétation mesurés en psychologie.</description>
-<category>La relecture après coup</category>
-<category>Le tri des cas favorables</category>
 <category>Religions</category>
 </item>
 </channel>

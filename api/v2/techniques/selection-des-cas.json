@@ -11,6 +11,34 @@
   "question": "Pourquoi les prophéties semblent-elles toujours se réaliser ?",
   "taughtBy": [
     {
+      "id": "pourquoi-les-propheties-semblent-elles-toujours-1db7",
+      "title": "Pourquoi les prédictions semblent-elles toujours se réaliser ? Nostradamus, voyants, prophètes",
+      "format": "video",
+      "publishedAt": "2026-11-05T12:15:21.056Z",
+      "durationSeconds": 730,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "selection-des-cas",
+        "name": "Le tri des cas favorables"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "7nFQtL9FaZ4",
+        "url": "https://www.youtube.com/watch?v=7nFQtL9FaZ4",
+        "thumbnail": "https://i.ytimg.com/vi/7nFQtL9FaZ4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-propheties-semblent-elles-toujours-1db7/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-les-propheties-semblent-elles-toujours-1db7.json"
+      }
+    },
+    {
       "id": "pourquoi-tant-de-prieres-semblent-exaucees-9cfc",
       "title": "Pourquoi tant de prières semblent-elles exaucées ? Guérisons, signes et rêves",
       "format": "video",

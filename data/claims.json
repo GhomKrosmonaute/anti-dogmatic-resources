@@ -1,9 +1,363 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-04T18:46:30.170Z",
+  "generatedAt": "2026-11-05T12:16:21.244Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "pourquoi-les-propheties-semblent-elles-toujours-1db7",
+      "title": "Pourquoi les prédictions semblent-elles toujours se réaliser ? Nostradamus, voyants, prophètes",
+      "format": "video",
+      "publishedAt": "2026-11-05T12:15:21.056Z",
+      "durationSeconds": 730,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "selection-des-cas",
+        "name": "Le tri des cas favorables"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "7nFQtL9FaZ4",
+        "url": "https://www.youtube.com/watch?v=7nFQtL9FaZ4",
+        "thumbnail": "https://i.ytimg.com/vi/7nFQtL9FaZ4/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/pourquoi-les-propheties-semblent-elles-toujours-1db7/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/pourquoi-les-propheties-semblent-elles-toujours-1db7.json"
+      },
+      "facts": [
+        {
+          "text": "Michel de Nostredame, dit Nostradamus, médecin et astrologue installé à Salon-de-Provence, publie ses Prophéties à Lyon en 1555, sous forme de quatrains regroupés en centuries.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nostradamus, biographie",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/Bio/Nostradamus-biographie-Tm9zdHJhZGFtdXM=.php"
+            }
+          ]
+        },
+        {
+          "text": "Le quatrain I,35 des Prophéties se lit : « Le lion jeune le vieux surmontera, en champ bellique par singulier duelle, dans cage d'or les yeux lui crèvera, deux classes une, puis mourir, mort cruelle » (orthographe modernisée).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les Propheties (texte des centuries)",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/Les_Propheties"
+            }
+          ]
+        },
+        {
+          "text": "Le 30 juin 1559, rue Saint-Antoine à Paris, lors d'un tournoi célébrant les mariages de sa fille et de sa sœur, Henri II, âgé de 40 ans, est blessé à l'œil par un éclat de la lance de Gabriel de Montgomery, capitaine de sa garde écossaise et plus jeune que lui ; il meurt le 10 juillet 1559.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nostradamus, biographie",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/Bio/Nostradamus-biographie-Tm9zdHJhZGFtdXM=.php"
+            }
+          ]
+        },
+        {
+          "text": "Dès 1556, Catherine de Médicis, l'épouse d'Henri II, fait venir Nostradamus à la cour.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nostradamus, biographie",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/Bio/Nostradamus-biographie-Tm9zdHJhZGFtdXM=.php"
+            },
+            {
+              "title": "Nostradamus",
+              "publisher": "New World Encyclopedia",
+              "url": "https://newworldencyclopedia.org/entry/Nostradamus"
+            }
+          ]
+        },
+        {
+          "text": "En 1564, Charles IX rend visite à Nostradamus à Salon et le nomme médecin ordinaire du roi.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nostradamus, biographie",
+              "publisher": "Hérodote.net",
+              "url": "https://www.herodote.net/Bio/Nostradamus-biographie-Tm9zdHJhZGFtdXM=.php"
+            }
+          ]
+        },
+        {
+          "text": "Des commentateurs rattachent le quatrain II,51 (« vingt trois les six ») au grand incendie de Londres de 1666, et le nom « Hister » du quatrain II,24 à Hitler.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les Propheties",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Les_Propheties"
+            }
+          ]
+        },
+        {
+          "text": "Raymond Nickerson (1998) montre dans une revue de référence que l'on cherche, retient et interprète les indices de façon à confirmer ses croyances (biais de confirmation).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises",
+              "publisher": "Review of General Psychology (Nickerson, 1998)",
+              "url": "https://pages.ucsd.edu/~cmckenzie/nickersonConfirmationBias.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Johansen et Osman (2015) montrent que les coïncidences perçues comme preuves du paranormal résultent d'un fonctionnement cognitif normal, la recherche en mémoire d'un événement correspondant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Coincidences: a fundamental consequence of rational cognition",
+              "publisher": "Cardiff University ORCA / New Ideas in Psychology",
+              "url": "https://orca.cardiff.ac.uk/id/eprint/76252/"
+            }
+          ]
+        },
+        {
+          "text": "Presque aucun quatrain des Prophéties ne porte de date.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Nostradamus in popular culture",
+              "publisher": "Wikipedia",
+              "url": "https://www.wikipedia.org/wiki/Nostradamus_in_popular_culture"
+            }
+          ]
+        },
+        {
+          "text": "L'édition complète des Prophéties de Nostradamus réunit 942 quatrains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les Propheties",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Les_Propheties"
+            }
+          ]
+        },
+        {
+          "text": "Le quatrain X,72 commence par « L'an mil neuf cent nonante-neuf sept mois, du ciel viendra un grand roi d'effrayeur ».",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Un « grand roy d'effrayeur »",
+              "publisher": "L'Avenir",
+              "url": "https://www.lavenir.net/regions/wallonie-picarde/ellezelles/2019/08/14/un-grand-roy-deffrayeur-GGNMK44WE5GOHFQDGP5UBIME3Y/"
+            },
+            {
+              "title": "Nostradamus in popular culture",
+              "publisher": "Wikipedia",
+              "url": "https://www.wikipedia.org/wiki/Nostradamus_in_popular_culture"
+            }
+          ]
+        },
+        {
+          "text": "En 1994, Paco Rabanne publie 1999, le feu du ciel, où il annonce, d'après Nostradamus, la chute de la station Mir sur Paris pendant l'éclipse d'août 1999.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Paco Rabanne predicts the fall of the MIR station in Paris",
+              "publisher": "INA",
+              "url": "https://mediaclip.ina.fr/en/i22210374-paco-rabanne-predicts-the-fall-of-the-mir-station-in-paris.html"
+            }
+          ]
+        },
+        {
+          "text": "La station Mir a été désorbitée de façon contrôlée en mars 2001 et ses débris sont tombés dans le Pacifique Sud.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "20 Years Ago: Space Station Mir Reenters Earth's Atmosphere",
+              "publisher": "NASA",
+              "url": "https://www.nasa.gov/history/20-years-ago-space-station-mir-reenters-earths-atmosphere/"
+            }
+          ]
+        },
+        {
+          "text": "Hister est le nom latin du cours inférieur du Danube.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hister (Lewis & Short)",
+              "publisher": "Lewis & Short, Latin Dictionary",
+              "url": "https://www.alatius.com/ls/index.php?l=hister"
+            }
+          ]
+        },
+        {
+          "text": "Le quatrain I,35 ne mentionne ni roi, ni France, ni tournoi, ni lance, ni Paris, ni date.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Les Propheties (texte des centuries)",
+              "publisher": "Wikisource",
+              "url": "https://en.wikisource.org/wiki/Les_Propheties"
+            }
+          ]
+        },
+        {
+          "text": "En mai 1956, le magazine Parade rapporte que Jeane Dixon prévoit que l'élection de 1960 sera gagnée par un démocrate qui sera assassiné ou mourra en fonction.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jeane Dixon",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/dixon.html"
+            },
+            {
+              "title": "Jeane Dixon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jeane_Dixon"
+            }
+          ]
+        },
+        {
+          "text": "John Kennedy, démocrate, est élu en 1960 et assassiné en 1963.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jeane Dixon",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jeane_Dixon"
+            }
+          ]
+        },
+        {
+          "text": "Les six présidents américains élus une année se terminant par zéro entre 1840 et 1940 (Harrison, Lincoln, Garfield, McKinley, Harding, Franklin Roosevelt) sont tous morts en fonction.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Reverse the (Zero) Curse",
+              "publisher": "US National Archives (Prologue blog)",
+              "url": "https://prologue.blogs.archives.gov/2011/03/30/reverse-the-zero-curse"
+            },
+            {
+              "title": "Tecumseh's curse",
+              "publisher": "Snopes",
+              "url": "https://www.snopes.com/history/american/curse.asp"
+            }
+          ]
+        },
+        {
+          "text": "Jeane Dixon avait prédit que les Soviétiques seraient les premiers à poser un homme sur la Lune.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jeane Dixon",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/dixon.html"
+            }
+          ]
+        },
+        {
+          "text": "Les sceptiques décrivent l'« effet Jeane Dixon » : les voyants multiplient les prédictions, en comptant sur le souvenir révérencieux des rares réussites et l'oubli des nombreux échecs (Bader, Baker et Mencken, Paranormal America).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Jeane Dixon",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://www.skepdic.com/dixon.html"
+            }
+          ]
+        },
+        {
+          "text": "Charles Taze Russell annonçait pour 1914 la fin des « temps des nations » et le renversement des gouvernements humains.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Studies in the Scriptures, Vol. 2: The Time Is at Hand",
+              "publisher": "Studies in the Scriptures",
+              "url": "https://www.thestudiesinthescriptures.com/Pages/English/Eng%20V2/Eng%20Vol%202%20TC%20Fwd.htm"
+            }
+          ]
+        },
+        {
+          "text": "En 1920, Joseph Rutherford publie Millions Now Living Will Never Die, qui annonce pour 1925 le retour sur terre d'Abraham, d'Isaac et de Jacob.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1925 – changed teachings",
+              "publisher": "JWFacts",
+              "url": "https://jwfacts.com/watchtower/1925.php"
+            },
+            {
+              "title": "Millions Now Living Will Never Die",
+              "publisher": "oocities.org",
+              "url": "https://www.oocities.org/ivor_hope/millions/millions.html"
+            }
+          ]
+        },
+        {
+          "text": "À la fin des années 1960, des publications de la Watch Tower présentent l'automne 1975 comme la fin de six mille ans d'histoire humaine.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "1975 – changed teachings",
+              "publisher": "JWFacts",
+              "url": "https://jwfacts.com/watchtower/1975.php"
+            },
+            {
+              "title": "Watchtower Online Library",
+              "publisher": "Watch Tower Society",
+              "url": "https://wol.pr418.com/en/wol/pc/r1/lp-e/1200277174/6/0"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Quand la prophétie échoue : pourquoi nos croyances résistent-elles aux preuves ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=Vj0FLPCpE3Q",
+          "own": true
+        }
+      ],
+      "next": {
+        "title": "Quand la prophétie échoue : pourquoi nos croyances résistent-elles aux preuves ?",
+        "url": "https://www.youtube.com/watch?v=Vj0FLPCpE3Q"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "pourquoi-les-bureaucraties-grossissent-elles-982d",
       "title": "Pourquoi les bureaucraties grossissent-elles toujours, de l'État aux religions ?",
