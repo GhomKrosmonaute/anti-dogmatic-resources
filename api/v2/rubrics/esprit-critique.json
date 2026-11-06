@@ -5,6 +5,34 @@
   "description": "biais cognitifs, sophismes, manipulation, complotisme, ce qui fait qu'on croit",
   "items": [
     {
+      "id": "miracle-ou-mensonge-f89c",
+      "title": "Miracles vus par des milliers de témoins : que faut-il vraiment en conclure ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T23:45:21.341Z",
+      "durationSeconds": 688,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "faux-dilemme",
+        "name": "Le faux dilemme"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pjYRpa0pBNM",
+        "url": "https://www.youtube.com/watch?v=pjYRpa0pBNM",
+        "thumbnail": "https://i.ytimg.com/vi/pjYRpa0pBNM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-f89c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-f89c.json"
+      }
+    },
+    {
       "id": "pourquoi-les-propheties-semblent-elles-toujours-1db7",
       "title": "Pourquoi les prédictions semblent-elles toujours se réaliser ? Nostradamus, voyants, prophètes",
       "format": "video",

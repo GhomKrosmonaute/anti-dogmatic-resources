@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 109,
+  "total": 110,
   "pageSize": 50,
   "page": 1,
   "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "miracle-ou-mensonge-f89c",
+      "title": "Miracles vus par des milliers de témoins : que faut-il vraiment en conclure ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T23:45:21.341Z",
+      "durationSeconds": 688,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "faux-dilemme",
+        "name": "Le faux dilemme"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pjYRpa0pBNM",
+        "url": "https://www.youtube.com/watch?v=pjYRpa0pBNM",
+        "thumbnail": "https://i.ytimg.com/vi/pjYRpa0pBNM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-f89c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-f89c.json"
+      }
+    },
     {
       "id": "cioran-62fb",
       "title": "Cioran : pourquoi le philosophe du désespoir fait-il autant de bien ?",
@@ -1920,44 +1948,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-numerologie-a783.json"
-      }
-    },
-    {
-      "id": "mercure-retrograde-b685",
-      "title": "Mercure rétrograde : pourquoi tout va de travers pendant cette période ?",
-      "format": "short",
-      "publishedAt": "2026-10-10T12:15:03.624Z",
-      "durationSeconds": 125,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Quand Mercure est rétrograde, la planète recule dans le ciel et perturbe les communications, la technologie et les contrats : tout va de travers.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "infalsifiabilite",
-          "name": "L'affirmation à l'épreuve de tout"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "JQc5QkK66gA",
-        "url": "https://www.youtube.com/watch?v=JQc5QkK66gA",
-        "thumbnail": "https://i.ytimg.com/vi/JQc5QkK66gA/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/mercure-retrograde-b685/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/mercure-retrograde-b685.json"
       }
     }
   ]

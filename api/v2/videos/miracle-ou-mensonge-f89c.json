@@ -1,0 +1,395 @@
+{
+  "version": 2,
+  "id": "miracle-ou-mensonge-f89c",
+  "title": "Miracles vus par des milliers de témoins : que faut-il vraiment en conclure ?",
+  "format": "video",
+  "publishedAt": "2026-11-06T23:45:21.341Z",
+  "durationSeconds": 688,
+  "rubric": {
+    "id": "esprit-critique",
+    "name": "Esprit critique"
+  },
+  "claim": null,
+  "technique": {
+    "id": "faux-dilemme",
+    "name": "Le faux dilemme"
+  },
+  "techniques": [],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "pjYRpa0pBNM",
+    "url": "https://www.youtube.com/watch?v=pjYRpa0pBNM",
+    "thumbnail": "https://i.ytimg.com/vi/pjYRpa0pBNM/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-f89c/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/miracle-ou-mensonge-f89c.json"
+  },
+  "facts": [
+    {
+      "text": "Le 13 octobre 1917, à la Cova da Iria près de Fátima (Portugal), des dizaines de milliers de personnes ont rapporté avoir vu le soleil pâlir, tourner, projeter des couleurs et sembler plonger vers la terre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miracle of the Sun",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+        }
+      ]
+    },
+    {
+      "text": "Lúcia dos Santos, dix ans, et ses cousins plus jeunes Francisco et Jacinta Marto ont déclaré qu'une dame plus brillante que le soleil leur était apparue le 13 mai 1917 au-dessus d'un chêne vert et leur avait demandé de revenir le 13 de chaque mois.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Our Lady of Fátima",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima"
+        }
+      ]
+    },
+    {
+      "text": "Les enfants avaient annoncé à l'avance qu'un signe aurait lieu en octobre 1917 pour que tout le monde croie.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miracle of the Sun",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+        }
+      ]
+    },
+    {
+      "text": "Il a plu abondamment le 13 octobre 1917 à Fátima, et la foule comptait des curieux et des sceptiques en plus des fidèles.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miracle of the Sun",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+        }
+      ]
+    },
+    {
+      "text": "Avelino de Almeida, journaliste du quotidien lisboète O Século, réputé anticlérical, était présent et a publié deux jours plus tard un article décrivant le soleil qui semblait danser à midi.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Noticia de O Século sobre el Milagro del Sol de Fátima",
+          "publisher": "Puzzle de la Historia",
+          "url": "https://puzzledelahistoria.com/wp-content/uploads/Noticia-de-O-Seculo-con-relaci%C3%B3n-al-Milagro-del-Sol-de-F%C3%A1tima.pdf"
+        },
+        {
+          "title": "Miracle of the Sun",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+        }
+      ]
+    },
+    {
+      "text": "La Première République portugaise avait rompu avec l'Église catholique par la loi de séparation de 1911.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Lei de Separação do Estado e da Igreja",
+          "publisher": "Infopédia (Porto Editora)",
+          "url": "https://www.infopedia.pt/artigos/$lei-de-separacao-do-estado-e-da-igreja"
+        },
+        {
+          "title": "Lei da Separação do Estado das Igrejas, 20 abril 1911 (scan du Diário do Governo)",
+          "publisher": "Wikimedia Commons / dre.pt",
+          "url": "https://commons.wikimedia.org/wiki/File:Lei_da_Separacao_do_Estato_das_Igrejas_20_abril_1911.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Des photographies prises le 13 octobre 1917 montrent la foule de Fátima tournée vers le ciel.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miracle of the Sun",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+        }
+      ]
+    },
+    {
+      "text": "En 1930, au terme d'une enquête canonique, l'évêque de Leiria a déclaré les visions de Fátima dignes de foi.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Our Lady of Fátima",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima"
+        }
+      ]
+    },
+    {
+      "text": "Fixer le soleil plusieurs minutes produit des images rémanentes colorées et des illusions de mouvement, et peut causer des lésions oculaires définitives (rétinopathie solaire).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "\"Miracles of the Sun\": Optical and Technical Effects (Part 1)",
+          "publisher": "Marco Corvaglia",
+          "url": "https://en.marcocorvaglia.com/miracoli-del-sole-e-altro-parte-1"
+        }
+      ]
+    },
+    {
+      "text": "En 2003, le physicien Auguste Meessen, de l'Université catholique de Louvain, a attribué les « miracles du soleil » de Fátima et d'autres lieux d'apparition à des effets optiques et physiologiques liés à la fixation du soleil.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "\"Miracles of the Sun\": Optical and Technical Effects (Part 1)",
+          "publisher": "Marco Corvaglia",
+          "url": "https://en.marcocorvaglia.com/miracoli-del-sole-e-altro-parte-1"
+        }
+      ]
+    },
+    {
+      "text": "Aucun mouvement du soleil n'a été signalé ailleurs dans le monde le 13 octobre 1917, et les témoignages recueillis à Fátima divergent (couleurs, rotation, rien de particulier).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Miracle of the Sun",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun"
+        }
+      ]
+    },
+    {
+      "text": "Elizabeth Loftus (2005) résume trente ans de recherches montrant qu'un témoin honnête peut se souvenir d'un événement modifié ou jamais vécu, notamment après exposition à d'autres versions.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Planting misinformation in the human mind: a 30-year investigation of the malleability of memory",
+          "publisher": "Learning & Memory, 12(4), 361–366",
+          "url": "https://learnmem.cshlp.org/content/12/4/361"
+        },
+        {
+          "title": "Planting misinformation in the human mind: a 30-year investigation of the malleability of memory",
+          "publisher": "Learning & Memory / PubMed (Loftus, 2005)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16027179/"
+        }
+      ]
+    },
+    {
+      "text": "Dans la section X de An Enquiry concerning Human Understanding (1748), David Hume définit le miracle comme une violation des lois de la nature et se demande s'il est plus probable que le témoin trompe ou soit trompé, ou que le fait rapporté se soit réellement produit.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "An Enquiry concerning Human Understanding, section X: Of Miracles",
+          "publisher": "Hume Texts Online",
+          "url": "https://davidhume.org/texts/e/10"
+        }
+      ]
+    },
+    {
+      "text": "L'argument de Hume contre les miracles est critiqué par des philosophes comme partial ou circulaire, parce que sa définition exclurait d'avance tout témoignage.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Hume's argument against miracles and the question-begging charge",
+          "publisher": "PhilArchive",
+          "url": "https://philarchive.org/archive/KOPHAF"
+        },
+        {
+          "title": "Hume's Abject Failure: The Argument Against Miracles (Earman, 2000)",
+          "publisher": "Oxford University Press (copie Pitt)",
+          "url": "https://sites.pitt.edu/~jearman/Earman2000HumeAbjectFailure.pdf"
+        },
+        {
+          "title": "Miracles",
+          "publisher": "Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/miracles/"
+        }
+      ]
+    },
+    {
+      "text": "La revue de Raymond Nickerson (1998) établit que l'on cherche et interprète spontanément les indices en faveur de ce que l'on croit déjà.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises",
+          "publisher": "Review of General Psychology, 2(2), 175–220",
+          "url": "https://pages.ucsd.edu/~cmckenzie/nickersonConfirmationBias.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Au troisième siècle, Origène refusait de lire littéralement les premiers jours de la création de la Genèse, comptés avant la création du soleil (Peri Archon, livre IV).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Origen, De Principiis, Book IV (trad. Crombie, ANF vol. 4)",
+          "publisher": "New Advent",
+          "url": "https://www.newadvent.org/fathers/04124.htm"
+        }
+      ]
+    },
+    {
+      "text": "Le 21 septembre 1995, des statues de Ganesh ont semblé boire le lait offert à la cuillère, d'abord dans un temple de New Delhi, puis dans toute l'Inde et dans des temples à l'étranger, notamment au Royaume-Uni et aux États-Unis.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ganesha drinking milk miracle",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle"
+        }
+      ]
+    },
+    {
+      "text": "Des scientifiques indiens ont expliqué ce « miracle du lait » par la capillarité, en montrant avec du lait coloré qu'il formait un film sur la statue et s'écoulait jusqu'à sa base.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Hindu Milk Miracle",
+          "publisher": "Mental Floss",
+          "url": "https://www.mentalfloss.com/article/18216/hindu-milk-miracle"
+        },
+        {
+          "title": "Ganesha drinking milk miracle",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle"
+        }
+      ]
+    },
+    {
+      "text": "En 1949, Bertram Forer a remis à ses étudiants une même description de personnalité tirée pour l'essentiel d'un livre d'astrologie, qu'ils ont jugée en moyenne au-dessus de quatre sur cinq pour sa justesse.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The fallacy of personal validation: a classroom demonstration of gullibility",
+          "publisher": "Journal of Abnormal and Social Psychology",
+          "url": "https://doi.org/10.1037/h0059240"
+        }
+      ]
+    },
+    {
+      "text": "La méta-analyse Cochrane de Hróbjartsson et Gøtzsche (2010) trouve un effet placebo global faible, sensible surtout sur la douleur et les nausées rapportées par les patients.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Placebo interventions for all clinical conditions",
+          "publisher": "Cochrane Database of Systematic Reviews (Hróbjartsson & Gøtzsche, 2010)",
+          "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003974.pub3/information"
+        }
+      ]
+    },
+    {
+      "text": "Challis et Stam (1990, Acta Oncologica) passent en revue des régressions spontanées de cancers documentées de 1900 à 1987 ; environ la moitié des auteurs ne proposent aucune cause.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Spontaneous Regression of Cancer: A review of cases from 1900 to 1987",
+          "publisher": "Acta Oncologica, 29(5), 545–550",
+          "url": "https://medicaljournalssweden.se/actaoncologica/article/view/32607"
+        }
+      ]
+    },
+    {
+      "text": "À Lourdes, environ soixante-dix miracles ont été reconnus sur plus de sept mille guérisons déclarées ; les instances médicales concluent au caractère inexpliqué, et la reconnaissance du miracle revient à l'Église.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "À Lourdes, un bureau des miracles",
+          "publisher": "Slate.fr",
+          "url": "https://www.slate.fr/story/165935/miracles-lourdes-bureau-verification"
+        },
+        {
+          "title": "L'eau de Lourdes, une source de miracles",
+          "publisher": "RCF",
+          "url": "https://www.rcf.fr/articles/vie-spirituelle/leau-de-lourdes-une-source-de-miracles"
+        }
+      ]
+    },
+    {
+      "text": "Le 20 septembre 2001, devant le Congrès des États-Unis, George W. Bush a déclaré : « Either you are with us, or you are with the terrorists. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Address to a Joint Session of Congress and the American People, 20 septembre 2001",
+          "publisher": "Archives de la Maison-Blanche (G. W. Bush)",
+          "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html"
+        }
+      ]
+    },
+    {
+      "text": "Les auteurs sceptiques qui ont étudié Fátima expliquent le phénomène par des erreurs de perception et de mémoire plutôt qu'en accusant les témoins de mensonge.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "\"Miracles of the Sun\": Optical and Technical Effects (Part 1)",
+          "publisher": "Marco Corvaglia",
+          "url": "https://en.marcocorvaglia.com/miracoli-del-sole-e-altro-parte-1"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": [
+      {
+        "excerpt": "Nous sommes un tas d'atomes qui contemple une boule de plasma à cent cinquante millions de kilomètres, puis s'étonne que sa rétine improvise.",
+        "note": "Distance Terre-Soleil arrondie (environ 149,6 millions de km). L'argument ne dépend pas de la valeur exacte."
+      },
+      {
+        "excerpt": "Le 13 octobre 1917, au Portugal, des dizaines de milliers de personnes affirment avoir vu le soleil danser au-dessus de Fátima.",
+        "note": "Estimation de la taille de la foule, qui varie selon les sources. L'argument porte sur la nature des témoignages, pas sur leur nombre exact."
+      },
+      {
+        "excerpt": "À Lourdes, les médecins s'arrêtent eux aussi à ce mot : sur plus de sept mille guérisons déclarées, environ soixante-dix seulement sont devenues des miracles reconnus, et ce dernier pas, c'est l'Église qui le franchit.",
+        "note": "Ordres de grandeur arrondis des guérisons déclarées et reconnues. Ils ne portent ni sur une dose, ni sur un risque, ni sur un traitement, et l'argument repose sur l'écart d'échelle. Le fact-check vérifiera les chiffres."
+      },
+      {
+        "excerpt": "Ils notent pourtant sa justesse, en moyenne, au-dessus de quatre sur cinq.",
+        "note": "Score moyen arrondi de l'expérience de Forer (environ 4,3 sur 5). L'argument ne dépend pas de la valeur exacte."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "Le Faux Dilemme  — La Petite Boutique des Erreurs #11",
+      "channel": "La Tronche en Biais",
+      "url": "https://www.youtube.com/watch?v=QDvieJ5H7pM",
+      "own": false
+    },
+    {
+      "title": "Miracles de Lourdes : que disent vraiment les médecins qui examinent les guérisons ?",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=o0NXp2b2Bpg",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "La science peut-elle vraiment juger un miracle ? Le rasoir d'Ockham et la foi",
+    "url": "https://www.youtube.com/watch?v=7MbqodhL2fM"
+  },
+  "shorts": [],
+  "corrections": []
+}
