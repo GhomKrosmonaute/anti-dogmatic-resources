@@ -1,12 +1,50 @@
 {
   "version": 2,
-  "total": 108,
+  "total": 109,
   "pageSize": 50,
   "page": 1,
   "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "cioran-62fb",
+      "title": "Cioran : pourquoi le philosophe du désespoir fait-il autant de bien ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T21:45:24.495Z",
+      "durationSeconds": 675,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Cioran voit juste : naître est un malheur, et son désespoir est une lucidité que les autres refusent.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "bpgpcTNCUyA",
+        "url": "https://www.youtube.com/watch?v=bpgpcTNCUyA",
+        "thumbnail": "https://i.ytimg.com/vi/bpgpcTNCUyA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/cioran-62fb/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/cioran-62fb.json"
+      }
+    },
     {
       "id": "la-loi-de-1905-de-separation-des-eglises-et-de-l-3802",
       "title": "Loi de 1905 et laïcité : que dit vraiment le texte, article par article ?",
@@ -1920,48 +1958,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/mercure-retrograde-b685/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/mercure-retrograde-b685.json"
-      }
-    },
-    {
-      "id": "lithotherapie-4789",
-      "title": "Lithothérapie : les pierres ont-elles vraiment un pouvoir ? Améthyste, quartz rose, labradorite",
-      "format": "short",
-      "publishedAt": "2026-10-10T10:45:12.512Z",
-      "durationSeconds": 129,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Chaque pierre vibre à sa propre fréquence et agit sur le corps et les émotions : l'améthyste apaise, le quartz rose ouvre le cœur, la labradorite protège des énergies des autres.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "placebo",
-          "name": "Le placebo pris pour un remède"
-        },
-        {
-          "id": "temoignage-inverifiable",
-          "name": "Le témoignage invérifiable"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "OVxblsDZ_C8",
-        "url": "https://www.youtube.com/watch?v=OVxblsDZ_C8",
-        "thumbnail": "https://i.ytimg.com/vi/OVxblsDZ_C8/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lithotherapie-4789/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/lithotherapie-4789.json"
       }
     }
   ],

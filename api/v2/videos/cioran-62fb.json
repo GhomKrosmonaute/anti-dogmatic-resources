@@ -1,0 +1,358 @@
+{
+  "version": 2,
+  "id": "cioran-62fb",
+  "title": "Cioran : pourquoi le philosophe du désespoir fait-il autant de bien ?",
+  "format": "video",
+  "publishedAt": "2026-11-06T21:45:24.495Z",
+  "durationSeconds": 675,
+  "rubric": {
+    "id": "philosophie",
+    "name": "Philosophie moderne"
+  },
+  "claim": {
+    "statement": "Cioran voit juste : naître est un malheur, et son désespoir est une lucidité que les autres refusent.",
+    "verdict": "inverifiable",
+    "verdictLabel": "Invérifiable",
+    "summary": "Dire que naître est un malheur est un jugement de valeur qu'aucune mesure ne peut trancher. La seule part testable, la lucidité supposée des désespérés, ne trouve qu'un appui infime dans la méta-analyse de Moore et Fresco (2012). Selon la chaîne, la trajectoire de Cioran, de l'espoir placé dans la Garde de fer au désenchantement, évoque un tempérament mis en forme plutôt qu'un regard plus juste, et sa consolation, réelle, tient au style, au rire et à la présence."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "infalsifiabilite",
+      "name": "L'affirmation à l'épreuve de tout"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "bpgpcTNCUyA",
+    "url": "https://www.youtube.com/watch?v=bpgpcTNCUyA",
+    "thumbnail": "https://i.ytimg.com/vi/bpgpcTNCUyA/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/cioran-62fb/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/cioran-62fb.json"
+  },
+  "facts": [
+    {
+      "text": "Emil Cioran est né le 8 avril 1911 à Rășinari, village de Transylvanie au pied des Carpates, fils d'un prêtre orthodoxe.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Cioran rattache sa pensée à l'insomnie qui le saisit vers vingt ans, à Sibiu.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Sur les cimes du désespoir (Pe culmile disperării), premier livre de Cioran, paraît en 1934, écrit en roumain à vingt-deux ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Cioran part pour Paris en 1937 grâce à une bourse et s'y installe ; il publie en français à partir de 1949 (Précis de décomposition), puis Syllogismes de l'amertume (1952) et De l'inconvénient d'être né (1973), dans une langue adoptée à l'âge adulte.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        },
+        {
+          "title": "The Trouble with Being Born",
+          "publisher": "Wikipedia",
+          "url": "https://www.wikipedia.org/wiki/The_Trouble_with_Being_Born_(book)"
+        }
+      ]
+    },
+    {
+      "text": "De l'inconvénient d'être né (Gallimard, 1973) contient une formule dont le sens est qu'il est inutile de se tuer, puisqu'on le fait toujours trop tard (paraphrase, sans citation).",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "It's not worth the bother of killing yourself...",
+          "publisher": "Quotewise",
+          "url": "https://quotewise.io/q/7medm5/"
+        }
+      ]
+    },
+    {
+      "text": "Citation de Syllogismes de l'amertume (1952) : « Sans l'idée du suicide, je me serais tué depuis toujours. »",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Syllogismes de l'amertume",
+          "publisher": "Critiques libres",
+          "url": "https://www.critiqueslibres.com/livre/2089-syllogismes-de-l-amertume-emil-michel-cioran"
+        },
+        {
+          "title": "De l'inconvénient d'être né",
+          "publisher": "Critiques libres",
+          "url": "https://www.critiqueslibres.com/i.php/vcrit/3759"
+        }
+      ]
+    },
+    {
+      "text": "En 1937 paraît, en roumain, Lacrimi și sfinți (Des larmes et des saints), un livre tourmenté consacré aux mystiques ; en 1969, un titre qui s'en prend au créateur lui-même : Le Mauvais Démiurge.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran (bibliographie)",
+          "publisher": "Monoskop",
+          "url": "https://monoskop.org/Emil_Cioran"
+        },
+        {
+          "title": "Planet Cioran – bibliographie et éditions de Lacrimi și sfinți",
+          "publisher": "Planet Cioran",
+          "url": "https://planetcioran.blogspot.com/2007/04"
+        },
+        {
+          "title": "Le Mauvais démiurge (notice de catalogue)",
+          "publisher": "Texas A&M University Libraries",
+          "url": "https://libcat.library.tamu.edu/Record/in00003452853/Versions"
+        }
+      ]
+    },
+    {
+      "text": "Cioran revient constamment à Dieu dans ses livres sans se déclarer croyant.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": []
+    },
+    {
+      "text": "Des lecteurs croyants comme incroyants disent trouver du réconfort dans les livres de Cioran.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": []
+    },
+    {
+      "text": "Paul Newton, « The Sardonic Philosophy of Emil Cioran: Enter Crying, Exit Grinning », The Philosophy of Humor Yearbook, vol. 6, 2025, p. 155-176, traite de l'humour sardonique de Cioran et refuse l'étiquette de nihiliste pur.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "The sardonic philosophy of Emil Cioran: Enter crying, exit grinning",
+          "publisher": "The Philosophy of Humor Yearbook (De Gruyter Brill)",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2025-0013/html"
+        }
+      ]
+    },
+    {
+      "text": "Le réalisme dépressif est l'hypothèse selon laquelle les personnes déprimées jugeraient plus justement ; la méta-analyse de Moore et Fresco (2012, Clinical Psychology Review) porte sur 75 études et 7 305 participants et trouve un effet minime (d ≈ −0,07), un biais positif de 0,14 chez les déprimés contre 0,29 chez les non-déprimés, et des résultats dépendant surtout de la méthode.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Depressive realism: a meta-analytic review",
+          "publisher": "Clinical Psychology Review (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22717337/"
+        },
+        {
+          "title": "Depressive realism: a meta-analytic review (Moore & Fresco, 2012, Clinical Psychology Review 32(6), 496-509)",
+          "publisher": "Clinical Psychology Review (abstract reproduit par stafforini.com)",
+          "url": "https://stafforini.com/works/moore-2012-depressive-realism-metaanalytic/"
+        }
+      ]
+    },
+    {
+      "text": "Boursier à Berlin de 1933 à 1935, Cioran a envoyé à la presse roumaine des articles favorables à l'Allemagne hitlérienne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        },
+        {
+          "title": "Emil Cioran – bursier al fundaţiei « Humboldt » 1933-1935",
+          "publisher": "CEEOL",
+          "url": "https://www.ceeol.com/search/article-detail?id=128551"
+        },
+        {
+          "title": "Appendice sur les articles de Cioran en Allemagne (Indiana University Press)",
+          "publisher": "Project MUSE / Indiana University Press",
+          "url": "https://muse.jhu.edu/books/9780253003454/9780253003454-12.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Au milieu des années 1930, Cioran, comme Mircea Eliade, espérait une transfiguration de la Roumanie portée par la Garde de fer.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "La Garde de fer était un mouvement roumain ultranationaliste et antisémite qui a pratiqué l'assassinat politique.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ion G. Duca",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ion_G._Duca"
+        },
+        {
+          "title": "Iron Guard death squads",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Iron_Guard_death_squads"
+        }
+      ]
+    },
+    {
+      "text": "En 1936, Cioran publie Schimbarea la față a României (« La Transfiguration de la Roumanie »), un cri d'exaltation nationale.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Des textes de Cioran de la fin des années 1930 soutiennent ouvertement la Garde de fer.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Cioran, Eugène Ionesco et Mircea Eliade appartiennent à la même génération d'intellectuels roumains de l'entre-deux-guerres.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": []
+    },
+    {
+      "text": "Eugène Ionesco a vu des amis de son milieu bucarestois basculer vers la Garde de fer et s'en est inspiré pour Rhinocéros.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Caiete Echinox 39 (2020), pp. 139-147",
+          "publisher": "Caiete Echinox / Università di Napoli L'Orientale",
+          "url": "https://unora.unior.it/retrieve/dfd1bedd-7f63-d55a-e053-3705fe0af723/CaieteEchinox39-2020-pp.139-147-unito.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Cioran a ensuite renié ses écrits de soutien à la Garde de fer, les présentant comme un égarement de jeunesse.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Ian James Kidd, « Philosophical Pessimism and the Heterogeneity of Suffering », The Journal of Ethics, 2026, étudie les liens entre pessimisme philosophique et souffrance.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": [
+        {
+          "title": "Philosophical Pessimism and the Heterogeneity of Suffering",
+          "publisher": "PhilArchive",
+          "url": "https://philarchive.org/rec/KIDPPA-4"
+        }
+      ]
+    },
+    {
+      "text": "Dans ses entretiens, Cioran rattache sa vision à son insomnie et à son tempérament, et décrit l'écriture comme une thérapie.",
+      "status": "waived",
+      "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+      "sources": []
+    },
+    {
+      "text": "Cioran est mort à Paris le 20 juin 1995, à quatre-vingt-quatre ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Emil Cioran",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emil_Cioran"
+        }
+      ]
+    },
+    {
+      "text": "Le 3114 est le numéro national de prévention du suicide en France, joignable jour et nuit.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Le numéro national de prévention du suicide",
+          "publisher": "sante.fr",
+          "url": "https://www.sante.fr/le-numero-national-de-prevention-du-suicide-0"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "not_required",
+    "approximations": [
+      {
+        "excerpt": "Il rattache sa pensée à l'insomnie qui le saisit vers vingt ans, à Sibiu.",
+        "note": "L'âge « vers vingt ans » est approximatif et relève de la biographie. L'argument ne dépend pas de sa valeur exacte."
+      },
+      {
+        "excerpt": "Des historiens montrent qu'au milieu des années trente Cioran, comme Mircea Eliade, espérait une transfiguration de la Roumanie portée par la Garde de fer, un mouvement ultranationaliste et antisémite qui pratiquait l'assassinat politique.",
+        "note": "« Au milieu des années trente » est une datation large. Le propos porte sur l'adhésion intellectuelle, pas sur une date précise."
+      },
+      {
+        "excerpt": "Et certains de ses textes de la fin des années trente soutiennent ouvertement la Garde de fer.",
+        "note": "« La fin des années trente » est une période approximative. L'argument n'en dépend pas."
+      }
+    ]
+  },
+  "references": [],
+  "next": {
+    "title": "Camus et l'absurde : peut-on vraiment vivre sans Dieu ni espoir d'au-delà ?",
+    "url": "https://www.youtube.com/watch?v=9jQ08mCSFRE"
+  },
+  "shorts": [],
+  "corrections": []
+}

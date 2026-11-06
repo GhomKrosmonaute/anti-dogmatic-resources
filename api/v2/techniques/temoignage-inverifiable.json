@@ -41,6 +41,44 @@
   ],
   "examples": [
     {
+      "id": "cioran-62fb",
+      "title": "Cioran : pourquoi le philosophe du désespoir fait-il autant de bien ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T21:45:24.495Z",
+      "durationSeconds": 675,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Cioran voit juste : naître est un malheur, et son désespoir est une lucidité que les autres refusent.",
+        "verdict": "inverifiable",
+        "verdictLabel": "Invérifiable"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "bpgpcTNCUyA",
+        "url": "https://www.youtube.com/watch?v=bpgpcTNCUyA",
+        "thumbnail": "https://i.ytimg.com/vi/bpgpcTNCUyA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/cioran-62fb/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/cioran-62fb.json"
+      }
+    },
+    {
       "id": "scientologie-9448",
       "title": "Scientologie : que se passe-t-il vraiment pendant une séance d'audit à l'E-mètre ?",
       "format": "video",
