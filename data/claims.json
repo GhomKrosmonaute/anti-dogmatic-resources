@@ -1,9 +1,382 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-06T14:16:23.402Z",
+  "generatedAt": "2026-11-06T18:16:19.635Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "la-loi-de-1905-de-separation-des-eglises-et-de-l-3802",
+      "title": "Loi de 1905 et laïcité : que dit vraiment le texte, article par article ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T18:15:19.465Z",
+      "durationSeconds": 735,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Depuis la loi de 1905, la France est neutre : la République ne reconnaît, ne salarie ni ne subventionne aucun culte.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Le principe figure bien à l'article 2, mais le même article autorise le financement public des aumôneries, les communes peuvent entretenir les églises d'avant 1905 qu'elles possèdent, et l'Alsace-Moselle reste sous Concordat, avec des ministres du culte payés par l'État, régime jugé constitutionnel en 2013. Le slogan ne retient que le premier alinéa et oublie les exceptions écrites par le législateur lui-même."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "y75y8S5gsFw",
+        "url": "https://www.youtube.com/watch?v=y75y8S5gsFw",
+        "thumbnail": "https://i.ytimg.com/vi/y75y8S5gsFw/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-loi-de-1905-de-separation-des-eglises-et-de-l-3802/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-loi-de-1905-de-separation-des-eglises-et-de-l-3802.json"
+      },
+      "facts": [
+        {
+          "text": "Le Concordat de 1801, conclu entre le gouvernement de Bonaparte et le pape Pie VII, faisait nommer les évêques par le gouvernement et rémunérer les prêtres par l'État ; le régime s'est ensuite étendu aux pasteurs protestants puis aux rabbins.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Le concordat de 1801",
+              "publisher": "Fondation Napoléon",
+              "url": "https://www.napoleon.org/histoire-des-2-empires/articles/le-concordat-de-1801/"
+            }
+          ]
+        },
+        {
+          "text": "La loi concernant la séparation des Églises et de l'État est datée du 9 décembre 1905, Aristide Briand en était le rapporteur, et elle comptait 44 articles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "Article 1er : « La République assure la liberté de conscience. Elle garantit le libre exercice des cultes sous les seules restrictions édictées ci-après dans l'intérêt de l'ordre public. »",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "Article 2 : « La République ne reconnaît, ne salarie ni ne subventionne aucun culte », les dépenses de culte étant supprimées des budgets publics au 1er janvier suivant la promulgation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "L'article 31 punit ceux qui, par violences ou menaces, déterminent une personne à exercer un culte ou à s'en abstenir.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "L'article 1er de la Constitution de 1958 dispose que la France est une République indivisible, laïque, démocratique et sociale.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Constitution du 4 octobre 1958",
+              "publisher": "Assemblée nationale",
+              "url": "https://www.assemblee-nationale.fr/dyn/16/divers/texte_reference/01_constitution.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le second alinéa de l'article 2 autorise l'inscription aux budgets publics des dépenses d'aumônerie dans les lycées, collèges, écoles, hospices, asiles et prisons.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "Des aumôneries existent aujourd'hui dans les hôpitaux et les prisons, et l'armée dispose d'aumôniers financés par le ministère des Armées.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "L'article 13 prévoyait que les édifices du culte soient laissés gratuitement à la disposition des associations cultuelles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "Pie X a condamné la loi dans l'encyclique Vehementer Nos en février 1906, puis interdit aux catholiques de former des associations cultuelles à l'été 1906.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Gravissimo officii munere (10 août 1906)",
+              "publisher": "Vatican",
+              "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html"
+            },
+            {
+              "title": "La crise des inventaires",
+              "publisher": "Assemblée nationale",
+              "url": "https://www.assemblee-nationale.fr/dyn/histoire/separation-des-eglises-et-de-l-etat/la-crise-des-inventaires"
+            }
+          ]
+        },
+        {
+          "text": "La loi du 2 janvier 1907 a permis aux églises de rester ouvertes au culte en l'absence d'associations cultuelles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 2 janvier 1907 concernant l'exercice public des cultes",
+              "publisher": "Grandes lois de la République",
+              "url": "https://mjp.univ-perp.fr/france/1907culte.htm"
+            }
+          ]
+        },
+        {
+          "text": "Les églises catholiques construites avant 1905 sont propriété des communes, affectées gratuitement, exclusivement et en permanence au culte sous l'autorité du curé, dont l'accord est requis pour d'autres usages comme les concerts (réponse ministérielle de juin 2025).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Possibilité pour le clergé de refuser certaines programmations dans une église (question écrite n° 01241, Hervé Maurey)",
+              "publisher": "Sénat",
+              "url": "https://www.senat.fr/questions/base/2024/qSEQ241001241.html"
+            }
+          ]
+        },
+        {
+          "text": "Depuis une loi de 1908, l'article 13 permet aux collectivités propriétaires d'engager les dépenses d'entretien et de conservation des édifices du culte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            },
+            {
+              "title": "La loi de séparation de 1905",
+              "publisher": "AAEF",
+              "url": "https://www.aaef-asso.fr/fichiers/images/Espace%20adh%C3%A9rents/Supports%20formation/20181025_LoiSeparation1905.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les lieux de culte construits après 1905 sont en principe à la charge de leurs fidèles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "La loi de 1905 n'a pas été rendue applicable dans le Bas-Rhin, le Haut-Rhin et la Moselle, allemands de 1871 à 1918, où le droit local maintient le régime concordataire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Décision n° 2012-297 QPC du 21 février 2013, Association pour la promotion et l'expansion de la laïcité (traitement des pasteurs des églises consistoriales dans le Bas-Rhin, le Haut-Rhin et la Moselle)",
+              "publisher": "Conseil constitutionnel",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2013/2012297QPC.htm"
+            }
+          ]
+        },
+        {
+          "text": "En Alsace-Moselle, quatre cultes sont reconnus (catholique, luthérien, réformé, israélite), l'islam n'en fait pas partie, et l'État rémunère leurs ministres.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Décision n° 2012-297 QPC du 21 février 2013, Association pour la promotion et l'expansion de la laïcité (traitement des pasteurs des églises consistoriales dans le Bas-Rhin, le Haut-Rhin et la Moselle)",
+              "publisher": "Conseil constitutionnel",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2013/2012297QPC.htm"
+            },
+            {
+              "title": "Question écrite n° 12996, réponse du 2 juillet 2013",
+              "publisher": "Assemblée nationale",
+              "url": "https://questions.assemblee-nationale.fr/q14/14-12996QE.htm"
+            }
+          ]
+        },
+        {
+          "text": "L'archevêque de Strasbourg et l'évêque de Metz sont nommés par décret du président de la République.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "[Éclairage] Les bulles papales",
+              "publisher": "Conseil d'État",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/eclairages-sur-la-production-normative/eclairage-les-bulles-papales"
+            },
+            {
+              "title": "Question écrite n° 40412 (14e législature), nomination des évêques en Alsace-Moselle",
+              "publisher": "Assemblée nationale",
+              "url": "https://questions.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE40412.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les cultes statutaires d'Alsace-Moselle coûtaient 60,7 millions d'euros dans la loi de finances 2013, dont 58,4 millions pour les rémunérations et pensions, pour 1 397 emplois, sur le budget de l'État (chiffre issu d'un extrait de recherche, à revérifier dans le PDF).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Question écrite n° 12996, réponse du 2 juillet 2013",
+              "publisher": "Assemblée nationale",
+              "url": "https://questions.assemblee-nationale.fr/q14/14-12996QE.htm"
+            }
+          ]
+        },
+        {
+          "text": "Décision n° 2012-297 QPC du 21 février 2013 : le principe de laïcité, qui implique que la République ne salarie aucun culte, n'a pas remis en cause le régime local ; la disposition sur le traitement des pasteurs est conforme à la Constitution.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Décision n° 2012-297 QPC du 21 février 2013, Association pour la promotion et l'expansion de la laïcité (traitement des pasteurs des églises consistoriales dans le Bas-Rhin, le Haut-Rhin et la Moselle)",
+              "publisher": "Conseil constitutionnel",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2013/2012297QPC.htm"
+            }
+          ]
+        },
+        {
+          "text": "La loi Debré du 31 décembre 1959 permet aux établissements privés sous contrat de conserver leur caractère propre tandis que l'État prend en charge la rémunération de leurs enseignants ; ces établissements sont en grande majorité catholiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Laïcité, chronologie",
+              "publisher": "ORIV",
+              "url": "https://www.oriv.org/wp-content/uploads/laicite_chronologie.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Les dons aux associations cultuelles ouvrent droit à une réduction d'impôt, quel que soit le culte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Réduction d'impôt pour dons aux associations et organismes d'intérêt général",
+              "publisher": "Service-public.gouv.fr (DILA)",
+              "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F426"
+            }
+          ]
+        },
+        {
+          "text": "Le mot « laïcité » n'apparaît pas dans la loi de 1905 ; la Constitution de 1946 est la première à qualifier la République de laïque.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            },
+            {
+              "title": "La Constitution du 27 octobre 1946",
+              "publisher": "Élysée",
+              "url": "https://www.elysee.fr/la-presidence/la-constitution-du-27-octobre-1946"
+            }
+          ]
+        },
+        {
+          "text": "L'article 27 soumet les processions et les sonneries de cloches au pouvoir de police du maire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "La loi de 1905 n'impose pas aux citoyens de dissimuler leurs convictions religieuses ; ses obligations de séparation pèsent sur l'État.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+              "publisher": "Légifrance",
+              "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169/"
+            }
+          ]
+        },
+        {
+          "text": "Les signes religieux des élèves des écoles publiques relèvent de la loi du 15 mars 2004, et l'interdiction de dissimuler son visage dans l'espace public de la loi du 11 octobre 2010.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Interdiction du voile : retour sur 20 ans de législation",
+              "publisher": "Public Sénat",
+              "url": "https://www.publicsenat.fr/actualites/politique/interdiction-du-voile-retour-sur-20-ans-de-legislation-203090"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [],
+      "next": {
+        "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
+        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "scientologie-9448",
       "title": "Scientologie : que se passe-t-il vraiment pendant une séance d'audit à l'E-mètre ?",

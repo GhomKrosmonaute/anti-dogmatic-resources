@@ -1,12 +1,46 @@
 {
   "version": 2,
-  "total": 107,
+  "total": 108,
   "pageSize": 50,
   "page": 1,
   "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "la-loi-de-1905-de-separation-des-eglises-et-de-l-3802",
+      "title": "Loi de 1905 et laïcité : que dit vraiment le texte, article par article ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T18:15:19.465Z",
+      "durationSeconds": 735,
+      "rubric": {
+        "id": "systeme",
+        "name": "Le système"
+      },
+      "claim": {
+        "statement": "Depuis la loi de 1905, la France est neutre : la République ne reconnaît, ne salarie ni ne subventionne aucun culte.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "y75y8S5gsFw",
+        "url": "https://www.youtube.com/watch?v=y75y8S5gsFw",
+        "thumbnail": "https://i.ytimg.com/vi/y75y8S5gsFw/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-loi-de-1905-de-separation-des-eglises-et-de-l-3802/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-loi-de-1905-de-separation-des-eglises-et-de-l-3802.json"
+      }
+    },
     {
       "id": "scientologie-9448",
       "title": "Scientologie : que se passe-t-il vraiment pendant une séance d'audit à l'E-mètre ?",
@@ -1928,44 +1962,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/lithotherapie-4789/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/lithotherapie-4789.json"
-      }
-    },
-    {
-      "id": "la-politique-est-elle-devenue-de-la-telerealite-6dc2",
-      "title": "La politique est-elle devenue de la téléréalité ? Faut-il tout lâcher pour vivre en autarcie ?",
-      "format": "video",
-      "publishedAt": "2026-10-09T16:15:33.521Z",
-      "durationSeconds": 720,
-      "rubric": {
-        "id": "systeme",
-        "name": "Le système"
-      },
-      "claim": {
-        "statement": "La politique n'est plus qu'une émission de téléréalité qui ne change rien à la vie des gens : la seule réponse lucide, c'est de décrocher et de vivre en autarcie.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "faux-dilemme",
-          "name": "Le faux dilemme"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "r3bcbFQJowU",
-        "url": "https://www.youtube.com/watch?v=r3bcbFQJowU",
-        "thumbnail": "https://i.ytimg.com/vi/r3bcbFQJowU/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-politique-est-elle-devenue-de-la-telerealite-6dc2/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-politique-est-elle-devenue-de-la-telerealite-6dc2.json"
       }
     }
   ]
