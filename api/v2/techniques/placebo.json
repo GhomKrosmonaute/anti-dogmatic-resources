@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "scientologie-9448",
+      "title": "Scientologie : que se passe-t-il vraiment pendant une séance d'audit à l'E-mètre ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T14:15:23.084Z",
+      "durationSeconds": 731,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Guidé par l'E-mètre, l'audit repère et décharge les engrammes enfouis dans l'esprit réactif, et libère ainsi la clarté mentale et le bien-être.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lSnKC3mDsuE",
+        "url": "https://www.youtube.com/watch?v=lSnKC3mDsuE",
+        "thumbnail": "https://i.ytimg.com/vi/lSnKC3mDsuE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/scientologie-9448/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/scientologie-9448.json"
+      }
+    },
+    {
       "id": "possession-demoniaque-et-exorcisme-3c0b",
       "title": "Possession démoniaque : que vivent vraiment les possédés, et l'exorcisme les délivre-t-il ?",
       "format": "video",

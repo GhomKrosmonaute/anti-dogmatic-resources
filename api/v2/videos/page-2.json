@@ -1,12 +1,54 @@
 {
   "version": 2,
-  "total": 106,
+  "total": 107,
   "pageSize": 50,
   "page": 2,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-3.json",
   "items": [
+    {
+      "id": "l-histoire-du-satanisme-da7b",
+      "title": "Qui adore vraiment le diable ? L'histoire du satanisme, des sorcières à l'Église de Satan",
+      "format": "video",
+      "publishedAt": "2026-10-09T10:15:09.765Z",
+      "durationSeconds": 747,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Depuis des siècles, un culte satanique secret et organisé vénère un diable réel, pactise avec lui et pratique des sacrifices ; les procès de sorcellerie, l'affaire des Poisons, les révélations sur les loges lucifériennes et les témoignages de survivants des années 1980 en sont la preuve.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "infalsifiabilite",
+          "name": "L'affirmation à l'épreuve de tout"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yQhwW1egJYM",
+        "url": "https://www.youtube.com/watch?v=yQhwW1egJYM",
+        "thumbnail": "https://i.ytimg.com/vi/yQhwW1egJYM/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-histoire-du-satanisme-da7b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-histoire-du-satanisme-da7b.json"
+      }
+    },
     {
       "id": "les-religions-dans-les-mangas-e696",
       "title": "Dieu et la religion dans les mangas : que cachent Evangelion, Death Note et Berserk ?",
@@ -1838,48 +1880,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/physique-quantique-et-loi-de-l-attraction-cb5e/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/physique-quantique-et-loi-de-l-attraction-cb5e.json"
-      }
-    },
-    {
-      "id": "le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31",
-      "title": "Le mot « jour » (yawm) 365 fois dans le Coran ? Le miracle numérique recompté",
-      "format": "video",
-      "publishedAt": "2026-10-01T02:00:10.451Z",
-      "durationSeconds": 634,
-      "rubric": {
-        "id": "religions",
-        "name": "Religions"
-      },
-      "claim": {
-        "statement": "Le mot « jour » (yawm) apparaît exactement 365 fois au singulier dans le Coran, « mois » 12 fois, « mer » et « terre » dans les proportions des océans et des continents, et le « code 19 » prouve l'intégrité du texte : ces régularités chiffrées seraient un miracle numérique, signature divine du Coran.",
-        "verdict": "trompeur",
-        "verdictLabel": "Trompeur"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        },
-        {
-          "id": "selection-des-cas",
-          "name": "Le tri des cas favorables"
-        },
-        {
-          "id": "caution-scientifique",
-          "name": "La caution scientifique détournée"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "I1oCBdRo6js",
-        "url": "https://www.youtube.com/watch?v=I1oCBdRo6js",
-        "thumbnail": "https://i.ytimg.com/vi/I1oCBdRo6js/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-mot-jour-yawm-apparait-il-vraiment-365-fois-3a31.json"
       }
     }
   ]

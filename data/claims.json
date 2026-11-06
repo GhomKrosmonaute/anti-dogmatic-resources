@@ -1,9 +1,439 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-05T12:16:21.244Z",
+  "generatedAt": "2026-11-06T14:16:23.402Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "scientologie-9448",
+      "title": "Scientologie : que se passe-t-il vraiment pendant une séance d'audit à l'E-mètre ?",
+      "format": "video",
+      "publishedAt": "2026-11-06T14:15:23.084Z",
+      "durationSeconds": 731,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Guidé par l'E-mètre, l'audit repère et décharge les engrammes enfouis dans l'esprit réactif, et libère ainsi la clarté mentale et le bien-être.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "L'E-mètre mesure bien quelque chose de réel, la résistance électrique de la peau, et les adeptes se sentent souvent réellement mieux. Mais cette mesure suit l'émotion et la sudation, et peut varier avec la pression exercée sur les cylindres, pas des engrammes dont, à notre connaissance, aucune étude n'établit l'existence ; le mieux-être s'explique plausiblement par l'attention reçue et l'attente, et nous n'avons trouvé aucun essai comparatif publié montrant que l'audit apporte davantage."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lSnKC3mDsuE",
+        "url": "https://www.youtube.com/watch?v=lSnKC3mDsuE",
+        "thumbnail": "https://i.ytimg.com/vi/lSnKC3mDsuE/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/scientologie-9448/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/scientologie-9448.json"
+      },
+      "facts": [
+        {
+          "text": "Le questionnaire gratuit proposé par la Scientologie, l'Oxford Capacity Analysis, compte deux cents questions et est proposé dans les Églises de Scientologie et sur des stands de rue.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Oxford Capacity Analysis",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Oxford_Capacity_Analysis"
+            }
+          ]
+        },
+        {
+          "text": "L. Ron Hubbard publie Dianetics: The Modern Science of Mental Health en mai 1950.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dianetics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dianetics"
+            }
+          ]
+        },
+        {
+          "text": "Selon la doctrine de Hubbard, l'esprit comprend un esprit analytique et un esprit réactif qui enregistre des engrammes lors de moments de douleur ou d'inconscience, engrammes auxquels Hubbard attribue des réactions irrationnelles et des maladies psychosomatiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dianetics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dianetics"
+            },
+            {
+              "title": "Critical review of Dianetics (1950)",
+              "publisher": "opus4.kobv.de",
+              "url": "https://opus4.kobv.de/opus4-Fromm/files/546/1950b-eng.pdf"
+            }
+          ]
+        },
+        {
+          "text": "L'état de Clair est l'objectif annoncé de la décharge des engrammes par l'audit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dianetics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dianetics"
+            }
+          ]
+        },
+        {
+          "text": "L'auditeur suit un code de conduite rédigé par Hubbard ; la personne auditée est appelée préclair ; les notes de séance sont rangées dans un dossier de préclair.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The E-Meter",
+              "publisher": "Church of Scientology",
+              "url": "https://en.scientology-oslo.org/what-is-scientology/the-practice-of-scientology/the-e-meter.html"
+            }
+          ]
+        },
+        {
+          "text": "L'E-mètre comporte deux cylindres métalliques tenus par le préclair, parcourus d'un courant très faible ; l'« aiguille flottante » est présentée comme le signe de la fin d'une charge.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "E-meter",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/E-meter"
+            }
+          ]
+        },
+        {
+          "text": "Le Pont vers la liberté totale enchaîne cours et niveaux d'audit jusqu'aux niveaux de Thétan opérant (OT) ; le thétan est défini comme l'être spirituel qui anime le corps et le mental et qui, selon Hubbard, a vécu de nombreuses vies.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Bridge to Total Freedom",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Bridge_to_Total_Freedom"
+            },
+            {
+              "title": "Operating Thetan",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Operating_Thetan"
+            }
+          ]
+        },
+        {
+          "text": "W. V. McCall (Journal of Religion and Health, 2007) décrit l'E-mètre comme un instrument qui mesure en continu la résistance électrique de la peau.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "McCall, W. V. (2007). Psychiatry and Psychology in the Writings of L. Ron Hubbard. Journal of Religion and Health 46(3)",
+              "publisher": "RelBib",
+              "url": "https://www.relbib.de/Record/1668859556/Cite"
+            }
+          ]
+        },
+        {
+          "text": "La résistance électrique de la peau varie avec l'activation du système nerveux et la sudation des paumes ; cette activité électrodermale a été décrite à la fin du XIXe siècle par Charles Féré et Ivan Tarchanoff.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The early days of electrodermal activity",
+              "publisher": "HAL / Anales de Psicología",
+              "url": "https://hal.univ-lille.fr/hal-04453246"
+            }
+          ]
+        },
+        {
+          "text": "La pression exercée sur les électrodes, une respiration profonde ou la température ambiante peuvent faire varier la mesure de résistance cutanée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "E-meter",
+              "publisher": "The Skeptic's Dictionary",
+              "url": "https://skepdic.com/emeter.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1963, la Food and Drug Administration a saisi des E-mètres à Washington.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Founding Church of Scientology v. United States, 409 F.2d 1146",
+              "publisher": "Justia",
+              "url": "https://law.justia.com/cases/federal/appellate-courts/F2/409/1146/120467/"
+            }
+          ]
+        },
+        {
+          "text": "En 1971, un tribunal fédéral juge qu'il n'y a aucune base scientifique ou médicale aux guérisons attribuées à l'audit à l'E-mètre, et impose des avertissements, dont la mention que l'appareil « n'est ni médicalement ni scientifiquement utile pour le diagnostic, le traitement ou la prévention d'une maladie » sur la documentation ; le jugement est référencé sous la vidéo.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "United States v. An Article or Device \"Hubbard Electrometer\" (Memorandum Opinion, Judge Gesell, July 30, 1971)",
+              "publisher": "Operation Clambake – Scientology court files",
+              "url": "https://www.xenu.net/archive/CourtFiles/occf258.html"
+            },
+            {
+              "title": "United States v. An Article or Device \"Hubbard Electrometer\", 333 F. Supp. 357 (D.D.C. 1971)",
+              "publisher": "Leagle",
+              "url": "https://leagle.com/decision/1971690333fsupp3571610"
+            },
+            {
+              "title": "Hubbard Electrometer (E-Meter) British Mk. V",
+              "publisher": "Radiomuseum",
+              "url": "https://www.radiomuseum.org/r/instrument_hubbard_electrometer_e_meter_british_mk_v.html"
+            }
+          ]
+        },
+        {
+          "text": "À notre connaissance, aucune étude publiée n'a mesuré indépendamment la charge d'un engramme pour la confronter aux mouvements de l'aiguille de l'E-mètre.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "McCall, W. V. (2007). Psychiatry and Psychology in the Writings of L. Ron Hubbard. Journal of Religion and Health 46(3)",
+              "publisher": "RelBib",
+              "url": "https://www.relbib.de/Record/1668859556/Cite"
+            }
+          ]
+        },
+        {
+          "text": "Dans Dianetics, Hubbard affirme que des engrammes se forment avant la naissance et enregistrent mot pour mot des paroles prononcées autour de l'enfant à naître.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Time, 24 juillet 1950, article sur Dianetics",
+              "publisher": "Time (archive)",
+              "url": "https://lisamcpherson.org/scientology/archives/time7-24-50.html"
+            },
+            {
+              "title": "Dianetics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dianetics"
+            }
+          ]
+        },
+        {
+          "text": "L'amnésie infantile : la plupart des adultes ne conservent pas de souvenir d'avant deux ou trois ans ; à notre connaissance, aucune expérience publiée n'a montré la restitution intacte de paroles entendues in utero.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Peterson et al. (2012), earliest memories follow-up",
+              "publisher": "Memorial University",
+              "url": "https://dogsbody.psych.mun.ca/abstracts/peterson/2012petersonetal.pdf"
+            },
+            {
+              "title": "Howe & Courage, On resolving the enigma of infantile amnesia",
+              "publisher": "Psychological Bulletin",
+              "url": "https://researchgate.net/profile/Mary-Courage/publication/14748648_On_resolving_the_enigma_of_infantile_amnesia/links/54d4e7e90cf2970e4e63dce2/On-resolving-the-enigma-of-infantile-amnesia.pdf"
+            }
+          ]
+        },
+        {
+          "text": "En 1995, Elizabeth Loftus et Jacqueline Pickrell (« The formation of false memories », Psychiatric Annals) ont amené une partie de leurs volontaires à croire se rappeler s'être perdus enfants dans un centre commercial, un épisode inventé, par suggestion.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Replicating a classic false memory study: Lost in the mall again",
+              "publisher": "Skeptic",
+              "url": "https://www.skeptic.org.uk/?p=46556"
+            },
+            {
+              "title": "Loftus & Pickrell (1995) Critique: The Formation of False Memories",
+              "publisher": "Pacific University",
+              "url": "https://communities.pacificu.edu/arhevaninetti/?p=261"
+            }
+          ]
+        },
+        {
+          "text": "L'audit repose sur des questions répétées et la recherche d'incidents antérieurs semblables, et produit des récits de vies antérieures.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dianetics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dianetics"
+            },
+            {
+              "title": "Operating Thetan",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Operating_Thetan"
+            }
+          ]
+        },
+        {
+          "text": "L'attention d'un interlocuteur, un cadre calme, l'attente d'une amélioration et le fait d'avoir payé peuvent améliorer l'humeur indépendamment de tout appareil.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "How important are the common factors in psychotherapy? An update",
+              "publisher": "World Psychiatry (Wampold, 2015)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4592639/"
+            },
+            {
+              "title": "Commercial features of placebo and therapeutic efficacy",
+              "publisher": "JAMA (Waber, Shiv, Carmon, Ariely, 2008) via Duke Scholars",
+              "url": "https://scholars.duke.edu/publication/810357"
+            }
+          ]
+        },
+        {
+          "text": "À notre connaissance, l'Église de Scientologie n'a fourni aucun essai randomisé en aveugle comparant l'audit à une simple conversation bienveillante.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "United States v. An Article or Device \"Hubbard Electrometer\" (Memorandum Opinion, Judge Gesell, July 30, 1971)",
+              "publisher": "Operation Clambake – Scientology court files",
+              "url": "https://www.xenu.net/archive/CourtFiles/occf258.html"
+            }
+          ]
+        },
+        {
+          "text": "L'historien des religions Hugh Urban est l'auteur de The Church of Scientology: A History of a New Religion (Princeton University Press, 2011).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hugh Urban, The Church of Scientology: A History of a New Religion (Princeton UP, 2011)",
+              "publisher": "New Books Network",
+              "url": "https://newbooksnetwork.com/hugh-urban-the-church-of-scientology-a-history-of-a-new-religion-princeton-university-press-2011"
+            }
+          ]
+        },
+        {
+          "text": "Hugh Urban analyse le Pont vers la liberté totale selon une logique de secret et de paiement progressif : les niveaux restent confidentiels tant que les précédents ne sont pas franchis et payés, si bien que chacun est acheté avant que son contenu soit connu.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Hugh Urban, The Church of Scientology: A History of a New Religion (Princeton UP, 2011)",
+              "publisher": "New Books Network",
+              "url": "https://newbooksnetwork.com/hugh-urban-the-church-of-scientology-a-history-of-a-new-religion-princeton-university-press-2011"
+            },
+            {
+              "title": "The Third Wall of Fire (Hugh Urban)",
+              "publisher": "Hugh Urban",
+              "url": "https://tonyortega.org/wp-content/uploads/2017/04/UrbanThirdWall.pdf"
+            }
+          ]
+        },
+        {
+          "text": "L. Ron Hubbard est mort le 24 janvier 1986.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Dianetics",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dianetics"
+            }
+          ]
+        },
+        {
+          "text": "La logique de confidentialité et de paiement progressif des niveaux s'est maintenue après la mort de Hubbard.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "The Third Wall of Fire (Hugh Urban)",
+              "publisher": "Hugh Urban",
+              "url": "https://tonyortega.org/wp-content/uploads/2017/04/UrbanThirdWall.pdf"
+            },
+            {
+              "title": "The Bridge to Total Freedom",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Bridge_to_Total_Freedom"
+            }
+          ]
+        },
+        {
+          "text": "Le contenu du niveau OT III (Xenu, il y a soixante-quinze millions d'années, populations déportées sur Terre et anéanties près de volcans, esprits attachés aux humains) est devenu public à la faveur de procès américains, notamment dans les années 1980-1990, par des documents versés à ces procès.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Fishman Affidavit",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fishman_Affidavit"
+            },
+            {
+              "title": "Lawrence Wollersheim",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Lawrence_Wollersheim"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "La plupart d'entre nous ne gardent pas de souvenir d'avant deux ou trois ans : c'est l'amnésie infantile.",
+            "note": "L'âge est un ordre de grandeur (souvent 2 à 4 ans selon les études). Il n'a aucun lien avec la santé et l'argument ne dépend pas de sa valeur exacte."
+          },
+          {
+            "excerpt": "Tu tiens deux cylindres métalliques reliés au boîtier, parcourus d'un courant trop faible pour être senti.",
+            "note": "Description qualitative de l'intensité du courant, sans valeur chiffrée. Aucun enjeu de santé, l'argument n'en dépend pas."
+          },
+          {
+            "excerpt": "Selon les documents versés à ces procès, l'adepte apprend au niveau OT III qu'un souverain galactique, Xenu, aurait il y a soixante-quinze millions d'années déporté sur Terre des populations entières et les aurait anéanties près de volcans ; leurs esprits s'accrocheraient encore à nous.",
+            "note": "La date est celle du récit doctrinal rapporté (« selon les documents »), pas un fait scientifique. Elle sert à décrire la croyance, et son exactitude relève du fact-check."
+          }
+        ]
+      },
+      "references": [
+        {
+          "title": "Guérisons, mort imminente, rencontre avec Dieu : un témoignage sincère est-il une preuve ?",
+          "channel": null,
+          "url": "https://www.youtube.com/watch?v=6ZEHqdNAHRY",
+          "own": true
+        },
+        {
+          "title": "SCIENTOLOGIE - Dans les coulisses d'une secte",
+          "channel": "La Tronche en Biais",
+          "url": "https://www.youtube.com/watch?v=fxFHqbfPLZI",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Biorésonance et médecine quantique : les fréquences du corps peuvent-elles soigner ?",
+        "url": "https://www.youtube.com/watch?v=YlvZ3XArJPM"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "pourquoi-les-propheties-semblent-elles-toujours-1db7",
       "title": "Pourquoi les prédictions semblent-elles toujours se réaliser ? Nostradamus, voyants, prophètes",
