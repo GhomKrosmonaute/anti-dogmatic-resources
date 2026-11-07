@@ -1,12 +1,37 @@
 {
   "version": 2,
-  "total": 112,
+  "total": 113,
   "pageSize": 50,
   "page": 3,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "next": null,
   "items": [
+    {
+      "id": "comment-l-homeopathie-est-censee-agir-6e3b",
+      "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
+      "format": "video",
+      "publishedAt": "2026-10-01T18:15:07.563Z",
+      "durationSeconds": 712,
+      "rubric": {
+        "id": "pseudo-sciences",
+        "name": "Pseudo-sciences et charlatans"
+      },
+      "claim": null,
+      "technique": null,
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "lBDAu7W8rgs",
+        "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
+        "thumbnail": "https://i.ytimg.com/vi/lBDAu7W8rgs/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-l-homeopathie-est-censee-agir-6e3b/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-l-homeopathie-est-censee-agir-6e3b.json"
+      }
+    },
     {
       "id": "la-hijama-guerit-elle-vraiment-d33e",
       "title": "La hijama guérit-elle vraiment ? Ce que disent les hadiths et la science",

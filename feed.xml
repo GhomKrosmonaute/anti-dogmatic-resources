@@ -6,7 +6,19 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sat, 07 Nov 2026 15:16:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 15:38:06 GMT</lastBuildDate>
+<item>
+<title>Tombes à 110 Hz : ce que Lilou Macé ne te dit pas (partie 1/3)</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-d2d7/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-d2d7/</guid>
+<pubDate>Sat, 07 Nov 2026 15:37:05 GMT</pubDate>
+<description>Non démontré : « Le son crée et façonne toute la réalité : des sites néolithiques résonnant à 110 Hz auraient été conçus pour modifier la conscience, et certaines notes guériraient le corps. ». Les chambres mégalithiques résonnent bien entre 95 et 120 Hz, mais la formule de Weyl prévoit de telles résonances dans tout espace clos de cette taille, et aucun des travaux cités n&apos;a testé une intention des bâtisseurs ni un effet sur la conscience sur place. La musique réduit réellement le stress, selon une revue de 104 essais randomisés, mais cet effet tient à la musique et au rythme, pas à une fréquence sacrée.</description>
+<category>L&apos;argument d&apos;autorité</category>
+<category>La caution scientifique détournée</category>
+<category>Le témoignage invérifiable</category>
+<category>Philosophie moderne</category>
+<category>Short</category>
+</item>
 <item>
 <title>Prouver Dieu par la logique : quels arguments tiennent vraiment ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-10-sophismes-preferes-des-apologetes-7e62/</link>
@@ -519,15 +531,6 @@
 <category>L&apos;appel à l&apos;ancienneté</category>
 <category>Le tri des cas favorables</category>
 <category>La relecture après coup</category>
-</item>
-<item>
-<title>Ni Dieu ni maître : l&apos;anarchie, c&apos;est vraiment le chaos ? De Proudhon aux Anonymous</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ni-dieu-ni-maitre-0a80/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ni-dieu-ni-maitre-0a80/</guid>
-<pubDate>Sat, 10 Oct 2026 22:57:08 GMT</pubDate>
-<description>Trompeur : « De Proudhon aux Anonymous, l&apos;anarchisme forme une seule lignée : ni Dieu ni maître, des sociétés sans chef qui ont fonctionné et changé le monde, loin du cliché du chaos. ». Le cliché « anarchie = chaos » ne tient pas : les mouvements libertaires étaient organisés et ont compté dans des conquêtes réelles comme la journée de huit heures. Mais la légende inverse trie les cas : expériences brèves, autorité revenue (le « batko » Makhno, des ministres anarchistes en 1936, le culte d&apos;Öcalan), violences anticléricales documentées, et des Anonymous qui partagent un tempérament antiautoritaire sans le programme anarchiste.</description>
-<category>Le tri des cas favorables</category>
-<category>Religions</category>
 </item>
 </channel>
 </rss>

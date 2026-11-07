@@ -1,0 +1,192 @@
+{
+  "version": 2,
+  "id": "le-son-cree-t-il-la-realite-d2d7",
+  "title": "Tombes à 110 Hz : ce que Lilou Macé ne te dit pas (partie 1/3)",
+  "format": "short",
+  "publishedAt": "2026-11-07T15:37:05.997Z",
+  "durationSeconds": 120,
+  "rubric": {
+    "id": "philosophie",
+    "name": "Philosophie moderne"
+  },
+  "claim": {
+    "statement": "Le son crée et façonne toute la réalité : des sites néolithiques résonnant à 110 Hz auraient été conçus pour modifier la conscience, et certaines notes guériraient le corps.",
+    "verdict": "non_demontre",
+    "verdictLabel": "Non démontré",
+    "summary": "Les chambres mégalithiques résonnent bien entre 95 et 120 Hz, mais la formule de Weyl prévoit de telles résonances dans tout espace clos de cette taille, et aucun des travaux cités n'a testé une intention des bâtisseurs ni un effet sur la conscience sur place. La musique réduit réellement le stress, selon une revue de 104 essais randomisés, mais cet effet tient à la musique et au rythme, pas à une fréquence sacrée."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "caution-scientifique",
+      "name": "La caution scientifique détournée"
+    },
+    {
+      "id": "temoignage-inverifiable",
+      "name": "Le témoignage invérifiable"
+    }
+  ],
+  "answers": {
+    "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+    "channel": "La Télé de Lilou Macé",
+    "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+    "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA",
+    "passages": [
+      {
+        "text": "Je suis allée la retrouver dans le sud de Londres pour Spiritualités du Monde, pour parler de son nouveau livre, Les Notes divines (Éditions Ariane)."
+      },
+      {
+        "text": "» Quand Lynne McTaggart te dit ça, c’est avec plus de quinze ans d’enquête derrière elle."
+      }
+    ]
+  },
+  "series": {
+    "part": 1,
+    "parts": 3
+  },
+  "youtube": {
+    "id": "Nnf3fEKnfqQ",
+    "url": "https://www.youtube.com/watch?v=Nnf3fEKnfqQ",
+    "thumbnail": "https://i.ytimg.com/vi/Nnf3fEKnfqQ/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-d2d7/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-d2d7.json"
+  },
+  "facts": [
+    {
+      "text": "En 1996, Jahn, Devereux et Ibison ont publié dans le Journal of the Acoustical Society of America des mesures relevant une forte résonance entre 95 et 120 Hz dans six structures néolithiques et de l'âge du fer des îles Britanniques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Acoustical resonances of assorted ancient structures",
+          "publisher": "Journal of the Acoustical Society of America, 99(2), 649–658 (notice bibliographique)",
+          "url": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_crossref_primary_10_1121_1_414642"
+        },
+        {
+          "title": "ASA Pressroom: critique of the 110 Hz resonance of ancient chambers (Matthew Wright, Southampton, 153rd ASA meeting)",
+          "publisher": "Acoustical Society of America (Pressroom)",
+          "url": "https://acoustics.org/pressroom/httpdocs/153rd/wright.html"
+        }
+      ]
+    },
+    {
+      "text": "L'étude de Jahn, Devereux et Ibison (1996) ne testait ni une intention des bâtisseurs ni un effet sur la conscience.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Acoustical resonances of assorted ancient structures",
+          "publisher": "Journal of the Acoustical Society of America, 99(2), 649–658 (notice bibliographique)",
+          "url": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_crossref_primary_10_1121_1_414642"
+        },
+        {
+          "title": "ASA Pressroom: critique of the 110 Hz resonance of ancient chambers (Matthew Wright, Southampton, 153rd ASA meeting)",
+          "publisher": "Acoustical Society of America (Pressroom)",
+          "url": "https://acoustics.org/pressroom/httpdocs/153rd/wright.html"
+        }
+      ]
+    },
+    {
+      "text": "Selon la formule du mathématicien Hermann Weyl (1912), un espace clos de la taille de ces chambres a forcément plusieurs résonances.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "ASA Pressroom: critique of the 110 Hz resonance of ancient chambers (Matthew Wright, Southampton, 153rd ASA meeting)",
+          "publisher": "Acoustical Society of America (Pressroom)",
+          "url": "https://acoustics.org/pressroom/httpdocs/153rd/wright.html"
+        },
+        {
+          "title": "Weyl law",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Weyl_law"
+        }
+      ]
+    },
+    {
+      "text": "Pour l'acousticien Matthew Wright (Southampton), les résonances de 95 à 120 Hz mesurées dans ces chambres funéraires étaient attendues, ne prouvent pas une conception délibérée et ne donnent pas à ces chambres plus d'acoustique qu'une salle de bains.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "ASA Pressroom: critique of the 110 Hz resonance of ancient chambers (Matthew Wright, Southampton, 153rd ASA meeting)",
+          "publisher": "Acoustical Society of America (Pressroom)",
+          "url": "https://acoustics.org/pressroom/httpdocs/153rd/wright.html"
+        },
+        {
+          "title": "Chanting Chamber - Science Update",
+          "publisher": "Science Update",
+          "url": "https://www.scienceupdate.com/2007/06/chanting-chamber/"
+        }
+      ]
+    },
+    {
+      "text": "Cook, Pajot et Leuchter (2008) ont mené une étude pilote sur 30 adultes écoutant au casque des sons purs de 90 à 130 Hz : l'activité temporale gauche mesurée en EEG est plus faible à 110 Hz.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ancient Architectural Acoustic Resonance Patterns and Regional Brain Activity (notice et résumé)",
+          "publisher": "Time and Mind, 1(1), 95–104",
+          "url": "https://www.earth.org.uk/bibliography/cook2008resonance.html"
+        }
+      ]
+    },
+    {
+      "text": "Ce résultat préliminaire de Cook et al. (2008) ne prouve ni une altération de la conscience ni un effet curatif en site ancien.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ancient Architectural Acoustic Resonance Patterns and Regional Brain Activity (notice et résumé)",
+          "publisher": "Time and Mind, 1(1), 95–104",
+          "url": "https://www.earth.org.uk/bibliography/cook2008resonance.html"
+        }
+      ]
+    },
+    {
+      "text": "Établi : en 2020, de Witte et ses collègues réunissent cent quatre essais randomisés, où les interventions musicales réduisent le stress, sans qu'aucune fréquence sacrée ne soit en cause.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses",
+          "publisher": "Health Psychology Review / Open Universiteit (research portal)",
+          "url": "https://research.ou.nl/en/publications/effects-of-music-interventions-on-stress-related-outcomes-a-syste/"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "mathématiques avancées (théorie spectrale, loi de Weyl) appliquées à l'acoustique des cavités, avec une mention d'études en neurosciences et en essais cliniques",
+    "approximations": [
+      {
+        "excerpt": "Six monuments des îles Britanniques résonnent fortement entre 95 et 120 hertz : la mesure paraît en 1996 dans le Journal of the Acoustical Society of America.",
+        "note": "La fourchette de fréquences est une plage mesurée, sans lien avec la santé. L'argument porte sur l'existence de résonances, pas sur une valeur exacte."
+      },
+      {
+        "excerpt": "Quinze ans de travail ne remplacent pas une expérience, et l'étude de 1996 ne testait aucune intention.",
+        "note": "« Quinze ans » est une durée approximative sans incidence sur l'argument."
+      },
+      {
+        "excerpt": "Cook, Pajot et Leuchter, 2008 : trente adultes, des sons purs au casque, moins d'activité temporale gauche à cette fréquence.",
+        "note": "L'effectif est un ordre de grandeur utilisé pour souligner la petite taille de l'étude ; l'argument ne dépend pas du nombre exact."
+      },
+      {
+        "excerpt": "Établi : en 2020, de Witte et ses collègues réunissent cent quatre essais randomisés, où les interventions musicales réduisent le stress, sans qu'aucune fréquence sacrée ne soit en cause.",
+        "note": "Le nombre d'essais est un compte vérifiable par le fact-check. Il illustre l'ampleur de la méta-analyse, sans que l'argument en dépende précisément."
+      }
+    ]
+  },
+  "references": [],
+  "next": null,
+  "shorts": [],
+  "corrections": []
+}

@@ -1,12 +1,46 @@
 {
   "version": 2,
-  "total": 112,
+  "total": 113,
   "pageSize": 50,
   "page": 2,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-1.json",
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-3.json",
   "items": [
+    {
+      "id": "ni-dieu-ni-maitre-0a80",
+      "title": "Ni Dieu ni maître : l'anarchie, c'est vraiment le chaos ? De Proudhon aux Anonymous",
+      "format": "video",
+      "publishedAt": "2026-10-10T22:57:08.067Z",
+      "durationSeconds": 760,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "De Proudhon aux Anonymous, l'anarchisme forme une seule lignée : ni Dieu ni maître, des sociétés sans chef qui ont fonctionné et changé le monde, loin du cliché du chaos.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "NMsk7D36LgQ",
+        "url": "https://www.youtube.com/watch?v=NMsk7D36LgQ",
+        "thumbnail": "https://i.ytimg.com/vi/NMsk7D36LgQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/ni-dieu-ni-maitre-0a80/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/ni-dieu-ni-maitre-0a80.json"
+      }
+    },
     {
       "id": "les-societes-secretes-qui-dirigeraient-le-monde-3da2",
       "title": "Illuminati, francs-maçons, Bilderberg : qui dirige vraiment le monde en secret ?",
@@ -1864,31 +1898,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-ab9c/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-ab9c.json"
-      }
-    },
-    {
-      "id": "comment-l-homeopathie-est-censee-agir-6e3b",
-      "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",
-      "format": "video",
-      "publishedAt": "2026-10-01T18:15:07.563Z",
-      "durationSeconds": 712,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": null,
-      "technique": null,
-      "techniques": [],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "lBDAu7W8rgs",
-        "url": "https://www.youtube.com/watch?v=lBDAu7W8rgs",
-        "thumbnail": "https://i.ytimg.com/vi/lBDAu7W8rgs/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/comment-l-homeopathie-est-censee-agir-6e3b/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/comment-l-homeopathie-est-censee-agir-6e3b.json"
       }
     }
   ]
