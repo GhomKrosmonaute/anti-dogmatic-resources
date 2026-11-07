@@ -1,9 +1,194 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-07T15:38:06.193Z",
+  "generatedAt": "2026-11-07T16:08:22.500Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "le-son-cree-t-il-la-realite-84b3",
+      "title": "Lilou Macé, l'hypogée de Malte ne sonne pas à 110 Hz (partie 2/3)",
+      "format": "short",
+      "publishedAt": "2026-11-07T16:07:22.325Z",
+      "durationSeconds": 127,
+      "rubric": {
+        "id": "philosophie",
+        "name": "Philosophie moderne"
+      },
+      "claim": {
+        "statement": "Des sites néolithiques comme l'hypogée de Malte ont été conçus pour résonner à 110 Hz afin de modifier la conscience de ceux qui y chantaient.",
+        "verdict": "non_demontre",
+        "verdictLabel": "Non démontré",
+        "summary": "La mesure de Debertolis, Coimbra et Eneix (2015) confirme que la salle de l'Oracle résonne, à 70 et 114 Hz, sous une voix d'homme. Mais toute pièce close a ses résonances, aucune trace n'atteste l'intention des bâtisseurs, et l'étude cérébrale invoquée n'est qu'un essai pilote sur trente adultes."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "caution-scientifique",
+          "name": "La caution scientifique détournée"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+        "channel": "La Télé de Lilou Macé",
+        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+        "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA",
+        "passages": [
+          {
+            "text": "LES SITES À 110 HZ - des lieux conçus pour modifier la conscience"
+          },
+          {
+            "text": "Les Notes divines, Lynne McTaggart (Éditions Ariane) :"
+          }
+        ]
+      },
+      "series": {
+        "part": 2,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "valPHmBBYXQ",
+        "url": "https://www.youtube.com/watch?v=valPHmBBYXQ",
+        "thumbnail": "https://i.ytimg.com/vi/valPHmBBYXQ/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-84b3/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-84b3.json"
+      },
+      "facts": [
+        {
+          "text": "L'hypogée de Ħal Saflieni, à Paola (Malte), est une nécropole souterraine taillée dans la roche il y a plus de cinq mille ans.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ħal Saflieni Hypogeum – UNESCO World Heritage documentation",
+              "publisher": "UNESCO World Heritage Centre",
+              "url": "https://whc.unesco.org/document/152293"
+            },
+            {
+              "title": "Ħal Saflieni Hypogeum",
+              "publisher": "Heritage Malta",
+              "url": "https://heritagemalta.mt/?p=3921"
+            }
+          ]
+        },
+        {
+          "text": "En 2015, Paolo Debertolis, Fernando Coimbra et Linda Eneix mesurent dans la salle de l'Oracle de l'hypogée une double résonance à 70 Hz et 114 Hz, et non un 110 Hz exact.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Archaeoacoustic Analysis of the Ħal Saflieni Hypogeum in Malta",
+              "publisher": "University of Malta OAR (Debertolis, Coimbra, Eneix, 2015)",
+              "url": "https://um.edu.mt/library/oar/handle/123456789/16630"
+            }
+          ]
+        },
+        {
+          "text": "Selon la même étude, une voix masculine peut exciter ces résonances, ce qui permet d'envisager un usage lié au chant rituel sans prouver que le lieu ait été conçu pour cela.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Archaeoacoustic Analysis of the Ħal Saflieni Hypogeum in Malta",
+              "publisher": "University of Malta OAR (Debertolis, Coimbra, Eneix, 2015)",
+              "url": "https://um.edu.mt/library/oar/handle/123456789/16630"
+            }
+          ]
+        },
+        {
+          "text": "Toute pièce close possède des fréquences de résonance propres (modes propres), déterminées par sa forme et ses dimensions.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Archaeoacoustic Analysis of the Ħal Saflieni Hypogeum in Malta",
+              "publisher": "University of Malta OAR (Debertolis, Coimbra, Eneix, 2015)",
+              "url": "https://um.edu.mt/library/oar/handle/123456789/16630"
+            }
+          ]
+        },
+        {
+          "text": "La culture néolithique de Malte qui a creusé l'hypogée ne connaissait pas l'écriture et n'a laissé aucun texte.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Before Maltese",
+              "publisher": "University of Malta",
+              "url": "https://www.um.edu.mt/library/oar/bitstream/123456789/45222/1/Before_Maltese.pdf"
+            },
+            {
+              "title": "Prehistoric Archaeology of the Temples of Malta",
+              "publisher": "Bradshaw Foundation",
+              "url": "https://www.bradshawfoundation.com/malta/"
+            }
+          ]
+        },
+        {
+          "text": "L'étude de Cook, Pajot et Leuchter (2008) est une étude pilote sur 30 adultes exposés à des tons de 90 à 130 Hz sous EEG, dont les auteurs concluent qu'une étude plus large est nécessaire.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ancient Architectural Acoustic Resonance Patterns and Regional Brain Activity (Cook, Pajot, Leuchter 2008), fiche bibliographique",
+              "publisher": "Earth Notes",
+              "url": "https://www.earth.org.uk/bibliography/cook2008resonance.html"
+            }
+          ]
+        },
+        {
+          "text": "L'étude de Goldsby et ses collègues (2016) suit 62 participants sans groupe témoin : leur tension passe de 1,26 à 0,14 après une séance de bols chantants, sans qu'on puisse attribuer cet effet au son plutôt qu'au contexte de relaxation.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Effects of Singing Bowl Sound Meditation on Mood, Tension, and Well-being: An Observational Study",
+              "publisher": "Journal of Evidence-Based Complementary & Alternative Medicine, 22(3), p. 401-406",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871151/"
+            },
+            {
+              "title": "Effects of Singing Bowl Sound Meditation on Mood, Tension, and Well-being: An Observational Study",
+              "publisher": "PubMed / J Evid Based Complementary Altern Med",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27694559/"
+            }
+          ]
+        },
+        {
+          "text": "L'hypogée de Ħal Saflieni a servi de lieu de sépulture pendant des siècles.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ħal Saflieni Hypogeum – UNESCO World Heritage documentation",
+              "publisher": "UNESCO World Heritage Centre",
+              "url": "https://whc.unesco.org/document/152293"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "Sous Paola, à Malte, s'enfonce l'hypogée de Ħal Saflieni, nécropole taillée voici plus de cinq millénaires.",
+            "note": "Datation en ordre de grandeur (« plus de cinq millénaires »). L'argument ne dépend pas de la date exacte et cela ne touche pas à la santé."
+          },
+          {
+            "excerpt": "À mes yeux, des morts déposés là pendant des siècles émeuvent plus qu'une note magique.",
+            "note": "« Des siècles » est une durée approximative d'utilisation de la nécropole. Elle sert d'ancrage émotionnel et non d'argument."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "le-son-cree-t-il-la-realite-d2d7",
       "title": "Tombes à 110 Hz : ce que Lilou Macé ne te dit pas (partie 1/3)",
@@ -42902,6 +43087,57 @@
       "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
       "subscribers": 327000,
       "answers": [
+        {
+          "examined": {
+            "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+            "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+          },
+          "video": {
+            "id": "le-son-cree-t-il-la-realite-84b3",
+            "title": "Lilou Macé, l'hypogée de Malte ne sonne pas à 110 Hz (partie 2/3)",
+            "format": "short",
+            "publishedAt": "2026-11-07T16:07:22.325Z",
+            "durationSeconds": 127,
+            "rubric": {
+              "id": "philosophie",
+              "name": "Philosophie moderne"
+            },
+            "claim": {
+              "statement": "Des sites néolithiques comme l'hypogée de Malte ont été conçus pour résonner à 110 Hz afin de modifier la conscience de ceux qui y chantaient.",
+              "verdict": "non_demontre",
+              "verdictLabel": "Non démontré"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "caution-scientifique",
+                "name": "La caution scientifique détournée"
+              },
+              {
+                "id": "selection-des-cas",
+                "name": "Le tri des cas favorables"
+              }
+            ],
+            "answers": {
+              "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+              "channel": "La Télé de Lilou Macé",
+              "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+            },
+            "series": {
+              "part": 2,
+              "parts": 3
+            },
+            "youtube": {
+              "id": "valPHmBBYXQ",
+              "url": "https://www.youtube.com/watch?v=valPHmBBYXQ",
+              "thumbnail": "https://i.ytimg.com/vi/valPHmBBYXQ/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-84b3/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-84b3.json"
+            }
+          }
+        },
         {
           "examined": {
             "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",

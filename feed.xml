@@ -6,7 +6,18 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Sat, 07 Nov 2026 15:38:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 16:08:22 GMT</lastBuildDate>
+<item>
+<title>Lilou Macé, l&apos;hypogée de Malte ne sonne pas à 110 Hz (partie 2/3)</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-84b3/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-84b3/</guid>
+<pubDate>Sat, 07 Nov 2026 16:07:22 GMT</pubDate>
+<description>Non démontré : « Des sites néolithiques comme l&apos;hypogée de Malte ont été conçus pour résonner à 110 Hz afin de modifier la conscience de ceux qui y chantaient. ». La mesure de Debertolis, Coimbra et Eneix (2015) confirme que la salle de l&apos;Oracle résonne, à 70 et 114 Hz, sous une voix d&apos;homme. Mais toute pièce close a ses résonances, aucune trace n&apos;atteste l&apos;intention des bâtisseurs, et l&apos;étude cérébrale invoquée n&apos;est qu&apos;un essai pilote sur trente adultes.</description>
+<category>La caution scientifique détournée</category>
+<category>Le tri des cas favorables</category>
+<category>Philosophie moderne</category>
+<category>Short</category>
+</item>
 <item>
 <title>Tombes à 110 Hz : ce que Lilou Macé ne te dit pas (partie 1/3)</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-d2d7/</link>
@@ -521,16 +532,6 @@
 <category>Le témoignage invérifiable</category>
 <category>Pseudo-sciences et charlatans</category>
 <category>Short</category>
-</item>
-<item>
-<title>Franc-maçonnerie : quel lien secret avec l&apos;alchimie et les Rose-Croix ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-francs-macons-a347/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-francs-macons-a347/</guid>
-<pubDate>Sun, 11 Oct 2026 13:15:10 GMT</pubDate>
-<description>Non démontré : « La franc-maçonnerie est l&apos;héritière secrète des alchimistes et des Rose-Croix, gardienne d&apos;une sagesse initiatique transmise depuis l&apos;Antiquité. ». Aucun document ne relie les loges à une transmission alchimique ou rosicrucienne : la Grande Loge n&apos;est attestée qu&apos;autour de 1717-1721, et les grades ésotériques apparaissent entre 1730 et le XIXe siècle. Le symbolisme alchimique y sert d&apos;outil initiatique, et la seule pièce solide, le journal d&apos;Ashmole, décrit une sociabilité de gentlemen, pas un enseignement secret.</description>
-<category>L&apos;appel à l&apos;ancienneté</category>
-<category>Le tri des cas favorables</category>
-<category>La relecture après coup</category>
 </item>
 </channel>
 </rss>

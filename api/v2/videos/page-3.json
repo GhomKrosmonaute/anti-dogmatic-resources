@@ -1,12 +1,40 @@
 {
   "version": 2,
-  "total": 113,
+  "total": 114,
   "pageSize": 50,
   "page": 3,
   "pages": 3,
   "previous": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "next": null,
   "items": [
+    {
+      "id": "l-argument-d-autorite-ab9c",
+      "title": "Quand un prix Nobel ou un texte sacré l'affirme, est-ce une preuve ?",
+      "format": "video",
+      "publishedAt": "2026-10-01T19:00:12.466Z",
+      "durationSeconds": 686,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": null,
+      "technique": {
+        "id": "argument-autorite",
+        "name": "L'argument d'autorité"
+      },
+      "techniques": [],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "pTsHM7DTF7U",
+        "url": "https://www.youtube.com/watch?v=pTsHM7DTF7U",
+        "thumbnail": "https://i.ytimg.com/vi/pTsHM7DTF7U/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/l-argument-d-autorite-ab9c/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/l-argument-d-autorite-ab9c.json"
+      }
+    },
     {
       "id": "comment-l-homeopathie-est-censee-agir-6e3b",
       "title": "Comment agit l'homéopathie ? Similitude, dilutions CH et mémoire de l'eau expliquées",

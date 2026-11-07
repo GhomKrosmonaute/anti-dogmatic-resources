@@ -11,6 +11,57 @@
         "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
       },
       "video": {
+        "id": "le-son-cree-t-il-la-realite-84b3",
+        "title": "Lilou Macé, l'hypogée de Malte ne sonne pas à 110 Hz (partie 2/3)",
+        "format": "short",
+        "publishedAt": "2026-11-07T16:07:22.325Z",
+        "durationSeconds": 127,
+        "rubric": {
+          "id": "philosophie",
+          "name": "Philosophie moderne"
+        },
+        "claim": {
+          "statement": "Des sites néolithiques comme l'hypogée de Malte ont été conçus pour résonner à 110 Hz afin de modifier la conscience de ceux qui y chantaient.",
+          "verdict": "non_demontre",
+          "verdictLabel": "Non démontré"
+        },
+        "technique": null,
+        "techniques": [
+          {
+            "id": "caution-scientifique",
+            "name": "La caution scientifique détournée"
+          },
+          {
+            "id": "selection-des-cas",
+            "name": "Le tri des cas favorables"
+          }
+        ],
+        "answers": {
+          "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+          "channel": "La Télé de Lilou Macé",
+          "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+        },
+        "series": {
+          "part": 2,
+          "parts": 3
+        },
+        "youtube": {
+          "id": "valPHmBBYXQ",
+          "url": "https://www.youtube.com/watch?v=valPHmBBYXQ",
+          "thumbnail": "https://i.ytimg.com/vi/valPHmBBYXQ/hqdefault.jpg"
+        },
+        "links": {
+          "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-84b3/",
+          "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-84b3.json"
+        }
+      }
+    },
+    {
+      "examined": {
+        "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+        "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+      },
+      "video": {
         "id": "le-son-cree-t-il-la-realite-d2d7",
         "title": "Tombes à 110 Hz : ce que Lilou Macé ne te dit pas (partie 1/3)",
         "format": "short",
