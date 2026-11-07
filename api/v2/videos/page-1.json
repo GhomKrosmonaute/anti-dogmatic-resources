@@ -1,12 +1,51 @@
 {
   "version": 2,
-  "total": 110,
+  "total": 111,
   "pageSize": 50,
   "page": 1,
   "pages": 3,
   "previous": null,
   "next": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/page-2.json",
   "items": [
+    {
+      "id": "quelle-echelle-de-temps-l-humanite-devrait-elle-1820",
+      "title": "Une vie, des millénaires ou des milliards d'années : quelle échelle de temps pour l'humanité ?",
+      "format": "video",
+      "publishedAt": "2026-11-07T01:15:19.197Z",
+      "durationSeconds": 709,
+      "rubric": null,
+      "claim": {
+        "statement": "Le temps profond n'est qu'une échelle parmi d'autres : une construction récente de savants qui ne vaut pas mieux que les calendriers sacrés ou l'horizon d'une vie pour penser notre place et nos choix.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "8Q_vzrWk74s",
+        "url": "https://www.youtube.com/watch?v=8Q_vzrWk74s",
+        "thumbnail": "https://i.ytimg.com/vi/8Q_vzrWk74s/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quelle-echelle-de-temps-l-humanite-devrait-elle-1820/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quelle-echelle-de-temps-l-humanite-devrait-elle-1820.json"
+      }
+    },
     {
       "id": "miracle-ou-mensonge-f89c",
       "title": "Miracles vus par des milliers de témoins : que faut-il vraiment en conclure ?",
@@ -1906,48 +1945,6 @@
       "links": {
         "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-societes-secretes-qui-dirigeraient-le-monde-3da2/",
         "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-societes-secretes-qui-dirigeraient-le-monde-3da2.json"
-      }
-    },
-    {
-      "id": "la-numerologie-a783",
-      "title": "Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?",
-      "format": "short",
-      "publishedAt": "2026-10-10T16:15:05.025Z",
-      "durationSeconds": 125,
-      "rubric": {
-        "id": "pseudo-sciences",
-        "name": "Pseudo-sciences et charlatans"
-      },
-      "claim": {
-        "statement": "Le nombre obtenu en additionnant les chiffres de ta date de naissance, ton chemin de vie, révèle ta personnalité et ton destin, selon une sagesse héritée de Pythagore.",
-        "verdict": "faux",
-        "verdictLabel": "Faux"
-      },
-      "technique": null,
-      "techniques": [
-        {
-          "id": "numerologie",
-          "name": "Les coïncidences comptées"
-        },
-        {
-          "id": "argument-autorite",
-          "name": "L'argument d'autorité"
-        },
-        {
-          "id": "appel-a-l-anciennete",
-          "name": "L'appel à l'ancienneté"
-        }
-      ],
-      "answers": null,
-      "series": null,
-      "youtube": {
-        "id": "xOD7eSbJjpA",
-        "url": "https://www.youtube.com/watch?v=xOD7eSbJjpA",
-        "thumbnail": "https://i.ytimg.com/vi/xOD7eSbJjpA/hqdefault.jpg"
-      },
-      "links": {
-        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/",
-        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/la-numerologie-a783.json"
       }
     }
   ]

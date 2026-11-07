@@ -41,6 +41,45 @@
   ],
   "examples": [
     {
+      "id": "quelle-echelle-de-temps-l-humanite-devrait-elle-1820",
+      "title": "Une vie, des millénaires ou des milliards d'années : quelle échelle de temps pour l'humanité ?",
+      "format": "video",
+      "publishedAt": "2026-11-07T01:15:19.197Z",
+      "durationSeconds": 709,
+      "rubric": null,
+      "claim": {
+        "statement": "Le temps profond n'est qu'une échelle parmi d'autres : une construction récente de savants qui ne vaut pas mieux que les calendriers sacrés ou l'horizon d'une vie pour penser notre place et nos choix.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "8Q_vzrWk74s",
+        "url": "https://www.youtube.com/watch?v=8Q_vzrWk74s",
+        "thumbnail": "https://i.ytimg.com/vi/8Q_vzrWk74s/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quelle-echelle-de-temps-l-humanite-devrait-elle-1820/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quelle-echelle-de-temps-l-humanite-devrait-elle-1820.json"
+      }
+    },
+    {
       "id": "le-critere-de-refutabilite-de-karl-popper-0539",
       "title": "Qu'est-ce qu'une vraie science ? Le critère de Karl Popper expliqué simplement",
       "format": "video",

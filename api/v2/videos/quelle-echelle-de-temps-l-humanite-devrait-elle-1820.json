@@ -1,0 +1,443 @@
+{
+  "version": 2,
+  "id": "quelle-echelle-de-temps-l-humanite-devrait-elle-1820",
+  "title": "Une vie, des millénaires ou des milliards d'années : quelle échelle de temps pour l'humanité ?",
+  "format": "video",
+  "publishedAt": "2026-11-07T01:15:19.197Z",
+  "durationSeconds": 709,
+  "rubric": null,
+  "claim": {
+    "statement": "Le temps profond n'est qu'une échelle parmi d'autres : une construction récente de savants qui ne vaut pas mieux que les calendriers sacrés ou l'horizon d'une vie pour penser notre place et nos choix.",
+    "verdict": "faux",
+    "verdictLabel": "Faux",
+    "summary": "Pour aimer, prier ou transmettre, aucune échelle n'est obligatoire, et les calendriers religieux gardent tout leur sens comme manières d'habiter le temps. Mais comme mesure du monde, le temps profond n'est pas une opinion : la radiodatation de Patterson en 1956, les méthodes indépendantes recensées par Dalrymple et les données de Planck convergent, alors que les chronologies tirées des textes les contredisent et qu'aucune ne les a prédites."
+  },
+  "technique": null,
+  "techniques": [
+    {
+      "id": "appel-a-l-anciennete",
+      "name": "L'appel à l'ancienneté"
+    },
+    {
+      "id": "argument-autorite",
+      "name": "L'argument d'autorité"
+    },
+    {
+      "id": "relecture-a-posteriori",
+      "name": "La relecture après coup"
+    }
+  ],
+  "answers": null,
+  "series": null,
+  "youtube": {
+    "id": "8Q_vzrWk74s",
+    "url": "https://www.youtube.com/watch?v=8Q_vzrWk74s",
+    "thumbnail": "https://i.ytimg.com/vi/8Q_vzrWk74s/hqdefault.jpg"
+  },
+  "links": {
+    "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quelle-echelle-de-temps-l-humanite-devrait-elle-1820/",
+    "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/quelle-echelle-de-temps-l-humanite-devrait-elle-1820.json"
+  },
+  "facts": [
+    {
+      "text": "Les premières tablettes d'argile écrites de Mésopotamie datent d'il y a un peu plus de cinq mille ans.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Seals and signs: tracing the origins of writing in ancient Southwest Asia",
+          "publisher": "Antiquity (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/seals-and-signs-tracing-the-origins-of-writing-in-ancient-southwest-asia/B3C2D400F3F80A7A0162D9035C9C2804"
+        }
+      ]
+    },
+    {
+      "text": "Le calendrier hébraïque compte les années depuis la création du monde selon le comput rabbinique et est entré dans l'an 5787 en septembre 2026.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Rosh Hashana 2026 / 5787",
+          "publisher": "Hebcal",
+          "url": "https://www.hebcal.com/holidays/rosh-hashana-2026"
+        },
+        {
+          "title": "When is Rosh Hashanah 2026?",
+          "publisher": "Chabad.org",
+          "url": "https://www.chabad.org/library/article_cdo/aid/5630451/jewish/Rosh-Hashanah-2026-FAQ.htm"
+        }
+      ]
+    },
+    {
+      "text": "Le calendrier musulman compte depuis l'hégire et en est à l'an 1448 à l'automne 2026.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Le 1er Moharram de la nouvelle année de l'Hégire 1448 mercredi 17 juin",
+          "publisher": "Le Matin (Maroc)",
+          "url": "https://lematin.ma/nation/le-1er-moharram-de-la-nouvelle-annee-de-lhegire-1448-mercredi-17-juin/350864"
+        },
+        {
+          "title": "Muharram 2026",
+          "publisher": "IslamicFinder",
+          "url": "https://www.islamicfinder.org/special-islamic-days/muharram-2026"
+        }
+      ]
+    },
+    {
+      "text": "En 1650, James Ussher, archevêque irlandais, date la création à la veille du 23 octobre 4004 avant notre ère, à partir des généalogies bibliques.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "October 23, 4004 BC: Happy Birthday, Earth",
+          "publisher": "Scientific American",
+          "url": "https://www.scientificamerican.com/blog/history-of-geology/october-23-4004-bc-happy-birthday-earth"
+        },
+        {
+          "title": "Ussher chronology",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+        }
+      ]
+    },
+    {
+      "text": "Une partie des croyants tient aujourd'hui encore la Terre pour vieille de quelques milliers d'années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "In U.S., 46% Hold Creationist View of Human Origins",
+          "publisher": "Gallup",
+          "url": "https://news.gallup.com/poll/155003/hold-creationist-view-human-origins.aspx"
+        }
+      ]
+    },
+    {
+      "text": "Dans la cosmologie hindoue, un kalpa (jour de Brahma) dure 4,32 milliards d'années, soit mille grands cycles de 4 320 000 ans, suivi d'une nuit de même durée, dans un cycle sans fin.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Kalpa",
+          "publisher": "AnthroWiki",
+          "url": "https://en.anthrowiki.at/Kalpa"
+        },
+        {
+          "title": "Kalpa (aeon)",
+          "publisher": "Wikipedia (copie)",
+          "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Kalpa_(aeon)"
+        }
+      ]
+    },
+    {
+      "text": "Dans la série Cosmos (1980), Carl Sagan affirme que l'hindouisme est la seule grande religion dont les échelles de temps correspondent à celles de la cosmologie moderne.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Cosmology",
+          "publisher": "Hindupedia",
+          "url": "https://hindupedia.com/en/Cosmology"
+        },
+        {
+          "title": "Carl Sagan quote",
+          "publisher": "Goodreads",
+          "url": "https://www.goodreads.com/user_quotes/79103634"
+        }
+      ]
+    },
+    {
+      "text": "Ecclésiaste 1:4 (Segond) : « Une génération s'en va, une autre vient, et la terre subsiste toujours. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ecclésiaste 1:4 (LSG)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Eccl%C3%A9siaste+1:4&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Psaume 90:4 (Segond) : « Car mille ans sont, à tes yeux, comme le jour d'hier, quand il n'est plus, et comme une veille de la nuit. »",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Psaumes 90:4 (LSG)",
+          "publisher": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Psaumes+90:4&version=LSG"
+        }
+      ]
+    },
+    {
+      "text": "Le Psaume 90 parle du regard de Dieu sur le temps et ne prétend pas mesurer l'âge du monde.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Expositor's Bible Commentary on Psalm 90",
+          "publisher": "Biblehub",
+          "url": "https://biblehub.com/commentaries/expositors/psalms/90.htm"
+        },
+        {
+          "title": "Jamieson, Fausset and Brown on Psalm 90",
+          "publisher": "Christianity.com",
+          "url": "https://www.christianity.com/bible/commentary/jfb/psalm/90"
+        }
+      ]
+    },
+    {
+      "text": "James Hutton publie sa théorie de la Terre en 1788 ; Stephen Jay Gould, dans Time's Arrow, Time's Cycle (1987), montre que les pionniers du temps profond raisonnaient avec les métaphores de la flèche et du cycle du temps.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Time's Arrow, Time's Cycle",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Time%27s_Arrow,_Time%27s_Cycle"
+        }
+      ]
+    },
+    {
+      "text": "La chronologie d'Ussher et le comput rabbinique reposent pour l'essentiel sur l'addition des âges et des règnes donnés par les textes.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Ussher chronology",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+        }
+      ]
+    },
+    {
+      "text": "En 1956, Clair Patterson obtient par la méthode plomb 207/plomb 206 sur des météorites un âge de la Terre de 4,55 ± 0,07 milliards d'années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Astrophysical Classics: Measuring the Age of the Earth",
+          "publisher": "Astrobites",
+          "url": "https://astrobites.org/2012/08/26/astrophysical-classics-measuring-the-age-of-the-earth/"
+        },
+        {
+          "title": "Age of Meteorites and the Earth",
+          "publisher": "University of Illinois Library",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/4011"
+        }
+      ]
+    },
+    {
+      "text": "L'uranium 238 se désintègre en plomb 206 et l'uranium 235 en plomb 207, à des vitesses différentes et connues.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Age of Meteorites and the Earth",
+          "publisher": "University of Illinois Library",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/4011"
+        }
+      ]
+    },
+    {
+      "text": "Le calendrier cosmique de Carl Sagan ramène l'âge de l'univers à une seule année.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Dragons of Eden",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Dragons_of_Eden"
+        }
+      ]
+    },
+    {
+      "text": "Brent Dalrymple (USGS) montre que des méthodes de radiodatation indépendantes (uranium-plomb, potassium-argon, rubidium-strontium) appliquées aux météorites, échantillons lunaires et roches terrestres anciennes indiquent un âge de la Terre de 4,5 à 4,6 milliards d'années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The age of the Earth in the twentieth century: a problem (mostly) solved",
+          "publisher": "Geological Society, London, Special Publications (ADS)",
+          "url": "https://ui.adsabs.harvard.edu/abs/2001GSLSP.190..205D/abstract"
+        },
+        {
+          "title": "The Age of the Earth (reprise des tableaux de Dalrymple 1991)",
+          "publisher": "TalkOrigins",
+          "url": "https://www.talkorigins.org/pdf/faq-age-of-earth.pdf"
+        }
+      ]
+    },
+    {
+      "text": "La chaleur, la pression et les réactions chimiques ne modifient pas sensiblement les vitesses de désintégration radioactive utilisées en datation.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "The Age of the Earth (reprise des tableaux de Dalrymple 1991)",
+          "publisher": "TalkOrigins",
+          "url": "https://www.talkorigins.org/pdf/faq-age-of-earth.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Les résultats définitifs de Planck, publiés en 2020 dans Astronomy & Astrophysics, s'accordent avec le modèle ΛCDM qui fixe l'âge de l'univers à environ 13,8 milliards d'années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Planck 2018 results. VI. Cosmological parameters",
+          "publisher": "Astronomy & Astrophysics 641, A6",
+          "url": "https://arxiv.org/abs/1807.06209"
+        }
+      ]
+    },
+    {
+      "text": "Le même article de Planck signale une tension de 3,6 sigmas avec les mesures locales de la constante de Hubble.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Planck 2018 results. VI. Cosmological parameters",
+          "publisher": "Astronomy & Astrophysics 641, A6",
+          "url": "https://arxiv.org/abs/1807.06209"
+        }
+      ]
+    },
+    {
+      "text": "Les textes hindous ne permettaient pas de prédire l'âge de la Terre mesuré par Patterson ; le rapprochement avec le kalpa est fait après la mesure.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Kalpa (aeon)",
+          "publisher": "Wikipedia (copie)",
+          "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Kalpa_(aeon)"
+        }
+      ]
+    },
+    {
+      "text": "En 2002, Shane Frederick, George Loewenstein et Ted O'Donoghue publient dans le Journal of Economic Literature une revue critique de trente ans de travaux sur la préférence pour le présent, qui montre surtout que les taux d'actualisation implicites varient fortement d'une étude à l'autre.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Time Discounting and Time Preference: A Critical Review",
+          "publisher": "Journal of Economic Literature 40(2), 351–401",
+          "url": "https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/b/5495/files/2015/10/FLO-JEL-2002-1ko3v9w.pdf"
+        },
+        {
+          "title": "Time Discounting and Time Preference: A Critical Review",
+          "publisher": "RePEc / American Economic Association (J. Econ. Lit. 40(2), 351-401)",
+          "url": "https://ideas.repec.org/a/aea/jeclit/v40y2002i2p351-401.html"
+        }
+      ]
+    },
+    {
+      "text": "En mesurant le plomb des météorites, Clair Patterson a découvert une contamination généralisée par le plomb de l'essence et l'a combattue pendant des années.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Clair Patterson",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Clair_Patterson"
+        }
+      ]
+    },
+    {
+      "text": "Selon le Programme des Nations unies pour l'environnement, l'essence plombée a disparu des pompes du monde entier en 2021.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "UN hails 'milestone' as use of leaded petrol ended globally",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2021/8/30/un-hails-milestone-as-use-of-leaded-petrol-ended-globally"
+        },
+        {
+          "title": "Global end of leaded petrol press conference",
+          "publisher": "UNEP",
+          "url": "https://www.unep.org/events/press-conference/global-end-leaded-petrol"
+        }
+      ]
+    },
+    {
+      "text": "Le groupe de travail sur l'Anthropocène proposait une base de cette époque en 1952, dans les sédiments du lac Crawford, au Canada.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Working Group on the 'Anthropocene' (joint IUGS–ICS statement of 26 March 2024)",
+          "publisher": "International Commission on Stratigraphy (ICS)",
+          "url": "https://quaternary.stratigraphy.org/working-groups/anthropocene"
+        }
+      ]
+    },
+    {
+      "text": "Les sédiments du lac Crawford portent la marque des retombées des essais nucléaires.",
+      "status": "supported",
+      "note": "",
+      "sources": [
+        {
+          "title": "Working Group on the 'Anthropocene' (joint IUGS–ICS statement of 26 March 2024)",
+          "publisher": "International Commission on Stratigraphy (ICS)",
+          "url": "https://quaternary.stratigraphy.org/working-groups/anthropocene"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "kind": "human",
+    "domain": "Physique nucléaire (datation radiométrique) et cosmologie",
+    "approximations": [
+      {
+        "excerpt": "Depuis les premières tablettes d'argile de Mésopotamie, il y a un peu plus de cinq mille ans, l'humanité garde la trace de ses rois, de ses lois et de ses récoltes.",
+        "note": "Ordre de grandeur historique, sans implication sur la santé. L'argument ne dépend pas de la date exacte."
+      },
+      {
+        "excerpt": "Résultat, dans Geochimica et Cosmochimica Acta : quatre virgule cinquante-cinq milliards d'années, à soixante-dix millions près.",
+        "note": "Valeur et incertitude rapportées par l'étude, que la vérification factuelle contrôlera. L'argument porte sur l'ordre de grandeur (milliards d'années) et sur la mention d'une marge d'erreur."
+      },
+      {
+        "excerpt": "Croisées sur les météorites, les échantillons lunaires et les plus vieilles roches terrestres, elles dessinent un âge de la Terre de quatre virgule cinq à quatre virgule six milliards d'années.",
+        "note": "La fourchette de 4,5 à 4,6 milliards d'années est un arrondi assumé, et l'argument ne dépend pas de sa valeur exacte. Le doute porte sur la mention des roches terrestres, traité dans les passages."
+      },
+      {
+        "excerpt": "Dans la cosmologie hindoue, un jour de Brahma, le kalpa, dure quatre virgule trente-deux milliards d'années, suivi d'une nuit aussi longue, puis tout recommence.",
+        "note": "Chiffre issu d'un calcul traditionnel, rapporté tel quel et sans lien avec la santé. Son arrondi n'affecte pas l'argumentation."
+      },
+      {
+        "excerpt": "Le kalpa hindou semble mieux s'en tirer. Mais son chiffre ne vient d'aucune observation : c'est mille fois un grand cycle de quatre âges, fixé à quatre millions trois cent vingt mille ans.",
+        "note": "Calcul textuel traditionnel, hors des domaines spécialisés. Le propos porte sur l'origine non observationnelle du chiffre, pas sur sa précision."
+      },
+      {
+        "excerpt": "Pour se figurer de telles durées, le calendrier cosmique comprime l'âge de l'univers en une seule année ; Balade Mentale le raconte très bien dans sa vidéo « 438 ans chaque seconde. Le calendrier cosmique de Carl Sagan », et le lien est en description.",
+        "note": "Image pédagogique, avec un facteur de compression indicatif (environ 438 ans par seconde). Sa valeur exacte n'a pas d'incidence sur l'argument."
+      }
+    ]
+  },
+  "references": [
+    {
+      "title": "438 ans chaque seconde. Le calendrier cosmique de Carl Sagan",
+      "channel": "Balade Mentale",
+      "url": "https://www.youtube.com/watch?v=316cw8QzFJo",
+      "own": false
+    },
+    {
+      "title": "Comment des textes anciens ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+      "channel": null,
+      "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4",
+      "own": true
+    }
+  ],
+  "next": {
+    "title": "La sagesse ancestrale savait-elle des choses que la science ignore ?",
+    "url": "https://www.youtube.com/watch?v=AFk9CaSz7PY"
+  },
+  "shorts": [],
+  "corrections": []
+}

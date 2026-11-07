@@ -6,7 +6,17 @@
 <atom:link href="https://ghomkrosmonaute.github.io/anti-dogmatic-resources/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Chaque affirmation examinée, son verdict, ses sources et ses corrections.</description>
 <language>fr</language>
-<lastBuildDate>Fri, 06 Nov 2026 23:46:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 01:16:19 GMT</lastBuildDate>
+<item>
+<title>Une vie, des millénaires ou des milliards d&apos;années : quelle échelle de temps pour l&apos;humanité ?</title>
+<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quelle-echelle-de-temps-l-humanite-devrait-elle-1820/</link>
+<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/quelle-echelle-de-temps-l-humanite-devrait-elle-1820/</guid>
+<pubDate>Sat, 07 Nov 2026 01:15:19 GMT</pubDate>
+<description>Faux : « Le temps profond n&apos;est qu&apos;une échelle parmi d&apos;autres : une construction récente de savants qui ne vaut pas mieux que les calendriers sacrés ou l&apos;horizon d&apos;une vie pour penser notre place et nos choix. ». Pour aimer, prier ou transmettre, aucune échelle n&apos;est obligatoire, et les calendriers religieux gardent tout leur sens comme manières d&apos;habiter le temps. Mais comme mesure du monde, le temps profond n&apos;est pas une opinion : la radiodatation de Patterson en 1956, les méthodes indépendantes recensées par Dalrymple et les données de Planck convergent, alors que les chronologies tirées des textes les contredisent et qu&apos;aucune ne les a prédites.</description>
+<category>L&apos;appel à l&apos;ancienneté</category>
+<category>L&apos;argument d&apos;autorité</category>
+<category>La relecture après coup</category>
+</item>
 <item>
 <title>Miracles vus par des milliers de témoins : que faut-il vraiment en conclure ?</title>
 <link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/miracle-ou-mensonge-f89c/</link>
@@ -517,18 +527,6 @@
 <category>Le tri des cas favorables</category>
 <category>La relecture après coup</category>
 <category>Le système</category>
-</item>
-<item>
-<title>Chemin de vie en numérologie : ta date de naissance révèle-t-elle qui tu es ?</title>
-<link>https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/</link>
-<guid isPermaLink="true">https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/la-numerologie-a783/</guid>
-<pubDate>Sat, 10 Oct 2026 16:15:05 GMT</pubDate>
-<description>Faux : « Le nombre obtenu en additionnant les chiffres de ta date de naissance, ton chemin de vie, révèle ta personnalité et ton destin, selon une sagesse héritée de Pythagore. ». Le chemin de vie n&apos;a rien de pythagoricien : il repose sur des chiffres et un calendrier que Pythagore ne connaissait pas, et une même date donne des résultats différents selon l&apos;école ou le calendrier utilisé. L&apos;impression de justesse s&apos;explique par l&apos;effet Forer : une description vague et flatteuse semble personnelle à presque tout le monde.</description>
-<category>Les coïncidences comptées</category>
-<category>L&apos;argument d&apos;autorité</category>
-<category>L&apos;appel à l&apos;ancienneté</category>
-<category>Pseudo-sciences et charlatans</category>
-<category>Short</category>
 </item>
 </channel>
 </rss>
