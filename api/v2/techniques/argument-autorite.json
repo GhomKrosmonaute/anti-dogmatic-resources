@@ -69,6 +69,48 @@
   ],
   "examples": [
     {
+      "id": "les-10-sophismes-preferes-des-apologetes-7e62",
+      "title": "Prouver Dieu par la logique : quels arguments tiennent vraiment ?",
+      "format": "short",
+      "publishedAt": "2026-11-07T15:15:04.420Z",
+      "durationSeconds": 144,
+      "rubric": {
+        "id": "esprit-critique",
+        "name": "Esprit critique"
+      },
+      "claim": {
+        "statement": "Les Écritures inspirées, le nombre immense de croyants, l'ancienneté de la tradition, les savants croyants et l'impossibilité de prouver que Dieu n'existe pas suffisent à prouver son existence.",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        },
+        {
+          "id": "charge-de-la-preuve",
+          "name": "Le renversement de la charge de la preuve"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "-s4H-TvzXR8",
+        "url": "https://www.youtube.com/watch?v=-s4H-TvzXR8",
+        "thumbnail": "https://i.ytimg.com/vi/-s4H-TvzXR8/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-10-sophismes-preferes-des-apologetes-7e62/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-10-sophismes-preferes-des-apologetes-7e62.json"
+      }
+    },
+    {
       "id": "quelle-echelle-de-temps-l-humanite-devrait-elle-1820",
       "title": "Une vie, des millénaires ou des milliards d'années : quelle échelle de temps pour l'humanité ?",
       "format": "video",
