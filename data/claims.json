@@ -1,9 +1,575 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-07T16:08:22.500Z",
+  "generatedAt": "2026-11-09T13:47:17.539Z",
   "license": "CC BY 4.0",
   "site": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources",
   "videos": [
+    {
+      "id": "le-son-cree-t-il-la-realite-ed71",
+      "title": "Lilou Macé et la note qui guérit : où est le groupe témoin ? (partie 3/3)",
+      "format": "short",
+      "publishedAt": "2026-11-09T13:46:17.346Z",
+      "durationSeconds": 123,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le son façonne toute la réalité : une « note parfaite » peut guérir le corps, nos cellules chantent et les plantes écoutent.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur",
+        "summary": "Des faits réels, comme l'orientation de racines de maïs vers un son de 220 Hz rapportée par Gagliano, Mancuso et Robert en 2012, sont étirés jusqu'à des pouvoirs d'écoute et de guérison que rien ne démontre. La guérison de la Chambre du roi repose sur un récit unique, sans mesure ni comparaison, alors que les maux de dos s'apaisent souvent d'eux-mêmes."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+        "channel": "La Télé de Lilou Macé",
+        "channelId": "UCc6i7tMzrbBX7xUZiUVzlQA",
+        "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA",
+        "passages": [
+          {
+            "text": "L’histoire qui m’a le plus marquée : celle d’un ingénieur qui chante la gamme dans la Chambre du roi, et qui raconte que son mal de dos a disparu au moment où il a touché la « note parfaite »."
+          },
+          {
+            "text": "On parle des sites néolithiques qui résonnent à 110 Hz, de nos cellules qui chantent, des sons qui nous apaisent et de ceux qui nous abîment, des plantes qui écoutent, de la force du son dans ses groupes du Pouvoir du 8…"
+          }
+        ]
+      },
+      "series": {
+        "part": 3,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "KcvVRD6lHRA",
+        "url": "https://www.youtube.com/watch?v=KcvVRD6lHRA",
+        "thumbnail": "https://i.ytimg.com/vi/KcvVRD6lHRA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-ed71/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-ed71.json"
+      },
+      "facts": [
+        {
+          "text": "Le son est une onde mécanique qui se propage à travers les tissus du corps humain.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Ultrasound Physics (StatPearls)",
+              "publisher": "NCBI Bookshelf",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK570593/"
+            },
+            {
+              "title": "Basic Principles of Ultrasound",
+              "publisher": "Pressbooks PALNI",
+              "url": "https://pressbooks.palni.org/ultrasoundphysicsanditsapplicationinmedicine/?p=5"
+            }
+          ]
+        },
+        {
+          "text": "Écouter de la musique peut avoir un effet apaisant.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses",
+              "publisher": "Health Psychology Review (PubMed)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31167611/"
+            }
+          ]
+        },
+        {
+          "text": "Les lombalgies fluctuent dans le temps et de nombreux épisodes s'améliorent spontanément, sans traitement particulier.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Acute low back pain: systematic review of its prognosis",
+              "publisher": "BMJ (Pengel, Herbert, Maher, Refshauge, 2003)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC169642"
+            }
+          ]
+        },
+        {
+          "text": "Attribuer une amélioration à une intervention exige de la comparer à un groupe témoin qui ne la reçoit pas.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Placebo interventions / spontaneous improvement and placebo effect in three-armed trials (Krogsbøll et al.)",
+              "publisher": "PubMed Central",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2628943"
+            },
+            {
+              "title": "Placebo interventions for all clinical conditions (Hróbjartsson & Gøtzsche)",
+              "publisher": "Cochrane Library",
+              "url": "https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003974.pub3/information"
+            }
+          ]
+        },
+        {
+          "text": "En 2012, Monica Gagliano, Stefano Mancuso et Daniel Robert rapportent dans Trends in Plant Science que des racines de maïs s'orientent vers un son continu de 220 Hz.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Towards understanding plant bioacoustics",
+              "publisher": "Trends in Plant Science, Gagliano, Mancuso, Robert (2012)",
+              "url": "https://researchportal.scu.edu.au/esploro/outputs/journalArticle/Towards-understanding-plant-bioacoustics/991012919399102368"
+            },
+            {
+              "title": "Talking plants",
+              "publisher": "University of Western Australia",
+              "url": "https://www.news.uwa.edu.au/201204034491/research/talking-plants"
+            }
+          ]
+        },
+        {
+          "text": "L'article de Gagliano, Mancuso et Robert (2012) est un article d'opinion dont les auteurs reconnaissent que les mécanismes et la valeur adaptative de la sensibilité des plantes au son restent mal compris.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Towards understanding plant bioacoustics",
+              "publisher": "Trends in Plant Science, Gagliano, Mancuso, Robert (2012)",
+              "url": "https://researchportal.scu.edu.au/esploro/outputs/journalArticle/Towards-understanding-plant-bioacoustics/991012919399102368"
+            }
+          ]
+        },
+        {
+          "text": "La détection de vibrations par des racines ne démontre pas que les plantes perçoivent ou écoutent une mélodie.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Towards understanding plant bioacoustics",
+              "publisher": "Trends in Plant Science, Gagliano, Mancuso, Robert (2012)",
+              "url": "https://researchportal.scu.edu.au/esploro/outputs/journalArticle/Towards-understanding-plant-bioacoustics/991012919399102368"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": [
+          {
+            "excerpt": "En 2012, Gagliano, Mancuso et Robert décrivent des racines de maïs qui s'orientent vers un son continu de 220 hertz.",
+            "note": "La fréquence de 220 Hz est celle rapportée par les auteurs, elle relève du fact-check, ne concerne pas la santé et l'argument ne dépend pas de sa valeur exacte."
+          },
+          {
+            "excerpt": "Plus bas, on lit encore :",
+            "note": "La mention des 110 Hz des sites néolithiques apparaît seulement dans le passage cité, sans reposer sur sa valeur exacte, et ne concerne pas la santé."
+          }
+        ]
+      },
+      "references": [],
+      "next": null,
+      "shorts": [],
+      "corrections": []
+    },
+    {
+      "id": "les-vedas-decrivent-ils-vraiment-des-vimanas-des-3dcc",
+      "title": "Vimanas : les Védas décrivent-ils vraiment des vaisseaux volants ?",
+      "format": "video",
+      "publishedAt": "2026-11-09T13:45:20.845Z",
+      "durationSeconds": 733,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Védas décrivent des vaisseaux volants, les vimanas, preuve d'une technologie avancée dans l'Antiquité",
+        "verdict": "faux",
+        "verdictLabel": "Faux",
+        "summary": "Les Védas ne montrent que des chars divins qu'on attelle, et le mot vimana n'apparaît même pas dans l'hymne aux Ashvins ; le Pushpaka vient d'une épopée plus tardive qui le décrit comme une merveille mue par la pensée. Le seul texte technique, le Vaimanika Shastra, a été dicté entre 1918 et 1923, et l'étude de l'Indian Institute of Science (1974) juge ses appareils incapables de voler."
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yFNRCkHLGhA",
+        "url": "https://www.youtube.com/watch?v=yFNRCkHLGhA",
+        "thumbnail": "https://i.ytimg.com/vi/yFNRCkHLGhA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vedas-decrivent-ils-vraiment-des-vimanas-des-3dcc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-vedas-decrivent-ils-vraiment-des-vimanas-des-3dcc.json"
+      },
+      "facts": [
+        {
+          "text": "Dans le Ramayana de Valmiki, Sundara Kanda, chapitre (sarga) 8, Hanuman, envoyé par Rama chercher Sita, découvre à Lanka le Pushpaka de Ravana : construit par Vishvakarma, orné d'or et de joyaux, comparé à une montagne, mû par la pensée, sans détail technique.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Valmiki Ramayana - Sundara Kanda - Sarga 8",
+              "publisher": "Sanskrit Documents",
+              "url": "https://sanskritdocuments.org/sites/valmikiramayan/sundara/sarga8/sundararoman8.htm"
+            },
+            {
+              "title": "Valmiki Ramayana - Sundara Kanda, Sarga 8 (prose)",
+              "publisher": "Sanskrit Documents",
+              "url": "https://sanskritdocuments.org/sites/valmikiramayan/sundara/sarga8/sundara_8_prose.htm"
+            }
+          ]
+        },
+        {
+          "text": "Le Sundara Kanda est le cinquième des sept livres (kandas) du Ramayana attribué à Valmiki.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Valmiki Ramayana - Sundara Kanda - Sarga 8",
+              "publisher": "Sanskrit Documents",
+              "url": "https://sanskritdocuments.org/sites/valmikiramayan/sundara/sarga8/sundararoman8.htm"
+            }
+          ]
+        },
+        {
+          "text": "Selon l'Uttara Kanda, le Pushpaka appartenait à Kubera avant que Ravana ne s'en empare ; selon le Yuddha Kanda, Rama rentre à Ayodhya à son bord avec Sita.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": []
+        },
+        {
+          "text": "Le Rigveda est le plus ancien recueil védique ; les philologues le situent généralement vers le deuxième millénaire avant notre ère, autour de 1500 à 1000 (estimation).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rigveda (dating section, citing Jamison & Brereton 2014)",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.com/wiki/Rigved"
+            }
+          ]
+        },
+        {
+          "text": "L'hymne 1.34 du Rigveda, adressé aux Ashvins, décrit dans son deuxième verset un char à trois jantes et trois piliers, qui voyage trois fois de nuit et trois fois de jour (traduction de Ralph T. H. Griffith, 1896).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rig Veda, Book 1, Hymn XXXIV (Ashvins)",
+              "publisher": "Internet Sacred Text Archive",
+              "url": "https://sacred-texts.com/hin/rigveda/rv01034.htm"
+            },
+            {
+              "title": "Rigveda 1.34",
+              "publisher": "rigveda-online",
+              "url": "https://rigveda-online.github.io/1/34.html"
+            }
+          ]
+        },
+        {
+          "text": "Le mot « vimana » n'apparaît pas dans l'hymne 1.34 du Rigveda ; le char y est un char tracté, dans un cadre rituel.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rig Veda, Book 1, Hymn XXXIV (Ashvins)",
+              "publisher": "Internet Sacred Text Archive",
+              "url": "https://sacred-texts.com/hin/rigveda/rv01034.htm"
+            },
+            {
+              "title": "Rigveda 1.34",
+              "publisher": "rigveda-online",
+              "url": "https://rigveda-online.github.io/1/34.html"
+            }
+          ]
+        },
+        {
+          "text": "Le neuvième verset de l'hymne 1.34 évoque l'attelage d'un rasabha, un âne, qui amène les Ashvins au sacrifice.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rig Veda, Book 1, Hymn XXXIV (Ashvins)",
+              "publisher": "Internet Sacred Text Archive",
+              "url": "https://sacred-texts.com/hin/rigveda/rv01034.htm"
+            },
+            {
+              "title": "Rigveda 1.34",
+              "publisher": "rigveda-online",
+              "url": "https://rigveda-online.github.io/1/34.html"
+            }
+          ]
+        },
+        {
+          "text": "L'hymne 1.34 demande, par trois, des remèdes célestes, terrestres et venus des eaux, et des dons pour ceux qui invoquent les Ashvins.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Rig Veda, Book 1, Hymn XXXIV (Ashvins)",
+              "publisher": "Internet Sacred Text Archive",
+              "url": "https://sacred-texts.com/hin/rigveda/rv01034.htm"
+            },
+            {
+              "title": "Rigveda 1.34",
+              "publisher": "rigveda-online",
+              "url": "https://rigveda-online.github.io/1/34.html"
+            }
+          ]
+        },
+        {
+          "text": "Le troisième livre du Mahabharata (livre de la forêt, Vana ou Aranyaka Parva) raconte le combat de Krishna contre le roi Shalva et sa cité volante Saubha.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Mahabharata Vana Parva, Adhyaya 23",
+              "publisher": "VedaPath",
+              "url": "https://vedapath.app/en/mahabharata/vana-parva/23"
+            }
+          ]
+        },
+        {
+          "text": "Le Vaimanika Shastra est présenté comme une partie d'un savoir plus vaste transmis par le sage Bharadvaja, rishi auquel la tradition attribue des hymnes du Rigveda.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Vaimānika Shāstra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vaim%C4%81nika_Sh%C4%81stra"
+            },
+            {
+              "title": "Aeronautics in Ancient India? (INDOLOGY, 1997)",
+              "publisher": "INDOLOGY list",
+              "url": "https://list.indology.info/pipermail/indology/1997-June/008664.html"
+            }
+          ]
+        },
+        {
+          "text": "G. R. Josyer a fait connaître le Vaimanika Shastra à partir de 1952.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": [
+            {
+              "title": "Vaimānika Shāstra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vaim%C4%81nika_Sh%C4%81stra"
+            }
+          ]
+        },
+        {
+          "text": "Le Vaimanika Shastra parle de pilotes, de métaux, d'appareils et de plusieurs modèles de vimanas, dont le Rukma vimana.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": [
+            {
+              "title": "A Critical Study of the Work \"Vymanika Shastra\"",
+              "publisher": "Scientific Opinion (Indian Institute of Science, Bangalore)",
+              "url": "https://cgpl.iisc.ac.in/oldwebcontent/site/Portals/0/Publications/ReferedJournal/ACriticalStudyOfTheWorkVaimanikaShastra.pdf"
+            },
+            {
+              "title": "Vaimānika Shāstra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vaim%C4%81nika_Sh%C4%81stra"
+            }
+          ]
+        },
+        {
+          "text": "En janvier 2015, au 102e Congrès indien des sciences à Mumbai, une communication a été consacrée à l'aviation dans l'Inde ancienne, et des scientifiques et des indologues l'ont critiquée.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "2015 Indian Science Congress ancient aircraft controversy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/2015_Indian_Science_Congress_ancient_aircraft_controversy"
+            }
+          ]
+        },
+        {
+          "text": "Le dictionnaire sanskrit de Monier-Williams lie vimāna à vi + √mā (« mesurer, parcourir ») et range sous ce mot le char des dieux, le palais et un sanctuaire d'une forme particulière.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": [
+            {
+              "title": "Vimana",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vimana"
+            }
+          ]
+        },
+        {
+          "text": "Dans l'architecture des temples de l'Inde du Sud, le vimana est la tour pyramidale au-dessus du sanctuaire ; le temple de Brihadishvara à Thanjavur a été construit entre 1003 et 1010 environ.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Brihadeeswarar Temple",
+              "publisher": "Incredible India (gouvernement indien)",
+              "url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur/brihadeeswarar-temple"
+            }
+          ]
+        },
+        {
+          "text": "En hindi, vimān (विमान) désigne l'avion, mot plutôt formel à côté de l'usage courant havāī jahāz.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": []
+        },
+        {
+          "text": "Le Ramayana a été composé et remanié sur plusieurs siècles : un stade ancien estimé entre le VIIe et le Ve siècle avant notre ère, des états ultérieurs jusqu'au IIIe siècle de notre ère, donc postérieur au Rigveda (estimations savantes).",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": []
+        },
+        {
+          "text": "Deuxième livre des Rois 2,11 : un char de feu et des chevaux de feu surgissent, et Élie monte au ciel dans un tourbillon.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": []
+        },
+        {
+          "text": "Sur la liste INDOLOGY, en décembre 2014, Michael Witzel rattachait les machines volantes de la littérature sanskrite à des textes médiévaux comme le Mānasollāsa (XIIe siècle) et aux ouvrages attribués à Bhoja, avec des oiseaux de bois à mercure, non à l'époque védique (message de liste, non évalué par les pairs).",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": [
+            {
+              "title": "Controversy over Indian Science Congress to include panel On Pushpaka Vimanas",
+              "publisher": "INDOLOGY list",
+              "url": "https://list.indology.info/pipermail/indology/2014-December/040379.html"
+            }
+          ]
+        },
+        {
+          "text": "Sur la liste INDOLOGY, en 1997, Dominik Wujastyk tenait les vols des textes anciens pour des fantaisies littéraires et jugeait que le Brihat Vimana Samhita imprimé ne repose sur aucun manuscrit (message de liste, non évalué par les pairs).",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Aeronautics in Ancient India?",
+              "publisher": "INDOLOGY mailing list",
+              "url": "https://list.indology.info/pipermail/indology/1997-June/008660.html"
+            },
+            {
+              "title": "Aeronautics in Ancient India? (INDOLOGY, 1997)",
+              "publisher": "INDOLOGY list",
+              "url": "https://list.indology.info/pipermail/indology/1997-June/008664.html"
+            }
+          ]
+        },
+        {
+          "text": "Le Vaimanika Shastra a été dicté entre 1918 et 1923 par Pandit Subbaraya Shastry, qui affirmait l'avoir reçu par canalisation du sage Bharadvaja et non copié d'un manuscrit.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Vaimānika Shāstra",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vaim%C4%81nika_Sh%C4%81stra"
+            },
+            {
+              "title": "A Critical Study of the Work \"Vymanika Shastra\"",
+              "publisher": "Scientific Opinion (Indian Institute of Science, Bangalore)",
+              "url": "https://cgpl.iisc.ac.in/oldwebcontent/site/Portals/0/Publications/ReferedJournal/ACriticalStudyOfTheWorkVaimanikaShastra.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Le premier vol des frères Wright a eu lieu en décembre 1903.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "Today in History: December 17",
+              "publisher": "Library of Congress",
+              "url": "https://webarchive.library.unt.edu/eot2008/20080922160124/http:/memory.loc.gov/ammem/today/dec17.html"
+            }
+          ]
+        },
+        {
+          "text": "En 1974, cinq ingénieurs de l'Indian Institute of Science de Bangalore (H. S. Mukunda et al.) publient dans Scientific Opinion une étude critique concluant que la langue du Vaimanika Shastra date d'environ 1900-1922 et que des appareils comme le Rukma vimana sont des impossibilités aérodynamiques.",
+          "status": "supported",
+          "note": "",
+          "sources": [
+            {
+              "title": "A Critical Study of the Work \"Vymanika Shastra\"",
+              "publisher": "Scientific Opinion (Indian Institute of Science, Bangalore)",
+              "url": "https://cgpl.iisc.ac.in/oldwebcontent/site/Portals/0/Publications/ReferedJournal/ACriticalStudyOfTheWorkVaimanikaShastra.pdf"
+            },
+            {
+              "title": "2015 Indian Science Congress ancient aircraft controversy",
+              "publisher": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/2015_Indian_Science_Congress_ancient_aircraft_controversy"
+            }
+          ]
+        },
+        {
+          "text": "Erich von Däniken publie Erinnerungen an die Zukunft en 1968 et y intègre les chars volants des textes indiens.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": [
+            {
+              "title": "Erich von Däniken",
+              "publisher": "Wikipedia",
+              "url": "https://www.wikipedia.org/wiki/Daniken"
+            }
+          ]
+        },
+        {
+          "text": "David Hatcher Childress publie Vimana Aircraft of Ancient India and Atlantis en 1991.",
+          "status": "waived",
+          "note": "Gardée sans source vérifiée, par décision de la chaîne : regardée et validée depuis Discord par Ɠɧॐ (Discord)",
+          "sources": [
+            {
+              "title": "Vimana Aircraft of Ancient India and Atlantis",
+              "publisher": "BookWire",
+              "url": "https://www.bookwire.com/book/AUS/Vimana-Aircraft-of-Ancient-India-and-Atlantis-9780932813121-Childress-David-Hatcher-1686978"
+            }
+          ]
+        }
+      ],
+      "review": {
+        "kind": "not_required",
+        "approximations": []
+      },
+      "references": [
+        {
+          "title": "Théorie des anciens astronautes – Je débats avec une IA",
+          "channel": "Épique Épochè",
+          "url": "https://www.youtube.com/watch?v=DJhEzekhLy8",
+          "own": false
+        }
+      ],
+      "next": {
+        "title": "Comment des textes anciens ont-ils pu annoncer le Big Bang, la Terre ronde et Hitler ?",
+        "url": "https://www.youtube.com/watch?v=gj_C6XBZ2W4"
+      },
+      "shorts": [],
+      "corrections": []
+    },
     {
       "id": "le-son-cree-t-il-la-realite-84b3",
       "title": "Lilou Macé, l'hypogée de Malte ne sonne pas à 110 Hz (partie 2/3)",
@@ -43087,6 +43653,61 @@
       "url": "https://www.youtube.com/channel/UCc6i7tMzrbBX7xUZiUVzlQA",
       "subscribers": 327000,
       "answers": [
+        {
+          "examined": {
+            "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+            "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+          },
+          "video": {
+            "id": "le-son-cree-t-il-la-realite-ed71",
+            "title": "Lilou Macé et la note qui guérit : où est le groupe témoin ? (partie 3/3)",
+            "format": "short",
+            "publishedAt": "2026-11-09T13:46:17.346Z",
+            "durationSeconds": 123,
+            "rubric": {
+              "id": "religions",
+              "name": "Religions"
+            },
+            "claim": {
+              "statement": "Le son façonne toute la réalité : une « note parfaite » peut guérir le corps, nos cellules chantent et les plantes écoutent.",
+              "verdict": "trompeur",
+              "verdictLabel": "Trompeur"
+            },
+            "technique": null,
+            "techniques": [
+              {
+                "id": "temoignage-inverifiable",
+                "name": "Le témoignage invérifiable"
+              },
+              {
+                "id": "placebo",
+                "name": "Le placebo pris pour un remède"
+              },
+              {
+                "id": "selection-des-cas",
+                "name": "Le tri des cas favorables"
+              }
+            ],
+            "answers": {
+              "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+              "channel": "La Télé de Lilou Macé",
+              "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+            },
+            "series": {
+              "part": 3,
+              "parts": 3
+            },
+            "youtube": {
+              "id": "KcvVRD6lHRA",
+              "url": "https://www.youtube.com/watch?v=KcvVRD6lHRA",
+              "thumbnail": "https://i.ytimg.com/vi/KcvVRD6lHRA/hqdefault.jpg"
+            },
+            "links": {
+              "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-ed71/",
+              "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-ed71.json"
+            }
+          }
+        },
         {
           "examined": {
             "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",

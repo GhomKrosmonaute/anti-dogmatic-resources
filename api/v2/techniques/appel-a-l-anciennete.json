@@ -41,6 +41,48 @@
   ],
   "examples": [
     {
+      "id": "les-vedas-decrivent-ils-vraiment-des-vimanas-des-3dcc",
+      "title": "Vimanas : les Védas décrivent-ils vraiment des vaisseaux volants ?",
+      "format": "video",
+      "publishedAt": "2026-11-09T13:45:20.845Z",
+      "durationSeconds": 733,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Les Védas décrivent des vaisseaux volants, les vimanas, preuve d'une technologie avancée dans l'Antiquité",
+        "verdict": "faux",
+        "verdictLabel": "Faux"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "relecture-a-posteriori",
+          "name": "La relecture après coup"
+        },
+        {
+          "id": "appel-a-l-anciennete",
+          "name": "L'appel à l'ancienneté"
+        },
+        {
+          "id": "argument-autorite",
+          "name": "L'argument d'autorité"
+        }
+      ],
+      "answers": null,
+      "series": null,
+      "youtube": {
+        "id": "yFNRCkHLGhA",
+        "url": "https://www.youtube.com/watch?v=yFNRCkHLGhA",
+        "thumbnail": "https://i.ytimg.com/vi/yFNRCkHLGhA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/les-vedas-decrivent-ils-vraiment-des-vimanas-des-3dcc/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/les-vedas-decrivent-ils-vraiment-des-vimanas-des-3dcc.json"
+      }
+    },
+    {
       "id": "les-10-sophismes-preferes-des-apologetes-7e62",
       "title": "Prouver Dieu par la logique : quels arguments tiennent vraiment ?",
       "format": "short",

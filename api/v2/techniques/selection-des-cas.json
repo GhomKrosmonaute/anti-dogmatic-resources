@@ -69,6 +69,55 @@
   ],
   "examples": [
     {
+      "id": "le-son-cree-t-il-la-realite-ed71",
+      "title": "Lilou Macé et la note qui guérit : où est le groupe témoin ? (partie 3/3)",
+      "format": "short",
+      "publishedAt": "2026-11-09T13:46:17.346Z",
+      "durationSeconds": 123,
+      "rubric": {
+        "id": "religions",
+        "name": "Religions"
+      },
+      "claim": {
+        "statement": "Le son façonne toute la réalité : une « note parfaite » peut guérir le corps, nos cellules chantent et les plantes écoutent.",
+        "verdict": "trompeur",
+        "verdictLabel": "Trompeur"
+      },
+      "technique": null,
+      "techniques": [
+        {
+          "id": "temoignage-inverifiable",
+          "name": "Le témoignage invérifiable"
+        },
+        {
+          "id": "placebo",
+          "name": "Le placebo pris pour un remède"
+        },
+        {
+          "id": "selection-des-cas",
+          "name": "Le tri des cas favorables"
+        }
+      ],
+      "answers": {
+        "title": "L’enquête de Lynne McTaggart sur le son : Comment le son façonne la réalité ?",
+        "channel": "La Télé de Lilou Macé",
+        "url": "https://www.youtube.com/watch?v=_Bg1rfmedSA"
+      },
+      "series": {
+        "part": 3,
+        "parts": 3
+      },
+      "youtube": {
+        "id": "KcvVRD6lHRA",
+        "url": "https://www.youtube.com/watch?v=KcvVRD6lHRA",
+        "thumbnail": "https://i.ytimg.com/vi/KcvVRD6lHRA/hqdefault.jpg"
+      },
+      "links": {
+        "page": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/v/le-son-cree-t-il-la-realite-ed71/",
+        "api": "https://ghomkrosmonaute.github.io/anti-dogmatic-resources/api/v2/videos/le-son-cree-t-il-la-realite-ed71.json"
+      }
+    },
+    {
       "id": "le-son-cree-t-il-la-realite-84b3",
       "title": "Lilou Macé, l'hypogée de Malte ne sonne pas à 110 Hz (partie 2/3)",
       "format": "short",
